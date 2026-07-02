@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
+import Nav from '@/components/Nav'
 
 function getRelatorios() {
   const dir = path.join(process.cwd(), 'relatorios')
@@ -33,6 +34,8 @@ export default function Home() {
 
   return (
     <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
+
+      <Nav ativa="home" />
 
       {/* Header */}
       <header style={{
