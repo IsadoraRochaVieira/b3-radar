@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation'
 import PequiIcon from './PequiIcon'
 import { useAuth } from '@/contexts/AuthContext'
 
-type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio'
+type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias'
 
 export default function Nav({ ativa }: { ativa: Aba }) {
   const { user, logout } = useAuth()
@@ -16,6 +16,7 @@ export default function Nav({ ativa }: { ativa: Aba }) {
     { href: '/macro',         label: 'Macro',         id: 'macro',       icon: 'ti-world' },
     { href: '/geopolitica',   label: 'Geopolítica',   id: 'geopolitica', icon: 'ti-radar' },
     { href: '/patrimonio',    label: 'Patrimônio',    id: 'patrimonio',  icon: 'ti-chart-line' },
+    { href: '/noticias',       label: 'Notícias BR',   id: 'noticias',    icon: 'ti-news' },
     { href: '/backtesting',   label: 'Backtesting',   id: 'backtest',    icon: 'ti-history' },
   ]
 
