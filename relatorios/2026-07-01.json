@@ -3,6 +3,20 @@
   "data_iso": "2026-07-01",
   "resumo": "Ibovespa fecha semestre em baixa. PETR4 e SMTO3 como melhores oportunidades técnicas cruzadas com geopolítica.",
   "resumo_curto": "PETR4, SMTO3 e CPFE3 em destaque",
+  "semaforo": "amarelo",
+  "pick_semana": {
+    "ticker": "PETR4",
+    "nome": "Petrobras PN",
+    "score": 72,
+    "acao": "COMPRAR",
+    "preco": "38.20",
+    "rsi": 29.4,
+    "atr": 2.1,
+    "entrada": "38.20",
+    "stop": "36.60",
+    "alvo": "43.93",
+    "tese": "Sobrevendida tecnicamente com RSI em zona de reversão. Dividend yield de 11% sustenta queda. Brent acima de US$70 garante geração de caixa."
+  },
   "resumo_executivo": "O mercado entrou em julho pressionado pela queda do Brent (US$73) e dados fracos de emprego (Caged abaixo do esperado). A melhor oportunidade é PETR4 — empresa com lucro de R$32,6bi, dividend yield de 11-12% e sobrevendida tecnicamente. SMTO3 oferece o maior upside (+42% até preço-alvo dos analistas) num horizonte de médio prazo. Evite MGLU3: RSI baixo não é argumento quando os fundamentos pioram e a Selic está a 14,25%.",
   "macro": {
     "ibovespa": "172.024",

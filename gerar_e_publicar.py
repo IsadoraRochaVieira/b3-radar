@@ -171,10 +171,30 @@ if __name__ == "__main__":
     # 4. Montar plano
     plano = montar_plano(aprovados)
 
-    # 5. Resumo automático
+    # 5. Semáforo de risco semanal
+    vix = macro.get("vix", 20)
+    ibov_var = macro.get("ibovespa_var", 0) or 0
+    try:
+        vix = float(vix)
+    except (TypeError, ValueError):
+        vix = 20
+    if vix >= 30 or abs(ibov_var) >= 3:
+        semaforo = "vermelho"
+    elif vix >= 22 or abs(ibov_var) >= 1.5:
+        semaforo = "amarelo"
+    else:
+        semaforo = "verde"
+
+    # 6. Pick da semana — melhor candidato COMPRAR com maior score
+    pick_semana = None
+    compras = [c for c in aprovados if c.get("acao") == "COMPRAR"]
+    if compras:
+        pick_semana = sorted(compras, key=lambda x: x["score"], reverse=True)[0]
+
+    # 7. Resumo automático
     tickers_top = [c["ticker"] for c in aprovados[:3]]
     resumo = (
-        f"Ibovespa {macro.get('ibovespa', '-')} ({macro.get('ibovespa_var', 0):+.2f}%). "
+        f"Ibovespa {macro.get('ibovespa', '-')} ({ibov_var:+.2f}%). "
         f"Destaques: {', '.join(tickers_top) if tickers_top else 'nenhum acima do limiar'}. "
         f"Taxa de acerto histórica: {metricas_bt.get('taxa_acerto', 0)}%."
     )
@@ -185,6 +205,8 @@ if __name__ == "__main__":
         "resumo": resumo,
         "resumo_curto": ", ".join(tickers_top) if tickers_top else "Sem candidatos hoje",
         "resumo_executivo": "",
+        "semaforo": semaforo,
+        "pick_semana": pick_semana,
         "macro": macro,
         "tops": [{"ticker": c["ticker"], "score": c["score"]} for c in tops],
         "candidatos": aprovados,

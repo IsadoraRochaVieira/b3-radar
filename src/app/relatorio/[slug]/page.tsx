@@ -44,6 +44,43 @@ export default function RelatorioPage({ params }: { params: { slug: string } }) 
         <p style={{ color: 'var(--muted)', marginTop: '0.25rem' }}>{r.data} · Gerado automaticamente</p>
       </header>
 
+      {/* Card Ações Rápidas */}
+      {r.candidatos && r.candidatos.length > 0 && (() => {
+        const comprar = r.candidatos.filter((c: any) => c.acao === 'COMPRAR').slice(0, 2)
+        const monitorar = r.candidatos.filter((c: any) => c.acao === 'MONITORAR').slice(0, 1)
+        return (
+          <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1.25rem', marginBottom: '2rem' }}>
+            <div style={{ fontSize: '0.68rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em', marginBottom: '0.9rem', fontWeight: 700 }}>
+              Ações rápidas para hoje
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.55rem' }}>
+              {comprar.map((c: any, i: number) => (
+                <div key={c.ticker} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', background: '#009c3b18', border: '1px solid #009c3b40', borderRadius: 8, padding: '0.65rem 1rem' }}>
+                  <span style={{ fontSize: '1rem', fontWeight: 800, color: '#00c44a', minWidth: 20 }}>{i + 1}</span>
+                  <span style={{ color: '#e8f5e9', fontSize: '0.87rem' }}>
+                    <strong>Comprar {c.ticker}</strong>{c.entrada ? ` — entrada R$ ${c.entrada}` : ''}{c.stop ? ` · stop R$ ${c.stop}` : ''}
+                  </span>
+                </div>
+              ))}
+              {monitorar.map((c: any) => (
+                <div key={c.ticker} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', background: '#d4a01715', border: '1px solid #d4a01740', borderRadius: 8, padding: '0.65rem 1rem' }}>
+                  <span style={{ fontSize: '1rem', fontWeight: 800, color: '#d4a017', minWidth: 20 }}>{comprar.length + 1}</span>
+                  <span style={{ color: '#e8f5e9', fontSize: '0.87rem' }}>
+                    <strong>Monitorar {c.ticker}</strong> — aguardar confirmação técnica antes de entrar
+                  </span>
+                </div>
+              ))}
+              {comprar.length === 0 && (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', background: '#ffffff08', border: '1px solid #1a2e1e', borderRadius: 8, padding: '0.65rem 1rem' }}>
+                  <span style={{ fontSize: '1rem', fontWeight: 800, color: '#5a7a60', minWidth: 20 }}>1</span>
+                  <span style={{ color: '#a0c8a8', fontSize: '0.87rem' }}>Manter caixa — sem oportunidades claras no momento</span>
+                </div>
+              )}
+            </div>
+          </div>
+        )
+      })()}
+
       {/* Macro */}
       {r.macro && (
         <section style={{ marginBottom: '2rem' }}>

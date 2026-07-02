@@ -105,6 +105,46 @@ export default function Home() {
         }
       `}</style>
 
+      {/* Semáforo semanal + Pick da Semana */}
+      {ultimo && (() => {
+        const semaforo = ultimo.semaforo ?? 'verde'
+        const pick = ultimo.pick_semana ?? (ultimo.candidatos ?? []).find((c: any) => c.acao === 'COMPRAR')
+        const corSem: Record<string, { bg: string; border: string; text: string; label: string }> = {
+          verde:    { bg: '#009c3b18', border: '#009c3b', text: '#00c44a', label: 'Operar normal' },
+          amarelo:  { bg: '#ffdf0018', border: '#d4a017', text: '#ffdf00', label: 'Reduzir tamanho' },
+          vermelho: { bg: '#ff446618', border: '#cc2244', text: '#ff4466', label: 'Só caixa' },
+        }
+        const s = corSem[semaforo] ?? corSem.verde
+        return (
+          <div style={{ display: 'grid', gridTemplateColumns: pick ? '1fr 1fr' : '1fr', gap: '0.75rem', marginBottom: '1.5rem' }}>
+            {/* Semáforo */}
+            <Link href="/segunda-feira">
+              <div style={{ background: s.bg, border: `2px solid ${s.border}`, borderRadius: 12, padding: '1rem 1.25rem', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                <div style={{ width: 14, height: 14, borderRadius: '50%', background: s.border, boxShadow: `0 0 10px ${s.border}`, flexShrink: 0 }}/>
+                <div>
+                  <div style={{ fontSize: '0.65rem', color: s.text, textTransform: 'uppercase', letterSpacing: '0.12em', fontWeight: 700 }}>Semáforo da semana</div>
+                  <div style={{ color: s.text, fontWeight: 800, fontSize: '1.05rem', marginTop: 2 }}>{s.label}</div>
+                </div>
+                <span style={{ marginLeft: 'auto', color: '#5a7a60', fontSize: '0.8rem' }}>→</span>
+              </div>
+            </Link>
+            {/* Pick da Semana */}
+            {pick && (
+              <Link href="/segunda-feira">
+                <div style={{ background: 'linear-gradient(135deg, #0d1a10, #071510)', border: '2px solid #d4a017', borderRadius: 12, padding: '1rem 1.25rem', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                  <span style={{ fontSize: '1.4rem', fontWeight: 800, color: '#d4a017' }}>★</span>
+                  <div>
+                    <div style={{ fontSize: '0.65rem', color: '#d4a017', textTransform: 'uppercase', letterSpacing: '0.12em', fontWeight: 700 }}>Pick da semana</div>
+                    <div style={{ color: '#e8f5e9', fontWeight: 800, fontSize: '1.1rem', marginTop: 2 }}>{pick.ticker} <span style={{ color: '#00c44a', fontSize: '0.85rem' }}>{pick.score}pts</span></div>
+                  </div>
+                  <span style={{ marginLeft: 'auto', color: '#5a7a60', fontSize: '0.8rem' }}>→</span>
+                </div>
+              </Link>
+            )}
+          </div>
+        )
+      })()}
+
       {/* Último relatório em destaque */}
       {ultimo && (
         <Link href={`/relatorio/${ultimo.slug}`}>
