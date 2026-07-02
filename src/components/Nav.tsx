@@ -1,9 +1,15 @@
+'use client'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import PequiIcon from './PequiIcon'
+import { useAuth } from '@/contexts/AuthContext'
 
 type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio'
 
 export default function Nav({ ativa }: { ativa: Aba }) {
+  const { user, logout } = useAuth()
+  const router = useRouter()
+
   const links: { href: string; label: string; id: Aba; icon: string }[] = [
     { href: '/',              label: 'Relatórios',    id: 'home',        icon: 'ti-file-text' },
     { href: '/segunda-feira', label: 'Segunda-feira', id: 'segunda',     icon: 'ti-calendar-week' },
@@ -13,10 +19,15 @@ export default function Nav({ ativa }: { ativa: Aba }) {
     { href: '/backtesting',   label: 'Backtesting',   id: 'backtest',    icon: 'ti-history' },
   ]
 
+  const handleLogout = () => {
+    logout()
+    router.push('/login')
+  }
+
   return (
     <div style={{ marginBottom: '2rem' }}>
-      {/* Logo Pequi */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1.25rem' }}>
+      {/* Logo + usuário */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1.25rem', flexWrap: 'wrap' }}>
         <PequiIcon size={36} />
         <div>
           <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem' }}>
@@ -25,9 +36,33 @@ export default function Nav({ ativa }: { ativa: Aba }) {
           </div>
           <span style={{ fontSize: '0.72rem', color: '#5a7a60' }}>Análise técnica · Macro · Geopolítica</span>
         </div>
-        <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.72rem', color: '#009c3b' }}>
-          <span style={{ width: 6, height: 6, borderRadius: '50%', background: '#009c3b', display: 'inline-block' }}/>
-          Ao vivo
+
+        <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap' }}>
+          {/* Ao vivo */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.72rem', color: '#009c3b' }}>
+            <span style={{ width: 6, height: 6, borderRadius: '50%', background: '#009c3b', display: 'inline-block' }}/>
+            Ao vivo
+          </div>
+
+          {/* Usuário */}
+          {user && (
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 8, padding: '0.3rem 0.7rem', fontSize: '0.75rem' }}>
+                <span style={{ color: '#5a7a60' }}>Olá, </span>
+                <span style={{ color: '#e8f5e9', fontWeight: 700 }}>{user.nome}</span>
+                <span style={{ color: '#009c3b', fontWeight: 700, marginLeft: '0.4rem' }}>
+                  · R$ {user.capital.toLocaleString('pt-BR')}
+                </span>
+              </div>
+              <button onClick={handleLogout} style={{
+                background: 'transparent', border: '1px solid #1a2e1e', borderRadius: 8,
+                padding: '0.3rem 0.6rem', color: '#5a7a60', fontSize: '0.72rem',
+                cursor: 'pointer', fontWeight: 500,
+              }}>
+                Sair
+              </button>
+            </div>
+          )}
         </div>
       </div>
 
