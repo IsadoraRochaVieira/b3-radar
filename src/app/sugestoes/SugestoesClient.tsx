@@ -168,7 +168,7 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
                   <span style={{ fontSize: '0.72rem', color: s.score >= 60 ? '#00c44a' : s.score >= 40 ? '#ffdf00' : '#5a7a60', fontWeight: 700 }}>
                     {s.score}pts
                   </span>
-                  <span style={{ fontSize: '0.72rem', color: '#1a2e1e', transition: 'transform 0.2s', transform: aberto ? 'rotate(180deg)' : 'none', color: '#5a7a60' }}>▼</span>
+                  <span style={{ fontSize: '0.72rem', transition: 'transform 0.2s', transform: aberto ? 'rotate(180deg)' : 'none', color: '#5a7a60' }}>▼</span>
                 </div>
               </button>
 

@@ -229,7 +229,7 @@ export default function GeopoliticaPage() {
                       <span key={s} style={{ fontSize: '0.68rem', background: '#ffffff08', borderRadius: 3, padding: '1px 5px', color: '#5a7a60' }}>{s}</span>
                     ))}
                   </div>
-                  <div style={{ fontSize: '0.68rem', color: '#1a2e1e', borderTop: '1px solid #1a2e1e', paddingTop: 5, color: '#5a7a60' }}>
+                  <div style={{ fontSize: '0.68rem', borderTop: '1px solid #1a2e1e', paddingTop: 5, color: '#5a7a60' }}>
                     Fonte: {reg.fonte}
                   </div>
                 </div>
