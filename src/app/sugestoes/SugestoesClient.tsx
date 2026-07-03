@@ -250,7 +250,7 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
 
           // Destaque de linha se preço atual <= entrada (oportunidade)
           let rowHighlight = 'none'
-          if (vivo && !vivo.loading && s.entrada && s.acao === 'COMPRAR') {
+          if (vivo && !vivo.loading && vivo.preco > 0 && s.entrada && s.acao === 'COMPRAR') {
             if (vivo.preco <= parseFloat(s.entrada)) rowHighlight = 'rgba(0,166,60,0.04)'
           }
 
