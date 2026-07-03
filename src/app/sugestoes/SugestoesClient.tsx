@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import TickerLink from '@/components/TickerLink'
 
 type Sugestao = {
@@ -23,6 +23,8 @@ type Dia = {
   semaforo: string
   sugestoes: Sugestao[]
 }
+
+type PrecoVivo = Record<string, { preco: number; var: number; loading: boolean }>
 
 const COR = {
   COMPRAR: { text: '#00a63c', bg: 'rgba(0,166,60,0.10)',   border: '#00a63c', label: 'Comprar' },
@@ -67,10 +69,61 @@ function ScoreBar({ val }: { val: number }) {
   )
 }
 
+function PrecoAtual({ ticker, dados }: { ticker: string; dados: PrecoVivo }) {
+  const d = dados[ticker]
+  if (!d) return <span style={{ fontFamily: 'var(--mono)', fontSize: 11, color: 'var(--muted)' }}>—</span>
+  if (d.loading) return <span style={{ fontSize: 10, color: 'var(--muted)', fontFamily: 'var(--mono)' }}>…</span>
+
+  const varCor = d.var >= 0 ? '#00a63c' : '#e53555'
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+      <span style={{ fontFamily: 'var(--mono)', fontSize: 12, color: 'var(--text)', fontWeight: 600 }}>
+        R$ {d.preco.toFixed(2)}
+      </span>
+      <span style={{ fontFamily: 'var(--mono)', fontSize: 10, color: varCor }}>
+        {d.var >= 0 ? '+' : ''}{d.var.toFixed(2)}%
+      </span>
+    </div>
+  )
+}
+
 export default function SugestoesClient({ dias }: { dias: Dia[] }) {
   const [diaIdx, setDiaIdx] = useState(0)
   const [filtro, setFiltro] = useState<'TODOS' | 'COMPRAR' | 'OBSERVAR' | 'EVITAR'>('TODOS')
   const [expandido, setExpandido] = useState<string | null>(null)
+  const [precos, setPrecos] = useState<PrecoVivo>({})
+
+  // Busca preços ao vivo de todos os tickers únicos
+  useEffect(() => {
+    const tickers = [...new Set(dias.flatMap(d => d.sugestoes.map(s => s.ticker)))]
+    if (!tickers.length) return
+
+    // Marca como carregando
+    const loading: PrecoVivo = {}
+    tickers.forEach(t => { loading[t] = { preco: 0, var: 0, loading: true } })
+    setPrecos(loading)
+
+    fetch(`https://brapi.dev/api/quote/${tickers.join(',')}?fundamental=false`)
+      .then(r => r.json())
+      .then(data => {
+        if (!data.results) return
+        const novo: PrecoVivo = {}
+        for (const item of data.results) {
+          novo[item.symbol] = {
+            preco: item.regularMarketPrice,
+            var: item.regularMarketChangePercent,
+            loading: false,
+          }
+        }
+        setPrecos(novo)
+      })
+      .catch(() => {
+        // Silenciosamente falha — não quebra a tabela
+        const falhou: PrecoVivo = {}
+        tickers.forEach(t => { falhou[t] = { preco: 0, var: 0, loading: false } })
+        setPrecos(falhou)
+      })
+  }, [dias])
 
   if (!dias.length) return (
     <div style={{ textAlign: 'center', padding: '4rem', color: 'var(--muted)', border: '1px dashed var(--border)', borderRadius: 12 }}>
@@ -87,6 +140,14 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
     OBSERVAR: dia.sugestoes.filter(s => s.acao === 'OBSERVAR').length,
     EVITAR: dia.sugestoes.filter(s => s.acao === 'EVITAR').length,
   }
+
+  const temPrecos = Object.keys(precos).length > 0
+  const cols = temPrecos
+    ? '32px 72px 80px 82px 96px 96px 96px 56px 56px 28px'
+    : '32px 72px 82px 96px 96px 96px 56px 56px 28px'
+  const headers = temPrecos
+    ? ['#', 'Ticker', 'Atual ↗', 'Ação', 'Entrada', 'Stop', 'Alvo', 'RSI', 'Score', '']
+    : ['#', 'Ticker', 'Ação', 'Entrada', 'Stop', 'Alvo', 'RSI', 'Score', '']
 
   return (
     <div>
@@ -123,6 +184,21 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
         </div>
       </div>
 
+      {/* Badge fonte de dados */}
+      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 10 }}>
+        <div style={{
+          display: 'flex', alignItems: 'center', gap: 5,
+          background: 'rgba(0,166,60,0.08)', border: '1px solid rgba(0,166,60,0.25)',
+          borderRadius: 6, padding: '3px 8px',
+        }}>
+          <div style={{ width: 5, height: 5, borderRadius: '50%', background: '#00a63c', animation: 'pulse 2s infinite' }}/>
+          <span style={{ fontSize: 10, color: '#00a63c', fontFamily: 'var(--mono)', fontWeight: 600 }}>
+            PREÇO AO VIVO · brapi.dev
+          </span>
+        </div>
+        <span style={{ fontSize: 10, color: 'var(--muted)' }}>Sugestão de entrada baseada em fechamento D-1</span>
+      </div>
+
       {/* Filtros */}
       <div style={{ display: 'flex', gap: 6, marginBottom: 10, flexWrap: 'wrap', alignItems: 'center' }}>
         <button onClick={() => setFiltro('TODOS')} style={{
@@ -144,8 +220,7 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
               color: ativo ? c.text : 'var(--muted)',
               fontWeight: ativo ? 600 : 400,
             }}>
-              {f === 'COMPRAR' ? '● ' : f === 'OBSERVAR' ? '● ' : '● '}
-              {f.charAt(0) + f.slice(1).toLowerCase()} ({contagem[f]})
+              ● {f.charAt(0) + f.slice(1).toLowerCase()} ({contagem[f]})
             </button>
           )
         })}
@@ -156,11 +231,11 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
       <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 10, overflow: 'hidden' }}>
         {/* Cabeçalho */}
         <div style={{
-          display: 'grid', gridTemplateColumns: '32px 72px 82px 96px 96px 96px 56px 56px 28px',
+          display: 'grid', gridTemplateColumns: cols,
           padding: '8px 14px', borderBottom: '1px solid var(--border)', gap: 8,
         }}>
-          {['#', 'Ticker', 'Ação', 'Entrada', 'Stop', 'Alvo', 'RSI', 'Score', ''].map(h => (
-            <span key={h} style={{ fontSize: 10, color: 'var(--muted)', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.06em' }}>{h}</span>
+          {headers.map(h => (
+            <span key={h} style={{ fontSize: 10, color: h === 'Atual ↗' ? '#00a63c' : 'var(--muted)', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.06em' }}>{h}</span>
           ))}
         </div>
 
@@ -169,14 +244,20 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
           const ratio = rr(s.entrada, s.stop, s.alvo)
           const key = `${dia.data_iso}-${s.ticker}`
           const aberto = expandido === key
+          const vivo = precos[s.ticker]
+
+          // Destaque de linha se preço atual <= entrada (oportunidade)
+          let rowHighlight = 'none'
+          if (vivo && !vivo.loading && s.entrada && s.acao === 'COMPRAR') {
+            if (vivo.preco <= parseFloat(s.entrada)) rowHighlight = 'rgba(0,166,60,0.04)'
+          }
 
           return (
-            <div key={key} style={{ borderBottom: '1px solid var(--border)' }}>
-              {/* Linha principal */}
+            <div key={key} style={{ borderBottom: '1px solid var(--border)', background: rowHighlight }}>
               <button onClick={() => setExpandido(aberto ? null : key)} style={{
                 width: '100%', background: aberto ? 'rgba(16,82,204,0.05)' : 'none',
                 border: 'none', cursor: 'pointer', textAlign: 'left',
-                display: 'grid', gridTemplateColumns: '32px 72px 82px 96px 96px 96px 56px 56px 28px',
+                display: 'grid', gridTemplateColumns: cols,
                 padding: '11px 14px', gap: 8, alignItems: 'center',
               }}>
                 <span style={{ fontSize: 11, fontFamily: 'var(--mono)', color: 'var(--muted)', fontWeight: 500 }}>
@@ -186,6 +267,10 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
                 <span style={{ fontFamily: 'var(--mono)', fontSize: 14, fontWeight: 700, color: 'var(--text)' }}>
                   <TickerLink ticker={s.ticker} style={{ fontFamily: 'var(--mono)', fontSize: 14, fontWeight: 700 }}/>
                 </span>
+
+                {temPrecos && (
+                  <PrecoAtual ticker={s.ticker} dados={precos} />
+                )}
 
                 <span>
                   <span style={{
@@ -228,6 +313,7 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
                         { l: 'Entrada', v: `R$ ${s.entrada}`, c: 'var(--text)' },
                         { l: 'Stop', v: `R$ ${s.stop}`, c: 'var(--red)' },
                         { l: 'Alvo', v: `R$ ${s.alvo}`, c: 'var(--green)' },
+                        ...(vivo && !vivo.loading ? [{ l: 'Preço Agora', v: `R$ ${vivo.preco.toFixed(2)}`, c: '#5b9bff' }] : []),
                       ].map(m => (
                         <div key={m.l} style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 6, padding: '7px 10px' }}>
                           <div style={{ fontSize: 9, color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: 3 }}>{m.l}</div>
@@ -246,6 +332,8 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
       <p style={{ color: 'var(--muted)', fontSize: 11, marginTop: '1.5rem', textAlign: 'center', fontFamily: 'var(--mono)' }}>
         Clique no ticker para pesquisar no Google · Clique na linha para ver o motivo · Não é recomendação de investimento
       </p>
+
+      <style>{`@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }`}</style>
     </div>
   )
 }
