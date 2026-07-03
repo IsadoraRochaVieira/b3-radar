@@ -1,0 +1,32 @@
+import fs from 'fs'
+import path from 'path'
+import Nav from '@/components/Nav'
+import SugestoesClient from './SugestoesClient'
+
+function getSugestoes() {
+  const dir = path.join(process.cwd(), 'relatorios')
+  if (!fs.existsSync(dir)) return []
+  return fs.readdirSync(dir)
+    .filter(f => f.startsWith('sugestoes_') && f.endsWith('.json'))
+    .sort((a, b) => b.localeCompare(a))
+    .slice(0, 10)
+    .map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8')))
+}
+
+export default function SugestoesPage() {
+  const dias = getSugestoes()
+  return (
+    <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
+      <Nav ativa="sugestoes" />
+      <header style={{ marginBottom: '1.75rem' }}>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8f5e9', letterSpacing: '-0.02em', margin: 0 }}>
+          10 Sugestões por Dia
+        </h1>
+        <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: 6 }}>
+          Comprar · Observar · Evitar — com o motivo de cada decisão
+        </p>
+      </header>
+      <SugestoesClient dias={dias} />
+    </main>
+  )
+}

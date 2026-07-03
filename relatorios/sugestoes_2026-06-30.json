@@ -1,0 +1,19 @@
+{
+  "data": "30/06/2026",
+  "data_iso": "2026-06-30",
+  "dia_semana": "Segunda-feira",
+  "macro_resumo": "Ibovespa 170.312 (-0.82%). Dólar R$5.28. Brent US$71.40. Início de semana com pressão fiscal e dólar alto.",
+  "semaforo": "amarelo",
+  "sugestoes": [
+    { "rank": 1, "ticker": "PETR4", "acao": "COMPRAR", "preco": "37.20", "entrada": "37.20", "stop": "35.50", "alvo": "42.80", "rsi": 29.1, "score": 72, "porque": "RSI em sobrevenda extrema (29) após queda de 8% em 5 dias. Brent acima de US$71 garante geração de caixa. DY de 11.5% serve como amortecedor. Suporte histórico em R$37 testado." },
+    { "rank": 2, "ticker": "VALE3", "acao": "COMPRAR", "preco": "56.80", "entrada": "56.80", "stop": "54.20", "alvo": "65.00", "rsi": 33.4, "score": 65, "porque": "China anuncia pacote de estímulo à construção civil — minério sobe diretamente. RSI em 33, fora da zona de risco. Vale negocia abaixo do valor patrimonial pela 3ª vez no ano." },
+    { "rank": 3, "ticker": "CPFE3", "acao": "COMPRAR", "preco": "37.80", "entrada": "37.80", "stop": "36.50", "alvo": "42.00", "rsi": 41.2, "score": 60, "porque": "Defensivo clássico para semanas de incerteza macro. DY 7.4%, baixíssima volatilidade. Tarifas reajustadas. Protege carteira enquanto mercado define direção." },
+    { "rank": 4, "ticker": "ITUB4", "acao": "COMPRAR", "preco": "36.10", "entrada": "36.10", "stop": "34.80", "alvo": "40.50", "rsi": 42.5, "score": 58, "porque": "Selic a 14.25% dilata spread bancário. Resultado do 2T26 esperado forte. P/L de 8.8x está abaixo da média de 5 anos. Banco mais eficiente do BR." },
+    { "rank": 5, "ticker": "SMTO3", "acao": "COMPRAR", "preco": "28.90", "entrada": "28.90", "stop": "27.60", "alvo": "33.20", "rsi": 36.8, "score": 55, "porque": "Etanol sobe com gasolina cara e safra de cana acima da média. RSI em zona de compra. São Martinho opera com margem EBITDA de 40%, uma das maiores do setor." },
+    { "rank": 6, "ticker": "AGRO3", "acao": "OBSERVAR", "preco": "17.90", "entrada": "17.50", "stop": "16.80", "alvo": "20.50", "rsi": 38.9, "score": 48, "porque": "BrasilAgro com terras valorizando 12% ao ano. Aguardar teste do suporte em R$17.50 para entrada com melhor risco/retorno. Dólar alto favorece exportações." },
+    { "rank": 7, "ticker": "PRIO3", "acao": "OBSERVAR", "preco": "51.20", "entrada": "50.00", "stop": "47.50", "alvo": "58.00", "rsi": 28.4, "score": 45, "porque": "Petrolífera independente sem risco político da Petrobras. RSI em sobrevenda mas tendência de baixa ainda presente. Aguardar volume de compra aumentar antes de entrar." },
+    { "rank": 8, "ticker": "WEGE3", "acao": "OBSERVAR", "preco": "46.50", "entrada": "44.00", "stop": "42.00", "alvo": "52.00", "rsi": 52.1, "score": 40, "porque": "WEG é a melhor empresa industrial do BR mas P/L de 28x está esticado. Crescimento de 15% ao ano justifica prêmio. Aguardar correção para 44 antes de entrar." },
+    { "rank": 9, "ticker": "MGLU3", "acao": "EVITAR", "preco": "4.20", "entrada": null, "stop": null, "alvo": null, "rsi": 31.2, "score": 18, "porque": "RSI baixo atrai compradores de 'pechinchas', mas dívida de R$8bi com Selic a 14.25% corrói resultado. Sem catalisador visível. Armadilha clássica de valor." },
+    { "rank": 10, "ticker": "CSAN3", "acao": "EVITAR", "preco": "6.80", "entrada": null, "stop": null, "alvo": null, "rsi": 29.8, "score": 14, "porque": "Cosan acumulou dívidas pesadas nas aquisições recentes. Ambiente de juros altos penaliza empresas alavancadas. Reestruturação pode levar 2+ anos. Caixa é melhor opção." }
+  ]
+}

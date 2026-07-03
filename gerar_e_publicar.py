@@ -215,7 +215,57 @@ if __name__ == "__main__":
         f"Semáforo: {semaforo.upper()}."
     )
 
-    # 6. Monta e salva relatório
+    # 6. Monta sugestões do dia (top 10 com porque automático)
+    PORQUE = {
+        "COMPRAR": [
+            lambda c: f"RSI em {c['rsi']} — zona de sobrevenda técnica. Score {c['score']}/100 indica pressão compradora se acumulando. Stop em R$ {c.get('stop','?')} limita risco.",
+            lambda c: f"Análise técnica aponta reversão com RSI {c['rsi']} e score de {c['score']} pontos. Entrada em R$ {c.get('entrada','?')} com alvo R$ {c.get('alvo','?')}.",
+        ],
+        "OBSERVAR": [
+            lambda c: f"RSI em {c['rsi']} — zona neutra. Score {c['score']}/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ {c.get('entrada','?')}.",
+        ],
+        "EVITAR": [
+            lambda c: f"Score {c['score']}/100 abaixo do limiar mínimo. RSI em {c['rsi']} — sem sinal técnico claro de reversão. Manter caixa é melhor opção agora.",
+        ],
+        "NEUTRO": [
+            lambda c: f"Score {c['score']}/100 em zona neutra. RSI {c['rsi']}. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação.",
+        ],
+    }
+
+    import random
+    sugestoes = []
+    for i, c in enumerate(todos[:10]):
+        acao = c.get("acao", "NEUTRO")
+        opcoes = PORQUE.get(acao, PORQUE["NEUTRO"])
+        porque = random.choice(opcoes)(c)
+        sugestoes.append({
+            "rank": i + 1,
+            "ticker": c["ticker"],
+            "acao": acao,
+            "preco": c.get("preco"),
+            "entrada": c.get("entrada"),
+            "stop": c.get("stop"),
+            "alvo": c.get("alvo"),
+            "rsi": c.get("rsi"),
+            "score": c["score"],
+            "porque": porque,
+        })
+
+    dia_semana_map = ["Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira","Sexta-feira","Sábado","Domingo"]
+    dia_semana = dia_semana_map[agora.weekday()]
+
+    dados_sugestoes = {
+        "data": agora.strftime("%d/%m/%Y"),
+        "data_iso": hoje,
+        "dia_semana": dia_semana,
+        "turno": TURNO,
+        "macro_resumo": resumo,
+        "semaforo": semaforo,
+        "sugestoes": sugestoes,
+    }
+    salvar_json(dados_sugestoes, f"sugestoes_{hoje}.json")
+
+    # 7. Monta e salva relatório
     relatorio = {
         "data":              agora.strftime("%d/%m/%Y"),
         "data_iso":          hoje,

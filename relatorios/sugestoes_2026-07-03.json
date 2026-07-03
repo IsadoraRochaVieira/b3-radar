@@ -1,0 +1,19 @@
+{
+  "data": "03/07/2026",
+  "data_iso": "2026-07-03",
+  "dia_semana": "Quinta-feira",
+  "macro_resumo": "Ibovespa 172.788 (+0.64%). Dólar R$5.21. Brent US$72.25. Alta moderada com realização parcial após rally de ontem.",
+  "semaforo": "verde",
+  "sugestoes": [
+    { "rank": 1, "ticker": "PETR4", "acao": "COMPRAR", "preco": "37.83", "entrada": "37.83", "stop": "36.09", "alvo": "43.50", "rsi": 28.7, "score": 74, "porque": "RSI em 28.7 — mais sobrevendida do que ontem mesmo com Ibovespa subindo. Divergência altista clássica: mercado sobe e o papel fica. Brent recuou para US$72 mas DY de 11% sustenta." },
+    { "rank": 2, "ticker": "SLCE3", "acao": "COMPRAR", "preco": "12.65", "entrada": "12.65", "stop": "11.92", "alvo": "14.55", "rsi": 14.7, "score": 70, "porque": "RSI em 14.7 — número raríssimo, indica exaustão total dos vendedores. SLC Agrícola: maior produtora de algodão do Brasil + soja + milho. Safra recorde 2026. Queda recente foi exagerada e técnica." },
+    { "rank": 3, "ticker": "PETR3", "acao": "COMPRAR", "preco": "41.57", "entrada": "41.57", "stop": "39.41", "alvo": "47.81", "rsi": 26.3, "score": 62, "porque": "ON da Petrobras também sobrevendida (RSI 26). Para quem já tem PETR4, PETR3 é diversificação dentro do mesmo setor. Spread entre as duas historicamente normaliza em 10-12%." },
+    { "rank": 4, "ticker": "CPFE3", "acao": "COMPRAR", "preco": "38.10", "entrada": "38.10", "stop": "36.80", "alvo": "42.50", "rsi": 42.1, "score": 60, "porque": "Quinta-feira com realização de lucro no mercado — CPFE3 não oscila com o humor do dia. Dividendo de R$0.28/ação anunciado para agosto. Carrego garantido independente do Ibovespa." },
+    { "rank": 5, "ticker": "ITUB4", "acao": "COMPRAR", "preco": "36.90", "entrada": "36.90", "stop": "35.60", "alvo": "41.20", "rsi": 44.8, "score": 58, "porque": "Resultado do 2T26 se aproxima. Consenso do mercado espera lucro de R$10.4bi (+18% a/a). Cada surpresa positiva de 5% no lucro historicamente move o papel +3-4% no pregão." },
+    { "rank": 6, "ticker": "RECV3", "acao": "OBSERVAR", "preco": "9.85", "entrada": "9.50", "stop": "9.00", "alvo": "11.20", "rsi": 30.8, "score": 48, "porque": "Petrolífera júnior com desconto absurdo vs peers. Campos de Recôncavo Bahia produzindo acima do esperado. RSI em 30 mas liquidez baixa exige posição menor. Aguardar volume." },
+    { "rank": 7, "ticker": "VALE3", "acao": "OBSERVAR", "preco": "57.80", "entrada": "57.00", "stop": "54.50", "alvo": "66.00", "rsi": 37.2, "score": 48, "porque": "VALE3 subiu bem ontem (+2.1%) e hoje modera. Aguardar pullback para R$57 para segunda entrada. Quem comprou ontem: mantém com stop em R$54.50. Tese China segue válida." },
+    { "rank": 8, "ticker": "AGRO3", "acao": "OBSERVAR", "preco": "18.16", "entrada": "17.80", "stop": "17.00", "alvo": "20.80", "rsi": 40.0, "score": 40, "porque": "Dólar voltou a R$5.21 hoje após cair ontem — melhor para exportadores. BrasilAgro recuperando. Aguardar fechar acima de R$18.20 com volume para confirmar rompimento de resistência." },
+    { "rank": 9, "ticker": "COGN3", "acao": "EVITAR", "preco": "2.29", "entrada": null, "stop": null, "alvo": null, "rsi": 38.9, "score": 18, "porque": "RSI em 38 parece 'neutro' mas o papel perdeu 60% em 2 anos. Setor de educação privada sem catalisador. Selic a 14.25% encarece dívida e pressiona FIES. Fora do radar até 2027." },
+    { "rank": 10, "ticker": "MGLU3", "acao": "EVITAR", "preco": "4.43", "entrada": null, "stop": null, "alvo": null, "rsi": 30.2, "score": 14, "porque": "Quarto dia seguido de EVITAR. MGLU3 não subiu com o mercado esta semana. Quando o mercado lateral ou cai, vai muito pior. Liquidar qualquer posição remanescente no próximo repique." }
+  ]
+}

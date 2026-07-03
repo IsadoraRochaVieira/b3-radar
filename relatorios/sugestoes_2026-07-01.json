@@ -1,0 +1,19 @@
+{
+  "data": "01/07/2026",
+  "data_iso": "2026-07-01",
+  "dia_semana": "Terça-feira",
+  "macro_resumo": "Ibovespa 172.024 (-0.68%). Dólar R$5.17. Brent US$73.10. Dados de emprego (Caged) abaixo do esperado pressionam consumo.",
+  "semaforo": "amarelo",
+  "sugestoes": [
+    { "rank": 1, "ticker": "PETR4", "acao": "COMPRAR", "preco": "37.60", "entrada": "37.60", "stop": "35.90", "alvo": "43.20", "rsi": 30.1, "score": 74, "porque": "RSI segue em sobrevenda (30). Brent sobe para US$73 — cada dólar a mais no barril vale ~R$0.40/ação para Petrobras. Suporte em R$37 aguentando. Entrada com risco controlado." },
+    { "rank": 2, "ticker": "SMTO3", "acao": "COMPRAR", "preco": "29.10", "entrada": "29.10", "stop": "27.80", "alvo": "33.50", "rsi": 37.2, "score": 68, "porque": "Caged fraco reduz consumo mas NÃO afeta o agro exportador. Etanol mantém margem com gasolina cara. São Martinho anuncia dividendo extra no 1T. RSI em zona neutra com tendência de alta." },
+    { "rank": 3, "ticker": "CPFE3", "acao": "COMPRAR", "preco": "38.00", "entrada": "38.00", "stop": "36.70", "alvo": "42.20", "rsi": 42.0, "score": 62, "porque": "Setor elétrico é o mais defensivo em ambiente de juros altos + dados fracos. CPFL tem contrato de fornecimento garantido e tarifas indexadas. Ideal para reduzir volatilidade da carteira." },
+    { "rank": 4, "ticker": "ITUB4", "acao": "COMPRAR", "preco": "36.40", "entrada": "36.40", "stop": "35.10", "alvo": "40.80", "rsi": 43.8, "score": 60, "porque": "Emprego fraco aumenta inadimplência no médio prazo, mas Itaú tem carteira de alta renda com menor risco. Selic alta compensa com spread. Compra segura para semana complicada." },
+    { "rank": 5, "ticker": "AGRO3", "acao": "COMPRAR", "preco": "17.60", "entrada": "17.60", "stop": "16.90", "alvo": "20.20", "rsi": 40.1, "score": 55, "porque": "Dólar a R$5.17 é excelente para exportadores de agro. BrasilAgro tocou o suporte de R$17.50 que foi definido ontem. Entrada confirmada com candle de reversão no diário." },
+    { "rank": 6, "ticker": "VALE3", "acao": "OBSERVAR", "preco": "57.40", "entrada": "56.00", "stop": "53.50", "alvo": "65.50", "rsi": 35.8, "score": 50, "porque": "Minério em US$105 — abaixo dos US$108 de ontem. Aguardar dados de produção de aço China amanhã. Se PMI industrial confirmar expansão, Vale é compra forte. Por ora, observar." },
+    { "rank": 7, "ticker": "PRIO3", "acao": "OBSERVAR", "preco": "51.80", "entrada": "50.50", "stop": "48.00", "alvo": "58.50", "rsi": 29.2, "score": 46, "porque": "RSI em 29 — mais sobrevendida que PETR4 proporcionalmente. Opera com custo de extração baixo (US$9/barril). Aguardar Brent estabilizar acima de US$73 para entrada com segurança." },
+    { "rank": 8, "ticker": "BBDC4", "acao": "OBSERVAR", "preco": "13.90", "entrada": "13.50", "stop": "12.80", "alvo": "16.20", "rsi": 38.4, "score": 44, "porque": "Bradesco ainda em reestruturação mas ROE voltando a crescer trimestre a trimestre. Desconto de 40% vs Itaú historicamente nunca durou mais de 2 anos. Aguardar suporte em R$13.50." },
+    { "rank": 9, "ticker": "MGLU3", "acao": "EVITAR", "preco": "4.10", "entrada": null, "stop": null, "alvo": null, "rsi": 30.8, "score": 16, "porque": "Caged abaixo do esperado é notícia RUIM para varejo alavancado. Magazine Luiza precisa de emprego e consumo crescendo. Com Selic a 14.25% e dados fracos, não há gatilho para compra." },
+    { "rank": 10, "ticker": "COGN3", "acao": "EVITAR", "preco": "2.20", "entrada": null, "stop": null, "alvo": null, "rsi": 33.1, "score": 12, "porque": "Educação privada sofre com Selic alta (custo do FIES sobe) e desaceleração do emprego. Cogna tem dívida alta e resultado ainda negativo. Papel especulativo sem tese clara agora." }
+  ]
+}

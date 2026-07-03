@@ -1,0 +1,19 @@
+{
+  "data": "02/07/2026",
+  "data_iso": "2026-07-02",
+  "dia_semana": "Quarta-feira",
+  "macro_resumo": "Ibovespa 174.382 (+1.37%). Dólar R$5.12. Brent US$75.40. Rally forte: PMI China em expansão + Selic estável surpresa positiva.",
+  "semaforo": "verde",
+  "sugestoes": [
+    { "rank": 1, "ticker": "PETR4", "acao": "COMPRAR", "preco": "38.20", "entrada": "38.20", "stop": "36.60", "alvo": "43.90", "rsi": 31.2, "score": 78, "porque": "Brent dispara para US$75.40 com OPEP+ cortando produção. PETR4 ainda no RSI de sobrevenda (31) — raro combinar fundamento forte com técnico sobrevendido. Melhor oportunidade da semana." },
+    { "rank": 2, "ticker": "VALE3", "acao": "COMPRAR", "preco": "58.20", "entrada": "58.20", "stop": "55.50", "alvo": "67.00", "rsi": 36.8, "score": 71, "porque": "PMI China 50.8 = expansão. Minério volta para US$108. A Vale vai diretamente no bolso quando a China constrói. RSI saindo da sobrevenda com volume alto — confirmação técnica de reversão." },
+    { "rank": 3, "ticker": "SMTO3", "acao": "COMPRAR", "preco": "29.40", "entrada": "29.40", "stop": "28.10", "alvo": "34.00", "rsi": 38.5, "score": 68, "porque": "Rally do dia não alcançou SMTO3 ainda — está defasada. Etanol em alta, safra recorde, P/L abaixo da média. Quando o mercado recuperar o fôlego, agro fechará o gap." },
+    { "rank": 4, "ticker": "ITUB4", "acao": "COMPRAR", "preco": "36.80", "entrada": "36.80", "stop": "35.50", "alvo": "41.00", "rsi": 44.3, "score": 58, "porque": "COPOM manteve Selic em 14.25% sem surpresa. Sinal de que spread bancário permanece alto por mais tempo. Itaú é o maior beneficiado. Resultado 2T26 sai semana que vem." },
+    { "rank": 5, "ticker": "CPFE3", "acao": "COMPRAR", "preco": "38.10", "entrada": "38.10", "stop": "36.80", "alvo": "42.50", "rsi": 42.1, "score": 62, "porque": "Mesmo no dia de alta do mercado, CPFE3 fica para trás — é um ativo de carrego, não de especulação. DY 7.2% + baixa volatilidade. Entra aqui para dormir tranquilo." },
+    { "rank": 6, "ticker": "BBDC4", "acao": "COMPRAR", "preco": "14.20", "entrada": "14.20", "stop": "13.40", "alvo": "16.80", "rsi": 39.7, "score": 52, "porque": "Mercado em alta e Bradesco ainda no suporte. ROE trimestral subindo há 3 trimestres consecutivos. Desconto histórico vs Itaú dificilmente se sustenta quando resultados melhoram." },
+    { "rank": 7, "ticker": "PRIO3", "acao": "OBSERVAR", "preco": "52.40", "entrada": "51.00", "stop": "48.50", "alvo": "59.00", "rsi": 23.8, "score": 46, "porque": "Brent a US$75 deveria fazer PRIO3 subir mais do que subiu hoje. Divergência técnica entre Brent e papel pode indicar fraqueza estrutural. Aguardar rompimento de R$53 com volume." },
+    { "rank": 8, "ticker": "AGRO3", "acao": "OBSERVAR", "preco": "18.16", "entrada": "17.80", "stop": "17.00", "alvo": "20.80", "rsi": 40.0, "score": 46, "porque": "Dólar cai para R$5.12 hoje — a queda do câmbio reduz receita em real dos exportadores no curto prazo. BrasilAgro ainda vale, mas aguardar dólar estabilizar antes de entrar." },
+    { "rank": 9, "ticker": "MGLU3", "acao": "EVITAR", "preco": "4.43", "entrada": null, "stop": null, "alvo": null, "rsi": 30.2, "score": 18, "porque": "Mercado subiu +1.37% e MGLU3 mal se moveu. Quando o mercado cai, vai cair o dobro. Dívida líquida de R$8bi com custo de 14%+ ao ano. Cada trimestre queima caixa." },
+    { "rank": 10, "ticker": "BBAS3", "acao": "EVITAR", "preco": "27.10", "entrada": null, "stop": null, "alvo": null, "rsi": 46.8, "score": 22, "porque": "Banco do Brasil tem valuation barato mas 2026 é ano eleitoral. Governo já sinalizou pressão por crédito subsidiado. Risco de intervenção política supera o desconto de múltiplos." }
+  ]
+}

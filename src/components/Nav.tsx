@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation'
 import PequiIcon from './PequiIcon'
 import { useAuth } from '@/contexts/AuthContext'
 
-type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias'
+type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias' | 'sugestoes'
 
 export default function Nav({ ativa }: { ativa: Aba }) {
   const { user, logout } = useAuth()
@@ -12,6 +12,7 @@ export default function Nav({ ativa }: { ativa: Aba }) {
 
   const links: { href: string; label: string; id: Aba }[] = [
     { href: '/',              label: 'Relatórios',   id: 'home'        },
+    { href: '/sugestoes',     label: '10 Sugestões', id: 'sugestoes'   },
     { href: '/segunda-feira', label: 'Segunda',      id: 'segunda'     },
     { href: '/macro',         label: 'Macro',        id: 'macro'       },
     { href: '/noticias',      label: 'Notícias BR',  id: 'noticias'    },
