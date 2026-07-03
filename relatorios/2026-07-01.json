@@ -26,10 +26,22 @@
     "brent": "73,35"
   },
   "tops": [
-    { "ticker": "SMTO3", "score": 45 },
-    { "ticker": "MGLU3", "score": 45 },
-    { "ticker": "PETR3", "score": 40 },
-    { "ticker": "SLCE3", "score": 40 }
+    {
+      "ticker": "SMTO3",
+      "score": 45
+    },
+    {
+      "ticker": "MGLU3",
+      "score": 45
+    },
+    {
+      "ticker": "PETR3",
+      "score": 40
+    },
+    {
+      "ticker": "SLCE3",
+      "score": 40
+    }
   ],
   "candidatos": [
     {
@@ -37,28 +49,28 @@
       "nome": "Petrobras PN",
       "score": 30,
       "acao": "COMPRAR",
-      "preco": "38.80",
+      "preco": "37.83",
       "rsi": 28.7,
       "pl": 4.8,
       "tese": "Empresa com lucro de R$32,6bi no 1T26, dividend yield estimado em 11-12% e sobrevendida pela queda do Brent. A queda do petróleo já está precificada — se o Brent se estabilizar acima de US$65, PETR4 reage rápido.",
       "risco": "Brent continuar caindo abaixo de US$65 comprometeria o caixa para dividendos.",
-      "entrada": "38.50",
-      "stop": "36.30",
-      "alvo": "48.00"
+      "entrada": "37.83",
+      "stop": "36.13",
+      "alvo": "42.37"
     },
     {
       "ticker": "SMTO3",
       "nome": "São Martinho",
       "score": 45,
       "acao": "OBSERVAR",
-      "preco": "14.93",
+      "preco": "15.93",
       "rsi": 28.0,
       "pl": 5.9,
       "tese": "P/L de 5,9x e P/VP de 0,65 com RSI em 28 — valuation absurdamente barato. OIA prevê déficit global de açúcar em 2026/27 e o Citi aponta rebote de preço. São Martinho tem mix flexível e vai pivotar para açúcar quando o preço subir.",
       "risco": "Etanol caiu 13% desde o resultado e pode continuar pressionado por 2-3 meses de safra.",
-      "entrada": "14.93",
-      "stop": "13.65",
-      "alvo": "21.20"
+      "entrada": "15.93",
+      "stop": "15.21",
+      "alvo": "17.84"
     },
     {
       "ticker": "CPFE3",
@@ -76,9 +88,37 @@
     }
   ],
   "plano": [
-    { "ativo": "PETR4", "acao": "COMPRAR", "valor": "R$ 5.000", "entrada": "R$ 38,50", "stop": "R$ 36,30", "alvo": "R$ 48,00" },
-    { "ativo": "SMTO3", "acao": "COMPRAR", "valor": "R$ 2.500", "entrada": "R$ 14,93", "stop": "R$ 13,65", "alvo": "R$ 21,20" },
-    { "ativo": "CPFE3", "acao": "COMPRAR", "valor": "R$ 1.000", "entrada": "Mercado", "stop": "-8%", "alvo": "+25%" },
-    { "ativo": "CAIXA", "acao": "MANTER", "valor": "R$ 1.500", "entrada": "-", "stop": "-", "alvo": "-" }
+    {
+      "ativo": "PETR4",
+      "acao": "COMPRAR",
+      "valor": "R$ 5.000",
+      "entrada": "R$ 38,50",
+      "stop": "R$ 36,30",
+      "alvo": "R$ 48,00"
+    },
+    {
+      "ativo": "SMTO3",
+      "acao": "COMPRAR",
+      "valor": "R$ 2.500",
+      "entrada": "R$ 14,93",
+      "stop": "R$ 13,65",
+      "alvo": "R$ 21,20"
+    },
+    {
+      "ativo": "CPFE3",
+      "acao": "COMPRAR",
+      "valor": "R$ 1.000",
+      "entrada": "Mercado",
+      "stop": "-8%",
+      "alvo": "+25%"
+    },
+    {
+      "ativo": "CAIXA",
+      "acao": "MANTER",
+      "valor": "R$ 1.500",
+      "entrada": "-",
+      "stop": "-",
+      "alvo": "-"
+    }
   ]
 }
