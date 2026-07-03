@@ -22,22 +22,34 @@ FEEDS = [
         "cor": "#009c3b",
     },
     {
-        "nome": "Valor Econômico",
-        "url": "https://valor.globo.com/arc/outboundfeeds/rss/?outputType=xml",
-        "categoria": "Política Econômica",
+        "nome": "G1 Política",
+        "url": "https://g1.globo.com/rss/g1/politica/",
+        "categoria": "Política",
         "cor": "#d4a017",
     },
     {
-        "nome": "CNN Brasil Negócios",
-        "url": "https://www.cnnbrasil.com.br/economia/feed/",
+        "nome": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml",
+        "categoria": "Política Econômica",
+        "cor": "#009c3b",
+    },
+    {
+        "nome": "UOL Economia",
+        "url": "https://economia.uol.com.br/rss.xml",
         "categoria": "Negócios",
+        "cor": "#ff8800",
+    },
+    {
+        "nome": "Correio Braziliense Economia",
+        "url": "https://www.correiobraziliense.com.br/economia/rss.xml",
+        "categoria": "Brasília / DF",
         "cor": "#ff4466",
     },
     {
-        "nome": "Reuters Brasil",
-        "url": "https://feeds.reuters.com/reuters/BRTopNews",
-        "categoria": "Internacional",
-        "cor": "#ff8800",
+        "nome": "Metrópoles Economia",
+        "url": "https://www.metropoles.com/economia/feed",
+        "categoria": "Brasília / DF",
+        "cor": "#d4a017",
     },
 ]
 
