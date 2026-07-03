@@ -3,6 +3,7 @@ import path from 'path'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Nav from '@/components/Nav'
+import TickerLink from '@/components/TickerLink'
 
 function getRelatorio(slug: string) {
   const filePath = path.join(process.cwd(), 'relatorios', `${slug}.json`)
@@ -85,7 +86,7 @@ export default async function RelatorioPage({ params }: { params: Promise<{ slug
               <div key={c.ticker} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', background: '#009c3b18', border: '1px solid #009c3b40', borderRadius: 8, padding: '0.6rem 1rem' }}>
                 <span style={{ fontWeight: 800, color: '#00c44a', minWidth: 20, fontSize: '0.9rem' }}>{i + 1}</span>
                 <span style={{ color: '#e8f5e9', fontSize: '0.87rem', flex: 1 }}>
-                  <strong>Comprar {c.ticker}</strong>{c.entrada ? ` — entrada R$ ${c.entrada}` : ''}{c.stop ? ` · stop R$ ${c.stop}` : ''}{c.alvo ? ` · alvo R$ ${c.alvo}` : ''}
+                  <strong>Comprar <TickerLink ticker={c.ticker} /></strong>{c.entrada ? ` — entrada R$ ${c.entrada}` : ''}{c.stop ? ` · stop R$ ${c.stop}` : ''}{c.alvo ? ` · alvo R$ ${c.alvo}` : ''}
                 </span>
                 <span style={{ color: '#00c44a', fontWeight: 800, fontSize: '0.85rem' }}>{c.score}pts</span>
               </div>
@@ -211,7 +212,9 @@ function AtivoGrid({ ativos, corAcao, corScore }: { ativos: any[]; corAcao: (a: 
             {/* Topo */}
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 10 }}>
               <div>
-                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: '#e8f5e9' }}>{c.ticker}</div>
+                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: '#e8f5e9' }}>
+                  <TickerLink ticker={c.ticker} style={{ fontSize: '1.15rem', fontWeight: 800 }} />
+                </div>
                 <div style={{ color: '#5a7a60', fontSize: '0.75rem', marginTop: 1 }}>{c.nome || c.ticker}</div>
               </div>
               <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
