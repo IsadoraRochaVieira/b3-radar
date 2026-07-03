@@ -77,14 +77,14 @@
       "nome": "CPFL Energia",
       "score": 0,
       "acao": "COMPRAR",
-      "preco": "-",
+      "preco": "44.26",
       "rsi": null,
       "pl": null,
       "tese": "Tese geopolítica: se acordo EUA-Irã fechar, petróleo cai mais e elétricas reguladas ficam mais competitivas. CPFL confirmou R$4,3bi em dividendos e se beneficia da demanda de data centers de IA no Brasil.",
       "risco": "Risco regulatório de revisão tarifária pela ANEEL.",
-      "entrada": "-",
-      "stop": "-",
-      "alvo": "-"
+      "entrada": "44.26",
+      "stop": "42.27",
+      "alvo": "49.57"
     }
   ],
   "plano": [
