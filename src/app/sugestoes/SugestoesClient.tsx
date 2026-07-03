@@ -26,6 +26,8 @@ type Dia = {
 
 type PrecoVivo = Record<string, { preco: number; var: number; loading: boolean }>
 
+const BRAPI_TOKEN = 'wWjyqivfUbeVVe9jLzP6pB'
+
 const COR = {
   COMPRAR: { text: '#00a63c', bg: 'rgba(0,166,60,0.10)',   border: '#00a63c', label: 'Comprar' },
   OBSERVAR: { text: '#d4920a', bg: 'rgba(212,146,10,0.10)', border: '#d4920a', label: 'Observar' },
@@ -107,7 +109,7 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
     // e um ticker bloqueado num lote derruba a requisição inteira.
     let ativo = true
     tickers.forEach(t => {
-      fetch(`https://brapi.dev/api/quote/${t}?fundamental=false`)
+      fetch(`https://brapi.dev/api/quote/${t}?fundamental=false&token=${BRAPI_TOKEN}`)
         .then(r => r.json())
         .then(data => {
           if (!ativo) return
