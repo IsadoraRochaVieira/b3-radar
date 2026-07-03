@@ -11,8 +11,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.29,
-    "resultado_pct_atual": 1.78
+    "preco_atual": 2.3,
+    "resultado_pct_atual": 2.22
   },
   {
     "ticker": "PETR3",
@@ -26,8 +26,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 41.57,
-    "resultado_pct_atual": -0.5
+    "preco_atual": 42.1,
+    "resultado_pct_atual": 0.77
   },
   {
     "ticker": "RECV3",
@@ -41,8 +41,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.85,
-    "resultado_pct_atual": -1.3
+    "preco_atual": 9.61,
+    "resultado_pct_atual": -3.71
   },
   {
     "ticker": "SLCE3",
@@ -56,8 +56,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.65,
-    "resultado_pct_atual": -1.94
+    "preco_atual": 12.62,
+    "resultado_pct_atual": -2.17
   },
   {
     "ticker": "PETR4",
@@ -71,7 +71,67 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 37.83,
-    "resultado_pct_atual": 0.08
+    "preco_atual": 37.96,
+    "resultado_pct_atual": 0.42
+  },
+  {
+    "ticker": "PETR4",
+    "data_entrada": "2026-07-03",
+    "preco_entrada": 37.83,
+    "stop": 36.09,
+    "alvo": 43.5,
+    "score": 60,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 37.96,
+    "resultado_pct_atual": 0.34
+  },
+  {
+    "ticker": "SLCE3",
+    "data_entrada": "2026-07-03",
+    "preco_entrada": 12.65,
+    "stop": 11.92,
+    "alvo": 14.55,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 12.62,
+    "resultado_pct_atual": -0.24
+  },
+  {
+    "ticker": "PETR3",
+    "data_entrada": "2026-07-03",
+    "preco_entrada": 41.57,
+    "stop": 39.41,
+    "alvo": 47.81,
+    "score": 50,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 42.1,
+    "resultado_pct_atual": 1.27
+  },
+  {
+    "ticker": "RECV3",
+    "data_entrada": "2026-07-03",
+    "preco_entrada": 9.85,
+    "stop": 9.22,
+    "alvo": 11.33,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 9.61,
+    "resultado_pct_atual": -2.44
   }
 ]
