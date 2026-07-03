@@ -1,0 +1,130 @@
+{
+  "data": "27/06/2026",
+  "data_iso": "2026-06-27",
+  "dia_semana": "Sábado",
+  "turno": "manha",
+  "macro_resumo": "Fechamento de semana: Ibovespa +1,2% na semana, fechando em 136.920 pts. Dólar encerrou em R$ 5,21. Brent recuou -0,8% na sexta mas acumula +2,1% na semana. Semana próxima tem ata do COPOM e dados de IBC-Br.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PETR4",
+      "acao": "COMPRAR",
+      "preco": "39.40",
+      "entrada": "39.40",
+      "stop": "37.60",
+      "alvo": "45.30",
+      "rsi": 37,
+      "score": 77,
+      "porque": "PETR4 fecha a semana testando suporte. RSI 37 com divergência positiva no diário — compradores absorveram a semana inteira sem novo mínimo. Score 77 aponta retomada para a semana de 30/06. Alvo R$ 45,30 em 3 semanas."
+    },
+    {
+      "rank": 2,
+      "ticker": "VALE3",
+      "acao": "COMPRAR",
+      "preco": "63.00",
+      "entrada": "63.00",
+      "stop": "60.20",
+      "alvo": "72.40",
+      "rsi": 41,
+      "score": 73,
+      "porque": "China reafirmou pacote fiscal de infraestrutura — impacto direto na demanda de minério. VALE3 em recuperação técnica com RSI 41 e volume crescente na semana. Carregamento para semana seguinte com stop em R$ 60,20."
+    },
+    {
+      "rank": 3,
+      "ticker": "BBAS3",
+      "acao": "COMPRAR",
+      "preco": "27.90",
+      "entrada": "27.90",
+      "stop": "26.70",
+      "alvo": "32.10",
+      "rsi": 40,
+      "score": 69,
+      "porque": "Banco do Brasil com desconto histórico de P/L 4,2x. Selic a 14,25% gera spread elevado e retorno sobre patrimônio acima de 20%. RSI 40 em sobrevenda com suporte em R$ 26,70 confirmado pela semana."
+    },
+    {
+      "rank": 4,
+      "ticker": "ITUB4",
+      "acao": "COMPRAR",
+      "preco": "37.30",
+      "entrada": "37.30",
+      "stop": "35.80",
+      "alvo": "42.90",
+      "rsi": 43,
+      "score": 64,
+      "porque": "Após observar quinta e sexta, ITUB4 confirmou suporte em R$ 35,80 sem romper. RSI 43 com entrada técnica para swing. Score 64 com potencial de 15% ao alvo — melhor setup do setor bancário agora."
+    },
+    {
+      "rank": 5,
+      "ticker": "SLCE3",
+      "acao": "COMPRAR",
+      "preco": "22.90",
+      "entrada": "22.90",
+      "stop": "21.60",
+      "alvo": "26.30",
+      "rsi": 35,
+      "score": 66,
+      "porque": "SLCE3 semana encerrou com acumulação clara. Dólar firme e safra recorde de soja programados para jul/ago. RSI 35 próximo de sobrevenda extrema. Score 66 com entrada ideal no abertura de segunda-feira 30/06."
+    },
+    {
+      "rank": 6,
+      "ticker": "CPFE3",
+      "acao": "OBSERVAR",
+      "preco": "38.10",
+      "entrada": "38.10",
+      "stop": "36.50",
+      "alvo": "43.80",
+      "rsi": 46,
+      "score": 57,
+      "porque": "CPFE3 movendo lateralmente. RSI 46 e score 57 — perto do limiar mas sem gatilho. Aguardar resultado do leilão de energia previsto para jul/26 que pode ser o catalisador positivo para a ação."
+    },
+    {
+      "rank": 7,
+      "ticker": "PRIO3",
+      "acao": "OBSERVAR",
+      "preco": "46.80",
+      "entrada": "46.80",
+      "stop": "44.50",
+      "alvo": "53.80",
+      "rsi": 52,
+      "score": 56,
+      "porque": "PRIO3 encerra semana próxima da resistência em R$ 47,00. Brent recuando dificulta rompimento. RSI 52 neutro — aguardar segunda-feira com abertura acima de R$ 47,00 para confirmar entrada."
+    },
+    {
+      "rank": 8,
+      "ticker": "AGRO3",
+      "acao": "OBSERVAR",
+      "preco": "29.10",
+      "entrada": "29.10",
+      "stop": "27.60",
+      "alvo": "33.50",
+      "rsi": 54,
+      "score": 53,
+      "porque": "Lateralização persistente entre R$ 28,00-30,00. RSI 54 sem tendência definida. Score 53 — aguardar rompimento da faixa na semana de 30/06. Fundamento agro positivo mas timing ainda não ideal."
+    },
+    {
+      "rank": 9,
+      "ticker": "MGLU3",
+      "acao": "EVITAR",
+      "preco": "2.33",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 54,
+      "score": 19,
+      "porque": "Score 19/100. Varejo digital com balanço deteriorado — dívida bruta de R$ 4,2bi e EBITDA ajustado negativo no 1T26. Selic a 14,25% bloqueia recuperação. Ação em tendência de baixa estrutural desde 2021."
+    },
+    {
+      "rank": 10,
+      "ticker": "COGN3",
+      "acao": "EVITAR",
+      "preco": "3.88",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 60,
+      "score": 24,
+      "porque": "Educação básica em risco com cortes orçamentários do FIES. Score 24/100 com RSI 60 sobrecomprado no curto prazo. Risco de realização na semana seguinte — não há margem de segurança para entrar."
+    }
+  ]
+}

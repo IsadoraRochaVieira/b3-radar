@@ -1,0 +1,130 @@
+{
+  "data": "26/06/2026",
+  "data_iso": "2026-06-26",
+  "dia_semana": "Sexta-feira",
+  "turno": "manha",
+  "macro_resumo": "Pregão de sexta com Ibovespa perto de 136.800 pts. Dólar cede para R$ 5,21 após dados de emprego nos EUA abaixo do esperado. Brent recua -0,8% para US$ 83,4. Semana fecha com Ibovespa +1,2% na semana.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PETR4",
+      "acao": "COMPRAR",
+      "preco": "39.20",
+      "entrada": "39.20",
+      "stop": "37.50",
+      "alvo": "45.10",
+      "rsi": 36,
+      "score": 76,
+      "porque": "RSI 36 ainda em sobrevenda leve. Petr4 segura suporte técnico em R$ 37,50 há 3 pregões — sinal de acumulação institucional. Score 76 com carregamento para a semana seguinte. Brent acima de US$ 83 sustenta tese."
+    },
+    {
+      "rank": 2,
+      "ticker": "VALE3",
+      "acao": "COMPRAR",
+      "preco": "62.70",
+      "entrada": "62.70",
+      "stop": "60.00",
+      "alvo": "72.00",
+      "rsi": 40,
+      "score": 71,
+      "porque": "Minério de ferro fecha semana em alta. China anunciou pacote de infraestrutura — demanda por aço estrutural deve aumentar em jul/ago. RSI 40 com divergência bullish no MACD semanal. Stop largo em R$ 60,00."
+    },
+    {
+      "rank": 3,
+      "ticker": "BBAS3",
+      "acao": "COMPRAR",
+      "preco": "27.80",
+      "entrada": "27.80",
+      "stop": "26.60",
+      "alvo": "31.90",
+      "rsi": 39,
+      "score": 68,
+      "porque": "Banco do Brasil com P/L 4,2x — desconto histórico. Selic alta favorece NII (receita de juros). RSI 39 em sobrevenda técnica com suporte em R$ 26,60. Score 68 com potencial de 14% até o alvo."
+    },
+    {
+      "rank": 4,
+      "ticker": "SLCE3",
+      "acao": "COMPRAR",
+      "preco": "22.80",
+      "entrada": "22.80",
+      "stop": "21.50",
+      "alvo": "26.20",
+      "rsi": 33,
+      "score": 67,
+      "porque": "Encerramento de semana com acumulação visível em SLCE3. Volume acima da média na sexta indica comprador institucional. RSI 33 em zona de compra. Score 67 com stop curto e alvo de 14% em 15-20 pregões."
+    },
+    {
+      "rank": 5,
+      "ticker": "CPFE3",
+      "acao": "COMPRAR",
+      "preco": "37.90",
+      "entrada": "37.90",
+      "stop": "36.30",
+      "alvo": "43.50",
+      "rsi": 44,
+      "score": 64,
+      "porque": "Setor elétrico defensivo para um portfólio de final de semana. CPFE3 tem concessão longa e dividend yield acima de 6% a.a. RSI 44 neutro mas com pressão compradora semanal. Score 64."
+    },
+    {
+      "rank": 6,
+      "ticker": "PRIO3",
+      "acao": "OBSERVAR",
+      "preco": "46.50",
+      "entrada": "46.50",
+      "stop": "44.20",
+      "alvo": "53.40",
+      "rsi": 51,
+      "score": 58,
+      "porque": "PRIO3 testando resistência em R$ 47,00. RSI 51 em zona neutra — aguardar rompimento com volume para confirmar. Score 58 próximo do limiar de compra, mas por cautela observar no início da semana seguinte."
+    },
+    {
+      "rank": 7,
+      "ticker": "AGRO3",
+      "acao": "OBSERVAR",
+      "preco": "28.90",
+      "entrada": "28.90",
+      "stop": "27.40",
+      "alvo": "33.20",
+      "rsi": 53,
+      "score": 54,
+      "porque": "AGRO3 em lateralização. RSI 53 e score 54 — sem sinal direcional claro. Aguardar rompimento da faixa de consolidação 28-30 na semana seguinte. Fundamento agro segue positivo."
+    },
+    {
+      "rank": 8,
+      "ticker": "ITUB4",
+      "acao": "OBSERVAR",
+      "preco": "37.20",
+      "entrada": "37.20",
+      "stop": "35.70",
+      "alvo": "42.80",
+      "rsi": 48,
+      "score": 53,
+      "porque": "Score 53 ainda abaixo do limiar ideal. RSI 48 neutro com semanal em tendência de alta lenta. Bom papel mas aguardar confirmação de volume — segunda-feira pode oferecer entrada melhor."
+    },
+    {
+      "rank": 9,
+      "ticker": "MGLU3",
+      "acao": "EVITAR",
+      "preco": "2.35",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 55,
+      "score": 20,
+      "porque": "Score 20/100 reflete deterioração dos fundamentos. Vendas de e-commerce recuando, margens comprimidas pela Selic alta. RSI 55 sem sinal de reversão — ativo em tendência de baixa estrutural. Evitar."
+    },
+    {
+      "rank": 10,
+      "ticker": "COGN3",
+      "acao": "EVITAR",
+      "preco": "3.90",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 63,
+      "score": 25,
+      "porque": "Sobrecomprado no curto prazo (RSI 63) sem fundamento que sustente o movimento. Score 25/100 com dívida crescente no setor educacional. Risco de reversão brusca — manter fora da carteira."
+    }
+  ]
+}

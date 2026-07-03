@@ -1,0 +1,130 @@
+{
+  "data": "25/06/2026",
+  "data_iso": "2026-06-25",
+  "dia_semana": "Quinta-feira",
+  "turno": "manha",
+  "macro_resumo": "Ibovespa abre semana com leve alta. Brent estável em torno de US$ 84. Dólar em R$ 5,24. Selic em 14,25% — COPOM não sinaliza mudança para jul/26. Agenda econômica leve, foco em dados de crédito do BCB.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PETR4",
+      "acao": "COMPRAR",
+      "preco": "38.90",
+      "entrada": "38.90",
+      "stop": "37.20",
+      "alvo": "44.70",
+      "rsi": 34,
+      "score": 78,
+      "porque": "RSI em 34 — zona de sobrevenda técnica clássica. Brent segurando US$ 84 sustenta receita da Petrobras. Score 78/100 com suporte forte em R$ 37,20. Relação risco-retorno favorável para entrada no curto prazo."
+    },
+    {
+      "rank": 2,
+      "ticker": "VALE3",
+      "acao": "COMPRAR",
+      "preco": "62.10",
+      "entrada": "62.10",
+      "stop": "59.50",
+      "alvo": "71.40",
+      "rsi": 38,
+      "score": 72,
+      "porque": "Minério de ferro acima de US$ 105 com demanda chinesa aquecida. RSI 38 em zona de sobrevenda leve. Score 72 aponta recuperação técnica com suporte em R$ 59,50. Entrada interessante para swing de 5-8 pregões."
+    },
+    {
+      "rank": 3,
+      "ticker": "SLCE3",
+      "acao": "COMPRAR",
+      "preco": "22.40",
+      "entrada": "22.40",
+      "stop": "21.20",
+      "alvo": "25.80",
+      "rsi": 31,
+      "score": 70,
+      "porque": "Safra de soja 2026 com estimativa recorde acima de 160mt. Dólar firme beneficia exportadores agrícolas. RSI 31 indica pressão vendedora esgotando — gatilho técnico de compra com stop curto em R$ 21,20."
+    },
+    {
+      "rank": 4,
+      "ticker": "CPFE3",
+      "acao": "COMPRAR",
+      "preco": "37.60",
+      "entrada": "37.60",
+      "stop": "36.10",
+      "alvo": "43.20",
+      "rsi": 42,
+      "score": 65,
+      "porque": "Setor elétrico em zona de valor. CPFE3 tem histórico de dividendos sólidos e concessões longas. RSI 42 neutro mas com momentum positivo semanal. Score 65 com assimetria favorável — alvo R$ 43,20 com risco de R$ 1,50."
+    },
+    {
+      "rank": 5,
+      "ticker": "ITUB4",
+      "acao": "COMPRAR",
+      "preco": "36.80",
+      "entrada": "36.80",
+      "stop": "35.40",
+      "alvo": "42.30",
+      "rsi": 45,
+      "score": 62,
+      "porque": "Bancos se beneficiam da Selic alta — spread elevado sustenta lucro líquido. ITUB4 com P/L 8,2x abaixo da média histórica. RSI 45 neutro com tendência de alta no semanal. Stop em R$ 35,40 limita risco em menos de 4%."
+    },
+    {
+      "rank": 6,
+      "ticker": "AGRO3",
+      "acao": "OBSERVAR",
+      "preco": "28.70",
+      "entrada": "28.70",
+      "stop": "27.30",
+      "alvo": "32.90",
+      "rsi": 52,
+      "score": 55,
+      "porque": "RSI 52 — zona neutra. Bom fundamento com portfólio de cana e soja, mas aguardar confirmação de volume acima de 29,00 antes de entrar. Score 55 não oferece margem suficiente para posição agora."
+    },
+    {
+      "rank": 7,
+      "ticker": "SMTO3",
+      "acao": "OBSERVAR",
+      "preco": "24.20",
+      "entrada": "24.20",
+      "stop": "22.80",
+      "alvo": "27.80",
+      "rsi": 49,
+      "score": 52,
+      "porque": "Setor sucroenergético com bom momento sazonal, mas RSI 49 e volume abaixo da média. Score 52 próximo do limiar — aguardar rompimento da resistência em R$ 25,00 para confirmar tendência."
+    },
+    {
+      "rank": 8,
+      "ticker": "RECV3",
+      "acao": "OBSERVAR",
+      "preco": "18.50",
+      "entrada": "18.50",
+      "stop": "17.30",
+      "alvo": "21.30",
+      "rsi": 47,
+      "score": 48,
+      "porque": "RECV3 operando em faixa de consolidação. RSI 47 e score 48 indicam movimento lateral sem tendência definida. Aguardar catalisador — resultado do 2T26 previsto para agosto pode ser o gatilho."
+    },
+    {
+      "rank": 9,
+      "ticker": "COGN3",
+      "acao": "EVITAR",
+      "preco": "3.85",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 61,
+      "score": 28,
+      "porque": "Score 28/100 reflete fundamento fraco. Dívida líquida elevada e EBITDA ainda negativo. RSI 61 indica ativo sobrecomprado no curto prazo — risco de correção. Manter caixa é melhor do que entrar nesse nível."
+    },
+    {
+      "rank": 10,
+      "ticker": "MGLU3",
+      "acao": "EVITAR",
+      "preco": "2.40",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 58,
+      "score": 22,
+      "porque": "Varejo pressionado pela Selic a 14,25% — crédito caro, consumo fraco. Score 22/100, balanço com passivo crescente. RSI 58 sem sinal técnico de reversão. Não há assimetria favorável — evitar por completo até resultado 2T26."
+    }
+  ]
+}
