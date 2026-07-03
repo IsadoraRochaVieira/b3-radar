@@ -1,22 +1,95 @@
 {
-  "coletado_em": "03/07/2026 01:01",
-  "total": 2,
+  "coletado_em": "03/07/2026 01:24",
+  "total": 7,
   "urgentes": 0,
   "destaque": {
-    "titulo": "Defesa de Bolsonaro cita PGR e pede que Moraes mantenha prisão domiciliar",
-    "descricao": "O inquérito reconheceu que o ex-presidente possuía registro válido da arma de fogo e que não havia restrições conhecidas que impedissem sua guarda regular na residência The post Defesa de Bolsonaro cita PGR e pede que Moraes mantenha prisão domiciliar appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/politica/defesa-de-bolsonaro-cita-pgr-e-pede-que-moraes-mantenha-prisao-domiciliar/",
-    "fonte": "Infomoney",
-    "categoria": "Mercado",
-    "cor": "#4488ff",
-    "urgencia": "baixa",
-    "score_relevancia": 1,
-    "pub_date": "Fri, 03 Jul 2026 01:30:08 +0000",
+    "titulo": "Flávio vê fortalecimento de Lula em ano eleitoral e pede aos EUA adiamento de tarifas contra Brasil",
+    "descricao": "O senador Flávio Bolsonaro (PL-RJ) enviou uma manifestação ao Escritório do Representante de Comércio dos Estados Unidos (USTR) em que pede o adiamento, por 180 dias, da aplicação, por parte do governo norte-americano, de novas tarifas contra exportações brasileiras. Flávio pede, portanto, um adiamento das taxas de 25% para depois das eleições presidenciais no Brasil. No documento de 86 páginas, o",
+    "link": "https://g1.globo.com/politica/noticia/2026/07/02/em-manifestacao-enviada-aos-eua-flavio-pede-suspensao-da-aplicacao-de-tarifas-contra-brasil-e-abertura-de-negociacao.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "media",
+    "score_relevancia": 3,
+    "pub_date": "Thu, 02 Jul 2026 15:17:20 -0000",
     "setores": [
-      "Mercado geral"
+      "Energia (CPFE3, ELET3)",
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Flávio vê fortalecimento de Lula em ano eleitoral e pede aos EUA adiamento de tarifas contra Brasil",
+      "descricao": "O senador Flávio Bolsonaro (PL-RJ) enviou uma manifestação ao Escritório do Representante de Comércio dos Estados Unidos (USTR) em que pede o adiamento, por 180 dias, da aplicação, por parte do governo norte-americano, de novas tarifas contra exportações brasileiras. Flávio pede, portanto, um adiamento das taxas de 25% para depois das eleições presidenciais no Brasil. No documento de 86 páginas, o",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/02/em-manifestacao-enviada-aos-eua-flavio-pede-suspensao-da-aplicacao-de-tarifas-contra-brasil-e-abertura-de-negociacao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Thu, 02 Jul 2026 15:17:20 -0000",
+      "setores": [
+        "Energia (CPFE3, ELET3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Apesar de prejuízo recorde nos Correios, estatais federais têm lucro maior em 2025",
+      "descricao": "O governo divulgou nesta quinta-feira (2) que o conjunto das estatais federais registrou um lucro líquido de R$ 169,4 bilhões em 2025. Petrobras foi responsável, sozinha, por 65% do lucro das estatais federais em 2025 Fernando Frazão/Agência Brasil 🔎O balanço financeiro foi divulgado pelo Ministério da Gestão. Ao todo, há 44 empresas públicas ou sociedades de economia mista controladas pelo govern",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/02/apesar-de-prejuizo-recorde-nos-correios-estatais-federais-tem-lucro-maior-em-2025.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 02 Jul 2026 22:14:42 -0000",
+      "setores": [
+        "PETR4/PETR3"
+      ]
+    },
+    {
+      "titulo": "Alemanha apresenta pacote de reformas com corte de impostos, mudanças na Previdência e flexibilização trabalhista",
+      "descricao": "O chanceler da Alemanha, Friedrich Merz, em 14 de maio de 2026 REUTERS/Thilo Schmuelgen O governo de coalizão da Alemanha anunciou nesta quinta-feira (2) um pacote de reformas para tentar reaquecer a economia e aumentar a competitividade do país. As medidas incluem redução de impostos para trabalhadores de baixa renda, mudanças no sistema de aposentadoria e a diminuição da burocracia para empresas",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/02/pacote-de-reformas-alemanha.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 02 Jul 2026 21:54:56 -0000",
+      "setores": [
+        "Varejo (MGLU3)"
+      ]
+    },
+    {
+      "titulo": "Ministro diz que 'atropelos' atrapalham negociações com EUA sobre tarifas, mas que 'corre contra o tempo' por consenso",
+      "descricao": "Ministro diz que há \"atropelos\" nas negociações entre Brasil e Estados Unidos O ministro do Desenvolvimento, Indústria e Comércio, Márcio Elias Rosa, afirmou nesta quinta-feira (2) que alguns “atropelos” provocados por terceiros têm atrapalhado as negociações entre o Brasil e os Estados Unidos em torno do tarifaço anunciado pelo presidente Donald Trump. Mas acrescentou que a determinação do presid",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/02/ministro-diz-que-atropelos-atrapalham-negociacoes-com-eua-sobre-tarifas-mas-que-governo-corre-contra-o-tempo-por-consenso.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 02 Jul 2026 17:48:36 -0000",
+      "setores": [
+        "VALE3",
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "Governo deve elevar projeção de inflação em 2026 sob impacto do El Niño, diz secretária",
+      "descricao": "Sul do Brasil pode ter impactos do El Niño O Ministério da Fazenda deve aumentar sua previsão oficial para a inflação de 2026. A expectativa é que os preços subam mais do que o estimado em maio, quando a projeção era de 4,5%, principalmente por causa dos efeitos do fenômeno climático El Niño. A informação foi dada nesta quarta-feira (2) pela secretária de Política Econômica da pasta, Débora Freire",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/02/governo-deve-elevar-projecao-de-inflacao-em-2026-sob-impacto-do-el-nino.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 02 Jul 2026 15:49:57 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
     {
       "titulo": "Defesa de Bolsonaro cita PGR e pede que Moraes mantenha prisão domiciliar",
       "descricao": "O inquérito reconheceu que o ex-presidente possuía registro válido da arma de fogo e que não havia restrições conhecidas que impedissem sua guarda regular na residência The post Defesa de Bolsonaro cita PGR e pede que Moraes mantenha prisão domiciliar appeared first on InfoMoney .",
