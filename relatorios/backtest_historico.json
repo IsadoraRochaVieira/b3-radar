@@ -11,8 +11,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.3,
-    "resultado_pct_atual": 2.22
+    "preco_atual": 2.33,
+    "resultado_pct_atual": 3.56
   },
   {
     "ticker": "PETR3",
@@ -26,8 +26,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 42.1,
-    "resultado_pct_atual": 0.77
+    "preco_atual": 42.32,
+    "resultado_pct_atual": 1.29
   },
   {
     "ticker": "RECV3",
@@ -41,8 +41,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.61,
-    "resultado_pct_atual": -3.71
+    "preco_atual": 9.6,
+    "resultado_pct_atual": -3.81
   },
   {
     "ticker": "SLCE3",
@@ -56,8 +56,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.62,
-    "resultado_pct_atual": -2.17
+    "preco_atual": 12.94,
+    "resultado_pct_atual": 0.31
   },
   {
     "ticker": "PETR4",
@@ -71,8 +71,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 37.96,
-    "resultado_pct_atual": 0.42
+    "preco_atual": 38.18,
+    "resultado_pct_atual": 1.01
   },
   {
     "ticker": "PETR4",
@@ -86,8 +86,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 37.96,
-    "resultado_pct_atual": 0.34
+    "preco_atual": 38.18,
+    "resultado_pct_atual": 0.93
   },
   {
     "ticker": "SLCE3",
@@ -101,8 +101,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.62,
-    "resultado_pct_atual": -0.24
+    "preco_atual": 12.94,
+    "resultado_pct_atual": 2.29
   },
   {
     "ticker": "PETR3",
@@ -116,8 +116,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 42.1,
-    "resultado_pct_atual": 1.27
+    "preco_atual": 42.31,
+    "resultado_pct_atual": 1.78
   },
   {
     "ticker": "RECV3",
@@ -131,7 +131,7 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.61,
-    "resultado_pct_atual": -2.44
+    "preco_atual": 9.6,
+    "resultado_pct_atual": -2.54
   }
 ]

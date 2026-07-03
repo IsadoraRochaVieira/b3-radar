@@ -71,7 +71,7 @@ function ScoreBar({ val }: { val: number }) {
 
 function PrecoAtual({ ticker, dados }: { ticker: string; dados: PrecoVivo }) {
   const d = dados[ticker]
-  if (!d) return <span style={{ fontFamily: 'var(--mono)', fontSize: 11, color: 'var(--muted)' }}>—</span>
+  if (!d || (!d.loading && d.preco <= 0)) return <span style={{ fontFamily: 'var(--mono)', fontSize: 11, color: 'var(--muted)' }}>—</span>
   if (d.loading) return <span style={{ fontSize: 10, color: 'var(--muted)', fontFamily: 'var(--mono)' }}>…</span>
 
   const varCor = d.var >= 0 ? '#00a63c' : '#e53555'
@@ -103,26 +103,28 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
     tickers.forEach(t => { loading[t] = { preco: 0, var: 0, loading: true } })
     setPrecos(loading)
 
-    fetch(`https://brapi.dev/api/quote/${tickers.join(',')}?fundamental=false`)
-      .then(r => r.json())
-      .then(data => {
-        if (!data.results) return
-        const novo: PrecoVivo = {}
-        for (const item of data.results) {
-          novo[item.symbol] = {
-            preco: item.regularMarketPrice,
-            var: item.regularMarketChangePercent,
-            loading: false,
-          }
-        }
-        setPrecos(novo)
-      })
-      .catch(() => {
-        // Silenciosamente falha — não quebra a tabela
-        const falhou: PrecoVivo = {}
-        tickers.forEach(t => { falhou[t] = { preco: 0, var: 0, loading: false } })
-        setPrecos(falhou)
-      })
+    // Busca individual: a brapi sem token libera só alguns tickers,
+    // e um ticker bloqueado num lote derruba a requisição inteira.
+    let ativo = true
+    tickers.forEach(t => {
+      fetch(`https://brapi.dev/api/quote/${t}?fundamental=false`)
+        .then(r => r.json())
+        .then(data => {
+          if (!ativo) return
+          const item = data.results?.[0]
+          setPrecos(prev => ({
+            ...prev,
+            [t]: item?.regularMarketPrice
+              ? { preco: item.regularMarketPrice, var: item.regularMarketChangePercent ?? 0, loading: false }
+              : { preco: 0, var: 0, loading: false },
+          }))
+        })
+        .catch(() => {
+          if (!ativo) return
+          setPrecos(prev => ({ ...prev, [t]: { preco: 0, var: 0, loading: false } }))
+        })
+    })
+    return () => { ativo = false }
   }, [dias])
 
   if (!dias.length) return (
@@ -313,7 +315,7 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
                         { l: 'Entrada', v: `R$ ${s.entrada}`, c: 'var(--text)' },
                         { l: 'Stop', v: `R$ ${s.stop}`, c: 'var(--red)' },
                         { l: 'Alvo', v: `R$ ${s.alvo}`, c: 'var(--green)' },
-                        ...(vivo && !vivo.loading ? [{ l: 'Preço Agora', v: `R$ ${vivo.preco.toFixed(2)}`, c: '#5b9bff' }] : []),
+                        ...(vivo && !vivo.loading && vivo.preco > 0 ? [{ l: 'Preço Agora', v: `R$ ${vivo.preco.toFixed(2)}`, c: '#5b9bff' }] : []),
                       ].map(m => (
                         <div key={m.l} style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 6, padding: '7px 10px' }}>
                           <div style={{ fontSize: 9, color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: 3 }}>{m.l}</div>
