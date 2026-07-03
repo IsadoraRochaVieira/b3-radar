@@ -12,23 +12,25 @@ export default function TickerLink({
       href={`https://www.google.com/search?q=${ticker}+ação+B3+cotação`}
       target="_blank"
       rel="noopener noreferrer"
-      onClick={(e) => e.stopPropagation()}
+      onClick={e => e.stopPropagation()}
       title={`Pesquisar ${ticker} no Google`}
       style={{
         color: 'inherit',
         textDecoration: 'none',
-        borderBottom: '1px dashed rgba(0,196,74,0.4)',
+        borderBottom: '1px dashed rgba(91,155,255,0.35)',
         cursor: 'alias',
-        transition: 'border-color 0.15s, color 0.15s',
+        transition: 'color 0.12s, border-color 0.12s',
         ...style,
       }}
-      onMouseEnter={(e) => {
-        ;(e.currentTarget as HTMLElement).style.borderBottomColor = '#00c44a'
-        ;(e.currentTarget as HTMLElement).style.color = '#00c44a'
+      onMouseEnter={e => {
+        const el = e.currentTarget as HTMLElement
+        el.style.color = '#5b9bff'
+        el.style.borderBottomColor = '#5b9bff'
       }}
-      onMouseLeave={(e) => {
-        ;(e.currentTarget as HTMLElement).style.borderBottomColor = 'rgba(0,196,74,0.4)'
-        ;(e.currentTarget as HTMLElement).style.color = ''
+      onMouseLeave={e => {
+        const el = e.currentTarget as HTMLElement
+        el.style.color = ''
+        el.style.borderBottomColor = 'rgba(91,155,255,0.35)'
       }}
     >
       {ticker}

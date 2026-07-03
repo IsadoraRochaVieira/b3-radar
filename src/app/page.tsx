@@ -8,7 +8,7 @@ function getRelatorios() {
   const dir = path.join(process.cwd(), 'relatorios')
   if (!fs.existsSync(dir)) return []
   return fs.readdirSync(dir)
-    .filter(f => f.endsWith('.json') && f !== 'backtest_historico.json' && !f.startsWith('noticias_'))
+    .filter(f => f.endsWith('.json') && f !== 'backtest_historico.json' && !f.startsWith('noticias_') && !f.startsWith('sugestoes_'))
     .sort((a, b) => b.localeCompare(a))
     .slice(0, 40)
     .map(f => {
@@ -17,30 +17,23 @@ function getRelatorios() {
     })
 }
 
-function getUltimoRelatorio(relatorios: any[]) {
-  return relatorios[0] ?? null
-}
-
-function getRelatoriosDia(relatorios: any[], dataIso: string) {
-  return relatorios.filter(r => r.data_iso === dataIso)
+const semCfg: Record<string, { cor: string; bg: string; label: string }> = {
+  verde:    { cor: '#00a63c', bg: 'rgba(0,166,60,0.10)',    label: 'Operar normal'    },
+  amarelo:  { cor: '#d4920a', bg: 'rgba(212,146,10,0.10)',  label: 'Reduzir tamanho'  },
+  vermelho: { cor: '#e53555', bg: 'rgba(229,53,85,0.10)',   label: 'Só caixa'         },
 }
 
 export default function Home() {
   const relatorios = getRelatorios()
-  const ultimo = getUltimoRelatorio(relatorios)
+  const ultimo = relatorios[0] ?? null
   const hoje = ultimo?.data_iso
-  const relatoriosHoje = hoje ? getRelatoriosDia(relatorios, hoje) : []
+  const relatoriosHoje = relatorios.filter((r: any) => r.data_iso === hoje)
 
   const semaforo = ultimo?.semaforo ?? 'verde'
+  const sem = semCfg[semaforo] ?? semCfg.verde
   const pick = ultimo?.pick_semana ?? (ultimo?.candidatos ?? []).find((c: any) => c.acao === 'COMPRAR')
-  const corSem: Record<string, { bg: string; border: string; text: string; label: string }> = {
-    verde:    { bg: '#009c3b18', border: '#009c3b', text: '#00c44a', label: 'Operar normal' },
-    amarelo:  { bg: '#ffdf0018', border: '#d4a017', text: '#ffdf00', label: 'Reduzir tamanho' },
-    vermelho: { bg: '#ff446618', border: '#cc2244', text: '#ff4466', label: 'Só caixa' },
-  }
-  const s = corSem[semaforo] ?? corSem.verde
+  const m = ultimo?.macro
 
-  // Lista histórica: agrupa por dia, mostra os dois turnos do dia
   const porDia: Record<string, any[]> = {}
   for (const r of relatorios) {
     const k = r.data_iso ?? r.slug
@@ -53,125 +46,180 @@ export default function Home() {
     <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
       <Nav ativa="home" />
 
-      {/* Semáforo + Pick da Semana */}
-      <div style={{ display: 'grid', gridTemplateColumns: pick ? '1fr 1fr' : '1fr', gap: '0.75rem', marginBottom: '1.5rem' }}>
-        <Link href="/segunda-feira">
-          <div style={{ background: s.bg, border: `2px solid ${s.border}`, borderRadius: 12, padding: '1rem 1.25rem', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <div style={{ width: 14, height: 14, borderRadius: '50%', background: s.border, boxShadow: `0 0 10px ${s.border}`, flexShrink: 0 }}/>
-            <div>
-              <div style={{ fontSize: '0.65rem', color: s.text, textTransform: 'uppercase', letterSpacing: '0.12em', fontWeight: 700 }}>Semáforo da semana</div>
-              <div style={{ color: s.text, fontWeight: 800, fontSize: '1.05rem', marginTop: 2 }}>{s.label}</div>
+      {/* ── HERO ── */}
+      <div style={{
+        background: 'var(--surface)',
+        border: '1px solid var(--border)',
+        borderRadius: 14,
+        padding: '24px 28px',
+        marginBottom: 12,
+        display: 'grid',
+        gridTemplateColumns: '1fr auto',
+        gap: 20,
+        alignItems: 'center',
+      }}>
+        <div>
+          <div style={{ fontSize: 10, fontWeight: 600, color: 'var(--muted)', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>
+            Ibovespa · {ultimo?.data ?? 'hoje'}
+          </div>
+          <div style={{ fontFamily: 'var(--mono)', fontSize: 'clamp(32px, 5vw, 52px)', fontWeight: 700, color: 'var(--text)', letterSpacing: '-0.02em', lineHeight: 1 }}>
+            {m?.ibovespa ?? '—'}
+          </div>
+          {m?.ibovespa_var !== undefined && (
+            <div style={{
+              fontFamily: 'var(--mono)', fontSize: 18, fontWeight: 500, marginTop: 8,
+              color: (m.ibovespa_var ?? 0) >= 0 ? 'var(--green)' : 'var(--red)',
+            }}>
+              {(m.ibovespa_var ?? 0) > 0 ? '+' : ''}{m.ibovespa_var}% hoje
             </div>
-            <span style={{ marginLeft: 'auto', color: '#5a7a60', fontSize: '0.8rem' }}>→</span>
+          )}
+        </div>
+
+        {/* Semáforo */}
+        <Link href="/segunda-feira" style={{ textDecoration: 'none' }}>
+          <div style={{
+            display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 8,
+            background: sem.bg, border: `1px solid ${sem.cor}30`, borderRadius: 12,
+            padding: '16px 24px', minWidth: 130, cursor: 'pointer',
+          }}>
+            <div style={{ width: 14, height: 14, borderRadius: '50%', background: sem.cor, boxShadow: `0 0 12px ${sem.cor}` }}/>
+            <div style={{ fontSize: 13, fontWeight: 700, color: sem.cor }}>Verde</div>
+            <div style={{ fontSize: 11, color: 'var(--muted)', textAlign: 'center' }}>{sem.label}</div>
           </div>
         </Link>
-        {pick && (
-          <Link href="/segunda-feira">
-            <div style={{ background: 'linear-gradient(135deg, #0d1a10, #071510)', border: '2px solid #d4a017', borderRadius: 12, padding: '1rem 1.25rem', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-              <span style={{ fontSize: '1.4rem', fontWeight: 800, color: '#d4a017' }}>★</span>
-              <div>
-                <div style={{ fontSize: '0.65rem', color: '#d4a017', textTransform: 'uppercase', letterSpacing: '0.12em', fontWeight: 700 }}>Pick da semana</div>
-                <div style={{ color: '#e8f5e9', fontWeight: 800, fontSize: '1.1rem', marginTop: 2 }}>{pick.ticker} <span style={{ color: '#00c44a', fontSize: '0.85rem' }}>{pick.score}pts</span></div>
-              </div>
-              <span style={{ marginLeft: 'auto', color: '#5a7a60', fontSize: '0.8rem' }}>→</span>
-            </div>
-          </Link>
-        )}
       </div>
 
-      {/* Relatórios de hoje (manhã + tarde) */}
-      {relatoriosHoje.length > 0 && (
-        <div style={{ marginBottom: '1.75rem' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.75rem' }}>
-            <div style={{ width: 3, height: 16, background: '#009c3b', borderRadius: 2 }}/>
-            <span style={{ fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em', fontWeight: 700 }}>
-              Relatórios de hoje — {ultimo?.data}
-            </span>
-            <div style={{ flex: 1, height: 1, background: '#1a2e1e' }}/>
-          </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '0.75rem' }}>
-            {relatoriosHoje.map((r: any) => (
-              <Link key={r.slug} href={`/relatorio/${r.slug}`}>
-                <div style={{ background: 'linear-gradient(135deg, #0d1a10, #071510)', border: '1px solid #009c3b50', borderLeft: '4px solid #009c3b', borderRadius: 13, padding: '1.4rem', cursor: 'pointer', position: 'relative', overflow: 'hidden' }}>
-                  <div style={{ position: 'absolute', top: 0, right: 0, width: 80, height: 80, background: 'radial-gradient(circle, #ffdf0008 0%, transparent 70%)' }}/>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: 8 }}>
-                    <span style={{ fontSize: '0.68rem', color: '#00c44a', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.1em' }}>
-                      {r.turno === 'manha' ? '🌅 Relatório Manhã' : '☀️ Relatório Tarde'}
-                    </span>
-                    <span style={{ fontSize: '0.68rem', color: '#5a7a60', marginLeft: 'auto' }}>{r.hora_geracao}</span>
-                  </div>
-                  <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', marginBottom: 8 }}>
-                    {(r.tops || []).slice(0, 4).map((t: any) => (
-                      <span key={t.ticker} style={{ background: '#009c3b20', border: '1px solid #009c3b', color: '#00c44a', borderRadius: 6, padding: '0.2rem 0.6rem', fontSize: '0.78rem', fontWeight: 700 }}>
-                        {t.ticker} · {t.score}pts
-                      </span>
-                    ))}
-                  </div>
-                  <p style={{ color: '#5a7a60', fontSize: '0.82rem', lineHeight: 1.5, margin: 0 }}>{r.resumo}</p>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      )}
-
-      {/* Macro */}
-      {ultimo?.macro && (
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(140px, 1fr))', gap: '0.65rem', marginBottom: '1.75rem' }}>
+      {/* ── FAIXA MACRO ── */}
+      {m && (
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 8, marginBottom: 20 }}>
           {[
-            { label: 'Ibovespa', valor: ultimo.macro.ibovespa, cor: (ultimo.macro.ibovespa_var ?? 0) >= 0 ? '#00c44a' : '#ff4466' },
-            { label: 'Var. dia',  valor: `${(ultimo.macro.ibovespa_var ?? 0) > 0 ? '+' : ''}${ultimo.macro.ibovespa_var}%`, cor: (ultimo.macro.ibovespa_var ?? 0) >= 0 ? '#00c44a' : '#ff4466' },
-            { label: 'Dólar',    valor: `R$ ${ultimo.macro.dolar}`, cor: '#ffdf00' },
-            { label: 'Selic',    valor: `${ultimo.macro.selic}%`, cor: '#4488ff' },
-            { label: 'Brent',    valor: `US$ ${ultimo.macro.brent}`, cor: '#ffdf00' },
+            { l: 'Dólar',    v: `R$ ${m.dolar}`,    c: 'var(--gold)'  },
+            { l: 'Brent',    v: `US$ ${m.brent}`,   c: 'var(--gold)'  },
+            { l: 'Selic',    v: `${m.selic}% a.a.`, c: 'var(--blue-light)' },
+            { l: 'VIX',      v: m.vix ?? '—',       c: 'var(--text)'  },
+            { l: 'IPCA 12m', v: `${m.ipca_12m}%`,   c: (m.ipca_12m ?? 0) > 4 ? 'var(--red)' : 'var(--green)' },
           ].map(item => (
-            <div key={item.label} style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 10, padding: '0.85rem 1rem' }}>
-              <div style={{ color: '#5a7a60', fontSize: '0.68rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>{item.label}</div>
-              <div style={{ color: item.cor, fontWeight: 800, fontSize: '1.1rem', marginTop: 4 }}>{item.valor}</div>
+            <div key={item.l} style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 8, padding: '10px 12px' }}>
+              <div style={{ fontSize: 10, color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 500, marginBottom: 4 }}>{item.l}</div>
+              <div style={{ fontFamily: 'var(--mono)', fontSize: 15, fontWeight: 600, color: item.c }}>{item.v}</div>
             </div>
           ))}
         </div>
       )}
 
-      {/* Plano personalizado (capital do usuário) */}
+      {/* ── RELATÓRIOS DE HOJE ── */}
+      {relatoriosHoje.length > 0 && (
+        <div style={{ marginBottom: 24 }}>
+          <SectionTitle cor="var(--blue)">Relatórios de hoje — {ultimo?.data}</SectionTitle>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 10 }}>
+            {relatoriosHoje.map((r: any) => {
+              const isManha = r.turno === 'manha'
+              return (
+                <Link key={r.slug} href={`/relatorio/${r.slug}`} style={{ textDecoration: 'none' }}>
+                  <div style={{
+                    background: 'var(--surface)',
+                    border: '1px solid var(--border)',
+                    borderLeft: `3px solid ${isManha ? 'var(--blue)' : 'var(--gold)'}`,
+                    borderRadius: 10,
+                    padding: '16px 18px',
+                    cursor: 'pointer',
+                    transition: 'border-color 0.15s',
+                  }}>
+                    <div style={{ fontSize: 10, fontWeight: 600, color: isManha ? 'var(--blue-light)' : 'var(--gold)', letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 10 }}>
+                      {isManha ? '🌅 Manhã · 08:30' : '☀️ Tarde · 13:00'}
+                      <span style={{ float: 'right', color: 'var(--muted)', fontWeight: 400 }}>{r.hora_geracao}</span>
+                    </div>
+                    <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 10 }}>
+                      {(r.tops || []).slice(0, 4).map((t: any) => (
+                        <span key={t.ticker} style={{
+                          background: 'var(--green-bg)', border: '1px solid rgba(0,166,60,0.25)',
+                          color: 'var(--green)', borderRadius: 5, padding: '2px 8px',
+                          fontSize: 12, fontWeight: 700, fontFamily: 'var(--mono)',
+                        }}>
+                          {t.ticker}
+                        </span>
+                      ))}
+                    </div>
+                    <p style={{ color: 'var(--text2)', fontSize: 13, lineHeight: 1.55, margin: 0 }}>{r.resumo}</p>
+                  </div>
+                </Link>
+              )
+            })}
+          </div>
+        </div>
+      )}
+
+      {/* ── PICK DA SEMANA ── */}
+      {pick && (
+        <div style={{ marginBottom: 24 }}>
+          <SectionTitle cor="var(--gold)">Pick da semana</SectionTitle>
+          <Link href="/segunda-feira" style={{ textDecoration: 'none' }}>
+            <div style={{
+              background: 'var(--surface)', border: '1px solid var(--border)',
+              borderLeft: '3px solid var(--gold)', borderRadius: 10,
+              padding: '14px 18px', display: 'flex', alignItems: 'center', gap: 14, cursor: 'pointer',
+            }}>
+              <span style={{ fontSize: 22, color: 'var(--gold)' }}>★</span>
+              <div>
+                <div style={{ fontFamily: 'var(--mono)', fontSize: 20, fontWeight: 700, color: 'var(--text)' }}>
+                  {pick.ticker}
+                  <span style={{ fontSize: 13, color: 'var(--green)', marginLeft: 8 }}>{pick.score}pts</span>
+                </div>
+                {pick.tese && <div style={{ fontSize: 13, color: 'var(--text2)', marginTop: 4 }}>{pick.tese}</div>}
+              </div>
+              <span style={{ marginLeft: 'auto', color: 'var(--muted)' }}>→</span>
+            </div>
+          </Link>
+        </div>
+      )}
+
+      {/* ── PLANO PERSONALIZADO ── */}
       <HomeClient />
 
-      {/* Histórico por dia */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '1rem' }}>
-        <div style={{ width: 3, height: 16, background: '#1a2e1e', borderRadius: 2 }}/>
-        <h3 style={{ fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em', margin: 0 }}>Histórico</h3>
-        <div style={{ flex: 1, height: 1, background: '#1a2e1e' }}/>
-      </div>
-
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+      {/* ── HISTÓRICO ── */}
+      <SectionTitle cor="var(--border2)">Histórico</SectionTitle>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
         {diasOrdenados.slice(1).map(dia => {
           const turnos = porDia[dia]
           const ref = turnos[0]
           return (
-            <div key={dia} style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 10, padding: '0.9rem 1.2rem' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
-                <span style={{ fontWeight: 700, color: '#e8f5e9', fontSize: '0.9rem' }}>{ref.data}</span>
-                <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
-                  {turnos.map((t: any) => (
-                    <Link key={t.slug} href={`/relatorio/${t.slug}`}>
-                      <span style={{ background: '#009c3b15', border: '1px solid #009c3b40', borderRadius: 6, padding: '0.25rem 0.7rem', fontSize: '0.78rem', color: '#00c44a', fontWeight: 600, cursor: 'pointer' }}>
-                        {t.turno === 'manha' ? '🌅 Manhã' : t.turno === 'tarde' ? '☀️ Tarde' : '📄 Relatório'}
-                      </span>
-                    </Link>
-                  ))}
-                  <span style={{ color: '#5a7a60', fontSize: '0.78rem' }}>{ref.resumo_curto}</span>
-                </div>
+            <div key={dia} style={{
+              background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 8,
+              padding: '10px 14px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8,
+            }}>
+              <span style={{ fontFamily: 'var(--mono)', fontSize: 13, fontWeight: 600, color: 'var(--text)' }}>{ref.data}</span>
+              <div style={{ display: 'flex', gap: 6, alignItems: 'center', flexWrap: 'wrap' }}>
+                {turnos.map((t: any) => (
+                  <Link key={t.slug} href={`/relatorio/${t.slug}`}>
+                    <span style={{
+                      background: 'var(--blue-bg)', border: '1px solid rgba(91,155,255,0.2)',
+                      borderRadius: 5, padding: '3px 8px', fontSize: 12, color: 'var(--blue-light)', fontWeight: 500, cursor: 'pointer',
+                    }}>
+                      {t.turno === 'manha' ? '🌅 Manhã' : t.turno === 'tarde' ? '☀️ Tarde' : '📄 Relatório'}
+                    </span>
+                  </Link>
+                ))}
+                <span style={{ fontSize: 12, color: 'var(--muted)' }}>{ref.resumo_curto}</span>
               </div>
             </div>
           )
         })}
-
         {relatorios.length === 0 && (
-          <div style={{ textAlign: 'center', padding: '3rem', color: '#5a7a60', border: '1px dashed #1a2e1e', borderRadius: 12 }}>
-            Nenhum relatório ainda. Rode <code>python gerar_e_publicar.py</code> para gerar o primeiro.
+          <div style={{ textAlign: 'center', padding: '3rem', color: 'var(--muted)', border: '1px dashed var(--border)', borderRadius: 10 }}>
+            Nenhum relatório. Rode <code style={{ fontFamily: 'var(--mono)', fontSize: 12 }}>python gerar_e_publicar.py</code>
           </div>
         )}
       </div>
     </main>
+  )
+}
+
+function SectionTitle({ children, cor = 'var(--muted)' }: { children: React.ReactNode; cor?: string }) {
+  return (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 10 }}>
+      <div style={{ width: 3, height: 14, background: cor, borderRadius: 2, flexShrink: 0 }}/>
+      <h2 style={{ fontSize: 10, color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.1em', fontWeight: 600, margin: 0 }}>{children}</h2>
+      <div style={{ flex: 1, height: 1, background: 'var(--border)' }}/>
+    </div>
   )
 }

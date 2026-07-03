@@ -14,9 +14,9 @@ export default function FooterLinks() {
         <a
           key={l.href}
           href={l.href}
-          style={{ color: '#4a6a52', fontSize: '0.78rem', transition: 'color 0.15s' }}
-          onMouseEnter={e => ((e.currentTarget as HTMLElement).style.color = '#00c44a')}
-          onMouseLeave={e => ((e.currentTarget as HTMLElement).style.color = '#4a6a52')}
+          style={{ color: '#4d5f7a', fontSize: 13, transition: 'color 0.12s' }}
+          onMouseEnter={e => ((e.currentTarget as HTMLElement).style.color = '#5b9bff')}
+          onMouseLeave={e => ((e.currentTarget as HTMLElement).style.color = '#4d5f7a')}
         >
           {l.label}
         </a>
