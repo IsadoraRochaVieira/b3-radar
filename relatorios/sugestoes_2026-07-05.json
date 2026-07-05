@@ -2,8 +2,8 @@
   "data": "05/07/2026",
   "data_iso": "2026-07-05",
   "dia_semana": "Domingo",
-  "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 174.266 (+0.86%). Destaques: SLCE3, RECV3, PETR3. Semáforo: VERDE.",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 174.266 (+0.86%). Destaques: SLCE3, RECV3, PETR3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "14.73",
       "rsi": 21.4,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 21.4 e score de 65 pontos. Entrada em R$ 12.81 com alvo R$ 14.73."
+      "porque": "RSI em 21.4 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 12.07 limita risco."
     },
     {
       "rank": 2,
