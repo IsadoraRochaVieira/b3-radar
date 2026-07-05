@@ -11,8 +11,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.33,
-    "resultado_pct_atual": 3.56
+    "preco_atual": 2.31,
+    "resultado_pct_atual": 2.67
   },
   {
     "ticker": "PETR3",
@@ -26,8 +26,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 42.32,
-    "resultado_pct_atual": 1.29
+    "preco_atual": 42.39,
+    "resultado_pct_atual": 1.46
   },
   {
     "ticker": "RECV3",
@@ -41,8 +41,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.6,
-    "resultado_pct_atual": -3.81
+    "preco_atual": 9.64,
+    "resultado_pct_atual": -3.41
   },
   {
     "ticker": "SLCE3",
@@ -56,8 +56,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.94,
-    "resultado_pct_atual": 0.31
+    "preco_atual": 12.81,
+    "resultado_pct_atual": -0.7
   },
   {
     "ticker": "PETR4",
@@ -71,8 +71,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 38.18,
-    "resultado_pct_atual": 1.01
+    "preco_atual": 38.25,
+    "resultado_pct_atual": 1.19
   },
   {
     "ticker": "PETR4",
@@ -86,8 +86,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 38.18,
-    "resultado_pct_atual": 0.93
+    "preco_atual": 38.25,
+    "resultado_pct_atual": 1.11
   },
   {
     "ticker": "SLCE3",
@@ -101,8 +101,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.94,
-    "resultado_pct_atual": 2.29
+    "preco_atual": 12.81,
+    "resultado_pct_atual": 1.26
   },
   {
     "ticker": "PETR3",
@@ -116,8 +116,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 42.31,
-    "resultado_pct_atual": 1.78
+    "preco_atual": 42.39,
+    "resultado_pct_atual": 1.97
   },
   {
     "ticker": "RECV3",
@@ -131,7 +131,46 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.6,
-    "resultado_pct_atual": -2.54
+    "preco_atual": 9.64,
+    "resultado_pct_atual": -2.13
+  },
+  {
+    "ticker": "SLCE3",
+    "data_entrada": "2026-07-05",
+    "preco_entrada": 12.81,
+    "stop": 12.07,
+    "alvo": 14.73,
+    "score": 65,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "RECV3",
+    "data_entrada": "2026-07-05",
+    "preco_entrada": 9.64,
+    "stop": 9.04,
+    "alvo": 11.09,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "PETR3",
+    "data_entrada": "2026-07-05",
+    "preco_entrada": 42.39,
+    "stop": 40.27,
+    "alvo": 48.75,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
   }
 ]
