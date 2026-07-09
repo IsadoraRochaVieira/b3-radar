@@ -1,24 +1,66 @@
 {
-  "coletado_em": "09/07/2026 00:07",
-  "total": 27,
-  "urgentes": 0,
+  "coletado_em": "09/07/2026 08:30",
+  "total": 30,
+  "urgentes": 2,
   "destaque": {
-    "titulo": "Dólar recua, bolsa cai e petróleo dispara com tensão no Oriente Médio",
-    "descricao": "O dólar fechou em leve queda frente ao real, enquanto a bolsa caiu quase 1% e o petróleo avançou mais de 5% nesta quarta-feira (8), num dia marcado pela escalada das tensões entre Estados Unidos e Irã. A alta do petróleo ajudou a limitar as perdas da moeda brasileira, mas o ambiente de maior aversão ao risco pressionou a Bolsa. Principais números: Dólar: -0,09%, a R$ 5,148 Ibovespa: -0,79%, aos 17",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-recua-bolsa-cai-e-petroleo-dispara-com-tensao-no-oriente-medio",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
-    "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 5,
-    "pub_date": "Wed, 08 Jul 2026 19:37:00 -0300",
+    "titulo": "Comissão do Senado aprova projeto para reduzir ligações indesejadas de empresas de telemarketing e cobrança",
+    "descricao": "A Comissão de Fiscalização e Controle do Senado (CTFC) do Senado aprovou nesta quarta-feira (8) um projeto de lei que busca reduzir as ligações indesejadas de empresas de telemarketing e cobrança para quem solicitar não receber esse tipo de telefonema. 🔎O texto foi aprovado em caráter terminativo, ou seja, segue direto para a análise da Câmara dos Deputados caso não haja recurso. Relatado pelo sen",
+    "link": "https://g1.globo.com/politica/noticia/2026/07/08/comissao-do-senado-aprova-projeto-para-reduzir-ligacoes-indesejadas-de-empresas-de-telemarketing-e-cobranca.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
+    "urgencia": "alta",
+    "score_relevancia": 4,
+    "pub_date": "Wed, 08 Jul 2026 21:52:43 -0000",
     "setores": [
-      "PETR4/PETR3",
-      "Câmbio / Exportadores",
-      "Todos os ativos"
+      "Mercado geral"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Comissão do Senado aprova projeto para reduzir ligações indesejadas de empresas de telemarketing e cobrança",
+      "descricao": "A Comissão de Fiscalização e Controle do Senado (CTFC) do Senado aprovou nesta quarta-feira (8) um projeto de lei que busca reduzir as ligações indesejadas de empresas de telemarketing e cobrança para quem solicitar não receber esse tipo de telefonema. 🔎O texto foi aprovado em caráter terminativo, ou seja, segue direto para a análise da Câmara dos Deputados caso não haja recurso. Relatado pelo sen",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/comissao-do-senado-aprova-projeto-para-reduzir-ligacoes-indesejadas-de-empresas-de-telemarketing-e-cobranca.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 08 Jul 2026 21:52:43 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "O colapso na trégua entre EUA e Irã - O Assunto #1757",
+      "descricao": "\"Para mim, acho que acabou. Eu não quero mais lidar com eles\", disse o presidente dos Estados Unidos, Donald Trump, sobre o conflito com o Irã, na cúpula da Otan, na Turquia. A declaração do republicano veio depois de uma nova troca de ataques entre os dois países, menos de um mês após o anúncio de um acordo provisório para interromper os bombardeios e retomar as negociações sobre o programa nucle",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/09/o-colapso-na-tregua-entre-eua-e-ira-o-assunto-1757.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 03:30:08 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+      "descricao": "Índices futuros dos EUA operam mistos em meio a tensões com o Irã The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Thu, 09 Jul 2026 10:59:04 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
     {
       "titulo": "Dólar recua, bolsa cai e petróleo dispara com tensão no Oriente Médio",
       "descricao": "O dólar fechou em leve queda frente ao real, enquanto a bolsa caiu quase 1% e o petróleo avançou mais de 5% nesta quarta-feira (8), num dia marcado pela escalada das tensões entre Estados Unidos e Irã. A alta do petróleo ajudou a limitar as perdas da moeda brasileira, mas o ambiente de maior aversão ao risco pressionou a Bolsa. Principais números: Dólar: -0,09%, a R$ 5,148 Ibovespa: -0,79%, aos 17",
@@ -50,6 +92,20 @@
       ]
     },
     {
+      "titulo": "Senado aprova MP que destina parte da arrecadação com bets para fundo da Polícia Federal",
+      "descricao": "O Senado aprovou nesta quarta-feira (8) uma medida provisória (MP) que destina parte do dinheiro arrecadado pelo governo com apostas de quota fixa — conhecidas como bets — para um fundo que dá suporte às operações e atividades da Polícia Federal (PF). O texto seguirá para sanção do presidente Luiz Inácio Lula da Silva (PT). Esses recursos, antes transferidos para a Saúde e Previdência Social, agor",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/senado-aprova-mp-que-destina-parte-da-arrecadacao-com-bets-para-fundo-da-policia-federal.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 08 Jul 2026 21:54:09 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "FMI eleva projeção para PIB do Brasil, mas prevê desaceleração em 2027",
       "descricao": "O Fundo Monetário Internacional (FMI) elevou as projeções de crescimento da economia brasileira para 2026 e 2027, mas avalia que o ritmo de expansão perderá força no próximo ano. A atualização consta do relatório Perspectiva Econômica Global, divulgado nesta quarta-feira (8). A estimativa para o Produto Interno Bruto (PIB) brasileiro passou de 1,9% para 2,4% em 2026. Para 2027, a previsão subiu de",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fmi-eleva-projecao-para-pib-do-brasil-mas-preve-desaceleracao-em-2027",
@@ -61,6 +117,35 @@
       "pub_date": "Wed, 08 Jul 2026 16:07:00 -0300",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Direcional, Ambipar, Méliuz, Vale, SLC e mais ações para acompanhar hoje",
+      "descricao": "Confira os principais destaques do noticiário corporativo desta quinta-feira (9) The post Direcional, Ambipar, Méliuz, Vale, SLC e mais ações para acompanhar hoje appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/direcional-ambipar-meliuz-vale-slc-e-mais-acoes-para-acompanhar-hoje/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 10:59:03 +0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar",
+      "descricao": "Saiba o que esperar para o minidólar nesta quinta (09) The post Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoq26-09072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 10:06:00 +0000",
+      "setores": [
+        "PETR4/PETR3",
+        "Câmbio / Exportadores"
       ]
     },
     {
@@ -107,17 +192,59 @@
       ]
     },
     {
-      "titulo": "FMI eleva projeções de crescimento do Brasil em 2026 e 2027, prevendo desaceleração no próximo ano",
-      "descricao": "Agora no g1 O Fundo Monetário Internacional (FMI) divulgou nesta quarta-feira (8) que melhorou suas projeções para a economia do Brasil em 2026 e em 2027, mas passou a ver uma desaceleração da atividade no próximo ano, de acordo com relatório. A atualização do relatório Perspectiva Econômica Global mostrou que o FMI agora vê expansão de 2,4% do Produto Interno Bruto este ano, acima do 1,9% calcula",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/08/fmi-eleva-projecoes-de-crescimento-do-brasil-em-2026-e-2027-prevendo-desaceleracao.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Ao tratar de tarifaço dos EUA, Caiado critica Lula por 'provocar' Trump e 'ajoelhamento' de Flávio Bolsonaro",
+      "descricao": "Pré-candidato à Presidência Ronaldo Caiado durante participação no Flow Podcast Reprodução Pré-candidato à Presidência pelo PSD, Ronaldo Caiado criticou as atitudes do presidente Lula (PT) e do senador Flávio Bolsonaro (PL) em relação à ameaça de novo tarifaço pelo governo dos Estados Unidos. Segundo o ex-governador de Goiás, Lula tem provocado o presidente americano, Donald Trump, com o objetivo ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/08/caiado-lula-provocacao-trump-flavio-bolsonaro-ajoelhamento.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 08 Jul 2026 13:41:06 -0000",
+      "pub_date": "Wed, 08 Jul 2026 23:15:38 -0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "'Não podemos sair brigando dentro de casa', diz presidente do PL sobre atritos entre Michelle e Flávio Bolsonaro",
+      "descricao": "Presidente nacional do PL, Valdemar Costa Neto Beto Barata/PL/Divulgação O presidente do Partido Liberal (PL), Valdemar Costa Neto, afirmou nesta quarta-feira (8), que Flávio e Michelle Bolsonaro não se falam desde as trocas de acusações pelas redes sociais e que é preciso cessar os conflitos internos para que seja definido um 'rumo'. \"Michelle é uma pessoa especial. Ela tem talento, é uma grande ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/08/nao-podemos-sair-brigando-dentro-de-casa-diz-presidente-do-pl-sobre-atritos-entre-michelle-e-flavio-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 22:32:16 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Novo líder do PT no Senado diz que irá atuar para distensionar relação entre Lula e Alcolumbre",
+      "descricao": "O novo líder do PT no Senado, Camilo Santana (PT-CE), afirmou nesta quarta-feira (8) que irá atuar para distensionar a relação entre o presidente da Casa, Davi Alcolumbre (União-AP), com o presidente Luiz Inácio Lula da Silva (PT). Além do posto de líder PT, ocupado anteriormente por Rogério Carvalho (SE), Camilo assumiu a presidência da Comissão de Educação (CE), que era ocupada pela nova líder d",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/novo-lider-do-pt-no-senado-diz-que-ira-atuar-para-distensionar-relacao-entre-lula-e-alcolumbre.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 19:48:40 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Flávio Bolsonaro defende EUA e diz que Lula 'lambe as botas da China'",
+      "descricao": "Flávio Bolsonaro (PL) durante live nesta quarta-feira (8). Reprodução/Youtube/Flávio Bolsonaro Em meio ao risco de nova ofensiva tarifária do governo de Donald Trump ao Brasil, o pré-candidato à Presidência da República pelo PL, senador Flávio Bolsonaro, defendeu nesta quarta-feira (8) os Estados Unidos e disse que o presidente Luiz Inácio Lula da Silva (PT) \"lambe as botas da China\". Na terça-fei",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/flavio-bolsonaro-defende-eua-e-diz-que-lula-lambe-botas-da-china.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 18:59:11 -0000",
+      "setores": [
+        "VALE3"
       ]
     },
     {
@@ -163,17 +290,47 @@
       ]
     },
     {
-      "titulo": "Trump diz que Espanha ‘voltou atrás’ e sinaliza retomada de relações",
-      "descricao": "Segundo o mandatário, o governo espanhol demonstrou disposição para se reaproximar de Washington The post Trump diz que Espanha &#8216;voltou atrás&#8217; e sinaliza retomada de relações appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/trump-diz-que-espanha-voltou-atras-e-sinaliza-retomada-de-relacoes/",
+      "titulo": "Faria Lima vê atuação de Flávio em novo tarifaço dos EUA como inócua e decepcionante",
+      "descricao": "Senador participou de audiência pública do governo americano para tentar impedir a imposição de novas tarifas de 25% contra produtos importados do Brasil The post Faria Lima vê atuação de Flávio em novo tarifaço dos EUA como inócua e decepcionante appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/faria-lima-ve-atuacao-de-flavio-em-novo-tarifaco-dos-eua-como-inocua-e-decepcionante/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 09 Jul 2026 01:52:16 +0000",
+      "pub_date": "Thu, 09 Jul 2026 10:41:22 +0000",
+      "setores": [
+        "VALE3",
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "'Não existe mais ano normal': agricultores dos EUA mudam horários de colheita e protegem mudas para enfrentar calor extremo",
+      "descricao": "Annie Woods colhe abobrinhas da variedade Eight Ball ao pôr do sol, na quarta-feira, 1º de julho de 2026, em sua fazenda em Brooksville, no estado de Kentucky, EUA. Joshua A. Bickel/AP Mesmo quando o sol começa a se pôr, o calor do dia ainda permanece no ar enquanto Annie Woods volta à lavoura para colher abóboras e abobrinhas em sua fazenda. Ondas de calor intensas e prolongadas fazem parte de um",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/09/nao-existe-mais-ano-normal-agricultores-dos-eua-mudam-horarios-de-colheita-e-protegem-mudas-para-enfrentar-calor-extremo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 06:00:29 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Meta constrói data center gigante de IA no Canadá com energia equivalente a 800 mil casas",
+      "descricao": "Data Center: servidores funcionam como sistemas de armazenamento e proteção de dados A Meta Platforms anunciou o início da construção de um novo data center otimizado para inteligência artificial em Sturgeon County, na província de Alberta, no Canadá. A unidade terá 1 gigawatt (GW) de capacidade energética, projetada para atender às demandas de processamento de IA. A novidade consumirá o equivalen",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/09/meta-constroi-data-center-gigante-de-ia-no-canada-com-energia-equivalente-a-800-mil-casas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 06:00:09 -0000",
+      "setores": [
+        "VALE3",
+        "Energia (CPFE3, ELET3)"
       ]
     },
     {
@@ -208,7 +365,7 @@
     },
     {
       "titulo": "Um ano após carta de Trump a Lula e anúncio de tarifas: relembre os principais capítulos da disputa comercial entre EUA e Brasil",
-      "descricao": "Em 9 de julho de 2025, o presidente dos Estados Unidos, Donald Trump, enviou uma carta ao presidente Luiz Inácio Lula da Silva (PT) anunciando uma tarifa de 50% sobre produtos brasileiros exportados ao mercado americano. O documento marcou uma escalada nas tensões comerciais entre os dois países. Um ano depois, o governo brasileiro tenta evitar que novas tarifas contra o Brasil entrem em vigor. Ao",
+      "descricao": "Nesta quinta-feira (9), completa um ano que o presidente dos Estados Unidos, Donald Trump, enviou uma carta ao presidente Luiz Inácio Lula da Silva (PT) anunciando uma tarifa de 50% sobre produtos brasileiros exportados ao mercado americano. O documento marcou uma escalada nas tensões comerciais entre os dois países. Um ano depois, o governo brasileiro tenta evitar que novas tarifas propostas pelo",
       "link": "https://g1.globo.com/economia/noticia/2026/07/09/um-ano-apos-carta-de-trump-a-lula-e-anuncio-de-tarifas-relembre-os-principais-capitulos-da-disputa-comercial-entre-eua-e-brasil.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -263,144 +420,29 @@
       ]
     },
     {
-      "titulo": "Ministro diz que negociações sobre tarifaço seguem mesmo após decisão da secretaria de comércio dos EUA",
-      "descricao": "Ana Flor: Ainda serão feitas ao menos duas rodadas de conversas sobre tarifas dos EUA O governo brasileiro pretende realizar mais duas conversas com o Departamento de Comércio dos Estados Unidos (USTR, na sigla em inglês) antes do prazo final de 15 de julho, quando o órgão deve enviar à Casa Branca sua recomendação sobre possíveis tarifas contra o Brasil. Ao blog, o ministro do Desenvolvimento, In",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/08/ministro-diz-que-negociacoes-sobre-tarifaco-seguem-mesmo-apos-decisao-da-secretaria-de-comercio-dos-eua.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "PF faz operação contra suspeita de fraudes no INSS com declarações falsas de indígenas",
+      "descricao": "A Polícia Federal (PF) e a Controladoria-Geral da União (CGU) deflagraram, nesta quinta-feira (9), uma operação para investigar um esquema suspeito de fraudes contra o Instituto Nacional do Seguro Social (INSS) envolvendo o uso de falsas declarações de pertencimento a comunidades indígenas. Os investigadores apuram se o grupo utilizava documentos e declarações falsas para obter irregularmente bene",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/07/09/pf-e-cgu-fazem-operacao-sobre-suspeita-de-fraudes-no-inss-com-declaracoes-falsas-de-indigenas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 08 Jul 2026 14:06:44 -0000",
+      "pub_date": "Thu, 09 Jul 2026 11:07:10 -0000",
       "setores": [
-        "VALE3",
-        "Energia (CPFE3, ELET3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Usina solar em comunidade de Niterói gera energia para 19 creches",
-      "descricao": "No alto do Morro do Boa Vista, em Niterói, região metropolitana do Rio de Janeiro, um imenso espaço de vegetação rasteira ostenta agora uma coleção de painéis solares. Além de mudar a paisagem, a usina de geração de energia renovável instalada na encosta verde virou sinônimo de R$ 5 milhões em economia para o cofre da cidade. No último fim de semana, a prefeitura de Niterói inaugurou a usina, que ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/usina-solar-em-comunidade-de-niteroi-gera-energia-para-19-creches",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "PF apreende espingarda registrada em nome de Bolsonaro no RS",
+      "descricao": "PF apreende espingarda de Bolsonaro na casa de homem no Rio Grande do Sul A Polícia Federal apreendeu nesta quarta-feira (8) uma espingarda registrada em nome do ex-presidente Jair Bolsonaro (PL). O armamento foi localizado na casa de um homem em Cachoeirinha, no Rio Grande do Sul, que procurou voluntariamente a Polícia Federal para informar que estava com a arma e demonstrar interesse em entregá-",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/pf-apreende-espingarda-registrada-em-nome-de-bolsonaro-no-rs.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 08 Jul 2026 19:40:00 -0300",
-      "setores": [
-        "VALE3",
-        "Energia (CPFE3, ELET3)"
-      ]
-    },
-    {
-      "titulo": "Poupança: saques superam depósitos em R$ 39,3 bilhões no semestre",
-      "descricao": "Nos primeiros seis meses de 2026, as retiradas das cadernetas superaram em mais de R$ 39,3 bilhões os depósitos da poupança, aponta o relatório do Banco Central divulgado nesta quarta-feira (8). Apenas no mês de junho, a retirada líquida foi de R$ 237,5 milhões. Ao longo dos seis primeiros meses, o mês de maio foi o único que apresentou saldo positivo, com entrada líquida de R$ 2,6 bilhões. Os mes",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/poupanca-saques-superam-depositos-em-r393-bilhoes-no-semestre",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 08 Jul 2026 11:27:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4)"
-      ]
-    },
-    {
-      "titulo": "Brasil vê avanço com EUA, mas mantém etanol fora da negociação",
-      "descricao": "Em meio às negociações para evitar a aplicação de novas tarifas sobre produtos brasileiros, o Brasil identificou uma abertura dos Estados Unidos para ampliar a cooperação bilateral no combate ao crime transnacional, disse nesta terça-feira (7) o ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa. Após uma nova rodada de reuniões técnicas com representantes do Escritório",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-ve-avanco-com-eua-mas-mantem-etanol-fora-da-negociacao",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 07 Jul 2026 17:33:00 -0300",
-      "setores": [
-        "AGRO (SLCE3, SMTO3)",
-        "Energia (CPFE3, ELET3)"
-      ]
-    },
-    {
-      "titulo": "Número de acidentes com a rede elétrica cresceu no Brasil em 2025",
-      "descricao": "O número de acidentes com a rede elétrica aumentou de 685 casos, em 2024, para 703, em 2025, segundo balanço divulgado nesta terça-feira (7) pela Associação Brasileira de Distribuidores de Energia Elétrica (Abradee). Apesar do aumento das ocorrências, a associação constatou menos óbitos causados por esses incidentes : foram 257 casos em 2024 e 252 no ano passado. Notícias relacionadas: Aneel leilo",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/numero-de-acidentes-com-rede-eletrica-cresceu-no-brasil-em-2025",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 07 Jul 2026 16:07:00 -0300",
-      "setores": [
-        "Energia (CPFE3, ELET3)"
-      ]
-    },
-    {
-      "titulo": "Consumo recua e varejo fecha pior semestre desde a pandemia",
-      "descricao": "Índice Cielo do Varejo Ampliado aponta retração de 2,2% no primeiro semestre de 2026; inflação de alimentos e habitação deixa o consumidor mais defensivo",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457582-consumo-recua-e-varejo-fecha-pior-semestre-desde-a-pandemia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 8 Jul 2026 16:08:00 -0300",
-      "setores": [
-        "Varejo (MGLU3)"
-      ]
-    },
-    {
-      "titulo": "Petróleo sobe mais de 6% após fim de cessar-fogo entre EUA e Irã",
-      "descricao": "Mercado reage à nova escalada das tensões no Oriente Médio, enquanto ataques no estreito de Ormuz elevam temores sobre o fornecimento global",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457211-petroleo-sobe-mais-de-6-apos-fim-do-cessar-fogo-entre-eua-e-ira.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 8 Jul 2026 10:00:00 -0300",
-      "setores": [
-        "PETR4/PETR3"
-      ]
-    },
-    {
-      "titulo": "Trump encerra cessar-fogo com o Irã e derruba bolsas pelo mundo",
-      "descricao": "Antes da abertura oficial das bolsas em Nova York, os contratos futuros apontavam queda. O índice Dow Jones recuava 1,34%, enquanto o S&P 500 caía 1,06% e o Nasdaq 100 registrava baixa de 1,55%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457173-trump-encerra-cessar-fogo-com-o-ira-e-derruba-bolsas-pelo-mundo.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 8 Jul 2026 09:54:00 -0300",
-      "setores": [
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Governo corre contra o tempo para evitar novo tarifaço de Trump",
-      "descricao": "A uma semana da decisão dos EUA, ministro Márcio Elias Rosa diz que foco deve permanecer nas negociações e evita comentar atuação de Flávio Bolsonaro em audiência do USTR",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7456848-governo-corre-contra-o-tempo-para-evitar-novo-tarifaco-de-trump.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 7 Jul 2026 17:49:00 -0300",
-      "setores": [
-        "VALE3"
-      ]
-    },
-    {
-      "titulo": "Crescimento do setor óptico impulsiona expansão das franquias",
-      "descricao": "Cenário tem ampliado o interesse pelo franchising, em um segmento que registrou crescimento de 42% nos últimos cinco anos",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7456675-crescimento-do-setor-optico-impulsiona-expansao-das-franquias.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 7 Jul 2026 15:50:00 -0300",
+      "pub_date": "Thu, 09 Jul 2026 01:49:32 -0000",
       "setores": [
         "Mercado geral"
       ]
