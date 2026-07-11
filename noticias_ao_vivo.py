@@ -157,20 +157,27 @@ def _fetch_feed(feed: dict) -> list:
 def _detectar_setores(titulo: str, descricao: str) -> list[str]:
     texto = (titulo + " " + descricao).lower()
     mapa = {
-        "PETR4/PETR3": ["petrobras", "petróleo", "combustível", "pré-sal", "brent"],
-        "VALE3": ["vale", "minério", "ferro", "china", "aço"],
-        "Bancos (ITUB4, BBDC4)": ["selic", "juros", "crédito", "banco", "inadimplência", "spread"],
-        "AGRO (SLCE3, SMTO3)": ["agro", "safra", "soja", "milho", "etanol", "commodities agrícolas"],
-        "Varejo (MGLU3)": ["varejo", "consumo", "renda", "emprego", "confiança do consumidor"],
-        "Energia (CPFE3, ELET3)": ["energia", "elétric", "aneel", "hidrelétric", "tarifas"],
-        "Câmbio / Exportadores": ["câmbio", "dólar", "exportaç", "importaç", "balança"],
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)": ["petrobras", "petróleo", "combustível", "pré-sal", "brent", "opep", "refinaria", "gasolina", "diesel"],
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)": ["vale", "minério", "ferro", "china", "aço", "siderúrgic", "gerdau", "csn", "usiminas"],
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)": ["selic", "juros", "crédito", "banco", "inadimplência", "spread", "copom", "itaú", "bradesco", "banco do brasil"],
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)": ["agro", "safra", "soja", "milho", "etanol", "açúcar", "commodities agrícolas", "fertilizante", "plano safra"],
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)": ["varejo", "consumo", "renda", "emprego", "confiança do consumidor", "e-commerce", "magazine", "lojas renner", "ambev"],
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)": ["energia", "elétric", "aneel", "hidrelétric", "tarifas", "eletrobras", "bandeira tarifária"],
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)": ["construção", "imobiliário", "imóveis", "minha casa", "construtora", "fgts", "financiamento imobiliário"],
+        "Saúde (HAPV3, RDOR3, FLRY3)": ["saúde", "hospital", "plano de saúde", "ans", "hapvida", "rede d'or", "farmác"],
+        "Tecnologia (TOTS3, LWSA3, POSI3)": ["tecnologia", "software", "startup", "inteligência artificial", "totvs", "data center"],
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)": ["aviação", "aérea", "querosene", "azul", "gol", "rumo", "ferrovia", "logística", "porto"],
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)": ["frigorífico", "carne", "jbs", "marfrig", "minerva", "boi", "exportação de carne", "gripe aviária"],
+        "Telecom (VIVT3, TIMS3)": ["telecom", "vivo", "tim", "5g", "anatel", "fibra"],
+        "Educação (COGN3, YDUQ3)": ["educação", "ensino superior", "fies", "cogna", "yduqs", "faculdade"],
+        "Câmbio / Exportadores": ["câmbio", "dólar", "exportaç", "importaç", "balança comercial"],
         "Todos os ativos": ["ibovespa", "bolsa", "b3", "bovespa", "mercado financeiro"],
     }
     encontrados = []
     for setor, palavras in mapa.items():
         if any(p in texto for p in palavras):
             encontrados.append(setor)
-    return encontrados[:4] if encontrados else ["Mercado geral"]
+    return encontrados[:3] if encontrados else ["Mercado geral"]
 
 
 def coletar_noticias(max_por_feed: int = 8) -> dict:
