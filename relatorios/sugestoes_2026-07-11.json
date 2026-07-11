@@ -2,8 +2,8 @@
   "data": "11/07/2026",
   "data_iso": "2026-07-11",
   "dia_semana": "Sábado",
-  "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 177.866 (+2.97%). Destaques: ONCO3, AZEV4, UGPA3. Semáforo: AMARELO.",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 177.866 (+2.97%). Destaques: ONCO3, AZEV4, UGPA3. Semáforo: AMARELO.",
   "semaforo": "amarelo",
   "sugestoes": [
     {
@@ -68,18 +68,6 @@
     },
     {
       "rank": 6,
-      "ticker": "PSSA3",
-      "acao": "OBSERVAR",
-      "preco": "54.97",
-      "entrada": "54.97",
-      "stop": "52.44",
-      "alvo": "63.22",
-      "rsi": 66.2,
-      "score": 45,
-      "porque": "RSI em 66.2 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 54.97."
-    },
-    {
-      "rank": 7,
       "ticker": "LAVV3",
       "acao": "OBSERVAR",
       "preco": "11.34",
@@ -89,6 +77,18 @@
       "rsi": 51.0,
       "score": 45,
       "porque": "RSI em 51.0 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 11.34."
+    },
+    {
+      "rank": 7,
+      "ticker": "CYRE3",
+      "acao": "OBSERVAR",
+      "preco": "23.06",
+      "entrada": "23.06",
+      "stop": "21.26",
+      "alvo": "26.52",
+      "rsi": 55.3,
+      "score": 40,
+      "porque": "RSI em 55.3 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 23.06."
     },
     {
       "rank": 8,
@@ -116,15 +116,15 @@
     },
     {
       "rank": 10,
-      "ticker": "MDIA3",
+      "ticker": "PSSA3",
       "acao": "OBSERVAR",
-      "preco": "17.97",
-      "entrada": "17.97",
-      "stop": "17.14",
-      "alvo": "20.67",
-      "rsi": 46.1,
+      "preco": "54.97",
+      "entrada": "54.97",
+      "stop": "52.44",
+      "alvo": "63.22",
+      "rsi": 66.2,
       "score": 40,
-      "porque": "RSI em 46.1 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 17.97."
+      "porque": "RSI em 66.2 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 54.97."
     }
   ]
 }
