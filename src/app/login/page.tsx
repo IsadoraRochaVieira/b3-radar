@@ -17,28 +17,36 @@ export default function LoginPage() {
     if (user) router.replace('/painel')
   }, [user, router])
 
-  const submit = (e: React.FormEvent) => {
+  const submit = async (e: React.FormEvent) => {
     e.preventDefault()
     setErro('')
-    setLoading(true)
 
-    setTimeout(() => {
+    if (modo === 'cadastro') {
+      if (!nome.trim() || !senha) { setErro('Preencha todos os campos.'); return }
+      if (senha.length < 4) { setErro('Senha deve ter pelo menos 4 caracteres.'); return }
+      const cap = parseFloat(capital.replace(',', '.'))
+      if (isNaN(cap) || cap < 100) { setErro('Capital deve ser pelo menos R$ 100.'); return }
+    }
+
+    setLoading(true)
+    try {
       if (modo === 'login') {
-        const r = login(nome, senha)
+        const r = await login(nome, senha)
         if (r === 'ok') router.replace('/painel')
         else if (r === 'nao_encontrado') setErro('Usuário não encontrado. Crie uma conta.')
-        else setErro('Senha incorreta.')
+        else setErro('Usuário ou senha incorretos.')
       } else {
-        if (!nome.trim() || !senha) { setErro('Preencha todos os campos.'); setLoading(false); return }
-        if (senha.length < 4) { setErro('Senha deve ter pelo menos 4 caracteres.'); setLoading(false); return }
         const cap = parseFloat(capital.replace(',', '.'))
-        if (isNaN(cap) || cap < 100) { setErro('Capital deve ser pelo menos R$ 100.'); setLoading(false); return }
-        const r = cadastrar(nome, senha, cap)
+        const r = await cadastrar(nome, senha, cap)
         if (r === 'ok') router.replace('/painel')
-        else setErro('Nome de usuário já existe. Escolha outro.')
+        else if (r === 'ja_existe') setErro('Nome de usuário já existe. Escolha outro.')
+        else setErro('Não foi possível criar a conta. Tente novamente.')
       }
+    } catch {
+      setErro('Erro de conexão. Tente novamente.')
+    } finally {
       setLoading(false)
-    }, 400)
+    }
   }
 
   return (
