@@ -20,8 +20,13 @@
   --green-bg: rgba(0,166,60,0.12);
   --red:      #e53555;
   --red-bg:   rgba(229,53,85,0.12);
-  --gold:     #d4920a;
-  --gold-bg:  rgba(212,146,10,0.12);
+
+  /* Caryo gold — cor-assinatura (polpa do pequi) */
+  --gold:        #d4920a;
+  --gold-bright: #f0b429;
+  --gold-deep:   #a06d08;
+  --gold-bg:     rgba(212,146,10,0.12);
+  --gold-grad:   linear-gradient(135deg, #d4920a, #f0b429);
 
   /* Text */
   --text:    #e8edf5;

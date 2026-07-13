@@ -2,7 +2,6 @@
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { useAuth } from '@/contexts/AuthContext'
-import PequiIcon from '@/components/PequiIcon'
 
 export default function LoginPage() {
   const { user, login, cadastrar } = useAuth()
@@ -15,7 +14,7 @@ export default function LoginPage() {
   const [loading, setLoading] = useState(false)
 
   useEffect(() => {
-    if (user) router.replace('/')
+    if (user) router.replace('/painel')
   }, [user, router])
 
   const submit = (e: React.FormEvent) => {
@@ -26,7 +25,7 @@ export default function LoginPage() {
     setTimeout(() => {
       if (modo === 'login') {
         const r = login(nome, senha)
-        if (r === 'ok') router.replace('/')
+        if (r === 'ok') router.replace('/painel')
         else if (r === 'nao_encontrado') setErro('Usuário não encontrado. Crie uma conta.')
         else setErro('Senha incorreta.')
       } else {
@@ -35,7 +34,7 @@ export default function LoginPage() {
         const cap = parseFloat(capital.replace(',', '.'))
         if (isNaN(cap) || cap < 100) { setErro('Capital deve ser pelo menos R$ 100.'); setLoading(false); return }
         const r = cadastrar(nome, senha, cap)
-        if (r === 'ok') router.replace('/')
+        if (r === 'ok') router.replace('/painel')
         else setErro('Nome de usuário já existe. Escolha outro.')
       }
       setLoading(false)
@@ -73,11 +72,12 @@ export default function LoginPage() {
 
         {/* Logo */}
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-          <PequiIcon size={64} />
-          <h1 style={{ fontSize: '1.8rem', fontWeight: 800, color: '#e8f5e9', letterSpacing: '-0.03em', marginTop: '0.75rem' }}>
-            B3 Radar
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/icone-pequi.png" alt="Caryo Map" width={64} height={64} style={{ objectFit: 'contain', filter: 'drop-shadow(0 0 14px rgba(240,180,41,0.5))' }} />
+          <h1 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#e8f5e9', letterSpacing: '-0.03em', marginTop: '0.75rem' }}>
+            Caryo <span style={{ color: '#f0b429' }}>Map</span>
           </h1>
-          <div style={{ display: 'flex', gap: '0.5rem', justifyContent: 'center', alignItems: 'center', marginTop: '0.25rem' }}>
+          <div style={{ display: 'flex', gap: '0.5rem', justifyContent: 'center', alignItems: 'center', marginTop: '0.4rem' }}>
             <span style={{ fontSize: '0.72rem', color: '#d4a017', background: '#d4a01720', border: '1px solid #d4a01740', borderRadius: 4, padding: '0.2rem 0.6rem', fontWeight: 700, letterSpacing: '0.1em' }}>
               PEQUI ESTÚDIO
             </span>
@@ -86,7 +86,7 @@ export default function LoginPage() {
             </span>
           </div>
           <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: '0.75rem' }}>
-            Análise técnica · Macro · Geopolítica
+            Descascamos o mercado · Mapeamos o ouro
           </p>
         </div>
 

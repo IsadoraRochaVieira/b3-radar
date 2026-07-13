@@ -42,19 +42,14 @@ export default function Nav({ ativa }: { ativa: Aba }) {
       }}>
 
         {/* Logo */}
-        <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 8, paddingRight: 16, borderRight: '1px solid #1c2538', textDecoration: 'none', flexShrink: 0 }}>
-          <div style={{
-            width: 28, height: 28,
-            background: 'linear-gradient(135deg, #1052cc, #2563eb)',
-            borderRadius: 7,
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            fontSize: 11, fontWeight: 800, color: '#fff',
-            fontFamily: 'var(--mono)',
-            flexShrink: 0,
-          }}>B3</div>
+        <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 9, paddingRight: 16, borderRight: '1px solid #1c2538', textDecoration: 'none', flexShrink: 0 }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/icone-pequi.png" alt="Caryo Map" width={28} height={28} style={{ objectFit: 'contain', filter: 'drop-shadow(0 0 6px rgba(240,180,41,0.35))', flexShrink: 0 }} />
           <div>
-            <div style={{ fontSize: 14, fontWeight: 700, color: '#e8edf5', letterSpacing: '-0.02em', lineHeight: 1 }}>Radar</div>
-            <div style={{ fontSize: 9, color: '#d4920a', background: 'rgba(212,146,10,0.12)', border: '1px solid rgba(212,146,10,0.25)', borderRadius: 3, padding: '0 4px', fontWeight: 600, letterSpacing: '0.06em', marginTop: 2, display: 'inline-block' }}>PEQUI</div>
+            <div style={{ fontSize: 15, fontWeight: 800, color: '#e8edf5', letterSpacing: '-0.02em', lineHeight: 1 }}>
+              Caryo<span style={{ color: 'var(--gold-bright)' }}> Map</span>
+            </div>
+            <div style={{ fontSize: 8.5, color: 'var(--muted)', letterSpacing: '0.14em', marginTop: 3, textTransform: 'uppercase' }}>Stock Market Radar</div>
           </div>
         </Link>
 
