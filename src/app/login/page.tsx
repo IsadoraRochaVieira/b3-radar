@@ -43,8 +43,33 @@ export default function LoginPage() {
   }
 
   return (
-    <main style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '1rem' }}>
-      <div style={{ width: '100%', maxWidth: 420 }}>
+    <main style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '1rem', position: 'relative', overflow: 'hidden' }}>
+      {/* Background de Vídeo */}
+      <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 0, overflow: 'hidden', background: '#07100a' }}>
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          style={{
+            position: 'absolute',
+            top: '50%',
+            left: '50%',
+            width: '100%',
+            height: '100%',
+            objectFit: 'cover',
+            transform: 'translate(-50%, -50%)',
+            opacity: 0.18,
+            filter: 'blur(2px) grayscale(30%)'
+          }}
+        >
+          <source src="/background.mp4" type="video/mp4" />
+        </video>
+        {/* Overlay escuro com gradiente para não ficar tão em evidência */}
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, rgba(13, 26, 16, 0.75), rgba(7, 16, 10, 0.95))' }} />
+      </div>
+
+      <div style={{ width: '100%', maxWidth: 420, position: 'relative', zIndex: 1 }}>
 
         {/* Logo */}
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
@@ -52,9 +77,14 @@ export default function LoginPage() {
           <h1 style={{ fontSize: '1.8rem', fontWeight: 800, color: '#e8f5e9', letterSpacing: '-0.03em', marginTop: '0.75rem' }}>
             B3 Radar
           </h1>
-          <span style={{ fontSize: '0.72rem', color: '#d4a017', background: '#d4a01720', border: '1px solid #d4a01740', borderRadius: 4, padding: '0.2rem 0.6rem', fontWeight: 700, letterSpacing: '0.1em' }}>
-            PEQUI ESTÚDIO
-          </span>
+          <div style={{ display: 'flex', gap: '0.5rem', justifyContent: 'center', alignItems: 'center', marginTop: '0.25rem' }}>
+            <span style={{ fontSize: '0.72rem', color: '#d4a017', background: '#d4a01720', border: '1px solid #d4a01740', borderRadius: 4, padding: '0.2rem 0.6rem', fontWeight: 700, letterSpacing: '0.1em' }}>
+              PEQUI ESTÚDIO
+            </span>
+            <span style={{ fontSize: '0.72rem', color: '#00e676', background: '#00e67620', border: '1px solid #00e67640', borderRadius: 4, padding: '0.2rem 0.6rem', fontWeight: 700, letterSpacing: '0.05em' }}>
+              INTELIGÊNCIA ARTIFICIAL ✨
+            </span>
+          </div>
           <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: '0.75rem' }}>
             Análise técnica · Macro · Geopolítica
           </p>
