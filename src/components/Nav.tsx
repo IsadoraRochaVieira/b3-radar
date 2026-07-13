@@ -4,10 +4,11 @@ import { useRouter, usePathname } from 'next/navigation'
 import { useState } from 'react'
 import { useAuth } from '@/contexts/AuthContext'
 
-type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias' | 'sugestoes'
+type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias' | 'sugestoes' | 'comite'
 
 const links: { href: string; label: string; id: Aba }[] = [
   { href: '/painel',        label: 'Relatórios',   id: 'home'        },
+  { href: '/comite',        label: 'A Mesa',       id: 'comite'      },
   { href: '/sugestoes',     label: '10 Sugestões', id: 'sugestoes'   },
   { href: '/segunda-feira', label: 'Segunda',      id: 'segunda'     },
   { href: '/macro',         label: 'Macro',        id: 'macro'       },

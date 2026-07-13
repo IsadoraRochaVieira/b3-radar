@@ -1,0 +1,148 @@
+{
+  "ticker": "UGPA3",
+  "empresa": "Ultrapar Participações S.A.",
+  "setor": "Distribuição de combustíveis e gás (Ipiranga, Ultragaz, Ultracargo)",
+  "preco": 30.71,
+  "data": "2026-07-10",
+  "dossie": {
+    "var_1d": 2.03,
+    "var_5d": 11.55,
+    "var_20d": 23.83,
+    "rsi": 79.3,
+    "macd_hist": 0.643,
+    "bb_pct": 106.0,
+    "vol_ratio": 1.61,
+    "atr_pct": 2.84,
+    "dist_min52": 110.1,
+    "dist_max52": 1.0,
+    "pl": 10.8,
+    "pvp": 1.99,
+    "roe": 19.2,
+    "dy_informado": "581% (dado da fonte inconsistente — descartado)",
+    "score": 45,
+    "classificacao": "OBSERVAR"
+  },
+  "analistas": [
+    {
+      "id": "quant",
+      "nome": "O Analista Gráfico",
+      "emoji": "📈",
+      "postura": "EVITAR",
+      "resumo": "Tendência excelente, ponto de entrada péssimo — o papel está esticado.",
+      "argumentos": [
+        "RSI em 79,3: zona de sobrecompra clássica (>70). Historicamente, entrar aqui é comprar de quem já ganhou.",
+        "Preço a 106% da Banda de Bollinger — rompeu a banda superior, o que sinaliza exaustão de curto prazo.",
+        "A 1,0% da máxima de 52 semanas e +23,8% em 20 pregões: a subida foi vertical, sem respiro.",
+        "MACD positivo (+0,643) e volume 1,6x confirmam a força — a tendência é real, só não a este preço."
+      ],
+      "riscos": [
+        "Quem compra esticado leva o tranco inteiro do primeiro repique de baixa.",
+        "ATR de 2,84%/dia: um stop honesto ficaria longe, piorando o risco/retorno."
+      ]
+    },
+    {
+      "id": "fundamentalista",
+      "nome": "A Fundamentalista",
+      "emoji": "📊",
+      "postura": "COMPRAR",
+      "resumo": "Negócio de qualidade a múltiplo razoável — mas separo empresa boa de compra boa.",
+      "argumentos": [
+        "P/L de 10,8x é moderado para uma distribuidora líder com marcas consolidadas (Ipiranga, Ultragaz).",
+        "ROE de 19,2% mostra rentabilidade sólida sobre o patrimônio — geração de valor consistente.",
+        "P/VP de 1,99 não é barato, mas é compatível com o retorno sobre patrimônio que a empresa entrega."
+      ],
+      "riscos": [
+        "Comprar uma tese boa no topo do gráfico transforma uma boa empresa em má compra.",
+        "Margens de distribuição são sensíveis à política de preços da Petrobras."
+      ]
+    },
+    {
+      "id": "cetico",
+      "nome": "O Cético",
+      "emoji": "🛡️",
+      "postura": "EVITAR",
+      "resumo": "Comprar a 1% da máxima depois de +24% é perseguir euforia. O risco/retorno aqui é negativo.",
+      "argumentos": [
+        "Assimetria ruim: pouco espaço até a máxima e muito chão até o suporte. Você arrisca mais do que pode ganhar.",
+        "O dividend yield informado (581%) é dado corrompido da fonte — sinal de alerta sobre a qualidade dos dados brutos deste papel.",
+        "Um stop defensivo teria que ficar abaixo da banda média (~R$ 28,3), a mais de 7% do preço — perda grande se a euforia virar."
+      ],
+      "riscos": [
+        "Reversões de papéis sobrecomprados costumam ser rápidas e violentas.",
+        "Fluxo comprador que inflou o preço pode sair tão rápido quanto entrou."
+      ]
+    },
+    {
+      "id": "macro",
+      "nome": "A Macroespecialista",
+      "emoji": "🌍",
+      "postura": "OBSERVAR",
+      "resumo": "Setor defensivo e resiliente, mas o vento macro não justifica pagar o topo.",
+      "argumentos": [
+        "Distribuição de combustível é proxy de atividade econômica: demanda relativamente inelástica, receita defensiva.",
+        "Com Selic a 14,25%, o custo de carrego pesa — e uma pagadora de renda perde atratividade relativa frente à renda fixa.",
+        "Exposição ao Brent e ao câmbio via preço de paridade: uma faca de dois gumes na margem de distribuição."
+      ],
+      "riscos": [
+        "Juro alto por mais tempo comprime o prêmio de risco de ações de dividendo.",
+        "Mudança na política de preços de combustível altera a dinâmica de margem do setor."
+      ]
+    },
+    {
+      "id": "dividendos",
+      "nome": "A Especialista em Dividendos",
+      "emoji": "💰",
+      "postura": "OBSERVAR",
+      "resumo": "Boa geradora de caixa para acumular em quedas — jamais perseguir no topo.",
+      "argumentos": [
+        "Três negócios geradores de caixa (Ipiranga, Ultragaz, Ultracargo) sustentam distribuição de renda recorrente.",
+        "ROE de 19,2% dá lastro à capacidade de remunerar o acionista de forma sustentável.",
+        "O DY exibido (581%) é ruído da fonte; o histórico real da Ultrapar roda na casa de um dígito — uso o ROE para julgar."
+      ],
+      "riscos": [
+        "Comprar caro derruba o dividend yield na sua carteira — renda passiva se constrói no preço certo.",
+        "Payout pode oscilar com o ciclo de investimentos da companhia."
+      ]
+    },
+    {
+      "id": "sentinela",
+      "nome": "A Sentinela de Notícias",
+      "emoji": "📰",
+      "postura": "OBSERVAR",
+      "resumo": "Há fluxo comprador incomum — mas o mercado parece já ter precificado a boa notícia.",
+      "argumentos": [
+        "Volume 1,6x acima da média com alta de +11,6% na semana indica entrada de fluxo relevante, não apenas ruído.",
+        "O movimento de +23,8% em 20 dias sugere que uma notícia positiva (resultado, desinvestimento ou reprecificação setorial) já circulou.",
+        "Sentimento de curto prazo claramente positivo — o que também significa expectativa alta já embutida."
+      ],
+      "riscos": [
+        "Quando a notícia já está no preço, o 'compre o boato, venda o fato' pune quem chega por último.",
+        "Falta de gatilho novo pode esvaziar o fluxo que sustentou a alta."
+      ]
+    },
+    {
+      "id": "small_caps",
+      "nome": "O Caçador de Small Caps",
+      "emoji": "🔎",
+      "postura": "ABSTENHO",
+      "resumo": "Fora do meu terreno. UGPA3 é large cap líquida, sem a assimetria de iliquidez que eu caço.",
+      "argumentos": [
+        "Papel grande e amplamente coberto por instituições — nenhuma gema escondida aqui.",
+        "A distorção de preço já foi capturada pelo mercado; não há o desconto de iliquidez que busco.",
+        "Meu voto não pesa neste caso: deixo a decisão para os colegas de técnica, fundamento e risco."
+      ],
+      "riscos": [
+        "Buscar assimetria onde não existe é inventar tese — prefiro me abster."
+      ]
+    }
+  ],
+  "sintese": {
+    "veredito": "OBSERVAR",
+    "placar": { "comprar": 1, "observar": 3, "evitar": 2, "abstencao": 1 },
+    "texto": "A mesa reconhece a Ultrapar como um negócio de qualidade — P/L de 10,8x e ROE de 19,2% sustentam a tese da Fundamentalista, e a Especialista em Dividendos vê uma geradora de caixa digna de carteira. Mas qualidade de empresa não é o mesmo que qualidade de entrada. O Analista Gráfico e o Cético convergem no ponto decisivo: com RSI a 79, o preço rompendo a banda superior de Bollinger e o papel a apenas 1% da máxima de 52 semanas após subir quase 24% em um mês, comprar agora é perseguir euforia. O risco/retorno está invertido — pouco espaço até o teto, muito chão até um suporte confiável. A Sentinela confirma que a boa notícia que moveu o papel provavelmente já está no preço. O veredito do comitê é OBSERVAR: excelente candidata para a lista de desejos, mas não a este ponto do gráfico. A disciplina de esperar o preço certo é o que separa acumular renda de comprar o topo.",
+    "gatilho": "Aguardar um recuo à região de R$ 28,0–28,5 (banda média / reteste de suporte) com o RSI voltando abaixo de 60. Nessa faixa, a tese de qualidade da Fundamentalista passa a ter risco/retorno saudável e o comitê reavaliaria para COMPRAR.",
+    "entrada_ref": "R$ 28,00–28,50 (aguardar pullback)",
+    "stop_ref": "R$ 27,30",
+    "alvo_ref": "R$ 34,00"
+  }
+}
