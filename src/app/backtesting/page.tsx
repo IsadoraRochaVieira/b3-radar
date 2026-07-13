@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import Nav from '@/components/Nav'
+import TickerLink from '@/components/TickerLink'
 
 function getBacktest() {
   const f = path.join(process.cwd(), 'relatorios', 'backtest_historico.json')
@@ -97,7 +98,7 @@ export default function BacktestingPage() {
                 <div key={i} style={{ background: '#0d1a10', border: '1px solid #ffdf0030', borderLeft: '4px solid #ffdf00', borderRadius: 10, padding: '0.9rem 1.2rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem' }}>
                     <div>
-                      <span style={{ fontWeight: 700, color: '#e8f5e9', fontSize: '1rem' }}>{op.ticker}</span>
+                      <TickerLink ticker={op.ticker} style={{ fontWeight: 700, fontSize: '1rem', fontFamily: 'var(--mono)' }} />
                       <span style={{ color: '#5a7a60', fontSize: '0.8rem', marginLeft: '0.75rem' }}>Entrada: R$ {op.preco_entrada} em {op.data_entrada}</span>
                     </div>
                     <div style={{ display: 'flex', gap: '0.75rem', fontSize: '0.82rem' }}>
@@ -145,7 +146,7 @@ export default function BacktestingPage() {
                   display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem',
                 }}>
                   <div>
-                    <span style={{ fontWeight: 700, color: '#e8f5e9' }}>{op.ticker}</span>
+                    <TickerLink ticker={op.ticker} style={{ fontWeight: 700, fontFamily: 'var(--mono)' }} />
                     <span style={{ color: '#5a7a60', fontSize: '0.78rem', marginLeft: '0.75rem' }}>
                       {op.data_entrada} → {op.data_saida}
                     </span>

@@ -7,7 +7,7 @@ import { useAuth } from '@/contexts/AuthContext'
 type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias' | 'sugestoes'
 
 const links: { href: string; label: string; id: Aba }[] = [
-  { href: '/',              label: 'Relatórios',   id: 'home'        },
+  { href: '/painel',        label: 'Relatórios',   id: 'home'        },
   { href: '/sugestoes',     label: '10 Sugestões', id: 'sugestoes'   },
   { href: '/segunda-feira', label: 'Segunda',      id: 'segunda'     },
   { href: '/macro',         label: 'Macro',        id: 'macro'       },

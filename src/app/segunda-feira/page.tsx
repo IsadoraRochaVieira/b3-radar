@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import Nav from '@/components/Nav'
+import TickerLink from '@/components/TickerLink'
 
 function getUltimo() {
   const dir = path.join(process.cwd(), 'relatorios')
@@ -58,7 +59,9 @@ export default function SegundaFeiraPage() {
           </div>
           <div style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '1rem', alignItems: 'flex-start' }}>
             <div>
-              <div style={{ fontSize: '2rem', fontWeight: 800, color: '#e8f5e9', letterSpacing: '-0.03em' }}>{pick_semana.ticker}</div>
+              <div style={{ fontSize: '2rem', fontWeight: 800, letterSpacing: '-0.03em' }}>
+                <TickerLink ticker={pick_semana.ticker} style={{ fontSize: '2rem', fontWeight: 800, fontFamily: 'var(--mono)' }} />
+              </div>
               <div style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: 2 }}>{pick_semana.nome}</div>
               {pick_semana.tese && <p style={{ color: '#a0c8a8', fontSize: '0.88rem', marginTop: 8, maxWidth: 400, lineHeight: 1.6 }}>{pick_semana.tese}</p>}
             </div>
@@ -91,7 +94,7 @@ export default function SegundaFeiraPage() {
             {picks.map((c: any) => (
               <div key={c.ticker} style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderLeft: '4px solid #009c3b', borderRadius: 10, padding: '1rem' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
-                  <span style={{ fontWeight: 700, fontSize: '1.1rem', color: '#e8f5e9' }}>{c.ticker}</span>
+                  <TickerLink ticker={c.ticker} style={{ fontWeight: 700, fontSize: '1.1rem', fontFamily: 'var(--mono)' }} />
                   <span style={{ color: '#00c44a', fontWeight: 700 }}>{c.score}pts</span>
                 </div>
                 <div style={{ display: 'flex', gap: '1rem', fontSize: '0.82rem' }}>

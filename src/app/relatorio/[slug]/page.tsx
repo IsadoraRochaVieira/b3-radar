@@ -43,7 +43,7 @@ export default async function RelatorioPage({ params }: { params: Promise<{ slug
 
       {/* Breadcrumb */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1.5rem', fontSize: '0.82rem', color: '#5a7a60' }}>
-        <Link href="/" style={{ color: '#5a7a60' }}>Relatórios</Link>
+        <Link href="/painel" style={{ color: '#5a7a60' }}>Relatórios</Link>
         <span>/</span>
         <span style={{ color: '#e8f5e9' }}>{r.data}</span>
       </div>

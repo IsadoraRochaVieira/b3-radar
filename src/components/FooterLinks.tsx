@@ -1,7 +1,7 @@
 'use client'
 
 const links = [
-  { label: 'Relatórios', href: '/' },
+  { label: 'Relatórios', href: '/painel' },
   { label: 'Sugestões',  href: '/sugestoes' },
   { label: 'Macro',      href: '/macro' },
   { label: 'Patrimônio', href: '/patrimonio' },
