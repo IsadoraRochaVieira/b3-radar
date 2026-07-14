@@ -17,6 +17,8 @@ export type Comite = {
     texto: string; gatilho: string
     entrada_ref: string | null; stop_ref: string | null; alvo_ref: string | null
   }
+  verificacao?: { conferido: boolean; ok: boolean | null; alertas: string[]; conferido_em?: string }
+  fontes?: string[]
 }
 
 const POST = {
@@ -169,8 +171,18 @@ export default function ComiteClient({ comites, fundamentos = {} }: { comites: C
       <div style={{ background: `linear-gradient(135deg, ${v.bg}, transparent)`, border: `1px solid ${v.cor}40`, borderLeft: `4px solid ${v.cor}`, borderRadius: 14, padding: '1.6rem', marginBottom: 26 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12, flexWrap: 'wrap', marginBottom: 14 }}>
           <span style={{ fontSize: 10, color: 'var(--muted)', letterSpacing: '0.14em', fontWeight: 700, textTransform: 'uppercase' }}>Sumário executivo do debate</span>
+          {c.verificacao?.conferido && c.verificacao.ok && (
+            <span title="Uma segunda IA conferiu que os números citados batem com o dossiê-fonte." style={{ background: 'rgba(0,166,60,0.12)', color: '#34d17e', border: '1px solid rgba(0,166,60,0.4)', borderRadius: 6, padding: '3px 9px', fontSize: 10.5, fontWeight: 700, fontFamily: 'var(--mono)' }}>
+              ✓ Números conferidos
+            </span>
+          )}
           <span style={{ marginLeft: 'auto', background: v.bg, color: v.cor, border: `1px solid ${v.cor}60`, borderRadius: 8, padding: '5px 14px', fontWeight: 800, fontSize: 15 }}>Veredito: {v.label}</span>
         </div>
+        {c.verificacao?.conferido && !c.verificacao.ok && c.verificacao.alertas.length > 0 && (
+          <div style={{ background: 'var(--gold-bg)', border: '1px solid rgba(212,146,10,0.35)', borderRadius: 8, padding: '9px 12px', marginBottom: 14, fontSize: 12.5, color: 'var(--text2)' }}>
+            <strong style={{ color: 'var(--gold-bright)' }}>⚠ Verificação:</strong> {c.verificacao.alertas.join(' · ')}
+          </div>
+        )}
 
         <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: 16 }}>
           {[
@@ -247,7 +259,26 @@ export default function ComiteClient({ comites, fundamentos = {} }: { comites: C
         })}
       </div>
 
-      <p style={{ color: 'var(--muted)', fontSize: 11, marginTop: 28, textAlign: 'center', fontFamily: 'var(--mono)' }}>
+      {/* Fontes */}
+      {c.fontes && c.fontes.length > 0 && (
+        <div style={{ marginTop: 26, background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 12, padding: '1.1rem 1.3rem' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 10 }}>
+            <span style={{ fontSize: 10, color: 'var(--muted)', letterSpacing: '0.14em', fontWeight: 700, textTransform: 'uppercase' }}>Fontes dos dados</span>
+            {c.verificacao?.conferido && c.verificacao.ok && (
+              <span style={{ fontSize: 10.5, color: '#34d17e', fontFamily: 'var(--mono)' }}>✓ conferido em {c.verificacao.conferido_em}</span>
+            )}
+          </div>
+          <ul style={{ margin: 0, padding: 0, listStyle: 'none', display: 'flex', flexDirection: 'column', gap: 7 }}>
+            {c.fontes.map((f, i) => (
+              <li key={i} style={{ display: 'flex', gap: 8, color: 'var(--text2)', fontSize: 12.5, lineHeight: 1.55 }}>
+                <span style={{ color: '#5b9bff', flexShrink: 0 }}>▸</span>{f}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <p style={{ color: 'var(--muted)', fontSize: 11, marginTop: 20, textAlign: 'center', fontFamily: 'var(--mono)' }}>
         Debate gerado pelo Comitê de IA do Caryo Map · Não é recomendação de investimento
       </p>
     </>

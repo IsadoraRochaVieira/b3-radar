@@ -1,7 +1,7 @@
 {
   "ticker": "WEGE3",
-  "empresa": "",
-  "setor": "",
+  "empresa": "WEG S.A.",
+  "setor": "Bens de capital — motores e equipamentos elétricos",
   "preco": "46,51",
   "data": "",
   "dossie": {
@@ -30,15 +30,15 @@
       "nome": "O Caçador de Small Caps",
       "emoji": "🔎",
       "postura": "ABSTENHO",
-      "resumo": "WEGE3 é uma blue chip consolidada com liquidez massiva, fora do escopo de caça deste comitê.",
+      "resumo": "WEGE3 é uma blue chip de alta liquidez e valuation esticado, fora do escopo de caça de pequenas pérolas do Caryo Map.",
       "argumentos": [
-        "Ação de altíssima capitalização e liquidez, incompatível com o perfil de Small Caps de baixa liquidez.",
-        "Múltiplos elevados como P/VP de 11,2 e P/L de 31,0 já precificam o crescimento de forma eficiente pelo mercado.",
-        "O ativo não apresenta a assimetria de preço ou o desinteresse institucional que buscamos para gerar alfa."
+        "Ação de grande capitalização e alta liquidez, incompatível com a estratégia de busca por Small Caps.",
+        "P/VP de 11,2 indica um prêmio elevado que não oferece a assimetria de entrada buscada.",
+        "P/L de 31,0 reflete um ativo precificado pelo mercado institucional, sem margem para descobertas fora do radar."
       ],
       "riscos": [
-        "Valuation esticado que limita o potencial de valorização explosiva.",
-        "Possível distorção no dado de DY informado, incompatível com a média histórica da companhia."
+        "Retração técnica em caso de correção setorial dada a alta distância da mínima de 52 semanas.",
+        "Risco de compressão de múltiplos em cenário de juros persistentes."
       ]
     },
     {
@@ -48,14 +48,14 @@
       "postura": "OBSERVAR",
       "resumo": "WEGE3 demonstra resiliência operacional e alta rentabilidade, mas o valuation esticado limita o potencial de valorização no curto prazo.",
       "argumentos": [
-        "ROE robusto de 32,5% sustenta a qualidade superior da companhia no setor industrial.",
-        "O P/L de 31,0 e P/VP de 11,2 indicam um preço já precificado para um cenário de crescimento otimista.",
-        "O RSI de 59,1 mostra que o ativo está em zona neutra, sem sobrecompra evidente, mas com momentum de alta consolidado nos últimos 20 dias.",
-        "A proximidade com a máxima de 52 semanas (16,7% de distância) sugere resistência técnica para novos movimentos de forte valorização."
+        "ROE robusto de 32,5% sustenta a qualidade superior dos ativos da companhia.",
+        "O P/L de 31,0 indica um prêmio elevado que exige crescimento constante para ser justificado.",
+        "O score técnico neutro (25/100) e a distância de 16,7% da máxima sugerem uma fase de consolidação lateral.",
+        "A forte performance recente de 9,41% nos últimos 20 dias já precificou parte do otimismo setorial."
       ],
       "riscos": [
-        "A possível manutenção de juros elevados (Selic/Fed) pressiona múltiplos de empresas de crescimento como a WEG.",
-        "Desaceleração global do setor industrial pode impactar as margens das exportações da companhia."
+        "Possível compressão de margens diante da volatilidade do câmbio e custos de insumos.",
+        "Risco de rotação de portfólio por investidores buscando ativos com P/VP mais atrativos."
       ]
     },
     {
@@ -63,16 +63,16 @@
       "nome": "O Analista Gráfico",
       "emoji": "📈",
       "postura": "OBSERVAR",
-      "resumo": "WEGE3 apresenta viés de alta consolidado, mas encontra-se em zona de exaustão de curto prazo, demandando cautela antes de novas posições.",
+      "resumo": "WEGE3 encontra-se em zona de indefinição técnica, sem força compradora clara para romper resistências imediatas.",
       "argumentos": [
-        "O preço está a 16,7% da máxima de 52 semanas, indicando que o ativo está em região de resistência relevante.",
-        "O RSI em 59,1 mostra força compradora, porém sem atingir sobrecompra, mantendo o papel em zona neutra de momentum.",
-        "A variação de 9,41% nos últimos 20 dias sugere um movimento de esticamento recente que pode antecipar uma correção técnica ou consolidação lateral.",
-        "O MACD histograma negativo em -0,039 aponta falta de aceleração compradora no curtíssimo prazo."
+        "O RSI de 59,1 indica neutralidade, sem sobrecompra ou sobrevenda que justifique uma entrada agressiva.",
+        "O MACD histograma negativo em -0,039 sinaliza perda de momentum de curto prazo apesar da alta recente.",
+        "O Bollinger %B em 67,2% mostra o ativo posicionado abaixo da banda superior, sugerindo falta de pressão compradora extrema.",
+        "O volume em 1,09x a média é insuficiente para confirmar um rompimento consistente da tendência atual."
       ],
       "riscos": [
-        "Retração técnica devido ao afastamento das médias após a alta acumulada no período de 20 dias.",
-        "Ocupação de 67,2% da Banda de Bollinger indica proximidade com o topo do canal, limitando o upside imediato."
+        "O ativo está a 16,7% de sua máxima de 52 semanas, enfrentando zona de resistência relevante.",
+        "A alta de 9,41% nos últimos 20 dias pode gerar realização de lucros de curto prazo antes de nova tentativa de alta."
       ]
     },
     {
@@ -80,15 +80,15 @@
       "nome": "A Fundamentalista",
       "emoji": "📊",
       "postura": "OBSERVAR",
-      "resumo": "WEGE3 é uma empresa de qualidade excepcional, mas o preço atual reflete um otimismo que ignora o risco de correção de múltiplos.",
+      "resumo": "WEGE3 é uma excelente empresa de alta qualidade operacional, mas os múltiplos atuais exigem cautela devido ao prêmio elevado.",
       "argumentos": [
-        "ROE de 32,5% confirma a alta eficiência operacional e vantagem competitiva da companhia.",
-        "O P/L de 31,0 e o P/VP de 11,2 indicam que a ação está sendo negociada com prêmios elevados em relação ao seu valor patrimonial e lucros.",
-        "O dado de Dividend Yield de 91,0% está tecnicamente corrompido ou distorcido, devendo ser desconsiderado na análise de retorno."
+        "O ROE de 32,5% confirma a alta eficiência na alocação de capital e qualidade do negócio.",
+        "O P/L de 31,0 e o P/VP de 11,2 indicam que a ação negocia com um prêmio significativo sobre seus fundamentos históricos.",
+        "O dado de Dividend Yield de 91,0% é tecnicamente impossível para o setor, indicando falha ou distorção na fonte de dados."
       ],
       "riscos": [
-        "Valuation esticado que deixa pouca margem de segurança para erros de execução ou desaceleração econômica.",
-        "Possibilidade de compressão de múltiplos caso o crescimento do lucro não acompanhe a expectativa precificada pelo mercado."
+        "Expansão de múltiplos excessiva que pode levar a uma correção caso o crescimento do lucro não acompanhe o otimismo do mercado.",
+        "Risco de liquidez ou erro de reporte nos dados de proventos que distorcem a percepção de valor para o investidor."
       ]
     },
     {
@@ -96,16 +96,16 @@
       "nome": "O Cético",
       "emoji": "🛡️",
       "postura": "EVITAR",
-      "resumo": "WEGE3 negocia em patamares de múltiplos proibitivos, com clara exaustão técnica e métricas de dividendos distorcidas.",
+      "resumo": "A tese está precificada para a perfeição, com múltiplos esticados e um DY possivelmente distorcido que esconde a falta de margem de segurança atual.",
       "argumentos": [
-        "P/VP de 11,2x e P/L de 31,0x indicam precificação de perfeição operacional, sem margem para erro.",
-        "RSI de 59,1 e a proximidade da máxima de 52 semanas sugerem que o ativo está esticado, não barato.",
-        "O DY informado de 91% é estatisticamente inconsistente com o histórico da empresa e distorce a realidade do fluxo de caixa.",
-        "Score técnico de 25/100 reflete falta de momentum comprador para justificar entrada nos níveis atuais."
+        "O P/VP de 11,2 é proibitivo, indicando que o mercado precifica crescimento exponencial que pode não se sustentar em ciclos de juros altos.",
+        "O P/L de 31,0 está em patamares de euforia, exigindo uma execução impecável que a empresa já tem dificuldade em superar dada a maturidade do negócio.",
+        "A proximidade da máxima de 52 semanas (16,7%) sugere que o ativo está operando próximo ao topo do canal, sem assimetria positiva de retorno.",
+        "O indicador DY de 91,0% é um outlier estatístico ou erro de leitura de dados, sinalizando inconsistência na base analítica ou payout insustentável."
       ],
       "riscos": [
-        "Risco de correção severa por múltiplo (multiple compression) caso o crescimento do lucro não acompanhe o P/L de 31x.",
-        "Volatilidade elevada com ATR de 2,32%/dia, expondo o investidor a oscilações que ignoram o valor intrínseco no curto prazo."
+        "Compressão severa de múltiplos caso a taxa de crescimento da receita desacelere diante da base comparativa alta.",
+        "Risco de liquidez e correção técnica acentuada caso o mercado ajuste o prêmio de risco sobre um P/VP de 11x."
       ]
     },
     {
@@ -113,16 +113,16 @@
       "nome": "A Especialista em Dividendos",
       "emoji": "💰",
       "postura": "EVITAR",
-      "resumo": "WEGE3 é uma excelente empresa, mas encontra-se com valuation esticado e DY irreal para a estratégia de renda.",
+      "resumo": "A WEGE3 é uma excelente empresa, mas o valuation atual e a inconsistência no dado de DY a tornam desinteressante para o foco em renda agora.",
       "argumentos": [
-        "O P/L de 31.0 e o P/VP de 11.2 indicam um preço muito elevado para uma estratégia focada em dividendos.",
-        "O DY de 91% é incompatível com a realidade do negócio, tratando-se provavelmente de evento não recorrente.",
-        "A ação está distante 37,7% da mínima de 52 semanas, descaracterizando a oportunidade de acumulação em queda.",
-        "O ROE de 32,5% confirma a alta qualidade operacional, porém não justifica o preço atual para quem busca margem de segurança."
+        "O P/VP de 11,2 e o P/L de 31,0 indicam que a empresa está sendo negociada com um prêmio muito elevado, desfavorável para a estratégia de acumulação.",
+        "O DY informado de 91% é irreal para o setor industrial, evidenciando uma distorção estatística que não reflete a capacidade real de geração de caixa recorrente.",
+        "A ação encontra-se a apenas 16,7% de sua máxima de 52 semanas, o que viola o princípio de não perseguir ativos em topos históricos.",
+        "O score técnico de 25/100 confirma que não há uma oportunidade clara de entrada baseada no momentum atual."
       ],
       "riscos": [
-        "Correção de múltiplos devido ao valuation excessivo e ausência de margem de segurança no preço atual.",
-        "Desaceleração do crescimento global impactando as margens de uma empresa precificada para crescimento perpétuo."
+        "Compressão de múltiplos devido ao preço atual muito acima do valor patrimonial.",
+        "Possível correção de preços caso o mercado reavalie o prêmio de crescimento em relação aos juros correntes."
       ]
     },
     {
@@ -130,15 +130,15 @@
       "nome": "A Sentinela de Notícias",
       "emoji": "📰",
       "postura": "OBSERVAR",
-      "resumo": "WEGE3 apresenta resiliência operacional, mas negocia com múltiplos esticados e momentum técnico lateralizado.",
+      "resumo": "O ativo mantém tendência de alta consolidada, mas apresenta esticamento recente que sugere cautela para novas entradas.",
       "argumentos": [
-        "P/VP elevado de 11,2 e P/L de 31,0 indicam que a ação está precificada com prêmio significativo, exigindo crescimento constante para justificar o valuation.",
-        "RSI em 59,1 e Bollinger %B em 67,2% sugerem que o ativo está em zona neutra, sem pressão compradora ou vendedora de exaustão.",
-        "Volume em 1,09x a média confirma falta de convicção direcional clara no curto prazo, apesar da alta recente de 9,41% nos últimos 20 dias."
+        "A valorização de 9,41% nos últimos 20 dias indica um fluxo comprador forte que pode estar próximo de uma exaustão de curto prazo.",
+        "O RSI de 59,1 e a banda de Bollinger em 67,2% mostram que o papel opera em zona neutra, sem sobrecompra imediata, mas distante de suportes relevantes.",
+        "O ROE de 32,5% justifica o prêmio no P/L de 31,0, mantendo a qualidade fundamentalista, apesar do preço estar a 16,7% da máxima de 52 semanas."
       ],
       "riscos": [
-        "Possível correção técnica caso o mercado reavalie os múltiplos de crescimento em um cenário de juros persistentes.",
-        "O DY informado parece distorcido ou pontual, o que pode gerar ruído na percepção de valor para investidores focados em dividendos."
+        "O indicador de DY informado (91,0%) parece conter distorção ou erro de dados, exigindo conferência antes de teses baseadas em dividendos.",
+        "A volatilidade representada pelo ATR de 2,32% sugere que correções técnicas podem ser bruscas caso o fluxo comprador perca ímpeto."
       ]
     }
   ],
@@ -149,10 +149,21 @@
       "observar": 4,
       "evitar": 2
     },
-    "texto": "O consenso do comitê reconhece a WEGE3 como uma das empresas de maior qualidade operacional na bolsa, sustentada por um ROE robusto e resiliência comprovada. Contudo, a divergência reside no descompasso entre a excelência da companhia e o seu valuation atual. Enquanto o otimismo de mercado sustenta o preço, os múltiplos esticados e a exaustão técnica de curto prazo sinalizam que o prêmio de risco para novos aportes é desfavorável neste momento. A marca Caryo Map prioriza a margem de segurança, e a euforia atual no ativo não oferece o desconto necessário para uma entrada confortável, recomendando paciência até que a precificação se alinhe novamente aos fundamentos.",
-    "gatilho": "Uma correção técnica que leve o ativo para próximo da média móvel de 200 períodos ou uma compressão de múltiplos que reduza o P/L para patamares históricos mais conservadores.",
-    "entrada_ref": "40,00 - 42,00",
-    "stop_ref": "37,50",
-    "alvo_ref": "52,00"
-  }
+    "texto": "WEGE3 permanece como uma das companhias de maior qualidade operacional na bolsa, o que justifica historicamente seu prêmio. Contudo, o comitê converge na visão de que o preço atual reflete um otimismo que deixa pouca margem para erros. Enquanto a resiliência e o ROE elevado sustentam a tese de longo prazo, a ausência de um desconto atrativo e a indefinição técnica atual sugerem que o investidor não deve se apressar, evitando comprar o topo de um ciclo de valorização recente sem um gatilho de correção que traga segurança à entrada.",
+    "gatilho": "Recuo para a média móvel de 200 períodos ou compressão dos múltiplos de P/L para patamares abaixo de 25x.",
+    "entrada_ref": "R$ 41,00 - R$ 43,00",
+    "stop_ref": "R$ 38,50",
+    "alvo_ref": "R$ 52,00"
+  },
+  "verificacao": {
+    "conferido": true,
+    "ok": true,
+    "alertas": [],
+    "conferido_em": "14/07/2026"
+  },
+  "fontes": [
+    "Preço e indicadores técnicos (RSI, MACD, Bollinger, volume): cálculo próprio sobre cotações do Yahoo Finance / brapi.dev.",
+    "Múltiplos (P/L, P/VP, ROE, DY): provedor de mercado — quando disponível, priorizamos os dados oficiais da CVM no Raio-X Fundamentalista.",
+    "Análise e síntese: geradas por IA a partir exclusivamente dos números acima, e conferidas por uma segunda verificação automática."
+  ]
 }

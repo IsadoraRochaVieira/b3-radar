@@ -30,15 +30,14 @@
       "nome": "O Caçador de Small Caps",
       "emoji": "🔎",
       "postura": "ABSTENHO",
-      "resumo": "BBAS3 é uma blue chip de alta liquidez e presença institucional, fora do meu escopo de atuação em microcaps.",
+      "resumo": "BBAS3 é uma blue chip de alta liquidez e presença institucional massiva, fora do escopo de caça deste comitê.",
       "argumentos": [
-        "Ativo de altíssima liquidez, incompatível com o perfil de assimetria de Small Caps",
-        "Volume negociado muito acima do meu radar de R$ 1M/dia",
-        "O papel está consolidado no radar dos grandes fundos e investidores institucionais"
+        "Ação de grande capitalização e alta liquidez, incompatível com o foco em micro/small caps.",
+        "O ativo é monitorado por todo o mercado institucional, eliminando a assimetria de informação que buscamos.",
+        "Bandeira de 'EVITAR' confirmada pelo próprio score técnico do dossiê."
       ],
       "riscos": [
-        "Exposição excessiva ao fluxo de capital institucional que ignora ineficiências de nicho",
-        "Alta sensibilidade a ruídos macroeconômicos e políticos devido ao tamanho da companhia"
+        "Exposição excessiva a ruído macro e fluxo institucional de grandes fundos que não operamos."
       ]
     },
     {
@@ -46,15 +45,15 @@
       "nome": "A Macroespecialista",
       "emoji": "🌍",
       "postura": "OBSERVAR",
-      "resumo": "BBAS3 apresenta valuation atrativo e fundamentos sólidos, mas o momento técnico indica sobrecompra no curto prazo.",
+      "resumo": "O papel apresenta valuation descontado e dividend yield atrativo, mas o momento técnico sugere exaustão no curto prazo.",
       "argumentos": [
-        "O P/VP de 0,63 sugere um desconto acentuado em relação ao valor patrimonial, reforçando a tese de valor.",
-        "O DY de 119% (embora pontual ou distorcido) e o P/L de 9,3 demonstram forte capacidade de geração de caixa e remuneração.",
-        "O indicador Bollinger %B em 108,9% sinaliza que o preço superou a banda superior, sugerindo exaustão compradora no curtíssimo prazo."
+        "O P/VP de 0,63 indica um desconto relevante frente ao valor patrimonial, sustentado por um ROE de 9,2%.",
+        "O DY de 119% é um destaque positivo para investidores focados em renda, apesar da volatilidade intrínseca ao setor bancário estatal.",
+        "O indicador Bollinger %B em 108,9% sinaliza que o preço superou a banda superior, indicando uma possível sobrecompra técnica no curto prazo."
       ],
       "riscos": [
-        "Possível pressão política sobre a política de crédito e dividendos do banco estatal.",
-        "Volatilidade macroeconômica afetando o risco de crédito e o custo de captação em um cenário de Selic elevada."
+        "Risco de interferência governamental na política de crédito e alocação de capital do Banco do Brasil.",
+        "Aumento da inadimplência em um cenário de juros elevados por mais tempo, pressionando a margem financeira líquida."
       ]
     },
     {
@@ -62,15 +61,15 @@
       "nome": "O Analista Gráfico",
       "emoji": "📈",
       "postura": "EVITAR",
-      "resumo": "Ativo encontra-se em zona de exaustão compradora com preço fora das bandas de volatilidade.",
+      "resumo": "Ativo tecnicamente esticado operando fora das bandas de Bollinger, sinalizando exaustão de curto prazo.",
       "argumentos": [
-        "Indicador Bollinger %B em 108,9% sinaliza que o preço rompeu a banda superior, indicando sobrecompra técnica.",
-        "O movimento de alta atual está com volume acima da média (1,29x), sugerindo um possível clímax de exaustão.",
-        "RSI em 59,4 aponta força, mas a proximidade com níveis de sobrecompra reduz a margem de segurança para novas entradas."
+        "Bollinger %B em 108,9% indica que o preço rompeu a banda superior, caracterizando sobrecompra imediata.",
+        "RSI em 59,4 aponta força compradora, porém sem margem de segurança para novas entradas neste nível de preço.",
+        "O volume 1,29x acima da média associado à alta recente sugere uma exaustão de movimento comprador."
       ],
       "riscos": [
-        "Risco elevado de correção técnica imediata devido ao fechamento fora da banda superior de Bollinger.",
-        "Afastamento da média móvel sugerido pela volatilidade ATR de 2,15% ao dia, aumentando a probabilidade de um pullback."
+        "Retração técnica esperada para a média móvel central das bandas de Bollinger.",
+        "Risco de correção de curto prazo dado o distanciamento da mínima de 52 semanas."
       ]
     },
     {
@@ -78,15 +77,16 @@
       "nome": "A Fundamentalista",
       "emoji": "📊",
       "postura": "OBSERVAR",
-      "resumo": "O banco apresenta múltiplos de valor atrativos, mas o dado de dividend yield é tecnicamente impossível e exige cautela na análise de fundamentos.",
+      "resumo": "O banco apresenta múltiplos de valor atrativos, mas o dado de dividend yield é tecnicamente impossível e sugere erro na fonte de dados.",
       "argumentos": [
-        "O P/VP de 0,63 e P/L de 9,3 indicam um desconto relevante em relação ao valor patrimonial e lucros históricos.",
-        "O ROE de 9,2% é modesto para o setor bancário, refletindo uma rentabilidade sobre o patrimônio abaixo do ideal.",
-        "O dado de DY de 119,0% é um outlier estatístico que sugere erro na fonte de dados ou evento não recorrente, devendo ser desconsiderado."
+        "O P/VP de 0,63 indica que a ação está sendo negociada com um desconto significativo em relação ao seu valor patrimonial.",
+        "O P/L de 9,3 é conservador para o setor bancário, sugerindo uma precificação descontada em relação aos lucros.",
+        "O ROE de 9,2% é medíocre para a eficiência histórica esperada do Banco do Brasil, indicando necessidade de análise sobre a rentabilidade.",
+        "O Dividend Yield informado de 119% é um dado corrompido ou fruto de eventos não recorrentes, invalidando qualquer análise de retorno via dividendos baseada nesta métrica."
       ],
       "riscos": [
-        "Risco de governança inerente ao controle estatal e possíveis ingerências na política de crédito.",
-        "Volatilidade técnica elevada, com o indicador Bollinger %B em 108,9% sugerindo que o ativo está operando fora da banda superior, indicando sobrecompra imediata."
+        "Risco de ingerência política que pressione a rentabilidade e o payout futuro.",
+        "Distorção na interpretação de valor devido à baixa qualidade da fonte de dados fornecida."
       ]
     },
     {
@@ -94,15 +94,15 @@
       "nome": "O Cético",
       "emoji": "🛡️",
       "postura": "EVITAR",
-      "resumo": "A tese é uma armadilha de valor baseada em dados distorcidos e indicadores técnicos esticados.",
+      "resumo": "O ativo apresenta sinais claros de exaustão técnica e métricas de valuation distorcidas por dados inconsistentes.",
       "argumentos": [
-        "O indicador Bollinger %B em 108,9% sinaliza que o ativo está operando fora da banda superior, indicando exaustão compradora.",
-        "O DY informado de 119% é estatisticamente inconsistente com o ROE de 9,2%, sugerindo eventos não recorrentes ou erro de precificação que mascaram a realidade do negócio.",
-        "O score técnico de 15/100 confirma que a entrada atual é mera perseguição de euforia em um momentum desfavorável."
+        "Bollinger %B em 108,9% indica que o papel opera fora da banda superior, sinalizando sobrecompra imediata.",
+        "O DY informado de 119% é matematicamente insustentável e sugere erro na base de dados ou evento não recorrente, invalidando a tese de dividendos.",
+        "Score técnico de 15/100 reflete a fragilidade da tendência frente à volatilidade atual medida pelo ATR de 2,15%."
       ],
       "riscos": [
-        "Risco de correção técnica severa devido à sobrecompra no curto prazo.",
-        "Risco de governança e precificação incorreta dado o descasamento entre múltiplos fundamentais e o DY reportado."
+        "Risco de correção técnica severa por estar operando acima da banda de Bollinger.",
+        "Assimetria negativa de risco/retorno ao comprar próximo à exaustão de curto prazo com ROE comprimido em 9,2%."
       ]
     },
     {
@@ -110,16 +110,15 @@
       "nome": "A Especialista em Dividendos",
       "emoji": "💰",
       "postura": "OBSERVAR",
-      "resumo": "O ativo apresenta fundamentos atrativos de valor, mas o momento técnico atual não justifica uma entrada imediata.",
+      "resumo": "Apesar do valuation descontado, o ativo apresenta sinais de estresse técnico no curto prazo e uma inconsistência crítica na leitura do DY.",
       "argumentos": [
-        "O P/VP de 0,63 indica um desconto relevante em relação ao valor patrimonial, típico de empresas maduras no setor bancário.",
-        "O P/L de 9,3 é conservador, sugerindo que o mercado precifica o ativo com margem de segurança.",
-        "O DY de 119% é tecnicamente inviável e deve ser desconsiderado como métrica de previsibilidade, devendo-se focar na sustentabilidade do ROE de 9,2%.",
-        "O indicador Bollinger %B em 108,9% sinaliza que o ativo está operando fora da banda superior, caracterizando um estiramento de preço no curto prazo."
+        "O P/VP de 0,63 e o P/L de 9,3 indicam um ativo subvalorizado sob a ótica de múltiplos históricos.",
+        "O valor de DY informado de 119% é tecnicamente irreal e sugere um erro de processamento ou evento não recorrente, invalidando a premissa de renda imediata.",
+        "O indicador Bollinger %B em 108,9% sinaliza que o preço está operando fora da banda superior, indicando exaustão compradora momentânea."
       ],
       "riscos": [
-        "Volatilidade elevada medida pelo ATR de 2,15%/dia, o que aumenta o risco de compras em topos locais.",
-        "Risco de correção técnica dado o esgotamento momentâneo demonstrado pelo score técnico de 15/100."
+        "Risco de correção técnica após o rompimento da banda superior de Bollinger.",
+        "Possível distorção na precificação devido à volatilidade alta (ATR de 2,15%/dia) em um cenário de mercado esticado."
       ]
     },
     {
@@ -127,30 +126,40 @@
       "nome": "A Sentinela de Notícias",
       "emoji": "📰",
       "postura": "EVITAR",
-      "resumo": "O ativo apresenta exaustão técnica de curto prazo com sinais de sobrecompra e precificação otimista.",
+      "resumo": "O ativo apresenta sinais de exaustão técnica com preço operando fora da banda superior de Bollinger, sugerindo sobrecompra imediata.",
       "argumentos": [
-        "Indicador Bollinger %B em 108,9% sinaliza que o preço está operando fora da banda superior, sugerindo sobrecompra.",
-        "Volume 1,29x acima da média acompanhado de variação positiva reforça uma possível exaustão do movimento atual.",
-        "RSI de 59,4 indica força compradora, mas próxima de zonas de resistência que limitam o potencial de alta imediato.",
-        "Avaliação de P/VP em 0,63 é atrativa, mas o momentum técnico atual é desfavorável para novas entradas."
+        "Indicador %B em 108,9% aponta que o preço está esticado acima da banda superior de Bollinger",
+        "Volume 1,29x acima da média acompanhado de alta sugere exaustão de curto prazo",
+        "RSI em 59,4 indica tendência de alta, mas sem força para romper patamares de sobrecompra extrema"
       ],
       "riscos": [
-        "Correção técnica iminente devido ao afastamento da média de Bollinger.",
-        "Possível distorção no DY informado, exigindo cautela na interpretação dos dividendos projetados."
+        "Correção técnica iminente devido ao afastamento da média de curto prazo",
+        "Possível realização de lucros após a alta acumulada nos últimos 20 dias"
       ]
     }
   ],
   "sintese": {
-    "veredito": "OBSERVAR",
+    "veredito": "EVITAR",
     "placar": {
       "comprar": 0,
       "observar": 3,
       "evitar": 3
     },
-    "texto": "O comitê encontra-se em um impasse prudente. Enquanto o valuation, traduzido pelo P/VP descontado, atrai os entusiastas de valor, a unanimidade técnica sobre a exaustão de curto prazo — corroborada pelo %B das Bandas de Bollinger acima de 100% — e a inconsistência nos dados de dividend yield sugerem que a euforia atual carece de sustentação fundamentalista sólida. O debate converge para a conclusão de que, embora BBAS3 possua méritos estruturais, o preço atual reflete uma pressão compradora momentânea que ignora riscos latentes, tornando a entrada agora um exercício de especulação de risco desnecessário.",
-    "gatilho": "Correção técnica que traga o preço para dentro das Bandas de Bollinger e correção das inconsistências nos dados de proventos.",
-    "entrada_ref": "19,20",
-    "stop_ref": "18,45",
-    "alvo_ref": "22,50"
-  }
+    "texto": "O comitê identifica uma divergência clara entre o valor intrínseco atrativo do banco e a atual exaustão técnica do ativo. Enquanto a base fundamentalista reconhece o desconto nos múltiplos, a cautela prevalece devido à inconsistência crítica nos dados de dividend yield e ao fato de o papel operar fora das bandas de Bollinger, sinalizando sobrecompra. A prudência recomenda não perseguir o movimento de curto prazo, dada a distorção nos indicadores e o risco de uma correção técnica iminente.",
+    "gatilho": "Correção técnica que retorne o preço para dentro das bandas de Bollinger e a clarificação dos dados de dividend yield.",
+    "entrada_ref": null,
+    "stop_ref": null,
+    "alvo_ref": null
+  },
+  "verificacao": {
+    "conferido": true,
+    "ok": true,
+    "alertas": [],
+    "conferido_em": "14/07/2026"
+  },
+  "fontes": [
+    "Preço e indicadores técnicos (RSI, MACD, Bollinger, volume): cálculo próprio sobre cotações do Yahoo Finance / brapi.dev.",
+    "Múltiplos (P/L, P/VP, ROE, DY): provedor de mercado — quando disponível, priorizamos os dados oficiais da CVM no Raio-X Fundamentalista.",
+    "Análise e síntese: geradas por IA a partir exclusivamente dos números acima, e conferidas por uma segunda verificação automática."
+  ]
 }
