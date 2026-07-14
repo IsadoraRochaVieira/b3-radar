@@ -41,7 +41,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
               <div style={{ borderTop: '1px solid #1c2538', paddingTop: '1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
                 <p style={{ color: '#2d3a4f', fontSize: 12 }}>
-                  Não é recomendação de investimento · Dados meramente educacionais
+                  Não é recomendação de investimento · Ferramenta educacional ·{' '}
+                  <a href="/termos" style={{ color: '#4d5f7a', textDecoration: 'underline' }}>Termos & Avisos</a>
                 </p>
                 <p style={{ color: '#2d3a4f', fontSize: 11, fontFamily: 'var(--mono)' }}>© 2026 Caryo Map · Pequi Estúdio</p>
               </div>

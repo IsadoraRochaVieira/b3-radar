@@ -180,8 +180,10 @@ export default function LoginPage() {
           </form>
         </div>
 
-        <p style={{ textAlign: 'center', color: '#5a7a60', fontSize: '0.75rem', marginTop: '1.5rem' }}>
-          Não é recomendação de investimento · Pequi Estúdio © 2026
+        <p style={{ textAlign: 'center', color: '#5a7a60', fontSize: '0.75rem', marginTop: '1.5rem', lineHeight: 1.6 }}>
+          Ao continuar, você concorda com os{' '}
+          <a href="/termos" style={{ color: '#d4a017', textDecoration: 'underline' }}>Termos &amp; Avisos</a>.<br/>
+          Ferramenta educacional · Não é recomendação de investimento · Pequi Estúdio © 2026
         </p>
       </div>
     </main>

@@ -1,10 +1,10 @@
 'use client'
 
 const links = [
-  { label: 'Relatórios', href: '/painel' },
-  { label: 'Sugestões',  href: '/sugestoes' },
-  { label: 'Macro',      href: '/macro' },
-  { label: 'Patrimônio', href: '/patrimonio' },
+  { label: 'Relatórios',   href: '/painel' },
+  { label: 'Market Map',   href: '/mapa' },
+  { label: 'A Mesa',       href: '/comite' },
+  { label: 'Termos & Avisos', href: '/termos' },
 ]
 
 export default function FooterLinks() {
