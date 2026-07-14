@@ -306,6 +306,17 @@ if __name__ == "__main__":
     top_tickers = [s["ticker"] for s in sugestoes[:3]]
     gerar_debates_comite(top_tickers)
 
+    # 6c. Market Map — matriz visual de toda a bolsa
+    try:
+        import glob as _glob
+        sys.path.insert(0, str(ROOT.parent))
+        from gerar_mapa import gerar_mapa
+        _csvs = sorted(_glob.glob(str(ROOT.parent / "b3_analise_*.csv")))
+        if _csvs:
+            gerar_mapa(_csvs[-1], RELATORIOS_DIR, hoje)
+    except Exception as e:
+        print(f"[MAPA] Falha ao gerar Market Map: {str(e)[:120]}")
+
     # 7. Monta e salva relatório
     relatorio = {
         "data":              agora.strftime("%d/%m/%Y"),
