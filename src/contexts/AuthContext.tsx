@@ -6,6 +6,8 @@ export type User = {
   nome: string
   capital: number
   createdAt: string
+  plano: 'gratuito' | 'anual' | 'mensal'
+  assinanteAte: string | null   // ISO date; null = sem assinatura
 }
 
 type LoginResult = 'ok' | 'senha_errada' | 'nao_encontrado'
@@ -13,6 +15,7 @@ type CadastroResult = 'ok' | 'ja_existe' | 'erro'
 
 type AuthCtx = {
   user: User | null
+  assinante: boolean
   carregando: boolean
   login: (nome: string, senha: string) => Promise<LoginResult>
   cadastrar: (nome: string, senha: string, capital: number) => Promise<CadastroResult>
@@ -41,7 +44,14 @@ function userDaSessao(meta: Record<string, unknown> | undefined, email: string |
     nome: (meta?.nome as string) ?? email ?? 'usuário',
     capital: Number(meta?.capital) || 0,
     createdAt: (meta?.createdAt as string) ?? new Date().toISOString(),
+    plano: (meta?.plano as User['plano']) ?? 'gratuito',
+    assinanteAte: (meta?.assinante_ate as string) ?? null,
   }
+}
+
+function calcAssinante(u: User | null): boolean {
+  if (!u || u.plano === 'gratuito' || !u.assinanteAte) return false
+  return new Date(u.assinanteAte).getTime() > Date.now()
 }
 
 export function AuthProvider({ children }: { children: ReactNode }) {
@@ -75,7 +85,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const stored = users[nome.trim().toLowerCase()]
     if (!stored) return 'nao_encontrado'
     if (stored.senha !== senha) return 'senha_errada'
-    const u: User = { nome: stored.nome, capital: stored.capital, createdAt: stored.createdAt }
+    const u: User = { nome: stored.nome, capital: stored.capital, createdAt: stored.createdAt, plano: 'gratuito', assinanteAte: null }
     setUser(u); localStorage.setItem(KEY_SESSION, JSON.stringify(u))
     return 'ok'
   }
@@ -97,9 +107,9 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const users = getUsers()
     const key = nome.trim().toLowerCase()
     if (users[key]) return 'ja_existe'
-    const u: StoredUser = { nome: nome.trim(), senha, capital, createdAt: new Date().toISOString() }
+    const u: StoredUser = { nome: nome.trim(), senha, capital, createdAt: new Date().toISOString(), plano: 'gratuito', assinanteAte: null }
     users[key] = u; setUsers(users)
-    const session: User = { nome: u.nome, capital: u.capital, createdAt: u.createdAt }
+    const session: User = { nome: u.nome, capital: u.capital, createdAt: u.createdAt, plano: 'gratuito', assinanteAte: null }
     setUser(session); localStorage.setItem(KEY_SESSION, JSON.stringify(session))
     return 'ok'
   }
@@ -124,7 +134,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }
 
   return (
-    <Ctx.Provider value={{ user, carregando, login, cadastrar, logout, atualizarCapital }}>
+    <Ctx.Provider value={{ user, assinante: calcAssinante(user), carregando, login, cadastrar, logout, atualizarCapital }}>
       {children}
     </Ctx.Provider>
   )

@@ -20,7 +20,7 @@ const links: { href: string; label: string; id: Aba }[] = [
 ]
 
 export default function Nav({ ativa }: { ativa: Aba }) {
-  const { user, logout } = useAuth()
+  const { user, logout, assinante } = useAuth()
   const router = useRouter()
   const [menuAberto, setMenuAberto] = useState(false)
 
@@ -85,6 +85,12 @@ export default function Nav({ ativa }: { ativa: Aba }) {
             <span className="dot-live" style={{ width: 6, height: 6, borderRadius: '50%', background: '#00a63c', display: 'inline-block' }}/>
             <span style={{ fontSize: 10, color: '#00a63c', fontWeight: 600, letterSpacing: '0.06em' }}>AO VIVO</span>
           </div>
+
+          {assinante ? (
+            <span title="Assinatura ativa" style={{ fontSize: 10, fontWeight: 700, color: '#f0b429', background: 'rgba(212,146,10,0.14)', border: '1px solid rgba(212,146,10,0.35)', borderRadius: 5, padding: '3px 8px', fontFamily: 'var(--mono)' }}>★ PRO</span>
+          ) : (
+            <Link href="/assinar" style={{ fontSize: 11, fontWeight: 700, color: '#0a0e14', background: 'linear-gradient(135deg,#d4920a,#f0b429)', borderRadius: 6, padding: '4px 11px', textDecoration: 'none' }}>Assinar ✨</Link>
+          )}
 
           {user && (
             <>

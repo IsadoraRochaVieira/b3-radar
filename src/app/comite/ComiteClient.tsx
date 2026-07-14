@@ -1,6 +1,8 @@
 'use client'
 import { useState, useEffect } from 'react'
 import TickerLink from '@/components/TickerLink'
+import Bloqueio from '@/components/Bloqueio'
+import { useAuth } from '@/contexts/AuthContext'
 
 type Analista = {
   id: string; nome: string; emoji: string
@@ -100,6 +102,7 @@ function RaioXCVM({ f }: { f: Fund }) {
 }
 
 export default function ComiteClient({ comites, fundamentos = {} }: { comites: Comite[]; fundamentos?: Record<string, Fund> }) {
+  const { assinante } = useAuth()
   const [idx, setIdx] = useState(0)
 
   // Abre direto na ação passada por ?t=TICKER (vindo das sugestões)
@@ -164,6 +167,11 @@ export default function ComiteClient({ comites, fundamentos = {} }: { comites: C
         })}
       </div>
 
+      <Bloqueio
+        liberado={assinante}
+        titulo="Debate completo da Mesa"
+        descricao="O veredito, os argumentos dos 7 analistas e o Raio-X Fundamentalista da CVM ficam liberados para assinantes. O dossiê técnico acima é gratuito."
+      >
       {/* Raio-X fundamentalista (CVM) */}
       {fundamentos[c.ticker] && <RaioXCVM f={fundamentos[c.ticker]} />}
 
@@ -277,6 +285,7 @@ export default function ComiteClient({ comites, fundamentos = {} }: { comites: C
           </ul>
         </div>
       )}
+      </Bloqueio>
 
       <p style={{ color: 'var(--muted)', fontSize: 11, marginTop: 20, textAlign: 'center', fontFamily: 'var(--mono)' }}>
         Debate gerado pelo Comitê de IA do Caryo Map · Não é recomendação de investimento

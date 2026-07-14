@@ -1,6 +1,8 @@
 'use client'
 import { useState, useEffect } from 'react'
 import TickerLink from '@/components/TickerLink'
+import Bloqueio from '@/components/Bloqueio'
+import { useAuth } from '@/contexts/AuthContext'
 
 type Sugestao = {
   rank: number
@@ -90,6 +92,7 @@ function PrecoAtual({ ticker, dados }: { ticker: string; dados: PrecoVivo }) {
 }
 
 export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[]; comDebate?: string[] }) {
+  const { assinante } = useAuth()
   const [diaIdx, setDiaIdx] = useState(0)
   const [filtro, setFiltro] = useState<'TODOS' | 'COMPRAR' | 'OBSERVAR' | 'EVITAR'>('TODOS')
   const [expandido, setExpandido] = useState<string | null>(null)
@@ -231,7 +234,12 @@ export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[];
         <span style={{ marginLeft: 'auto', fontSize: 11, color: 'var(--muted)' }}>{lista.length} itens</span>
       </div>
 
-      {/* Tabela */}
+      {/* Tabela — o dia mais recente é exclusivo para assinantes */}
+      <Bloqueio
+        liberado={assinante || diaIdx > 0}
+        titulo="As sugestões de hoje são para assinantes"
+        descricao="Os dias anteriores continuam gratuitos — use as abas acima para navegar. As sugestões frescas do dia, com entrada, stop e alvo, ficam no plano Caryo Map."
+      >
       <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 10, overflow: 'hidden' }}>
         {/* Cabeçalho */}
         <div style={{
@@ -343,6 +351,7 @@ export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[];
           )
         })}
       </div>
+      </Bloqueio>
 
       <p style={{ color: 'var(--muted)', fontSize: 11, marginTop: '1.5rem', textAlign: 'center', fontFamily: 'var(--mono)' }}>
         Clique no ticker para pesquisar no Google · Clique na linha para ver o motivo · Não é recomendação de investimento
