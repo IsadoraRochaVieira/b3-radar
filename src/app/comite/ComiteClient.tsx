@@ -32,7 +32,72 @@ const DOSSIE_LABELS: Record<string, string> = {
   var_20d: 'Var 20d', score: 'Score',
 }
 
-export default function ComiteClient({ comites }: { comites: Comite[] }) {
+type Fund = {
+  ticker: string; empresa: string; exercicio: number; fonte: string
+  receita: number | null; receita_cresc: number | null
+  lucro: number | null; lucro_cresc: number | null
+  margem_liquida: number | null; patrimonio_liquido: number | null; roe: number | null
+  leitura: string | null
+}
+
+function bi(v: number | null) {
+  if (v === null || v === undefined) return '—'
+  const abs = Math.abs(v)
+  if (abs >= 1e9) return `R$ ${(v / 1e9).toFixed(1)} bi`
+  if (abs >= 1e6) return `R$ ${(v / 1e6).toFixed(0)} mi`
+  return `R$ ${v.toFixed(0)}`
+}
+
+function RaioXCVM({ f }: { f: Fund }) {
+  const financeira = f.margem_liquida === null || f.receita === null
+  const cresc = (v: number | null) => {
+    if (v === null) return null
+    const cor = v >= 0 ? '#34d17e' : '#e5758a'
+    return <span style={{ color: cor, fontSize: 11, fontFamily: 'var(--mono)', marginLeft: 6 }}>{v >= 0 ? '▲' : '▼'} {Math.abs(v).toFixed(1)}%</span>
+  }
+  const metricas = [
+    { l: 'Receita líquida', v: bi(f.receita), extra: cresc(f.receita_cresc), hide: f.receita === null },
+    { l: 'Lucro líquido', v: bi(f.lucro), extra: cresc(f.lucro_cresc), hide: f.lucro === null },
+    { l: 'Margem líquida', v: f.margem_liquida !== null ? `${f.margem_liquida}%` : '—', hide: financeira },
+    { l: 'ROE', v: f.roe !== null ? `${f.roe}%` : '—', hide: f.roe === null },
+    { l: 'Patrimônio líquido', v: bi(f.patrimonio_liquido), hide: f.patrimonio_liquido === null },
+  ].filter(m => !m.hide)
+
+  return (
+    <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderLeft: '4px solid #5b9bff', borderRadius: 14, padding: '1.3rem 1.5rem', marginBottom: 22 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap', marginBottom: 14 }}>
+        <span style={{ fontSize: 10, color: 'var(--muted)', letterSpacing: '0.14em', fontWeight: 700, textTransform: 'uppercase' }}>Raio-X fundamentalista</span>
+        <span style={{ background: 'rgba(91,155,255,0.14)', color: '#5b9bff', border: '1px solid rgba(91,155,255,0.35)', borderRadius: 6, padding: '2px 9px', fontSize: 10, fontWeight: 700, fontFamily: 'var(--mono)' }}>
+          ✔ DADOS OFICIAIS CVM · {f.exercicio}
+        </span>
+      </div>
+
+      <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap', marginBottom: financeira || f.leitura ? 14 : 0 }}>
+        {metricas.map(m => (
+          <div key={m.l} style={{ background: 'var(--surface2)', border: '1px solid var(--border)', borderRadius: 8, padding: '8px 12px', minWidth: 120 }}>
+            <div style={{ fontSize: 9.5, color: 'var(--muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: 4 }}>{m.l}</div>
+            <div style={{ fontFamily: 'var(--mono)', fontSize: 15, fontWeight: 700, color: 'var(--text)' }}>{m.v}{m.extra}</div>
+          </div>
+        ))}
+      </div>
+
+      {financeira && (
+        <div style={{ fontSize: 11.5, color: 'var(--muted)', marginBottom: f.leitura ? 12 : 0 }}>
+          ⓘ Instituição financeira — receita e margem seguem plano de contas próprio e não são comparáveis a empresas não-financeiras.
+        </div>
+      )}
+
+      {f.leitura && (
+        <p style={{ color: 'var(--text2)', fontSize: 14, lineHeight: 1.7, margin: 0, fontStyle: 'italic', borderTop: '1px solid var(--border)', paddingTop: 12 }}>
+          {f.leitura}
+        </p>
+      )}
+      <div style={{ fontSize: 10, color: 'var(--muted)', marginTop: 10, fontFamily: 'var(--mono)' }}>Fonte: {f.fonte}</div>
+    </div>
+  )
+}
+
+export default function ComiteClient({ comites, fundamentos = {} }: { comites: Comite[]; fundamentos?: Record<string, Fund> }) {
   const [idx, setIdx] = useState(0)
 
   // Abre direto na ação passada por ?t=TICKER (vindo das sugestões)
@@ -96,6 +161,9 @@ export default function ComiteClient({ comites }: { comites: Comite[] }) {
           )
         })}
       </div>
+
+      {/* Raio-X fundamentalista (CVM) */}
+      {fundamentos[c.ticker] && <RaioXCVM f={fundamentos[c.ticker]} />}
 
       {/* Veredito */}
       <div style={{ background: `linear-gradient(135deg, ${v.bg}, transparent)`, border: `1px solid ${v.cor}40`, borderLeft: `4px solid ${v.cor}`, borderRadius: 14, padding: '1.6rem', marginBottom: 26 }}>

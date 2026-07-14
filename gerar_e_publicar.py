@@ -306,6 +306,18 @@ if __name__ == "__main__":
     top_tickers = [s["ticker"] for s in sugestoes[:3]]
     gerar_debates_comite(top_tickers)
 
+    # 6b2. Fundamentos oficiais da CVM para as ações debatidas
+    try:
+        sys.path.insert(0, str(ROOT.parent))
+        import fundamentos_cvm as fcvm
+        reg = fcvm.carregar_registro()
+        dfp = fcvm.carregar_dfp(int(os.environ.get("CVM_ANO", "2025")))
+        nomes = fcvm.nomes_brapi(top_tickers)
+        for tk in top_tickers:
+            fcvm.gerar_fundamentos(tk, nomes.get(tk, tk), reg, dfp, int(os.environ.get("CVM_ANO", "2025")))
+    except Exception as e:
+        print(f"[CVM] Falha ao gerar fundamentos: {str(e)[:120]}")
+
     # 6c. Market Map — matriz visual de toda a bolsa
     try:
         import glob as _glob

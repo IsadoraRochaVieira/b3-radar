@@ -12,8 +12,22 @@ function getComites(): Comite[] {
     .sort((a, b) => a.ticker.localeCompare(b.ticker))
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function getFundamentos(): Record<string, any> {
+  const dir = path.join(process.cwd(), 'relatorios')
+  if (!fs.existsSync(dir)) return {}
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const out: Record<string, any> = {}
+  for (const f of fs.readdirSync(dir).filter(f => f.startsWith('fundamentos_') && f.endsWith('.json'))) {
+    const tk = f.replace('fundamentos_', '').replace('.json', '')
+    out[tk] = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8'))
+  }
+  return out
+}
+
 export default function ComitePage() {
   const comites = getComites()
+  const fundamentos = getFundamentos()
 
   return (
     <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
@@ -35,7 +49,7 @@ export default function ComitePage() {
           Nenhum debate gerado ainda. Rode <span style={{ fontFamily: 'var(--mono)' }}>comite_ia.py</span>.
         </div>
       ) : (
-        <ComiteClient comites={comites} />
+        <ComiteClient comites={comites} fundamentos={fundamentos} />
       )}
     </main>
   )
