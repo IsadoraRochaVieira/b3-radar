@@ -13,8 +13,17 @@ function getSugestoes() {
     .map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8')))
 }
 
+function getTickersComDebate(): string[] {
+  const dir = path.join(process.cwd(), 'relatorios')
+  if (!fs.existsSync(dir)) return []
+  return fs.readdirSync(dir)
+    .filter(f => f.startsWith('comite_') && f.endsWith('.json'))
+    .map(f => f.replace('comite_', '').replace('.json', ''))
+}
+
 export default function SugestoesPage() {
   const dias = getSugestoes()
+  const comDebate = getTickersComDebate()
   return (
     <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
       <Nav ativa="sugestoes" />
@@ -26,7 +35,7 @@ export default function SugestoesPage() {
           Comprar · Observar · Evitar — com o motivo de cada decisão
         </p>
       </header>
-      <SugestoesClient dias={dias} />
+      <SugestoesClient dias={dias} comDebate={comDebate} />
     </main>
   )
 }

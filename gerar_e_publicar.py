@@ -156,6 +156,43 @@ def salvar_json(dados: dict, nome_arquivo: str):
     print(f"[OK] Salvo → {destino.name}")
 
 
+def gerar_debates_comite(tickers: list, empresas: dict | None = None):
+    """Gera o debate do Comitê de IA para as ações indicadas.
+    Roda só se GEMINI_API_KEY existir; nunca derruba o pipeline diário."""
+    if not os.environ.get("GEMINI_API_KEY"):
+        print("[COMITÊ] GEMINI_API_KEY não definida — pulando debates da Mesa.")
+        return
+    try:
+        import csv, glob
+        sys.path.insert(0, str(ROOT.parent))
+        import comite_ia
+    except Exception as e:
+        print(f"[COMITÊ] Não foi possível carregar comite_ia: {e}")
+        return
+
+    csvs = sorted(glob.glob(str(ROOT.parent / "b3_analise_*.csv")))
+    if not csvs:
+        print("[COMITÊ] Nenhum CSV do analisador encontrado.")
+        return
+    with open(csvs[-1], encoding="utf-8") as f:
+        rows = {r["ticker"]: r for r in csv.DictReader(f, delimiter=";")}
+
+    empresas = empresas or getattr(comite_ia, "EMPRESAS", {})
+    for tk in tickers:
+        row = rows.get(tk)
+        if not row:
+            continue
+        try:
+            print(f"[COMITÊ] Debatendo {tk}...")
+            emp, setor = empresas.get(tk, ("", ""))
+            out = comite_ia.gerar_comite(tk, row, emp, setor)
+            salvar_json(out, f"comite_{tk}.json")
+        except SystemExit as e:
+            print(f"[COMITÊ] {tk} abortado: {e}")
+        except Exception as e:
+            print(f"[COMITÊ] Falha em {tk}: {str(e)[:120]}")
+
+
 def git_push(mensagem: str):
     print("[GIT] Fazendo commit e push...")
     cmds = [
@@ -264,6 +301,10 @@ if __name__ == "__main__":
         "sugestoes": sugestoes,
     }
     salvar_json(dados_sugestoes, f"sugestoes_{hoje}.json")
+
+    # 6b. Comitê de IA debate as 3 principais sugestões do dia
+    top_tickers = [s["ticker"] for s in sugestoes[:3]]
+    gerar_debates_comite(top_tickers)
 
     # 7. Monta e salva relatório
     relatorio = {

@@ -89,7 +89,7 @@ function PrecoAtual({ ticker, dados }: { ticker: string; dados: PrecoVivo }) {
   )
 }
 
-export default function SugestoesClient({ dias }: { dias: Dia[] }) {
+export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[]; comDebate?: string[] }) {
   const [diaIdx, setDiaIdx] = useState(0)
   const [filtro, setFiltro] = useState<'TODOS' | 'COMPRAR' | 'OBSERVAR' | 'EVITAR'>('TODOS')
   const [expandido, setExpandido] = useState<string | null>(null)
@@ -325,6 +325,17 @@ export default function SugestoesClient({ dias }: { dias: Dia[] }) {
                         </div>
                       ))}
                     </div>
+                  )}
+
+                  {comDebate.includes(s.ticker) && (
+                    <a href={`/comite?t=${s.ticker}`} style={{
+                      display: 'inline-flex', alignItems: 'center', gap: 7, marginTop: 14,
+                      background: 'var(--gold-bg)', border: '1px solid rgba(212,146,10,0.35)',
+                      color: 'var(--gold-bright)', borderRadius: 8, padding: '7px 13px',
+                      fontSize: 12.5, fontWeight: 700, textDecoration: 'none',
+                    }}>
+                      🪙 Ver o debate da Mesa sobre {s.ticker} →
+                    </a>
                   )}
                 </div>
               )}

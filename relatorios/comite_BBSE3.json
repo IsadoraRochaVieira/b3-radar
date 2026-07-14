@@ -1,0 +1,159 @@
+{
+  "ticker": "BBSE3",
+  "empresa": "",
+  "setor": "",
+  "preco": "40,35",
+  "data": "",
+  "dossie": {
+    "ticker": "BBSE3",
+    "preco": "40,35",
+    "var_1d": "2,72",
+    "var_5d": "4,4",
+    "var_20d": "6,55",
+    "rsi": "71,9",
+    "macd_hist": "-0,031",
+    "bb_pct": "118,2",
+    "vol_ratio": "0,81",
+    "atr_pct": "1,8",
+    "dist_min52": "39,7",
+    "dist_max52": "0,1",
+    "pl": "8.5",
+    "pvp": "6,2",
+    "dy": "1327.0%",
+    "roe": "75.6%",
+    "score": "25",
+    "classificacao": "NEUTRO"
+  },
+  "analistas": [
+    {
+      "id": "small_caps",
+      "nome": "O Caçador de Small Caps",
+      "emoji": "🔎",
+      "postura": "ABSTENHO",
+      "resumo": "BBSE3 é uma blue chip de alta liquidez e grande capitalização, fora do escopo de análise do Caryo Map para Small Caps.",
+      "argumentos": [
+        "Ativo amplamente monitorado pelo mercado institucional (Blue Chip).",
+        "Volume financeiro elevado, incompatível com o perfil de baixa liquidez buscado.",
+        "Banda de Bollinger em 118,2% indica ativo operando fora da banda superior, sinalizando exaustão de curto prazo."
+      ],
+      "riscos": [
+        "RSI em 71,9 indica região de sobrecompra técnica.",
+        "Proximidade da máxima de 52 semanas (0,1%) limita a assimetria de valorização."
+      ]
+    },
+    {
+      "id": "macro",
+      "nome": "A Macroespecialista",
+      "emoji": "🌍",
+      "postura": "OBSERVAR",
+      "resumo": "A BBSE3 apresenta fundamentos sólidos e alta rentabilidade, mas o cenário técnico indica exaustão compradora próxima à máxima de 52 semanas.",
+      "argumentos": [
+        "O indicador RSI em 71,9 sinaliza região de sobrecompra, sugerindo cautela após a alta recente.",
+        "O Bollinger %B em 118,2% indica que o preço está operando fora da banda superior, evidenciando um estiramento técnico.",
+        "O ROE de 75,6% ratifica a eficiência operacional e a capacidade de geração de valor da companhia.",
+        "O P/L de 8,5 vezes permanece atrativo em relação ao histórico do setor, apesar da valorização acumulada."
+      ],
+      "riscos": [
+        "Possível realização de lucros de curto prazo dado o distanciamento da média móvel.",
+        "Sensibilidade à queda da curva de juros longa, que impacta a rentabilidade das aplicações financeiras da seguradora."
+      ]
+    },
+    {
+      "id": "quant",
+      "nome": "O Analista Gráfico",
+      "emoji": "📈",
+      "postura": "EVITAR",
+      "resumo": "Ativo encontra-se em zona de exaustão compradora e sobrecomprado, operando fora das Bandas de Bollinger.",
+      "argumentos": [
+        "RSI em 71,9 indica região de sobrecompra, sugerindo fadiga no movimento de alta.",
+        "Indicador %B em 118,2% sinaliza que o preço está operando acima da banda superior, caracterizando esticamento técnico.",
+        "Ativo negociado a apenas 0,1% da máxima de 52 semanas, sem espaço para expansão imediata sem correção.",
+        "Volume financeiro abaixo da média (0,81x) desqualifica a força do rompimento atual."
+      ],
+      "riscos": [
+        "Correção técnica iminente para retorno à média de Bollinger.",
+        "Risco de exaustão de compradores em níveis próximos aos topos históricos."
+      ]
+    },
+    {
+      "id": "fundamentalista",
+      "nome": "A Fundamentalista",
+      "emoji": "📊",
+      "postura": "OBSERVAR",
+      "resumo": "Empresa de alta qualidade operacional, porém negociando em zona de exaustão técnica e com dados de dividendos inconsistentes.",
+      "argumentos": [
+        "O ROE de 75,6% demonstra uma eficiência operacional excepcional e geração de valor robusta para o acionista.",
+        "O P/L de 8,5 sugere um valuation ainda razoável, contudo o P/VP de 6,2 indica um ágio elevado sobre o valor patrimonial.",
+        "O dado de DY de 1327% é claramente uma falha de fonte ou erro de reporte, devendo ser desconsiderado na análise.",
+        "O indicador Bollinger %B em 118,2% e o RSI em 71,9 sinalizam que o papel está operando em região de sobrecompra no curto prazo."
+      ],
+      "riscos": [
+        "Risco de correção técnica iminente devido à proximidade da máxima de 52 semanas e indicadores de momento esticados.",
+        "Dependência da performance do setor de seguros e das variações na taxa de juros que impactam o resultado financeiro."
+      ]
+    },
+    {
+      "id": "cetico",
+      "nome": "O Cético",
+      "emoji": "🛡️",
+      "postura": "EVITAR",
+      "resumo": "Ação em zona de exaustão técnica com preço colado na máxima de 52 semanas e RSI indicando sobrecompra severa.",
+      "argumentos": [
+        "Bollinger %B em 118,2% sinaliza que o ativo está operando fora da banda superior, caracterizando esticamento excessivo.",
+        "RSI de 71,9 confirma entrada em território de sobrecompra, sugerindo alta probabilidade de correção de curto prazo.",
+        "O DY de 1327% é um outlier estatístico que distorce a percepção de valor, provavelmente derivado de eventos não recorrentes.",
+        "Distância da máxima de 52 semanas em 0,1% demonstra que o mercado está pagando o preço máximo possível sem margem de segurança."
+      ],
+      "riscos": [
+        "Risco de reversão abrupta por exaustão compradora em região de resistência histórica.",
+        "Volatilidade implícita elevada com volume abaixo da média (0,81x), indicando falta de convicção institucional no topo."
+      ]
+    },
+    {
+      "id": "dividendos",
+      "nome": "A Especialista em Dividendos",
+      "emoji": "💰",
+      "postura": "EVITAR",
+      "resumo": "A ação está extremamente esticada no curto prazo e com preço próximo ao topo histórico, tornando a entrada atual ineficiente para um investidor focado em dividendos.",
+      "argumentos": [
+        "O indicador Bollinger %B em 118,2% e o RSI em 71,9 indicam sobrecompra técnica, sinalizando exaustão de alta.",
+        "O P/VP de 6,2 é elevado, sugerindo que o ágio atual reduz a margem de segurança para novos aportes.",
+        "O DY informado é distorcido por eventos não recorrentes, não refletindo a sustentabilidade da distribuição de renda passiva.",
+        "A proximidade da máxima de 52 semanas (0,1%) confirma que o ativo não está em um ponto de acumulação atraente."
+      ],
+      "riscos": [
+        "Correção técnica iminente devido ao afastamento das médias móveis e indicadores de sobrecompra.",
+        "Volatilidade do resultado operacional atrelada à sinistralidade do setor de seguros, que pode pressionar o fluxo de caixa futuro."
+      ]
+    },
+    {
+      "id": "sentinela",
+      "nome": "A Sentinela de Notícias",
+      "emoji": "📰",
+      "postura": "EVITAR",
+      "resumo": "O ativo encontra-se em zona de exaustão compradora e sobrecompra técnica, operando na máxima de 52 semanas sem suporte de volume.",
+      "argumentos": [
+        "RSI em 71,9 indica região de sobrecompra e Bollinger %B em 118,2% sinaliza que o preço está esticado fora da banda superior.",
+        "Ação negociada na máxima de 52 semanas com volume abaixo da média (0,81x), sugerindo falta de convicção compradora no topo.",
+        "O P/VP de 6,2 é elevado para o setor, indicando precificação otimista que já absorveu as expectativas recentes."
+      ],
+      "riscos": [
+        "Risco de realização de lucros técnica imediata devido à exaustão dos indicadores de momentum.",
+        "Possível distorção no cálculo do Dividend Yield informado, o que pode induzir a uma percepção errônea de valor."
+      ]
+    }
+  ],
+  "sintese": {
+    "veredito": "EVITAR",
+    "placar": {
+      "comprar": 0,
+      "observar": 2,
+      "evitar": 4
+    },
+    "texto": "Embora a BBSE3 apresente fundamentos operacionais robustos e uma rentabilidade invejável, o comitê converge para a prudência devido à exaustão técnica evidente. A ação negocia próxima à sua máxima de 52 semanas com indicadores de sobrecompra (RSI e Bollinger) que sugerem um risco assimétrico desfavorável para novas entradas no curto prazo. A divergência entre o otimismo fundamentalista e a cautela técnica reflete o momento atual: a qualidade da empresa é inquestionável, mas o preço atual não oferece a margem de segurança necessária para evitar uma correção técnica iminente.",
+    "gatilho": "Recuo para a média móvel de 200 períodos ou correção que devolva o RSI para a zona neutra (abaixo de 60), acompanhado de um aumento no volume comprador.",
+    "entrada_ref": "R$ 36,50 - R$ 37,50",
+    "stop_ref": "R$ 35,20",
+    "alvo_ref": "R$ 43,50"
+  }
+}

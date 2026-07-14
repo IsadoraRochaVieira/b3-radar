@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import TickerLink from '@/components/TickerLink'
 
 type Analista = {
@@ -34,6 +34,15 @@ const DOSSIE_LABELS: Record<string, string> = {
 
 export default function ComiteClient({ comites }: { comites: Comite[] }) {
   const [idx, setIdx] = useState(0)
+
+  // Abre direto na ação passada por ?t=TICKER (vindo das sugestões)
+  useEffect(() => {
+    const t = new URLSearchParams(window.location.search).get('t')
+    if (!t) return
+    const i = comites.findIndex(cm => cm.ticker.toUpperCase() === t.toUpperCase())
+    if (i >= 0) setIdx(i)
+  }, [comites])
+
   const c = comites[idx]
   const v = POST[c.sintese.veredito]
 
