@@ -1,6 +1,7 @@
 'use client'
 import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
+import CortinaNumeros from '@/components/CortinaNumeros'
 
 /* ── Radar de pequi: o núcleo dourado como tela de radar ── */
 function RadarPequi() {
@@ -139,9 +140,11 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* ── NÚMEROS ── */}
-      <section style={{ borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)', background: 'var(--surface)' }}>
-        <div className="cm-stats" style={{ maxWidth: 1100, margin: '0 auto' }}>
+      {/* ── NÚMEROS (com a Cortina de Números viva ao fundo) ── */}
+      <section style={{ position: 'relative', borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)', background: 'var(--surface)', overflow: 'hidden' }}>
+        <CortinaNumeros />
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(15,21,32,0.70), rgba(15,21,32,0.88))', pointerEvents: 'none' }} />
+        <div className="cm-stats" style={{ position: 'relative', maxWidth: 1100, margin: '0 auto', pointerEvents: 'none' }}>
           {[
             { n: '138', l: 'ações varridas por análise' },
             { n: '2×', l: 'mapas por dia útil' },
