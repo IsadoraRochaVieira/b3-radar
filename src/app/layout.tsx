@@ -10,8 +10,7 @@ import BackgroundFX from '@/components/BackgroundFX'
    IBM Plex Sans + Mono (engenharia, dígitos tabulares) = o dado, o mercado. */
 const display = Fraunces({
   subsets: ['latin'],
-  weight: ['600', '700', '900'],
-  axes: ['SOFT', 'WONK'],
+  axes: ['SOFT', 'WONK', 'opsz'],   // fonte variável: peso via CSS, com o "wonk" orgânico
   variable: '--font-display',
 })
 const sans = IBM_Plex_Sans({
@@ -33,8 +32,9 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="pt-BR">
-      <body className={`${display.variable} ${sans.variable} ${mono.variable}`}>
+    // as variáveis de fonte precisam existir no :root, onde o globals.css as consome
+    <html lang="pt-BR" className={`${display.variable} ${sans.variable} ${mono.variable}`}>
+      <body>
         <AuthProvider>
           <BackgroundFX />
           {children}

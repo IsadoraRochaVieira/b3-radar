@@ -71,8 +71,7 @@ export default function Landing() {
   return (
     <main style={{ overflow: 'hidden' }}>
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,600..900&display=swap');
-        .cm-display { font-family: 'Archivo', Inter, sans-serif; font-stretch: 125%; letter-spacing: -0.01em; }
+        .cm-display { font-family: var(--display); font-optical-sizing: auto; letter-spacing: -0.02em; }
         .cm-3col { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
         .cm-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; }
         .cm-ouro { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; }
@@ -89,23 +88,29 @@ export default function Landing() {
           color: #e8edf5; padding: 13px 24px; border-radius: 10px; text-decoration: none; font-size: 14px;
           background: rgba(10,14,20,0.4); backdrop-filter: blur(6px); transition: border-color 0.15s, color 0.15s; }
         .cm-ghost:hover { border-color: #f0b429; color: #f0b429; }
+        /* no celular o pequi vira atmosfera atrás do texto, não concorrente */
+        @media (max-width: 860px) {
+          .hero-pequi { width: 90% !important; right: -22% !important; bottom: 2% !important; opacity: .3 !important; }
+        }
         @media (prefers-reduced-motion: reduce) { .cm-cta:hover { transform: none; } }
       `}</style>
 
-      {/* ── HERO com vídeo ── */}
-      <section style={{ position: 'relative', minHeight: '100svh', display: 'flex', flexDirection: 'column' }}>
-        <video
-          autoPlay muted loop playsInline poster="/background-poster.jpg"
-          style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', zIndex: 0 }}
-        >
-          <source src="/background.mp4" type="video/mp4" />
-        </video>
+      {/* ── HERO — a cortina de números é o fundo; o pequi, a presença ── */}
+      <section style={{ position: 'relative', minHeight: '100svh', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+        <CortinaNumeros />
+        {/* pequi recortado: o ouro emergindo do fluxo de dados */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/pequi-corte.png" alt="" aria-hidden="true" className="hero-pequi" style={{
+          position: 'absolute', right: '-4%', bottom: '6%', width: '46%', maxWidth: 620,
+          zIndex: 1, pointerEvents: 'none', opacity: 0.92,
+          filter: 'drop-shadow(0 30px 70px rgba(0,0,0,0.75))',
+        }} />
         {/* overlay para legibilidade */}
-        <div style={{ position: 'absolute', inset: 0, zIndex: 1,
-          background: 'linear-gradient(180deg, rgba(10,14,20,0.72) 0%, rgba(10,14,20,0.55) 40%, rgba(10,14,20,0.92) 100%)' }} />
+        <div style={{ position: 'absolute', inset: 0, zIndex: 2, pointerEvents: 'none',
+          background: 'radial-gradient(120% 90% at 15% 40%, rgba(10,14,20,0.94) 0%, rgba(10,14,20,0.72) 45%, rgba(10,14,20,0.55) 100%), linear-gradient(180deg, rgba(10,14,20,0.55) 0%, transparent 35%, rgba(10,14,20,0.95) 100%)' }} />
 
         {/* header */}
-        <header style={{ position: 'relative', zIndex: 2, maxWidth: 1100, width: '100%', margin: '0 auto',
+        <header style={{ position: 'relative', zIndex: 3, maxWidth: 1100, width: '100%', margin: '0 auto',
           padding: '1.25rem 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -116,7 +121,7 @@ export default function Landing() {
         </header>
 
         {/* conteúdo do hero */}
-        <div style={{ position: 'relative', zIndex: 2, flex: 1, display: 'flex', alignItems: 'center',
+        <div style={{ position: 'relative', zIndex: 3, flex: 1, display: 'flex', alignItems: 'center',
           maxWidth: 1100, width: '100%', margin: '0 auto', padding: '2rem 1rem 4rem' }}>
           <div style={{ maxWidth: 680 }}>
             <div style={{ fontSize: 11, color: '#f0b429', letterSpacing: '0.2em', fontWeight: 700,
