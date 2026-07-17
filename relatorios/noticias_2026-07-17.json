@@ -1,38 +1,50 @@
 {
-  "coletado_em": "17/07/2026 09:49",
+  "coletado_em": "17/07/2026 16:01",
   "total": 30,
-  "urgentes": 0,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Dólar abre em alta, após tarifaço de Trump e com dados econômicos no radar",
-    "descricao": "Tarifaço: EUA confirmam cobrança de 25% sobre produtos brasileiros O dólar abriu a sessão desta sexta-feira (17) em alta, com um avanço de 0,25% perto das 9h, cotado a R$ 5,1109. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Investidores continuam a avaliar os possíveis efeitos das novas tarifas imposta",
-    "link": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 5,
-    "pub_date": "Fri, 17 Jul 2026 12:00:22 -0000",
+    "titulo": "Relatório diz que Bolsonaro teve crise 'forte' de soluços, com 36 horas de duração; medicação foi aumentada para controlar quadro",
+    "descricao": "Um relatório médico sobre as condições de saúde de Jair Bolsonaro enviado ao Supremo Tribunal Federal (STF) aponta que o ex-presidente teve, nesta semana, um \"forte e prolongado episódio de soluço\". De acordo com o documento oficial, a crise foi contínua e teve uma duração aproximada de 36 horas consecutivas. Para controlar o quadro, a equipe médica informou que foi necessária a administração de d",
+    "link": "https://g1.globo.com/politica/noticia/2026/07/17/relatorio-diz-que-bolsonaro-teve-forte-episodio-de-solucos-com-cerca-de-36-horas-de-duracao-medicacao-foi-aumentada-para-controlar-crise.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
+    "urgencia": "alta",
+    "score_relevancia": 1,
+    "pub_date": "Fri, 17 Jul 2026 18:33:59 -0000",
     "setores": [
-      "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-      "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-      "Câmbio / Exportadores"
+      "Saúde (HAPV3, RDOR3, FLRY3)"
     ]
   },
   "noticias": [
     {
-      "titulo": "Dólar abre em alta, após tarifaço de Trump e com dados econômicos no radar",
-      "descricao": "Tarifaço: EUA confirmam cobrança de 25% sobre produtos brasileiros O dólar abriu a sessão desta sexta-feira (17) em alta, com um avanço de 0,25% perto das 9h, cotado a R$ 5,1109. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Investidores continuam a avaliar os possíveis efeitos das novas tarifas imposta",
+      "titulo": "Relatório diz que Bolsonaro teve crise 'forte' de soluços, com 36 horas de duração; medicação foi aumentada para controlar quadro",
+      "descricao": "Um relatório médico sobre as condições de saúde de Jair Bolsonaro enviado ao Supremo Tribunal Federal (STF) aponta que o ex-presidente teve, nesta semana, um \"forte e prolongado episódio de soluço\". De acordo com o documento oficial, a crise foi contínua e teve uma duração aproximada de 36 horas consecutivas. Para controlar o quadro, a equipe médica informou que foi necessária a administração de d",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/17/relatorio-diz-que-bolsonaro-teve-forte-episodio-de-solucos-com-cerca-de-36-horas-de-duracao-medicacao-foi-aumentada-para-controlar-crise.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 18:33:59 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em alta e vai a R$ 5,13, com tarifaço de Trump e dados econômicos no radar; Ibovespa oscila",
+      "descricao": "Tarifaço: EUA confirmam cobrança de 25% sobre produtos brasileiros O dólar opera em alta nesta sexta-feira (17), com um avanço de 0,24% perto das 15h15, cotado a R$ 5,1107. Na máxima do dia, chegou a R$ 5,1328. Já o Ibovespa, principal índice da bolsa brasileira, operava com volatilidade e tinha queda de 0,19% no mesmo horário, aos 173.498 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o",
       "link": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 5,
+      "score_relevancia": 4,
       "pub_date": "Fri, 17 Jul 2026 12:00:22 -0000",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Câmbio / Exportadores"
+        "Câmbio / Exportadores",
+        "Todos os ativos"
       ]
     },
     {
@@ -49,20 +61,6 @@
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Projeção oficial de inflação sobe para 5,1%, com estouro da meta",
-      "descricao": "A guerra no Oriente Médio e os possíveis efeitos do El Niño fizeram a equipe econômica revisar para cima a projeção da inflação em 2026. A estimativa para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) subiu de 4,5% para 5,1%, ficando acima do teto da meta estabelecida pelo Conselho Monetário Nacional (CMN). A previsão de crescimento do Produto Interno Bruto (PIB) foi mantida em 2,3%. As n",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-oficial-de-inflacao-sobe-para-51-com-estouro-da-meta",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Wed, 15 Jul 2026 15:21:00 -0300",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -96,34 +94,65 @@
       ]
     },
     {
-      "titulo": "Irã ataca leste da Síria no primeiro ataque desse tipo durante guerra atual",
-      "descricao": "O alvo foi um antigo centro de operações dos EUA em al-Tanf, em retaliação à morte de soldados; Teerã também ameaçou paralisar as exportações de petróleo em Ormuz The post Irã ataca leste da Síria no primeiro ataque desse tipo durante guerra atual appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/ira-ataca-leste-da-siria-no-primeiro-ataque-desse-tipo-durante-guerra-atual/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Brasil deve colher safra recorde de soja em 2026/27, mas El Niño ameaça produtividade",
+      "descricao": "El Niño pode prejudicar florada e reduzir a produção da próxima safra de café A consultoria Safras & Mercado estima que o Brasil, maior produtor e exportador de soja do mundo, colherá uma safra recorde de 180,1 milhões de toneladas em 2026/27. O volume representa um crescimento de 0,98% em relação ao ciclo anterior, mas a expansão deve ser limitada por margens de lucro mais apertadas para os produ",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/17/brasil-deve-colher-safra-recorde-de-soja-em-202627-mas-el-nino-ameaca-produtividade.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Fri, 17 Jul 2026 12:47:52 +0000",
+      "pub_date": "Fri, 17 Jul 2026 17:09:35 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Starship não decola, ações da SpaceX caem e fortuna de Musk encolhe",
+      "descricao": "Uma transmissão ao vivo mostra o CEO da SpaceX, Elon Musk, no dia da oferta pública inicial (IPO) da SpaceX no Nasdaq MarketSite, na cidade de Nova York, EUA, 12 de junho de 2026. REUTERS/Jeenah Moon O voo da Starship não saiu do papel — nem da plataforma de lançamento — na última quinta-feira (16), mas o adiamento da missão já teve reflexos no mercado financeiro. 🗒️ Tem alguma sugestão de reporta",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/starship-nao-decola-acoes-da-spacex-caem-e-fortuna-de-musk-encolhe.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 16:11:48 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Tarifaço deve atingir 36,5% das exportações do agro para os EUA, diz CNA",
+      "descricao": "Governo classifica nova taxa dos EUA como 'absurda' A Confederação da Agricultura e Pecuária do Brasil (CNA) afirma que cerca de 36,5% das exportações do agronegócio brasileiro para os Estados Unidos deverão ser atingidas pela tarifa adicional de 25% anunciada pelo governo americano, prevista para entrar em vigor na próxima quarta-feira (22). 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 S",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/17/tarifaco-deve-atingir-365percent-das-exportacoes-do-agro-brasileiro-diz-cna.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 15:09:50 -0000",
+      "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Minério sobe com queda nos estoques portuários da China, apesar da oferta abundante",
-      "descricao": "A referência de minério de ferro ​para agosto na Bolsa de Cingapura subiu 0,1%, a US$100,2 por tonelada, registrando ​alta de 0,83% nesta semana The post Minério sobe com queda nos estoques portuários da China, apesar da oferta abundante appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/minerio-sobe-com-queda-nos-estoques-portuarios-da-china-apesar-da-oferta-abundante/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Petróleo sobe e se aproxima da maior alta semanal desde abril em meio a tensões no Oriente Médio",
+      "descricao": "Uma vista de drone mostra uma plataforma de petróleo offshore na Baía de Guanabara, em Niterói, no estado do Rio de Janeiro. Pilar Olivares / Reuters Os preços do petróleo sobem nesta sexta-feira (17) e caminham para registrar o maior avanço semanal desde abril. Perto das 11h, o barril do Brent, referência internacional da commodity, avançava 2,86%, cotado a US$ 86,64. Com isso, acumulava ganhos d",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/precos-petroleo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Fri, 17 Jul 2026 12:26:38 +0000",
+      "pub_date": "Fri, 17 Jul 2026 14:04:59 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Todos os ativos"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
     },
     {
@@ -142,90 +171,61 @@
       ]
     },
     {
-      "titulo": "Governo reconhece que EUA devem aplicar tarifa adicional de 12,5% por falha no combate ao trabalho forçado",
+      "titulo": "Quaest: Lula e Flávio Bolsonaro empatam no ES com 30% cada um",
+      "descricao": "Presidente Luiz Inácio Lula da Silva (PT) e senador Flávio Bolsonaro (PL-RJ) Reprodução Pesquisa Quaest divulgada nesta sexta-feira (17) mostra que Lula (PT) e Flávio Bolsonaro (PL) estão empatados com 30% no primeiro turno entre eleitores do estado do Espírito Santo. No 2º turno, Flávio aparece com 42% e Lula com 36%. O levantamento foi encomendado pela Rede Gazeta e ouviu 804 eleitores do Espíri",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/07/17/quaest-lula-e-flavio-bolsonaro-empatam-no-es-com-30percent-cada-um-no-1o-turno.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 15:15:10 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Moraes marca para 28 de julho depoimento de Flávio Bolsonaro em caso de suspeita de calúnia contra Lula",
+      "descricao": "Moraes marca data para Polícia Federal ouvir Flávio Bolsonaro O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para 28 de julho, às 14h, a oitiva do senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência da República, no caso que investiga uma suspeita de calúnia contra o presidente Luiz Inácio Lula da Silva (PT). ➡️Flávio deverá prestar depoimento à Polícia Federal",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/17/moraes-marca-para-28-de-julho-depoimento-de-flavio-bolsonaro-em-caso-de-suspeita-de-calunia-contra-lula.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 12:52:07 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Governo Trump pode ampliar o tarifaço contra o Brasil de 25% para 37,5% no fim de julho, avalia Planalto",
       "descricao": "O governo brasileiro reconhece que os Estados Unidos devem aplicar uma tarifa adicional de 12,5% por falha em proibir e fiscalizar a importação de mercadorias produzidas com trabalho forçado. A principal dúvida do governo brasileiro é se uma eventual tarifa aplicada ao fim desse processo será cumulativa à sobretaxa de 25% anunciada pelos americanos na madrugada desta quinta-feira (16). Segundo o m",
       "link": "https://g1.globo.com/economia/noticia/2026/07/17/governo-reconhece-que-eua-devem-aplicar-tarifa-adicional-de-125percent-por-falha-no-combate-ao-trabalho-forcado.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
       "pub_date": "Fri, 17 Jul 2026 03:00:36 -0000",
       "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Hugo Motta defende uso da reciprocidade contra EUA após anúncio do tarifaço",
-      "descricao": "Presidente da Câmara dos Deputados, Hugo Motta (REPUBLICANOS - PB) Kayo Magalhães / Câmara dos Deputados O presidente da Câmara dos Deputados, Hugo Motta (Republicanos), criticou nesta quinta-feira (16) a decisão do governo dos Estados Unidos de impor novas tarifas sobre produtos brasileiros e defendeu o uso da Lei da Reciprocidade Econômica como resposta à medida. Em nota, Motta afirmou que o Par",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/16/hugo-motta-defende-uso-da-reciprocidade-contra-eua-apos-anuncio-do-tarifaco.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Atividade econômica cresceu 0,1% em maio",
+      "descricao": "O Índice de Atividade Econômica do Banco Central (IBC-Br) subiu 0,1% em maio na comparação com abril de 2026. O resultado considera o ajuste sazonal. Nos últimos 12 meses, o indicador avançou 1,4% e tendo como base o trimestre, o crescimento ficou em 0,7%. Os números foram divulgados nesta sexta-feira (17) pelo Banco Central. Segundo a autoridade monetária, o IBC-Br é um indicador complementar ao ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/atividade-economica-cresceu-01-em-maio",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Fri, 17 Jul 2026 02:58:15 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Flávio Bolsonaro diz que foto com 'Sicário' de Vorcaro é manipulação de IA",
-      "descricao": "Flávio Bolsonaro com Daniella Marques em live nesta quinta-feira (16) Reprodução O senador Flávio Bolsonaro (PL) afirmou na noite desta quinta-feira (16) que é manipulação de inteligência artificial a foto em que aparece ao lado de Luiz Phillipi Machado de Moraes Mourão, o \"Sicário\" de Daniel Vorcaro, do Banco Master. A fala foi dada em uma live quando ele criticava o presidente Lula (PT) por não ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/16/flavio-bolsonaro-foto-sicario-vorcaro-manipulacao-ia.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 16 Jul 2026 22:33:21 -0000",
+      "pub_date": "Fri, 17 Jul 2026 11:53:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Quaest: Renato Casagrande lidera disputa pelo Senado no Espírito Santo",
-      "descricao": "Renato Casagrande (PSB), Rose de Freitas (MDB) e Paulo Hartung (PSD) Reprodução Pesquisa Quaest divulgada nesta quinta-feira (16) mostra como está a corrida pelo Senado no Espírito Santo. Serão duas vagas em disputa nas eleições de outubro. Na pesquisa espontânea — em que os nomes dos pré-candidatos não são mostrados aos eleitores —, 70% dizem que ainda não sabem em quem votar. Quaest no Espírito ",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/07/16/quaest-espirito-santo-senado-julho.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 16 Jul 2026 22:04:22 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Presidente do STF pede respeito à autonomia das instituições dos países e diz esperar o mesmo para as brasileiras",
-      "descricao": "Edson Fachin, presidente do Supremo Tribunal Federal (STF). Victor Piemonte/STF/Reprodução O presidente do Supremo Tribunal Federal (STF), Edson Fachin, divulgou uma nota à imprensa nesta quinta-feira (16) em que defende a autonomia das instituições de todas as nações e diz esperar igual respeito às instituições brasileiras. \"Divergências entre Estados devem ser conduzidas pelos canais diplomático",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/16/presidente-do-stf-pede-respeito-a-autonomia-das-instituicoes-dos-paises-e-diz-esperar-o-mesmo-para-as-brasileiras.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 16 Jul 2026 21:55:33 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Governo faz coletiva sobre novo tarifaço de 25% dos EUA contra Brasil",
-      "descricao": "Governo faz coletiva sobre novo tarifaço de 25% dos EUA contra Brasil Vice-presidente, Geraldo Alckmin, ministros e outros representantes do governo falam sobre as novas taxas aplicadas ao país. O ministro das Relações Exteriores, Mauro Vieira diz que novas tarifas dos EUA não têm justificativa.. Vieira ainda classifica como 'ofensivas' declarações de Rubio e diz que secretário dos EUA ataca Lula ",
-      "link": "https://g1.globo.com/politica/ao-vivo/governo-brasileiro-novo-tarifaco-de-trump.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 16 Jul 2026 21:03:38 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -245,17 +245,47 @@
       ]
     },
     {
-      "titulo": "Fazenda vai endurecer restrições para sites de bets, diz ministro",
-      "descricao": "O ministro da Fazenda, Dario Durigan, disse nesta quarta-feira (15) que o governo federal pretende endurecer as regras de funcionamento de plataformas de jogos on-line , conhecidas como bets. Após reunião com o presidente do Supremo Tribunal Federal (STF), Edson Fachin, para tratar do tema, Durigan disse que a pasta passará a monitorar mais de perto os sites de apostas para aprimorar a proteção da",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fazenda-vai-endurecer-restricoes-para-sites-de-bets-diz-ministro",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "ApexBrasil: tarifaço dos EUA pode pressionar inflação norte-americana",
+      "descricao": "Durante coletiva de imprensa, presidente da ApexBrasil, Laudemir Müller, classificou a medida como \"absurda do ponto de vista comercial\" e afirmou que ela não encontra respaldo em entre empresas brasileiras",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463388-apexbrasil-tarifaco-dos-eua-pode-pressionar-inflacao-norte-americana.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 15 Jul 2026 17:26:00 -0300",
+      "pub_date": "Fri, 17 Jul 2026 15:50:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Durigan chama ataque ao Pix de \"completo absurdo\" e descarta retaliação",
+      "descricao": "Ministro da Fazenda diz que sistema de pagamentos não será negociado e afirma que eventual medida de reciprocidade levará em conta os impactos sobre a economia brasileira",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463336-durigan-chama-ataque-ao-pix-de-completo-absurdo-e-descarta-retaliacao.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 14:20:00 -0300",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "CNA estima que tarifas dos EUA atingirão 36,5% das exportações do agro",
+      "descricao": "Entidade calcula que produtos equivalentes a US$ 4,6 bilhões permanecerão sujeitos ao tarifaço, apesar da ampliação da lista de exceções pelo governo norte-americano",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463132-cna-estima-que-tarifas-dos-eua-atingirao-365-das-exportacoes-do-agro.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 10:18:15 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
@@ -289,77 +319,95 @@
       ]
     },
     {
-      "titulo": "Xi apresenta China como líder da nova ordem global em IA, desafiando domínio dos EUA",
-      "descricao": "Essas declarações representaram a articulação mais clara de Xi até o momento sobre a ambição da China de moldar a governança global da IA The post Xi apresenta China como líder da nova ordem global em IA, desafiando domínio dos EUA appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/xi-apresenta-china-como-lider-da-nova-ordem-global-em-ia-desafiando-dominio-dos-eua/",
+      "titulo": "Ouro fecha em alta com demanda por segurança e expectativa de Fed mais restritivo",
+      "descricao": "O preço da commodity avançou puxado pela busca por segurança e queda nos juros dos Treasuries, embora tenha encerrado a semana com perdas acumuladas de 2,30% The post Ouro fecha em alta com demanda por segurança e expectativa de Fed mais restritivo appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-demanda-por-seguranca-e-expectativa-de-fed-mais-restritivo/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 12:44:18 +0000",
+      "pub_date": "Fri, 17 Jul 2026 18:25:13 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "BB pode ter alívio com programa de renegociação agro, mas cautela segue",
+      "descricao": "O governo federal publicou na noite de quarta-feira a Medida Provisória 1.376, criando um amplo programa de reestruturação de dívidas do setor rural, com taxas de juros de até 12% e prazos que podem chegar a 10 anos, incluindo 2 anos de carência The post BB pode ter alívio com programa de renegociação agro, mas cautela segue appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/bb-pode-ter-alivio-com-programa-de-renegociacao-agro-mas-cautela-segue/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 18:01:36 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "França bloqueia Polymarket e diz que plataforma opera de forma ilegal",
+      "descricao": "Alerta em publicidade de bets começa a valer nesta sexta-feira (17) A França bloqueou o acesso ao site de apostas Polymarket, informou nesta sexta-feira (17) a autoridade responsável por regular o setor de jogos de azar no país. Segundo o órgão, a plataforma pode expor usuários a perdas financeiras significativas e oferece apostas que podem ser manipuladas. Em comunicado, o regulador afirmou que, ",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/17/franca-bloqueia-polymarket-e-diz-que-plataforma-opera-de-forma-ilegal.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 18:48:46 -0000",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     },
     {
-      "titulo": "IGP-10 tem queda de 1,13% em julho com recuo do petróleo, diz FGV",
-      "descricao": "O indicador da FGV superou as projeções do mercado puxado pelos preços no atacado, refletindo a trégua temporária no Oriente Médio antes da nova escalada de tensões The post IGP-10 tem queda de 1,13% em julho com recuo do petróleo, diz FGV appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/igp-10-tem-queda-de-113-em-julho-com-recuo-do-petroleo-diz-fgv/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Meta e Anthropic negociam acordo de US$ 10 bilhões por aluguel de data centers, diz jornal",
+      "descricao": "Mark Zuckerberg, CEO da Meta Reuters/Mike Blake A Meta está em negociações para alugar parte de sua capacidade de processamento computacional para a Anthropic, dona do assistente Claude, informou nesta sexta-feira (17) o jornal The New York Times. Segundo a reportagem, que citou três pessoas com conhecimento das discussões, o possível acordo pode chegar a US$ 10 bilhões ao longo de dois anos. 🗒️ T",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/17/meta-e-anthropic-negociam-acordo-de-us-10-bilhoes-por-aluguel-de-data-centers-diz-jornal.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 12:43:21 +0000",
+      "pub_date": "Fri, 17 Jul 2026 18:34:29 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Burnham é oficializado líder trabalhista e assume lugar de Keir Starmer no dia 20",
-      "descricao": "Único candidato após a renúncia de Keir Starmer, o político recebeu amplo apoio de parlamentares e prometeu foco na economia e controle público de itens essenciais The post Burnham é oficializado líder trabalhista e assume lugar de Keir Starmer no dia 20 appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/burnham-e-oficializado-lider-trabalhista-e-assume-lugar-de-keir-starmer-no-dia-20/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Tarifaço: governo prepara programa para diversificar mercado com foco em setores afetados",
+      "descricao": "A Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil), autarquia ligada ao governo federal, prepara um programa de diversificação de mercados voltado, principalmente, para os setores afetados pelas novas tarifas dos Estados Unidos e aos beneficiados pelo acordo entre Mercosul e União Europeia. O plano, que será lançado no início de agosto, contará com investimento de R$ 130 ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/tarifaco-governo-prepara-programa-para-diversificar-mercado-com-foco-em-setores-afetados.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 12:40:12 +0000",
+      "pub_date": "Fri, 17 Jul 2026 16:04:11 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Como cultivar urucum",
+      "descricao": "Cartilha da Emater de Rondônia dá dicas de cultivo de urucum. Reprodução/TV TEM Quer informações sobre como produzir urucum? Uma publicação da Emater de Rondônia pode te ajudar. A cartilha gratuita reúne orientações sobre todas as etapas do cultivo: plantio, cultivares mais indicadas, tratos culturais e manejo da lavoura. O material também reúne informações sobre as principais pragas e doenças, al",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/17/como-cultivar-urucum.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 14:33:54 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Flávio volta a defender mulher como vice e cita Daniella Marques entre outras opções",
-      "descricao": "Na noite de ontem, o senador e pré-candidato à Presidência divulgou um plano político voltado às mulheres coordenado por Daniella The post Flávio volta a defender mulher como vice e cita Daniella Marques entre outras opções appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/flavio-volta-a-defender-mulher-como-vice-e-cita-daniella-marques-entre-outras-opcoes/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 12:22:44 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Dólar sobe acima de R$ 5,10 com escalada de ataques entre EUA e Irã",
-      "descricao": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,40%, aos R$5,0984 The post Dólar sobe acima de R$ 5,10 com escalada de ataques entre EUA e Irã appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17072026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 12:21:54 +0000",
-      "setores": [
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Sobe na guerra, não cai na trégua: por que os preços da gasolina e diesel demoram a cair nos postos",
+      "titulo": "Sobe na guerra, não desce na trégua: por que os preços da gasolina e diesel demoram a cair nos postos",
       "descricao": "Motorista abastece em um posto de gasolina em Los Angeles, nos Estados Unidos. Damian Dovarganes/AP Photo A imprevisibilidade do conflito entre os Estados Unidos e o Irã tem, mais uma vez, se refletido nos preços do petróleo. Com mais uma onda de ataques entre os dois países e a retomada do bloqueio naval ao Irã por parte dos EUA no Estreito de Ormuz— rota por onde passa cerca de 20% do comércio g",
       "link": "https://g1.globo.com/carros/noticia/2026/07/17/sobe-na-guerra-nao-cai-na-tregua-por-que-os-precos-da-gasolina-e-diesel-demoram-a-cair-nos-postos.ghtml",
       "fonte": "G1 Economia",
@@ -373,87 +421,43 @@
       ]
     },
     {
-      "titulo": "Meninos usam rosa... e meninas vão usar azul? Entenda tendência de cores para Copa do Mundo Feminina de 2027",
-      "descricao": "Chuteiras de futebol coloridas em vitrine de Manchester no final de junho de 2026 Temilade Adelaja/Reuters O rosa marcou a edição de 2026, presente nos pés de jogadores de todas as seleções masculinas que participaram do mundial, com as principais fabricantes de chuteiras estampando variações sobre o mesmo tom. Mas qual tonalidade será a tendência no torneio de 2027? Se dá para “chutar” uma, é o a",
-      "link": "https://g1.globo.com/guia/guia-de-compras/moda-e-beleza/meninos-usam-rosa-e-meninas-vao-usar-azul-entenda-tendencia-de-cores-para-copa-do-mundo-feminina-de-2027.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 06:00:44 -0000",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
-      ]
-    },
-    {
-      "titulo": "Por que o Brasil terá a maior tarifa média dos Estados Unidos na América do Sul",
-      "descricao": "Desde que assumiu o segundo mandato Trump, ameaça diferentes países com taxação CNP/AdMedia/picture alliance via DW O Brasil passará a ter a maior tarifa aplicada pelos Estados Unidos entre os países da América do Sul a partir de 22 de julho, quando passam a valer as novas taxas impostas por Donald Trump na última quarta-feira (15). O dado é do Global Trade Alert (GTA), iniciativa do St. Gallen En",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/17/por-que-o-brasil-tera-a-maior-tarifa-media-dos-estados-unidos-na-america-do-sul.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 06:00:29 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "O tarifaço de Trump: a negociação e as taxas contra o Brasil - O Assunto #1763",
-      "descricao": "O governo dos Estados Unidos oficializou que irá impor a sobretaxa de 25% sobre uma ampla gama de produtos brasileiros a partir do dia 22 de julho. A decisão é resultado de uma investigação do Escritório do Representante de Comércio americano sobre supostas \"práticas desleais\" da economia brasileira – o relatório final cita desmatamento, proteção de propriedade intelectual, tratamento às big techs",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/17/o-tarifaco-de-trump-a-negociacao-e-as-taxas-contra-o-brasil-o-assunto-1763.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 03:30:09 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Documento do tarifaço menciona presidente dos EUA mais de dez vezes e governo vê digital política de Trump",
-      "descricao": "EUA confirmam nova tarifa de 25% sobre produtos brasileiros O governo brasileiro analisou o documento técnico do Escritório do Representante Comercial dos Estados Unidos (USTR na sigla em inglês), responsável pela investigação e proposta do novo tarifaço, e identificou um trecho que se repete mais de dez vezes. Logo na primeira página do documento técnico, o trecho mencionado pelo governo aparece:",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/17/documento-do-tarifaco-menciona-presidente-dos-eua-mais-de-dez-vezes-e-governo-ve-digital-politica-de-trump.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 03:00:46 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Alerta em publicidade de bets começa a valer nesta sexta; entenda como vai funcionar",
-      "descricao": "Novas regras para publicidade de apostas online — conhecidas como bets — passam a valer nesta sexta-feira (17). Com isso, toda publicidade de bet será acompanhada de uma advertência, semelhante com o que acontece com propagandas de cigarros e bebidas alcoólicas. As publicidades devem alertar sobre os riscos associados de dependência e de transtornos do jogo patológico, com uma das seguintes frases",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/17/alerta-em-publicidade-de-bets-comeca-a-valer-nesta-sexta-entenda-como-vai-funcionar.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 03:00:19 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "'Defender mulher é pauta de direita', diz Flávio Bolsonaro ao anunciar propostas para mulheres",
-      "descricao": "Flávio Bolsonaro com Daniella Marques em live nesta quinta-feira (16) Reprodução O senador e pré-candidato à Presidência Flávio Bolsonaro (PL) afirmou que a defesa das mulheres é uma pauta da direita porque, segundo ele, \"quem gosta de criminoso é a esquerda\". A declaração foi feita durante uma live realizada nesta quinta-feira (16), em que lançou o plano \"Brasil por Elas\", conjunto de propostas v",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/16/flavio-bolsonaro-anuncia-propostas-para-mulheres.ghtml",
+      "titulo": "Lula diz que EUA não vão 'enganar sociedade brasileira' e espera declaração de Trump sobre novo tarifaço",
+      "descricao": "Lula diz que Trump 'não vai enganar a sociedade brasileira' O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (17) que só comentará o novo tarifaço depois que o presidente norte-americano Donald Trump se manifestar sobre o assunto. Lula disse também que não permitirá que a sociedade seja enganada pelos Estados Unidos. \"Eu falei para caramba e não falei do tarifaço. Não vou fala",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/17/lula-diz-so-comentara-sobre-novo-tarifaco-dos-estados-unidos-depois-que-trump-se-manifestar.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 22:45:49 -0000",
+      "pub_date": "Fri, 17 Jul 2026 17:40:28 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Quaest: 87% não pretendem entrar em grupos de WhatsApp de política nas eleições de 2026",
+      "descricao": "O que mostra a pesquisa Quaest após a briga entre Michelle e Flávio Bolsonaro Pesquisa Genial/Quaest divulgada nesta sexta-feira (17) mostra que a maior parte dos brasileiros não pretende entrar em grupos de WhatsApp de política nas eleições de 2026. A preferência dos eleitores é acompanhar o noticiário sobre política, as entrevistas com os candidatos e as propostas e programas de governo. O levan",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/17/quaest-87percent-nao-pretendem-entrar-em-grupos-de-whatsapp-de-politica-nas-eleicoes-de-2026.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 17:12:27 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Queda de Flávio Bolsonaro em pesquisa coincide com aumento de indecisos, aponta Quaest",
+      "descricao": "O que mostra a pesquisa Quaest após a briga entre Michelle e Flávio Bolsonaro A pesquisa Quaest divulgada na quarta-feira (15) mostra que o percentual de eleitores indecisos sobre o voto no 1º turno aumentou de 5%, em maio, para 11%. Esse movimento coincide com a queda de Flávio Bolsonaro (PL) na pesquisa desde maio. Ele passou de 33% das intenções de voto naquele mês para 28% agora. O presidente ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/17/quaest-flavio-bolsonaro-lula-indecisos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 15:15:27 -0000",
       "setores": [
         "Mercado geral"
       ]
