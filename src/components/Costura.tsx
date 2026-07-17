@@ -13,9 +13,11 @@ export default function Costura({ margem = '0' }: { margem?: string }) {
   useEffect(() => {
     const el = ref.current
     if (!el) return
+    // divisor tem 1px de altura: threshold 0 é o único confiável aqui.
+    if (typeof IntersectionObserver === 'undefined') { setVisivel(true); return }
     const obs = new IntersectionObserver(([e]) => {
       if (e.isIntersecting) { setVisivel(true); obs.disconnect() }
-    }, { threshold: 0.4 })
+    }, { threshold: 0 })
     obs.observe(el)
     return () => obs.disconnect()
   }, [])
