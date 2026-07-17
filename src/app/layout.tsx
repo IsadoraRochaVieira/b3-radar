@@ -1,11 +1,29 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Fraunces, IBM_Plex_Sans, IBM_Plex_Mono } from 'next/font/google'
 import './globals.css'
 import { AuthProvider } from '@/contexts/AuthContext'
 import FooterLinks from '@/components/FooterLinks'
 import BackgroundFX from '@/components/BackgroundFX'
 
-const inter = Inter({ subsets: ['latin'], weight: ['400', '500', '600', '700', '800', '900'] })
+/* Sistema tipográfico "Editorial do Cerrado":
+   Fraunces (serifada quente e orgânica) = a voz da marca, o fruto.
+   IBM Plex Sans + Mono (engenharia, dígitos tabulares) = o dado, o mercado. */
+const display = Fraunces({
+  subsets: ['latin'],
+  weight: ['600', '700', '900'],
+  axes: ['SOFT', 'WONK'],
+  variable: '--font-display',
+})
+const sans = IBM_Plex_Sans({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-sans',
+})
+const mono = IBM_Plex_Mono({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-mono',
+})
 
 export const metadata: Metadata = {
   title: 'Caryo Map · Radar de análise da B3',
@@ -16,7 +34,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR">
-      <body className={inter.className}>
+      <body className={`${display.variable} ${sans.variable} ${mono.variable}`}>
         <AuthProvider>
           <BackgroundFX />
           {children}

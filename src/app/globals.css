@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
+/* Fontes carregadas via next/font no layout (sem @import: evita FOUT e bloqueio de rede) */
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -33,16 +33,25 @@
   --text2:   #8a9bbf;
   --muted:   #4d5f7a;
 
-  /* Fonts */
-  --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  /* Tipografia — "Editorial do Cerrado" */
+  --mono:    var(--font-mono), 'Courier New', monospace;   /* o dado */
+  --sans:    var(--font-sans), system-ui, sans-serif;      /* a leitura */
+  --display: var(--font-display), Georgia, serif;          /* a voz da marca */
 }
 
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'Inter', -apple-system, sans-serif;
+  font-family: var(--sans);
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
+}
+
+/* Títulos falam na voz da marca: serifada quente, com o ar do cerrado */
+h1, h2, .display {
+  font-family: var(--display);
+  font-optical-sizing: auto;
+  letter-spacing: -0.015em;
 }
 
 a { color: inherit; text-decoration: none; }

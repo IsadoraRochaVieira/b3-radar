@@ -1,52 +1,38 @@
 {
-  "coletado_em": "17/07/2026 00:12",
+  "coletado_em": "17/07/2026 09:49",
   "total": 30,
   "urgentes": 0,
   "destaque": {
-    "titulo": "Tarifaço: Durigan diz que Brasil vai preservar soberania financeira e geológica 'sem viralatice' e que país segue aberto a negociações",
-    "descricao": "EUA confirmam nova tarifa de 25% sobre produtos brasileiros O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (16) que o Brasil vai preservar a soberania financeira e geológica \"sem viralatice\" e que o governo seguirá aberto à diplomacia e a negociações. \"A gente vai seguir protegendo o Pix, como disse o presidente [do Banco Central] Gabriel Galípolo, o maior símbolo da nossa sobera",
-    "link": "https://g1.globo.com/economia/noticia/2026/07/16/tafiraco-durigan-diz-que-brasil-vai-preservar-soberania-financeira-e-geologica-sem-viralatice-e-que-pais-segue-aberto-a-negociacoes.ghtml",
-    "fonte": "G1 Política",
-    "categoria": "Política",
-    "cor": "#d4a017",
+    "titulo": "Dólar abre em alta, após tarifaço de Trump e com dados econômicos no radar",
+    "descricao": "Tarifaço: EUA confirmam cobrança de 25% sobre produtos brasileiros O dólar abriu a sessão desta sexta-feira (17) em alta, com um avanço de 0,25% perto das 9h, cotado a R$ 5,1109. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Investidores continuam a avaliar os possíveis efeitos das novas tarifas imposta",
+    "link": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
     "urgencia": "media",
-    "score_relevancia": 4,
-    "pub_date": "Thu, 16 Jul 2026 20:34:17 -0000",
+    "score_relevancia": 5,
+    "pub_date": "Fri, 17 Jul 2026 12:00:22 -0000",
     "setores": [
       "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
     {
-      "titulo": "Tarifaço: Durigan diz que Brasil vai preservar soberania financeira e geológica 'sem viralatice' e que país segue aberto a negociações",
-      "descricao": "EUA confirmam nova tarifa de 25% sobre produtos brasileiros O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (16) que o Brasil vai preservar a soberania financeira e geológica \"sem viralatice\" e que o governo seguirá aberto à diplomacia e a negociações. \"A gente vai seguir protegendo o Pix, como disse o presidente [do Banco Central] Gabriel Galípolo, o maior símbolo da nossa sobera",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/tafiraco-durigan-diz-que-brasil-vai-preservar-soberania-financeira-e-geologica-sem-viralatice-e-que-pais-segue-aberto-a-negociacoes.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Dólar abre em alta, após tarifaço de Trump e com dados econômicos no radar",
+      "descricao": "Tarifaço: EUA confirmam cobrança de 25% sobre produtos brasileiros O dólar abriu a sessão desta sexta-feira (17) em alta, com um avanço de 0,25% perto das 9h, cotado a R$ 5,1109. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Investidores continuam a avaliar os possíveis efeitos das novas tarifas imposta",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Thu, 16 Jul 2026 20:34:17 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Alckmin contesta alegações dos EUA sobre tarifaço e diz que medida é 'injusta e descabida'",
-      "descricao": "O vice-presidente da República, Geraldo Alckmin, contestou as alegações usadas pelos Estados Unidos para justificar as tarifas de 25% anunciadas nesta quarta-feira (15) e afirmou que a medida é \"injusta e descabida\". \"É injusta porque se nós pegarmos os próprios dados dos Estados Unidos nos últimos 15 anos os Estados Unidos teve conosco superávit na balança comercial. E descabida porque que os arg",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/16/ministros-contestam-alegacoes-dos-eua-sobre-tarifaco.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Thu, 16 Jul 2026 19:51:46 -0000",
+      "score_relevancia": 5,
+      "pub_date": "Fri, 17 Jul 2026 12:00:22 -0000",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Câmbio / Exportadores"
       ]
     },
     {
@@ -80,6 +66,21 @@
       ]
     },
     {
+      "titulo": "'Prévia do PIB' do Banco Central mostra crescimento marginal de 0,1% em maio",
+      "descricao": "O Índice de Atividade Econômica (IBC-Br), divulgado pelo Banco Central do Brasil (BC) nesta sexta-feira (17), mostrou expansão de 0,1% em maio, na comparação com o mês anterior. 🔎O resultado é considerado marginal porque representa uma variação muito pequena, sugerindo que a atividade econômica ficou praticamente estável no período. O cálculo é feito após ajuste sazonal — ou seja, uma forma de com",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/previa-do-pib-do-banco-central-mostra-crescimento-marginal-de-01percent-em-maio.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 17 Jul 2026 12:02:03 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
       "titulo": "Galípolo reforça gratuidade do Pix, mesmo após tarifaço dos EUA",
       "descricao": "Presidente do Banco Central respondeu acusações dos EUA de que o sistema seria prática desleal no mercado brasileiro",
       "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462768-galipolo-reforca-gratuidade-do-pix-mesmo-apos-tarifaco-dos-eua.html",
@@ -92,6 +93,81 @@
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Irã ataca leste da Síria no primeiro ataque desse tipo durante guerra atual",
+      "descricao": "O alvo foi um antigo centro de operações dos EUA em al-Tanf, em retaliação à morte de soldados; Teerã também ameaçou paralisar as exportações de petróleo em Ormuz The post Irã ataca leste da Síria no primeiro ataque desse tipo durante guerra atual appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/ira-ataca-leste-da-siria-no-primeiro-ataque-desse-tipo-durante-guerra-atual/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 12:47:52 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Minério sobe com queda nos estoques portuários da China, apesar da oferta abundante",
+      "descricao": "A referência de minério de ferro ​para agosto na Bolsa de Cingapura subiu 0,1%, a US$100,2 por tonelada, registrando ​alta de 0,83% nesta semana The post Minério sobe com queda nos estoques portuários da China, apesar da oferta abundante appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/minerio-sobe-com-queda-nos-estoques-portuarios-da-china-apesar-da-oferta-abundante/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 12:26:38 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "BC lança sistema que pode baratear juros em mercado trilionário de antecipação de vendas a prazo para empresas",
+      "descricao": "O Banco Central (BC) lançou neste mês um sistema para registrar as chamadas duplicatas escriturais, um tipo de documento digital que comprova que uma empresa tem valores a receber de vendas feitas a prazo. A medida busca ampliar a concorrência e reduzir os custos no mercado de antecipação de recebíveis, operação de crédito usada por empresas para transformar em dinheiro imediato valores que só rec",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/bc-lanca-sistema-que-pode-baratear-juros-em-mercado-trilionario-de-antecipacao-de-vendas-a-prazo-para-empresas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 06:00:58 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Governo reconhece que EUA devem aplicar tarifa adicional de 12,5% por falha no combate ao trabalho forçado",
+      "descricao": "O governo brasileiro reconhece que os Estados Unidos devem aplicar uma tarifa adicional de 12,5% por falha em proibir e fiscalizar a importação de mercadorias produzidas com trabalho forçado. A principal dúvida do governo brasileiro é se uma eventual tarifa aplicada ao fim desse processo será cumulativa à sobretaxa de 25% anunciada pelos americanos na madrugada desta quinta-feira (16). Segundo o m",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/governo-reconhece-que-eua-devem-aplicar-tarifa-adicional-de-125percent-por-falha-no-combate-ao-trabalho-forcado.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 03:00:36 -0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Hugo Motta defende uso da reciprocidade contra EUA após anúncio do tarifaço",
+      "descricao": "Presidente da Câmara dos Deputados, Hugo Motta (REPUBLICANOS - PB) Kayo Magalhães / Câmara dos Deputados O presidente da Câmara dos Deputados, Hugo Motta (Republicanos), criticou nesta quinta-feira (16) a decisão do governo dos Estados Unidos de impor novas tarifas sobre produtos brasileiros e defendeu o uso da Lei da Reciprocidade Econômica como resposta à medida. Em nota, Motta afirmou que o Par",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/16/hugo-motta-defende-uso-da-reciprocidade-contra-eua-apos-anuncio-do-tarifaco.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 02:58:15 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
@@ -111,7 +187,7 @@
     },
     {
       "titulo": "Quaest: Renato Casagrande lidera disputa pelo Senado no Espírito Santo",
-      "descricao": "Renato Casagrande (PSB) Carlos Alberto Silva/A Gazeta Pesquisa Quaest divulgada nesta quinta-feira (16) mostra como está a corrida pelo Senado no Espírito Santo. Serão duas vagas em disputa nas eleições de outubro. Na pesquisa espontânea — em que os nomes dos pré-candidatos não são mostrados aos eleitores —, 70% dizem que ainda não sabem em quem votar. A Quaest traz também quatro cenários estimula",
+      "descricao": "Renato Casagrande (PSB), Rose de Freitas (MDB) e Paulo Hartung (PSD) Reprodução Pesquisa Quaest divulgada nesta quinta-feira (16) mostra como está a corrida pelo Senado no Espírito Santo. Serão duas vagas em disputa nas eleições de outubro. Na pesquisa espontânea — em que os nomes dos pré-candidatos não são mostrados aos eleitores —, 70% dizem que ainda não sabem em quem votar. Quaest no Espírito ",
       "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/07/16/quaest-espirito-santo-senado-julho.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -120,7 +196,7 @@
       "score_relevancia": 2,
       "pub_date": "Thu, 16 Jul 2026 22:04:22 -0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Mercado geral"
       ]
     },
     {
@@ -150,20 +226,6 @@
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "PIX: Galípolo defende meio de pagamento alvo de contestação dos EUA; 'gratuito', 'seguro' e 'instantâneo'",
-      "descricao": "Gabriel Galípolo, presidente do Banco Central, durante coletiva de imprensa nesta quinta-feira (16) Júlio César Silva/MDIC O presidente do Banco Central (BC), Gabriel Galípolo, defendeu nesta quinta-feira (16) o PIX como um meio de pagamento \"gratuito\", \"seguro\" e \"instantâneo\", com enorme potencial de inclusão financeira para a população brasileira. Ao lado de ministros do governo do presidente L",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/pix-galipolo-defende-meio-de-pagamento-seguro-e-instantaneo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 16 Jul 2026 20:15:11 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -197,6 +259,20 @@
       ]
     },
     {
+      "titulo": "IBC-Br: prévia do PIB avança 0,1% em maio",
+      "descricao": "Indicador do Banco Central aponta desaceleração da atividade econômica, com avanço puxado pela indústria, e acumula alta de 1,4% em 12 meses",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463118-ibc-br-previa-do-pib-avanca-01-em-maio.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 17 Jul 2026 09:46:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
       "titulo": "Exportações de carne bovina batem recorde em 2025, aponta Abiec",
       "descricao": "Beef Report 2026 mostra que setor agroindustrial movimentou mais de R$ 1,15 trilhão na economia brasileira",
       "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462604-exportacoes-de-carne-bovina-batem-recorde-em-2025-aponta-abiec.html",
@@ -213,32 +289,159 @@
       ]
     },
     {
-      "titulo": "Camisa usada por Pelé na final da Copa de 58 é vendida por R$ 25 milhões em leilão",
-      "descricao": "A camisa número 10 vestida por Pelé no jogo contra a Suécia tornou-se o item de memorabilia mais valioso já vendido em leilão relacionado ao Rei e a segunda camisa de futebol mais cara da história The post Camisa usada por Pelé na final da Copa de 58 é vendida por R$ 25 milhões em leilão appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/esportes/camisa-usada-por-pele-na-final-da-copa-de-58-e-vendida-por-r-25-milhoes-em-leilao/",
+      "titulo": "Xi apresenta China como líder da nova ordem global em IA, desafiando domínio dos EUA",
+      "descricao": "Essas declarações representaram a articulação mais clara de Xi até o momento sobre a ambição da China de moldar a governança global da IA The post Xi apresenta China como líder da nova ordem global em IA, desafiando domínio dos EUA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/xi-apresenta-china-como-lider-da-nova-ordem-global-em-ia-desafiando-dominio-dos-eua/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 02:08:05 +0000",
+      "pub_date": "Fri, 17 Jul 2026 12:44:18 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "IGP-10 tem queda de 1,13% em julho com recuo do petróleo, diz FGV",
+      "descricao": "O indicador da FGV superou as projeções do mercado puxado pelos preços no atacado, refletindo a trégua temporária no Oriente Médio antes da nova escalada de tensões The post IGP-10 tem queda de 1,13% em julho com recuo do petróleo, diz FGV appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/igp-10-tem-queda-de-113-em-julho-com-recuo-do-petroleo-diz-fgv/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 12:43:21 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Burnham é oficializado líder trabalhista e assume lugar de Keir Starmer no dia 20",
+      "descricao": "Único candidato após a renúncia de Keir Starmer, o político recebeu amplo apoio de parlamentares e prometeu foco na economia e controle público de itens essenciais The post Burnham é oficializado líder trabalhista e assume lugar de Keir Starmer no dia 20 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/burnham-e-oficializado-lider-trabalhista-e-assume-lugar-de-keir-starmer-no-dia-20/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 12:40:12 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Governo Trump avança para reconstruir barreira tarifária derrubada pela Suprema Corte",
-      "descricao": "A receita proveniente das tarifas de importação atingiu um pico superior a US$ 31,4 bilhões em outubro do ano passado The post Governo Trump avança para reconstruir barreira tarifária derrubada pela Suprema Corte appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/governo-trump-avanca-para-reconstruir-barreira-tarifaria-derrubada-pela-suprema-corte/",
+      "titulo": "Flávio volta a defender mulher como vice e cita Daniella Marques entre outras opções",
+      "descricao": "Na noite de ontem, o senador e pré-candidato à Presidência divulgou um plano político voltado às mulheres coordenado por Daniella The post Flávio volta a defender mulher como vice e cita Daniella Marques entre outras opções appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/flavio-volta-a-defender-mulher-como-vice-e-cita-daniella-marques-entre-outras-opcoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 01:55:01 +0000",
+      "pub_date": "Fri, 17 Jul 2026 12:22:44 +0000",
       "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Dólar sobe acima de R$ 5,10 com escalada de ataques entre EUA e Irã",
+      "descricao": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,40%, aos R$5,0984 The post Dólar sobe acima de R$ 5,10 com escalada de ataques entre EUA e Irã appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 12:21:54 +0000",
+      "setores": [
         "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Sobe na guerra, não cai na trégua: por que os preços da gasolina e diesel demoram a cair nos postos",
+      "descricao": "Motorista abastece em um posto de gasolina em Los Angeles, nos Estados Unidos. Damian Dovarganes/AP Photo A imprevisibilidade do conflito entre os Estados Unidos e o Irã tem, mais uma vez, se refletido nos preços do petróleo. Com mais uma onda de ataques entre os dois países e a retomada do bloqueio naval ao Irã por parte dos EUA no Estreito de Ormuz— rota por onde passa cerca de 20% do comércio g",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/17/sobe-na-guerra-nao-cai-na-tregua-por-que-os-precos-da-gasolina-e-diesel-demoram-a-cair-nos-postos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 08:01:12 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Meninos usam rosa... e meninas vão usar azul? Entenda tendência de cores para Copa do Mundo Feminina de 2027",
+      "descricao": "Chuteiras de futebol coloridas em vitrine de Manchester no final de junho de 2026 Temilade Adelaja/Reuters O rosa marcou a edição de 2026, presente nos pés de jogadores de todas as seleções masculinas que participaram do mundial, com as principais fabricantes de chuteiras estampando variações sobre o mesmo tom. Mas qual tonalidade será a tendência no torneio de 2027? Se dá para “chutar” uma, é o a",
+      "link": "https://g1.globo.com/guia/guia-de-compras/moda-e-beleza/meninos-usam-rosa-e-meninas-vao-usar-azul-entenda-tendencia-de-cores-para-copa-do-mundo-feminina-de-2027.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 06:00:44 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Por que o Brasil terá a maior tarifa média dos Estados Unidos na América do Sul",
+      "descricao": "Desde que assumiu o segundo mandato Trump, ameaça diferentes países com taxação CNP/AdMedia/picture alliance via DW O Brasil passará a ter a maior tarifa aplicada pelos Estados Unidos entre os países da América do Sul a partir de 22 de julho, quando passam a valer as novas taxas impostas por Donald Trump na última quarta-feira (15). O dado é do Global Trade Alert (GTA), iniciativa do St. Gallen En",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/por-que-o-brasil-tera-a-maior-tarifa-media-dos-estados-unidos-na-america-do-sul.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 06:00:29 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "O tarifaço de Trump: a negociação e as taxas contra o Brasil - O Assunto #1763",
+      "descricao": "O governo dos Estados Unidos oficializou que irá impor a sobretaxa de 25% sobre uma ampla gama de produtos brasileiros a partir do dia 22 de julho. A decisão é resultado de uma investigação do Escritório do Representante de Comércio americano sobre supostas \"práticas desleais\" da economia brasileira – o relatório final cita desmatamento, proteção de propriedade intelectual, tratamento às big techs",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/17/o-tarifaco-de-trump-a-negociacao-e-as-taxas-contra-o-brasil-o-assunto-1763.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 03:30:09 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Documento do tarifaço menciona presidente dos EUA mais de dez vezes e governo vê digital política de Trump",
+      "descricao": "EUA confirmam nova tarifa de 25% sobre produtos brasileiros O governo brasileiro analisou o documento técnico do Escritório do Representante Comercial dos Estados Unidos (USTR na sigla em inglês), responsável pela investigação e proposta do novo tarifaço, e identificou um trecho que se repete mais de dez vezes. Logo na primeira página do documento técnico, o trecho mencionado pelo governo aparece:",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/documento-do-tarifaco-menciona-presidente-dos-eua-mais-de-dez-vezes-e-governo-ve-digital-politica-de-trump.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 03:00:46 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Alerta em publicidade de bets começa a valer nesta sexta; entenda como vai funcionar",
+      "descricao": "Novas regras para publicidade de apostas online — conhecidas como bets — passam a valer nesta sexta-feira (17). Com isso, toda publicidade de bet será acompanhada de uma advertência, semelhante com o que acontece com propagandas de cigarros e bebidas alcoólicas. As publicidades devem alertar sobre os riscos associados de dependência e de transtornos do jogo patológico, com uma das seguintes frases",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/17/alerta-em-publicidade-de-bets-comeca-a-valer-nesta-sexta-entenda-como-vai-funcionar.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 17 Jul 2026 03:00:19 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -253,207 +456,6 @@
       "pub_date": "Thu, 16 Jul 2026 22:45:49 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "PIX, STF, redes sociais: governo Lula contesta argumentos dos EUA para novo tarifaço contra o Brasil",
-      "descricao": "Governo brasileiro reage a aplicação de tarifa pelos EUA O governo brasileiro divulgou nesta quinta-feira (16) uma nota contestando os argumentos do governo Trump para aplicar o novo tarifaço de 25% contra o Brasil. Entre os fatores usados pelos Estados Unidos estão o Pix, ações do Supremo Tribunal Federal (STF) contra big techs, desmatamento e corrupção (veja mais detalhes abaixo). A tarifa adici",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/16/pix-stf-redes-sociais-governo-lula-contesta-argumentos-dos-eua-para-novo-tarifaco-contra-o-brasil.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 22:24:53 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Justiça Eleitoral manda derrubar 21 postagens contra Tarcísio e multa coordenador da pré-campanha de Haddad por vídeo com Chucky",
-      "descricao": "Montagem com fotos dos pré-candidatos a governador de São Paulo: Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) Miguel Pessoa/Código 19/Estadão Conteúdo e Ton Molina/Fotoarena/Estadão Conteúdo A Justiça Eleitoral determinou a retirada de 21 publicações com conteúdos considerados irregulares contra o governador Tarcísio de Freitas (Republicanos), pré-candidato à reeleição em São Paulo. A",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/07/16/justica-eleitoral-manda-derrubar-21-postagens-contra-tarcisio-e-multa-coordenador-da-pre-campanha-de-haddad-por-video-com-chucky.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 20:39:37 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Tarifaço: ministro diz que 18% das exportações brasileiras aos EUA, que correspondem a US$ 7,4 bilhões, serão afetadas",
-      "descricao": "O ministro Márcio Elias Rosa (Desenvolvimento, Indústria e Comércio) afirmou nesta quinta-feira (16) que 18% das exportações brasileiras para os Estados Unidos serão afetadas com o novo tarifaço imposto pelo governo Donald Trump contra produtos do Brasil. De acordo com Rosa, o percentual tem como referência as exportações do Brasil para os Estados Unidos em 2024 e corresponde a US$ 7,4 bilhões na ",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/tarifaco-ministro-diz-que-18percent-das-exportacoes-brasileiras-que-correspondem-a-us-74-bilhoes-serao-afetadas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 20:05:40 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Estado do Rio entra com ações para tentar recuperar R$ 616 milhões em aplicações do Rioprevidência em fundos geridos pelo grupo Master",
-      "descricao": "Fachada do Banco Master em São Paulo Reprodução/TV Globo A Procuradoria-Geral do Estado do Rio de Janeiro ajuizou, nesta quinta-feira (16), três ações para tentar recuperar R$ 616 milhões aplicados pelo Rioprevidência em fundos administrados pelo conglomerado do Banco Master, atualmente em liquidação extrajudicial. 📱Baixe o app do g1 para ver notícias em tempo real e de graça A Polícia Federal est",
-      "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/07/16/acoes-rj-aplicacoes-rioprevidencia-master.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 19:18:41 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Vieira classifica como 'ofensivas' declarações de Rubio e diz que secretário dos EUA ataca Lula com grosseria e arrogância",
-      "descricao": "'Declarações de Rubio são inaceitáveis e ofensivas ao povo brasileiro', diz Mauro Vieira O ministro das Relações Exteriores, Mauro Vieira, classificou nesta quinta-feira (16) como \"inaceitáveis\" e \"ofensivas ao povo brasileiro\" declarações recentes do Secretário de Estado dos Estados Unidos, Marco Rubio. Ele também afirmou que Rubio ataca de \"forma grosseira e arrogante\" um chefe de Estado de um \"",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/16/declaracoes-de-rubio-sao-inaceitaveis-e-ofensivas-ao-povo-brasileiro-diz-vieira.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 17:32:40 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Entenda a Lei de Reciprocidade, que o Brasil pode adotar contra os EUA",
-      "descricao": "A decisão do governo dos Estados Unidos, divulgada nesta quarta-feira (15), de impor tarifas de 25% sobre produtos exportados pelo Brasil , trouxe uma reação imediata do governo brasileiro. Em resposta, o Palácio do Planalto afirmou que a Lei de Reciprocidade brasileira será acionada \"imediatamente\". A lei, sancionada em 11 de abril de 2025, foi motivada também por decisões do presidente dos Estad",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/entenda-lei-de-reciprocidade-que-o-brasil-pode-adotar-contra-os-eua",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 17:47:00 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Indústria brasileira repudia taxação dos Estados Unidos sobre o Brasil",
-      "descricao": "O governo dos Estados Unidos anunciou na madrugada (horário de Brasília) desta quinta-feira (16) a nova taxação de 25% sobre produtos brasileiros e as entidades que representam vários setores da indústria brasileira reagiram fortemente à medida determinada pelo presidente Donald Trump. A Federação das Indústrias do Estado de São Paulo (Fiesp), divulgou comunicado no qual “lamenta com profunda preo",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/industria-brasileira-repudia-taxacao-dos-estados-unidos-sobre-o-brasil",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 09:46:00 -0300",
-      "setores": [
-        "Educação (COGN3, YDUQ3)"
-      ]
-    },
-    {
-      "titulo": "Tarifa dos EUA afeta US$ 11 bilhões em exportações brasileiras, diz CNI",
-      "descricao": "Entidade afirma que a sobretaxa de 25% atinge cerca de 4 mil produtos e compromete a competitividade da indústria brasileira. Madeira, minerais não metálicos e químicos estão entre os setores mais afetados, apesar da ampliação da lista de isenções",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462639-tarifa-dos-eua-afeta-uss-11-bilhoes-em-exportacoes-brasileiras-diz-cni.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 15:25:00 -0300",
-      "setores": [
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Economistas veem impacto limitado das tarifas dos EUA no PIB",
-      "descricao": "Avaliação é de que a ampliação da lista de produtos isentos reduz os impactos da sobretaxa de 25%, mas setores específicos ainda podem ser afetados e as tensões diplomáticas entre Brasil e EUA seguem elevadas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462493-economistas-veem-impacto-limitado-das-tarifas-dos-eua-no-pib.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 12:42:36 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Abimaq vê aumento de incertezas após tarifaço sobre produtos brasileiros",
-      "descricao": "Para o setor de máquinas e equipamentos, os EUA representam o principal destino das exportações brasileiras. \"É uma relação de interdependência e benefícios mútuos\", destacou a entidade",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462444-abimaq-ve-aumento-de-incertezas-apos-tarifaco-sobre-produtos-brasileiros.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 12:10:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Veja quais são os produtos brasileiros mais atingidos pelo tarifaço dos EUA",
-      "descricao": "Sobretaxa de 25% recai sobre bens manufaturados como etanol, calçados, móveis e autopeças; café em grão, carnes e petróleo ficaram de fora",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462446-veja-quais-sao-os-produtos-brasileiros-mais-atingidos-pelo-tarifaco-dos-eua.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 11:30:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
-      ]
-    },
-    {
-      "titulo": "Corrupção, Pix, desmatamento: conheça os argumentos dos EUA para novo tarifaço",
-      "descricao": "O presidente Lula repudiou a decisão do USTR e afirmou que o Brasil poderá recorrer à Lei de Reciprocidade Econômica para responder ao governo Trump",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462411-corrupcao-pix-desmatamento-conheca-os-argumentos-dos-eua-para-novo-tarifaco.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 11:13:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "CNI alerta que tarifaço de 25% dos EUA ameaça competitividade do Brasil",
-      "descricao": "Confederação Nacional da Indústria tem monitorado mercado brasileiro e registra queda nas exportações desde 2025; sobretaxa pode agravar perdas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462324-cni-tarifas-dos-eua-ja-tem-prejudicado-as-exportacoes-brasileiras.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 08:48:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Governo pede prazo para rever impacto de PEC dos agentes da Saúde",
-      "descricao": "Fazenda pede adiamento na promulgação de PEC para calcular aumento de gastos públicos com aposentadoria especial da Saúde",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462192-governo-pede-prazo-para-rever-impacto-de-pec-dos-agentes-da-saude.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 03:59:00 -0300",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     }
   ]
