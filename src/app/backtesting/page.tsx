@@ -21,8 +21,8 @@ function getMetricasDoUltimoRelatorio() {
 }
 
 const corRes = (v: number | null) => {
-  if (v === null) return '#5a7a60'
-  return v > 0 ? '#00c44a' : v < 0 ? '#ff4466' : '#5a7a60'
+  if (v === null) return '#4d5f7a'
+  return v > 0 ? '#34d17e' : v < 0 ? '#e53555' : '#4d5f7a'
 }
 
 export default function BacktestingPage() {
@@ -43,8 +43,8 @@ export default function BacktestingPage() {
       <Nav ativa="backtest" />
 
       <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8f5e9' }}>Backtesting</h1>
-        <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: '0.25rem' }}>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8edf5' }}>Backtesting</h1>
+        <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: '0.25rem' }}>
           Resultado histórico de todas as sugestões geradas pelo sistema
         </p>
       </header>
@@ -52,15 +52,15 @@ export default function BacktestingPage() {
       {/* Métricas resumo */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(140px, 1fr))', gap: '0.75rem', marginBottom: '2rem' }}>
         {[
-          { label: 'Taxa de acerto', valor: `${taxaAcerto}%`, cor: taxaAcerto >= 60 ? '#00c44a' : taxaAcerto >= 40 ? '#ffdf00' : '#ff4466' },
-          { label: 'Retorno médio', valor: `${Number(retornoMedio) > 0 ? '+' : ''}${retornoMedio}%`, cor: Number(retornoMedio) >= 0 ? '#00c44a' : '#ff4466' },
-          { label: 'Operações', valor: String(historico.length), cor: '#e8f5e9' },
-          { label: 'Ganhos', valor: String(ganhos.length), cor: '#00c44a' },
-          { label: 'Perdas', valor: String(perdas.length), cor: '#ff4466' },
-          { label: 'Em aberto', valor: String(abertos.length), cor: '#ffdf00' },
+          { label: 'Taxa de acerto', valor: `${taxaAcerto}%`, cor: taxaAcerto >= 60 ? '#34d17e' : taxaAcerto >= 40 ? '#f0b429' : '#e53555' },
+          { label: 'Retorno médio', valor: `${Number(retornoMedio) > 0 ? '+' : ''}${retornoMedio}%`, cor: Number(retornoMedio) >= 0 ? '#34d17e' : '#e53555' },
+          { label: 'Operações', valor: String(historico.length), cor: '#e8edf5' },
+          { label: 'Ganhos', valor: String(ganhos.length), cor: '#34d17e' },
+          { label: 'Perdas', valor: String(perdas.length), cor: '#e53555' },
+          { label: 'Em aberto', valor: String(abertos.length), cor: '#f0b429' },
         ].map(c => (
-          <div key={c.label} style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1rem' }}>
-            <div style={{ color: '#5a7a60', fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>{c.label}</div>
+          <div key={c.label} style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1rem' }}>
+            <div style={{ color: '#4d5f7a', fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>{c.label}</div>
             <div style={{ color: c.cor, fontWeight: 800, fontSize: '1.5rem', marginTop: '0.3rem' }}>{c.valor}</div>
           </div>
         ))}
@@ -68,15 +68,15 @@ export default function BacktestingPage() {
 
       {/* Barra visual de acerto */}
       {fechados.length > 0 && (
-        <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1.2rem', marginBottom: '2rem' }}>
+        <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1.2rem', marginBottom: '2rem' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.5rem', fontSize: '0.82rem' }}>
-            <span style={{ color: '#00c44a', fontWeight: 600 }}>Ganhos: {ganhos.length}</span>
-            <span style={{ color: '#ff4466', fontWeight: 600 }}>Perdas: {perdas.length}</span>
+            <span style={{ color: '#34d17e', fontWeight: 600 }}>Ganhos: {ganhos.length}</span>
+            <span style={{ color: '#e53555', fontWeight: 600 }}>Perdas: {perdas.length}</span>
           </div>
-          <div style={{ height: 10, background: '#ff446640', borderRadius: 5, overflow: 'hidden' }}>
-            <div style={{ height: '100%', width: `${taxaAcerto}%`, background: '#009c3b', borderRadius: 5, transition: 'width 0.5s' }} />
+          <div style={{ height: 10, background: '#e5355540', borderRadius: 5, overflow: 'hidden' }}>
+            <div style={{ height: '100%', width: `${taxaAcerto}%`, background: '#00a63c', borderRadius: 5, transition: 'width 0.5s' }} />
           </div>
-          <div style={{ color: '#5a7a60', fontSize: '0.75rem', marginTop: '0.5rem', textAlign: 'center' }}>
+          <div style={{ color: '#4d5f7a', fontSize: '0.75rem', marginTop: '0.5rem', textAlign: 'center' }}>
             {taxaAcerto}% de acerto em {fechados.length} operações encerradas
           </div>
         </div>
@@ -86,24 +86,24 @@ export default function BacktestingPage() {
       {abertos.length > 0 && (
         <div style={{ marginBottom: '2rem' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0.75rem' }}>
-            <h2 style={{ fontSize: '0.72rem', color: '#ffdf00', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
+            <h2 style={{ fontSize: '0.72rem', color: '#f0b429', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
               Em aberto ({abertos.length})
             </h2>
-            <div style={{ flex: 1, height: 1, background: '#1a2e1e' }} />
+            <div style={{ flex: 1, height: 1, background: '#1c2538' }} />
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
             {abertos.map((op, i) => {
               const parcial = op.resultado_pct_atual ?? null
               return (
-                <div key={i} style={{ background: '#0d1a10', border: '1px solid #ffdf0030', borderLeft: '4px solid #ffdf00', borderRadius: 10, padding: '0.9rem 1.2rem' }}>
+                <div key={i} style={{ background: '#0f1520', border: '1px solid #f0b42930', borderLeft: '4px solid #f0b429', borderRadius: 10, padding: '0.9rem 1.2rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem' }}>
                     <div>
                       <TickerLink ticker={op.ticker} style={{ fontWeight: 700, fontSize: '1rem', fontFamily: 'var(--mono)' }} />
-                      <span style={{ color: '#5a7a60', fontSize: '0.8rem', marginLeft: '0.75rem' }}>Entrada: R$ {op.preco_entrada} em {op.data_entrada}</span>
+                      <span style={{ color: '#4d5f7a', fontSize: '0.8rem', marginLeft: '0.75rem' }}>Entrada: R$ {op.preco_entrada} em {op.data_entrada}</span>
                     </div>
                     <div style={{ display: 'flex', gap: '0.75rem', fontSize: '0.82rem' }}>
-                      <span style={{ color: '#ff4466' }}>Stop: R$ {op.stop}</span>
-                      <span style={{ color: '#00c44a' }}>Alvo: R$ {op.alvo}</span>
+                      <span style={{ color: '#e53555' }}>Stop: R$ {op.stop}</span>
+                      <span style={{ color: '#34d17e' }}>Alvo: R$ {op.alvo}</span>
                       {parcial !== null && (
                         <span style={{ color: corRes(parcial), fontWeight: 700 }}>
                           Agora: {parcial > 0 ? '+' : ''}{parcial}%
@@ -121,14 +121,14 @@ export default function BacktestingPage() {
       {/* Histórico de operações fechadas */}
       <div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0.75rem' }}>
-          <h2 style={{ fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
+          <h2 style={{ fontSize: '0.72rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
             Operações encerradas
           </h2>
-          <div style={{ flex: 1, height: 1, background: '#1a2e1e' }} />
+          <div style={{ flex: 1, height: 1, background: '#1c2538' }} />
         </div>
 
         {fechados.length === 0 ? (
-          <div style={{ textAlign: 'center', padding: '3rem', color: '#5a7a60', border: '1px dashed #1a2e1e', borderRadius: 12 }}>
+          <div style={{ textAlign: 'center', padding: '3rem', color: '#4d5f7a', border: '1px dashed #1c2538', borderRadius: 12 }}>
             Nenhuma operação encerrada ainda. O sistema registra automaticamente quando stop ou alvo é atingido.
           </div>
         ) : (
@@ -138,24 +138,24 @@ export default function BacktestingPage() {
               const ganhou = res > 0
               return (
                 <div key={i} style={{
-                  background: '#0d1a10',
-                  border: '1px solid #1a2e1e',
-                  borderLeft: `4px solid ${ganhou ? '#009c3b' : '#ff4466'}`,
+                  background: '#0f1520',
+                  border: '1px solid #1c2538',
+                  borderLeft: `4px solid ${ganhou ? '#00a63c' : '#e53555'}`,
                   borderRadius: 10,
                   padding: '0.9rem 1.2rem',
                   display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem',
                 }}>
                   <div>
                     <TickerLink ticker={op.ticker} style={{ fontWeight: 700, fontFamily: 'var(--mono)' }} />
-                    <span style={{ color: '#5a7a60', fontSize: '0.78rem', marginLeft: '0.75rem' }}>
+                    <span style={{ color: '#4d5f7a', fontSize: '0.78rem', marginLeft: '0.75rem' }}>
                       {op.data_entrada} → {op.data_saida}
                     </span>
-                    <span style={{ color: '#5a7a60', fontSize: '0.78rem', marginLeft: '0.5rem' }}>
+                    <span style={{ color: '#4d5f7a', fontSize: '0.78rem', marginLeft: '0.5rem' }}>
                       ({op.motivo_saida === 'alvo' ? 'alvo atingido' : 'stop atingido'})
                     </span>
                   </div>
                   <div style={{ display: 'flex', gap: '1rem', fontSize: '0.85rem', alignItems: 'center' }}>
-                    <span style={{ color: '#5a7a60' }}>R$ {op.preco_entrada} → R$ {op.preco_saida}</span>
+                    <span style={{ color: '#4d5f7a' }}>R$ {op.preco_entrada} → R$ {op.preco_saida}</span>
                     <span style={{ color: corRes(res), fontWeight: 800, fontSize: '1rem' }}>
                       {res > 0 ? '+' : ''}{res}%
                     </span>

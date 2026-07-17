@@ -242,7 +242,7 @@ export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[];
       >
       <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 10, overflow: 'hidden' }}>
         {/* Cabeçalho */}
-        <div style={{
+        <div className="sug-head" style={{
           display: 'grid', gridTemplateColumns: cols,
           padding: '8px 14px', borderBottom: '1px solid var(--border)', gap: 8,
         }}>
@@ -266,25 +266,25 @@ export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[];
 
           return (
             <div key={key} style={{ borderBottom: '1px solid var(--border)', background: rowHighlight }}>
-              <button onClick={() => setExpandido(aberto ? null : key)} style={{
+              <button className="sug-row" onClick={() => setExpandido(aberto ? null : key)} style={{
                 width: '100%', background: aberto ? 'rgba(16,82,204,0.05)' : 'none',
                 border: 'none', cursor: 'pointer', textAlign: 'left',
                 display: 'grid', gridTemplateColumns: cols,
                 padding: '11px 14px', gap: 8, alignItems: 'center',
               }}>
-                <span style={{ fontSize: 11, fontFamily: 'var(--mono)', color: 'var(--muted)', fontWeight: 500 }}>
+                <span className="sug-rank" style={{ fontSize: 11, fontFamily: 'var(--mono)', color: 'var(--muted)', fontWeight: 500 }}>
                   {String(s.rank).padStart(2, '0')}
                 </span>
 
-                <span style={{ fontFamily: 'var(--mono)', fontSize: 14, fontWeight: 700, color: 'var(--text)' }}>
+                <span className="sug-ticker" style={{ fontFamily: 'var(--mono)', fontSize: 14, fontWeight: 700, color: 'var(--text)' }}>
                   <TickerLink ticker={s.ticker} style={{ fontFamily: 'var(--mono)', fontSize: 14, fontWeight: 700 }}/>
                 </span>
 
                 {temPrecos && (
-                  <PrecoAtual ticker={s.ticker} dados={precos} />
+                  <span className="sug-cell" data-l="Atual"><PrecoAtual ticker={s.ticker} dados={precos} /></span>
                 )}
 
-                <span>
+                <span className="sug-acao">
                   <span style={{
                     fontSize: 11, fontWeight: 600, color: c.text,
                     background: c.bg, border: `1px solid ${c.border}40`,
@@ -292,22 +292,22 @@ export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[];
                   }}>{c.label}</span>
                 </span>
 
-                <span style={{ fontFamily: 'var(--mono)', fontSize: 12, color: 'var(--text2)' }}>
+                <span className="sug-cell" data-l="Entrada" style={{ fontFamily: 'var(--mono)', fontSize: 12, color: 'var(--text2)' }}>
                   {s.entrada ? `R$ ${s.entrada}` : '—'}
                 </span>
 
-                <span style={{ fontFamily: 'var(--mono)', fontSize: 12, color: s.stop ? 'var(--red)' : 'var(--muted)' }}>
+                <span className="sug-cell" data-l="Stop" style={{ fontFamily: 'var(--mono)', fontSize: 12, color: s.stop ? 'var(--red)' : 'var(--muted)' }}>
                   {s.stop ? `R$ ${s.stop}` : '—'}
                 </span>
 
-                <span style={{ fontFamily: 'var(--mono)', fontSize: 12, color: s.alvo ? 'var(--green)' : 'var(--muted)' }}>
+                <span className="sug-cell" data-l="Alvo" style={{ fontFamily: 'var(--mono)', fontSize: 12, color: s.alvo ? 'var(--green)' : 'var(--muted)' }}>
                   {s.alvo ? `R$ ${s.alvo}` : '—'}
                 </span>
 
-                <RsiBar val={s.rsi} />
-                <ScoreBar val={s.score} />
+                <span className="sug-cell" data-l="RSI"><RsiBar val={s.rsi} /></span>
+                <span className="sug-cell" data-l="Score"><ScoreBar val={s.score} /></span>
 
-                <span style={{ fontSize: 11, color: 'var(--muted)', transform: aberto ? 'rotate(180deg)' : 'none', display: 'inline-block', transition: 'transform 0.2s' }}>▼</span>
+                <span className="sug-chevron" style={{ fontSize: 11, color: 'var(--muted)', transform: aberto ? 'rotate(180deg)' : 'none', display: 'inline-block', transition: 'transform 0.2s' }}>▼</span>
               </button>
 
               {/* Expandido */}
@@ -357,7 +357,48 @@ export default function SugestoesClient({ dias, comDebate = [] }: { dias: Dia[];
         Clique no ticker para pesquisar no Google · Clique na linha para ver o motivo · Não é recomendação de investimento
       </p>
 
-      <style>{`@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }`}</style>
+      <style>{`
+        @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+        /* Mobile-first — proposta do Diego: no celular a tabela vira card empilhado.
+           A grade de 10 colunas é ilegível em 375px. */
+        @media (max-width: 760px) {
+          .sug-head { display: none !important; }
+
+          .sug-row {
+            display: grid !important;
+            grid-template-columns: 1fr 1fr !important;
+            gap: 12px 10px !important;
+            padding: 14px !important;
+            align-items: start !important;
+          }
+          .sug-rank { display: none !important; }
+          .sug-ticker {
+            grid-column: 1 / -1;
+            font-size: 19px !important;
+            display: flex; align-items: center; gap: 10px;
+          }
+          .sug-acao { grid-column: 1 / -1; margin-top: -6px; }
+
+          /* cada dado ganha seu rótulo, já que o cabeçalho sumiu */
+          .sug-cell::before {
+            content: attr(data-l);
+            display: block;
+            font-size: 9px;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            font-weight: 700;
+            margin-bottom: 3px;
+          }
+          .sug-cell { font-size: 13.5px !important; }
+
+          .sug-chevron {
+            position: absolute; right: 14px; top: 16px;
+          }
+          .sug-row { position: relative; }
+        }
+      `}</style>
     </div>
   )
 }

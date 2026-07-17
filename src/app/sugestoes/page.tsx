@@ -29,10 +29,10 @@ export default function SugestoesPage() {
     <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
       <Nav ativa="sugestoes" />
       <header style={{ marginBottom: '1.75rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8f5e9', letterSpacing: '-0.02em', margin: 0 }}>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8edf5', letterSpacing: '-0.02em', margin: 0 }}>
           10 Sugestões por Dia
         </h1>
-        <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: 6 }}>
+        <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: 6 }}>
           Comprar · Observar · Evitar — com o motivo de cada decisão
         </p>
       </header>

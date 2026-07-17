@@ -11,9 +11,9 @@ function getUltimo() {
 }
 
 const riscoCor: Record<string, { bg: string; border: string; text: string }> = {
-  alto:   { bg: '#ff446618', border: '#cc2244', text: '#ff4466' },
-  medio:  { bg: '#ffdf0018', border: '#d4a017', text: '#ffdf00' },
-  baixo:  { bg: '#00c44a18', border: '#009c3b', text: '#00c44a' },
+  alto:   { bg: '#e5355518', border: '#b02a45', text: '#e53555' },
+  medio:  { bg: '#f0b42918', border: '#d4920a', text: '#f0b429' },
+  baixo:  { bg: '#34d17e18', border: '#00a63c', text: '#34d17e' },
 }
 
 const REGIOES_GLOBAIS = [
@@ -160,8 +160,8 @@ export default function GeopoliticaPage() {
       <Nav ativa="geopolitica" />
 
       <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8f5e9' }}>Radar Geopolítico</h1>
-        <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: '0.25rem' }}>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8edf5' }}>Radar Geopolítico</h1>
+        <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: '0.25rem' }}>
           Riscos globais e domésticos mapeados para a B3 · Atualizado diariamente
         </p>
       </header>
@@ -170,35 +170,35 @@ export default function GeopoliticaPage() {
       <section style={{ marginBottom: '2.5rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
           <span style={{ fontSize: '1.2rem' }}>🇧🇷</span>
-          <h2 style={{ fontSize: '1rem', fontWeight: 700, color: '#e8f5e9' }}>Brasil — Cenário Doméstico</h2>
-          <div style={{ flex: 1, height: 1, background: '#1a2e1e' }}/>
-          <span style={{ fontSize: '0.68rem', color: '#009c3b', background: '#009c3b18', border: '1px solid #009c3b40', borderRadius: 4, padding: '2px 7px', fontWeight: 700 }}>ATUALIZADO HOJE</span>
+          <h2 style={{ fontSize: '1rem', fontWeight: 700, color: '#e8edf5' }}>Brasil — Cenário Doméstico</h2>
+          <div style={{ flex: 1, height: 1, background: '#1c2538' }}/>
+          <span style={{ fontSize: '0.68rem', color: '#00a63c', background: '#00a63c18', border: '1px solid #00a63c40', borderRadius: 4, padding: '2px 7px', fontWeight: 700 }}>ATUALIZADO HOJE</span>
         </div>
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '0.75rem', marginBottom: '1.25rem' }}>
           {BRASIL_NACIONAL.map(item => {
             const c = riscoCor[item.risco]
             return (
-              <div key={item.tema} style={{ background: '#0d1a10', border: `1px solid #1a2e1e`, borderLeft: `4px solid ${c.border}`, borderRadius: 10, padding: '1.1rem' }}>
+              <div key={item.tema} style={{ background: '#0f1520', border: `1px solid #1c2538`, borderLeft: `4px solid ${c.border}`, borderRadius: 10, padding: '1.1rem' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: 6 }}>
                   <span style={{ fontSize: '1.1rem' }}>{item.emoji}</span>
-                  <span style={{ fontWeight: 700, color: '#e8f5e9', fontSize: '0.9rem', flex: 1 }}>{item.titulo}</span>
+                  <span style={{ fontWeight: 700, color: '#e8edf5', fontSize: '0.9rem', flex: 1 }}>{item.titulo}</span>
                   <span style={{ fontSize: '0.62rem', fontWeight: 700, color: c.text, background: c.bg, border: `1px solid ${c.border}40`, borderRadius: 4, padding: '2px 6px', textTransform: 'uppercase', whiteSpace: 'nowrap' }}>
                     {item.risco}
                   </span>
                 </div>
-                <p style={{ color: '#a0c8a8', fontSize: '0.8rem', lineHeight: 1.55, marginBottom: 8 }}>{item.descricao}</p>
-                <div style={{ borderTop: '1px solid #1a2e1e', paddingTop: 8 }}>
-                  <div style={{ fontSize: '0.68rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: 4 }}>Ações afetadas</div>
+                <p style={{ color: '#8a9bbf', fontSize: '0.8rem', lineHeight: 1.55, marginBottom: 8 }}>{item.descricao}</p>
+                <div style={{ borderTop: '1px solid #1c2538', paddingTop: 8 }}>
+                  <div style={{ fontSize: '0.68rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: 4 }}>Ações afetadas</div>
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginBottom: 8 }}>
                     {item.setores.map(s => (
-                      <span key={s} style={{ fontSize: '0.7rem', background: '#ffffff08', borderRadius: 4, padding: '2px 6px', color: '#5a7a60' }}>{s}</span>
+                      <span key={s} style={{ fontSize: '0.7rem', background: '#ffffff08', borderRadius: 4, padding: '2px 6px', color: '#4d5f7a' }}>{s}</span>
                     ))}
                   </div>
                   <div style={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
                     {item.acoes.map((a, i) => (
-                      <div key={i} style={{ fontSize: '0.75rem', color: '#00c44a', display: 'flex', gap: '0.4rem' }}>
-                        <span style={{ color: '#009c3b' }}>→</span>{a}
+                      <div key={i} style={{ fontSize: '0.75rem', color: '#34d17e', display: 'flex', gap: '0.4rem' }}>
+                        <span style={{ color: '#00a63c' }}>→</span>{a}
                       </div>
                     ))}
                   </div>
@@ -209,27 +209,27 @@ export default function GeopoliticaPage() {
         </div>
 
         {/* Regiões do Brasil */}
-        <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1.25rem', marginBottom: '1.25rem' }}>
-          <div style={{ fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em', marginBottom: '1rem' }}>
+        <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1.25rem', marginBottom: '1.25rem' }}>
+          <div style={{ fontSize: '0.72rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.12em', marginBottom: '1rem' }}>
             Impacto por região — Brasil
           </div>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '0.6rem' }}>
             {REGIOES_BR.map(reg => {
               const c = riscoCor[reg.risco]
               return (
-                <div key={reg.nome} style={{ background: '#07100a', border: `1px solid #1a2e1e`, borderRadius: 9, padding: '0.9rem' }}>
+                <div key={reg.nome} style={{ background: '#0a0e14', border: `1px solid #1c2538`, borderRadius: 9, padding: '0.9rem' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: 6 }}>
                     <span style={{ fontSize: '1rem' }}>{reg.emoji}</span>
-                    <span style={{ fontWeight: 700, color: '#e8f5e9', fontSize: '0.85rem', flex: 1 }}>{reg.nome}</span>
+                    <span style={{ fontWeight: 700, color: '#e8edf5', fontSize: '0.85rem', flex: 1 }}>{reg.nome}</span>
                     <div style={{ width: 8, height: 8, borderRadius: '50%', background: c.border, boxShadow: `0 0 5px ${c.border}` }}/>
                   </div>
-                  <p style={{ color: '#a0c8a8', fontSize: '0.77rem', lineHeight: 1.5, marginBottom: 6 }}>{reg.impacto}</p>
+                  <p style={{ color: '#8a9bbf', fontSize: '0.77rem', lineHeight: 1.5, marginBottom: 6 }}>{reg.impacto}</p>
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 3, marginBottom: 5 }}>
                     {reg.setores.map(s => (
-                      <span key={s} style={{ fontSize: '0.68rem', background: '#ffffff08', borderRadius: 3, padding: '1px 5px', color: '#5a7a60' }}>{s}</span>
+                      <span key={s} style={{ fontSize: '0.68rem', background: '#ffffff08', borderRadius: 3, padding: '1px 5px', color: '#4d5f7a' }}>{s}</span>
                     ))}
                   </div>
-                  <div style={{ fontSize: '0.68rem', borderTop: '1px solid #1a2e1e', paddingTop: 5, color: '#5a7a60' }}>
+                  <div style={{ fontSize: '0.68rem', borderTop: '1px solid #1c2538', paddingTop: 5, color: '#4d5f7a' }}>
                     Fonte: {reg.fonte}
                   </div>
                 </div>
@@ -243,20 +243,20 @@ export default function GeopoliticaPage() {
       <section style={{ marginBottom: '2.5rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
           <span style={{ fontSize: '1.2rem' }}>🌍</span>
-          <h2 style={{ fontSize: '1rem', fontWeight: 700, color: '#e8f5e9' }}>Cenário Global</h2>
-          <div style={{ flex: 1, height: 1, background: '#1a2e1e' }}/>
+          <h2 style={{ fontSize: '1rem', fontWeight: 700, color: '#e8edf5' }}>Cenário Global</h2>
+          <div style={{ flex: 1, height: 1, background: '#1c2538' }}/>
         </div>
 
         {/* Mapa SVG simplificado */}
-        <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 14, padding: '1.5rem', marginBottom: '1rem' }}>
-          <div style={{ position: 'relative', width: '100%', paddingBottom: '42%', background: '#071510', borderRadius: 10, border: '1px solid #1a2e1e', overflow: 'hidden' }}>
+        <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 14, padding: '1.5rem', marginBottom: '1rem' }}>
+          <div style={{ position: 'relative', width: '100%', paddingBottom: '42%', background: '#0a0e14', borderRadius: 10, border: '1px solid #1c2538', overflow: 'hidden' }}>
             <svg viewBox="0 0 100 50" preserveAspectRatio="xMidYMid meet" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', opacity: 0.12 }}>
-              <ellipse cx="28" cy="55" rx="8" ry="12" fill="#009c3b"/>
-              <ellipse cx="22" cy="28" rx="10" ry="10" fill="#009c3b"/>
-              <ellipse cx="50" cy="22" rx="6" ry="6" fill="#009c3b"/>
-              <ellipse cx="50" cy="40" rx="7" ry="10" fill="#009c3b"/>
-              <ellipse cx="72" cy="28" rx="16" ry="10" fill="#009c3b"/>
-              <ellipse cx="82" cy="48" rx="6" ry="4" fill="#009c3b"/>
+              <ellipse cx="28" cy="55" rx="8" ry="12" fill="#00a63c"/>
+              <ellipse cx="22" cy="28" rx="10" ry="10" fill="#00a63c"/>
+              <ellipse cx="50" cy="22" rx="6" ry="6" fill="#00a63c"/>
+              <ellipse cx="50" cy="40" rx="7" ry="10" fill="#00a63c"/>
+              <ellipse cx="72" cy="28" rx="16" ry="10" fill="#00a63c"/>
+              <ellipse cx="82" cy="48" rx="6" ry="4" fill="#00a63c"/>
             </svg>
             {REGIOES_GLOBAIS.map((reg) => {
               const c = riscoCor[reg.risco]
@@ -286,21 +286,21 @@ export default function GeopoliticaPage() {
           {REGIOES_GLOBAIS.map(reg => {
             const c = riscoCor[reg.risco]
             return (
-              <div key={reg.nome} style={{ background: '#0d1a10', border: `1px solid #1a2e1e`, borderLeft: `4px solid ${c.border}`, borderRadius: 10, padding: '1rem' }}>
+              <div key={reg.nome} style={{ background: '#0f1520', border: `1px solid #1c2538`, borderLeft: `4px solid ${c.border}`, borderRadius: 10, padding: '1rem' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: 6 }}>
                   <span style={{ fontSize: '1.2rem' }}>{reg.emoji}</span>
-                  <span style={{ fontWeight: 700, color: '#e8f5e9', fontSize: '0.95rem' }}>{reg.nome}</span>
+                  <span style={{ fontWeight: 700, color: '#e8edf5', fontSize: '0.95rem' }}>{reg.nome}</span>
                   <span style={{ marginLeft: 'auto', fontSize: '0.62rem', fontWeight: 700, color: c.text, background: c.bg, border: `1px solid ${c.border}40`, borderRadius: 4, padding: '2px 6px', textTransform: 'uppercase' }}>
                     {reg.risco}
                   </span>
                 </div>
-                <p style={{ color: '#a0c8a8', fontSize: '0.82rem', marginBottom: 8 }}>{reg.evento}</p>
+                <p style={{ color: '#8a9bbf', fontSize: '0.82rem', marginBottom: 8 }}>{reg.evento}</p>
                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginBottom: 8 }}>
                   {reg.setores.map(s => (
-                    <span key={s} style={{ fontSize: '0.72rem', background: '#ffffff10', borderRadius: 4, padding: '2px 6px', color: '#5a7a60' }}>{s}</span>
+                    <span key={s} style={{ fontSize: '0.72rem', background: '#ffffff10', borderRadius: 4, padding: '2px 6px', color: '#4d5f7a' }}>{s}</span>
                   ))}
                 </div>
-                <p style={{ color: '#5a7a60', fontSize: '0.78rem', lineHeight: 1.5, borderTop: '1px solid #1a2e1e', paddingTop: 8 }}>{reg.impacto}</p>
+                <p style={{ color: '#4d5f7a', fontSize: '0.78rem', lineHeight: 1.5, borderTop: '1px solid #1c2538', paddingTop: 8 }}>{reg.impacto}</p>
               </div>
             )
           })}
@@ -311,25 +311,25 @@ export default function GeopoliticaPage() {
       <section>
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
           <span style={{ fontSize: '1.1rem' }}>📅</span>
-          <h2 style={{ fontSize: '1rem', fontWeight: 700, color: '#e8f5e9' }}>Calendário da Semana</h2>
-          <div style={{ flex: 1, height: 1, background: '#1a2e1e' }}/>
+          <h2 style={{ fontSize: '1rem', fontWeight: 700, color: '#e8edf5' }}>Calendário da Semana</h2>
+          <div style={{ flex: 1, height: 1, background: '#1c2538' }}/>
         </div>
-        <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1.25rem' }}>
+        <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1.25rem' }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
             {EVENTOS_SEMANA.map((ev, i) => {
               const c = riscoCor[ev.nivel]
               return (
-                <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '0.7rem 0.9rem', background: '#ffffff05', border: '1px solid #1a2e1e', borderRadius: 8 }}>
+                <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', padding: '0.7rem 0.9rem', background: '#ffffff05', border: '1px solid #1c2538', borderRadius: 8 }}>
                   <span style={{ fontSize: '0.72rem', fontWeight: 700, color: c.text, background: c.bg, border: `1px solid ${c.border}40`, borderRadius: 5, padding: '3px 8px', minWidth: 32, textAlign: 'center' }}>
                     {ev.dia}
                   </span>
-                  <span style={{ fontWeight: 600, color: '#e8f5e9', fontSize: '0.88rem', flex: 1 }}>{ev.titulo}</span>
-                  <span style={{ fontSize: '0.75rem', color: '#5a7a60' }}>afeta: <strong style={{ color: '#a0c8a8' }}>{ev.impacto}</strong></span>
+                  <span style={{ fontWeight: 600, color: '#e8edf5', fontSize: '0.88rem', flex: 1 }}>{ev.titulo}</span>
+                  <span style={{ fontSize: '0.75rem', color: '#4d5f7a' }}>afeta: <strong style={{ color: '#8a9bbf' }}>{ev.impacto}</strong></span>
                 </div>
               )
             })}
           </div>
-          <p style={{ color: '#5a7a60', fontSize: '0.75rem', marginTop: '0.9rem', borderTop: '1px solid #1a2e1e', paddingTop: '0.75rem' }}>
+          <p style={{ color: '#4d5f7a', fontSize: '0.75rem', marginTop: '0.9rem', borderTop: '1px solid #1c2538', paddingTop: '0.75rem' }}>
             Eventos com risco alto: evitar abrir posições novas nas 2h antes do dado ser divulgado.
           </p>
         </div>

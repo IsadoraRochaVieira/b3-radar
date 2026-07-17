@@ -45,17 +45,17 @@ export default function PatrimonioPage() {
     const toX = (i: number) => pad.left + (i / (SEMANAS.length - 1)) * cw
     const toY = (v: number) => pad.top + ch - ((v - minV) / (maxV - minV)) * ch
 
-    ctx.fillStyle = '#0d1a10'
+    ctx.fillStyle = '#0f1520'
     ctx.fillRect(0, 0, w, h)
 
     // Grid lines
-    ctx.strokeStyle = '#1a2e1e'
+    ctx.strokeStyle = '#1c2538'
     ctx.lineWidth = 0.5
     for (let i = 0; i <= 4; i++) {
       const y = pad.top + (i / 4) * ch
       ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(w - pad.right, y); ctx.stroke()
       const val = maxV - (i / 4) * (maxV - minV)
-      ctx.fillStyle = '#5a7a60'
+      ctx.fillStyle = '#4d5f7a'
       ctx.font = '10px Inter, sans-serif'
       ctx.textAlign = 'right'
       ctx.fillText('R$' + Math.round(val / 100) * 100, pad.left - 4, y + 4)
@@ -63,7 +63,7 @@ export default function PatrimonioPage() {
 
     // X labels
     SEMANAS.forEach((s, i) => {
-      ctx.fillStyle = '#5a7a60'
+      ctx.fillStyle = '#4d5f7a'
       ctx.font = '9px Inter, sans-serif'
       ctx.textAlign = 'center'
       ctx.fillText(s.label, toX(i), h - pad.bottom + 14)
@@ -91,15 +91,15 @@ export default function PatrimonioPage() {
       })
     }
 
-    drawLine('cdi', '#4488ff', [4, 3])
-    drawLine('ibov', '#5a7a60', [2, 2])
-    drawLine('radar', '#009c3b')
+    drawLine('cdi', '#5b9bff', [4, 3])
+    drawLine('ibov', '#4d5f7a', [2, 2])
+    drawLine('radar', '#00a63c')
 
     // Legenda
     const leg = [
-      { label: 'B3 Radar', color: '#009c3b' },
-      { label: 'CDI', color: '#4488ff' },
-      { label: 'Ibovespa', color: '#5a7a60' },
+      { label: 'B3 Radar', color: '#00a63c' },
+      { label: 'CDI', color: '#5b9bff' },
+      { label: 'Ibovespa', color: '#4d5f7a' },
     ]
     leg.forEach((l, i) => {
       const lx = pad.left + i * 90
@@ -120,34 +120,34 @@ export default function PatrimonioPage() {
       <Nav ativa="patrimonio" />
 
       <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8f5e9' }}>Curva de Patrimônio</h1>
-        <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: '0.25rem' }}>Desempenho acumulado das sugestões vs benchmarks</p>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 800, color: '#e8edf5' }}>Curva de Patrimônio</h1>
+        <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: '0.25rem' }}>Desempenho acumulado das sugestões vs benchmarks</p>
       </header>
 
       {/* Métricas */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(150px, 1fr))', gap: '0.75rem', marginBottom: '1.5rem' }}>
         {[
-          { label: 'B3 Radar (12 sem)', valor: `+${retorno(rdArr, ini)}%`, cor: '#00c44a', sub: `R$ ${rdArr[rdArr.length-1].toLocaleString('pt-BR')}` },
-          { label: 'CDI (12 sem)',      valor: `+${retorno(cdiArr, ini)}%`, cor: '#4488ff', sub: `R$ ${cdiArr[cdiArr.length-1].toLocaleString('pt-BR')}` },
-          { label: 'Ibovespa (12 sem)', valor: `+${retorno(ibArr, ini)}%`,  cor: '#5a7a60', sub: `R$ ${ibArr[ibArr.length-1].toLocaleString('pt-BR')}` },
-          { label: 'Alfa vs CDI',       valor: `+${(parseFloat(retorno(rdArr,ini)) - parseFloat(retorno(cdiArr,ini))).toFixed(1)}%`, cor: '#d4a017', sub: 'excesso de retorno' },
+          { label: 'B3 Radar (12 sem)', valor: `+${retorno(rdArr, ini)}%`, cor: '#34d17e', sub: `R$ ${rdArr[rdArr.length-1].toLocaleString('pt-BR')}` },
+          { label: 'CDI (12 sem)',      valor: `+${retorno(cdiArr, ini)}%`, cor: '#5b9bff', sub: `R$ ${cdiArr[cdiArr.length-1].toLocaleString('pt-BR')}` },
+          { label: 'Ibovespa (12 sem)', valor: `+${retorno(ibArr, ini)}%`,  cor: '#4d5f7a', sub: `R$ ${ibArr[ibArr.length-1].toLocaleString('pt-BR')}` },
+          { label: 'Alfa vs CDI',       valor: `+${(parseFloat(retorno(rdArr,ini)) - parseFloat(retorno(cdiArr,ini))).toFixed(1)}%`, cor: '#d4920a', sub: 'excesso de retorno' },
         ].map(c => (
-          <div key={c.label} style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1rem' }}>
-            <div style={{ color: '#5a7a60', fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.07em' }}>{c.label}</div>
+          <div key={c.label} style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1rem' }}>
+            <div style={{ color: '#4d5f7a', fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.07em' }}>{c.label}</div>
             <div style={{ color: c.cor, fontWeight: 800, fontSize: '1.4rem', margin: '0.3rem 0' }}>{c.valor}</div>
-            <div style={{ color: '#5a7a60', fontSize: '0.75rem' }}>{c.sub}</div>
+            <div style={{ color: '#4d5f7a', fontSize: '0.75rem' }}>{c.sub}</div>
           </div>
         ))}
       </div>
 
       {/* Gráfico */}
-      <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, padding: '1rem', marginBottom: '1.5rem' }}>
+      <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1rem', marginBottom: '1.5rem' }}>
         <canvas ref={canvasRef} style={{ width: '100%', display: 'block' }} />
       </div>
 
       {/* Tabela semanal */}
-      <div style={{ background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 12, overflow: 'hidden' }}>
-        <div style={{ padding: '0.9rem 1.2rem', borderBottom: '1px solid #1a2e1e', fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.1em' }}>
+      <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, overflow: 'hidden' }}>
+        <div style={{ padding: '0.9rem 1.2rem', borderBottom: '1px solid #1c2538', fontSize: '0.72rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.1em' }}>
           Semana a semana
         </div>
         <div style={{ overflowX: 'auto' }}>
@@ -155,7 +155,7 @@ export default function PatrimonioPage() {
             <thead>
               <tr>
                 {['Semana','B3 Radar','CDI','Ibovespa','Radar vs CDI'].map(h => (
-                  <th key={h} style={{ padding: '0.55rem 1rem', borderBottom: '1px solid #1a2e1e', textAlign: 'left', color: '#5a7a60', fontWeight: 500 }}>{h}</th>
+                  <th key={h} style={{ padding: '0.55rem 1rem', borderBottom: '1px solid #1c2538', textAlign: 'left', color: '#4d5f7a', fontWeight: 500 }}>{h}</th>
                 ))}
               </tr>
             </thead>
@@ -164,12 +164,12 @@ export default function PatrimonioPage() {
                 const vsIni = ((s.radar - ini) / ini * 100).toFixed(1)
                 const vsCdi = (((s.radar - s.cdi) / ini) * 100).toFixed(1)
                 return (
-                  <tr key={i} style={{ borderBottom: '1px solid #1a2e1e' }}>
-                    <td style={{ padding: '0.55rem 1rem', color: '#e8f5e9', fontWeight: 600 }}>{s.label}</td>
-                    <td style={{ padding: '0.55rem 1rem', color: '#00c44a', fontWeight: 700 }}>R$ {s.radar.toLocaleString('pt-BR')}</td>
-                    <td style={{ padding: '0.55rem 1rem', color: '#4488ff' }}>R$ {s.cdi.toLocaleString('pt-BR')}</td>
-                    <td style={{ padding: '0.55rem 1rem', color: '#5a7a60' }}>R$ {s.ibov.toLocaleString('pt-BR')}</td>
-                    <td style={{ padding: '0.55rem 1rem', color: parseFloat(vsCdi) >= 0 ? '#00c44a' : '#ff4466', fontWeight: 700 }}>
+                  <tr key={i} style={{ borderBottom: '1px solid #1c2538' }}>
+                    <td style={{ padding: '0.55rem 1rem', color: '#e8edf5', fontWeight: 600 }}>{s.label}</td>
+                    <td style={{ padding: '0.55rem 1rem', color: '#34d17e', fontWeight: 700 }}>R$ {s.radar.toLocaleString('pt-BR')}</td>
+                    <td style={{ padding: '0.55rem 1rem', color: '#5b9bff' }}>R$ {s.cdi.toLocaleString('pt-BR')}</td>
+                    <td style={{ padding: '0.55rem 1rem', color: '#4d5f7a' }}>R$ {s.ibov.toLocaleString('pt-BR')}</td>
+                    <td style={{ padding: '0.55rem 1rem', color: parseFloat(vsCdi) >= 0 ? '#34d17e' : '#e53555', fontWeight: 700 }}>
                       {parseFloat(vsCdi) >= 0 ? '+' : ''}{vsCdi}%
                     </td>
                   </tr>
@@ -180,7 +180,7 @@ export default function PatrimonioPage() {
         </div>
       </div>
 
-      <p style={{ color: '#5a7a60', fontSize: '0.75rem', marginTop: '1rem', textAlign: 'center' }}>
+      <p style={{ color: '#4d5f7a', fontSize: '0.75rem', marginTop: '1rem', textAlign: 'center' }}>
         Dados simulados com base nas sugestões históricas do B3 Radar · Não é garantia de retorno futuro
       </p>
     </main>

@@ -24,7 +24,7 @@ function getHistoricoMacro() {
     .filter(r => r.macro)
 }
 
-const varCor = (v: number) => v >= 0 ? '#00c44a' : '#ff4466'
+const varCor = (v: number) => v >= 0 ? '#34d17e' : '#e53555'
 const varSinal = (v: number) => v > 0 ? '+' : ''
 
 export default function MacroPage() {
@@ -101,14 +101,14 @@ export default function MacroPage() {
   ] : []
 
   const corStatus: Record<string, string> = {
-    positivo: '#00c44a',
-    negativo: '#ff4466',
-    neutro: '#ffdf00',
+    positivo: '#34d17e',
+    negativo: '#e53555',
+    neutro: '#f0b429',
   }
   const bgStatus: Record<string, string> = {
-    positivo: '#00c44a18',
-    negativo: '#ff446618',
-    neutro: '#ffdf0018',
+    positivo: '#34d17e18',
+    negativo: '#e5355518',
+    neutro: '#f0b42918',
   }
 
   return (
@@ -116,8 +116,8 @@ export default function MacroPage() {
       <Nav ativa="macro" />
 
       <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8f5e9' }}>Painel Macro ao Vivo</h1>
-        <p style={{ color: '#5a7a60', fontSize: '0.85rem', marginTop: '0.25rem' }}>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8edf5' }}>Painel Macro ao Vivo</h1>
+        <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: '0.25rem' }}>
           {m?.atualizado_em ? `Atualizado em ${m.atualizado_em}` : 'Atualizado automaticamente toda manhã'}
         </p>
       </header>
@@ -126,20 +126,20 @@ export default function MacroPage() {
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '0.75rem', marginBottom: '2rem' }}>
         {cards.map(c => (
           <div key={c.label} style={{
-            background: '#0d1a10',
-            border: '1px solid #1a2e1e',
+            background: '#0f1520',
+            border: '1px solid #1c2538',
             borderRadius: 12,
             padding: '1.1rem',
           }}>
             <div style={{ fontSize: '1.3rem', marginBottom: '0.5rem' }}>{c.icon}</div>
-            <div style={{ color: '#5a7a60', fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>{c.label}</div>
-            <div style={{ color: '#e8f5e9', fontWeight: 800, fontSize: '1.3rem', margin: '0.25rem 0' }}>{c.valor}</div>
+            <div style={{ color: '#4d5f7a', fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>{c.label}</div>
+            <div style={{ color: '#e8edf5', fontWeight: 800, fontSize: '1.3rem', margin: '0.25rem 0' }}>{c.valor}</div>
             {c.var !== null && c.var !== undefined && (
               <div style={{ color: varCor(c.var), fontSize: '0.82rem', fontWeight: 600 }}>
                 {varSinal(c.var)}{c.var}% hoje
               </div>
             )}
-            <div style={{ color: '#5a7a60', fontSize: '0.72rem', marginTop: '0.4rem' }}>{c.desc}</div>
+            <div style={{ color: '#4d5f7a', fontSize: '0.72rem', marginTop: '0.4rem' }}>{c.desc}</div>
           </div>
         ))}
       </div>
@@ -147,16 +147,16 @@ export default function MacroPage() {
       {/* Impacto por setor */}
       <div style={{ marginBottom: '2rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
-          <h2 style={{ fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
+          <h2 style={{ fontSize: '0.72rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
             Impacto macro por setor
           </h2>
-          <div style={{ flex: 1, height: 1, background: '#1a2e1e' }} />
+          <div style={{ flex: 1, height: 1, background: '#1c2538' }} />
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
           {impactos.map(i => (
             <div key={i.setor} style={{
               display: 'flex', alignItems: 'flex-start', gap: '1rem',
-              background: '#0d1a10', border: '1px solid #1a2e1e', borderRadius: 10,
+              background: '#0f1520', border: '1px solid #1c2538', borderRadius: 10,
               padding: '0.9rem 1.2rem',
             }}>
               <span style={{
@@ -170,8 +170,8 @@ export default function MacroPage() {
                 {i.status}
               </span>
               <div>
-                <div style={{ fontWeight: 600, fontSize: '0.88rem', color: '#e8f5e9' }}>{i.setor}</div>
-                <div style={{ color: '#5a7a60', fontSize: '0.82rem', marginTop: '0.2rem' }}>{i.texto}</div>
+                <div style={{ fontWeight: 600, fontSize: '0.88rem', color: '#e8edf5' }}>{i.setor}</div>
+                <div style={{ color: '#4d5f7a', fontSize: '0.82rem', marginTop: '0.2rem' }}>{i.texto}</div>
               </div>
             </div>
           ))}
@@ -182,31 +182,31 @@ export default function MacroPage() {
       {historico.length > 1 && (
         <div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
-            <h2 style={{ fontSize: '0.72rem', color: '#5a7a60', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
+            <h2 style={{ fontSize: '0.72rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.12em' }}>
               Histórico de 14 dias
             </h2>
-            <div style={{ flex: 1, height: 1, background: '#1a2e1e' }} />
+            <div style={{ flex: 1, height: 1, background: '#1c2538' }} />
           </div>
           <div style={{ overflowX: 'auto' }}>
             <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.82rem' }}>
               <thead>
-                <tr style={{ color: '#5a7a60' }}>
+                <tr style={{ color: '#4d5f7a' }}>
                   {['Data', 'Ibovespa', 'Var %', 'Dólar', 'Brent', 'Selic'].map(h => (
-                    <th key={h} style={{ padding: '0.5rem 0.75rem', borderBottom: '1px solid #1a2e1e', textAlign: 'left', fontWeight: 500 }}>{h}</th>
+                    <th key={h} style={{ padding: '0.5rem 0.75rem', borderBottom: '1px solid #1c2538', textAlign: 'left', fontWeight: 500 }}>{h}</th>
                   ))}
                 </tr>
               </thead>
               <tbody>
                 {historico.map(r => (
-                  <tr key={r.data_iso} style={{ borderBottom: '1px solid #1a2e1e' }}>
-                    <td style={{ padding: '0.55rem 0.75rem', color: '#e8f5e9' }}>{r.data}</td>
+                  <tr key={r.data_iso} style={{ borderBottom: '1px solid #1c2538' }}>
+                    <td style={{ padding: '0.55rem 0.75rem', color: '#e8edf5' }}>{r.data}</td>
                     <td style={{ padding: '0.55rem 0.75rem' }}>{r.macro.ibovespa}</td>
                     <td style={{ padding: '0.55rem 0.75rem', color: varCor(r.macro.ibovespa_var ?? 0), fontWeight: 600 }}>
                       {varSinal(r.macro.ibovespa_var ?? 0)}{r.macro.ibovespa_var ?? '-'}%
                     </td>
-                    <td style={{ padding: '0.55rem 0.75rem', color: '#ffdf00' }}>R$ {r.macro.dolar}</td>
-                    <td style={{ padding: '0.55rem 0.75rem', color: '#ffdf00' }}>US$ {r.macro.brent}</td>
-                    <td style={{ padding: '0.55rem 0.75rem', color: '#4488ff' }}>{r.macro.selic}%</td>
+                    <td style={{ padding: '0.55rem 0.75rem', color: '#f0b429' }}>R$ {r.macro.dolar}</td>
+                    <td style={{ padding: '0.55rem 0.75rem', color: '#f0b429' }}>US$ {r.macro.brent}</td>
+                    <td style={{ padding: '0.55rem 0.75rem', color: '#5b9bff' }}>{r.macro.selic}%</td>
                   </tr>
                 ))}
               </tbody>
@@ -216,7 +216,7 @@ export default function MacroPage() {
       )}
 
       {!m && (
-        <div style={{ textAlign: 'center', padding: '3rem', color: '#5a7a60', border: '1px dashed #1a2e1e', borderRadius: 12 }}>
+        <div style={{ textAlign: 'center', padding: '3rem', color: '#4d5f7a', border: '1px dashed #1c2538', borderRadius: 12 }}>
           Ainda sem dados macro. Rode o script <code>gerar_e_publicar.py</code> para popular.
         </div>
       )}
