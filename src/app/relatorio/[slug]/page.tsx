@@ -12,11 +12,15 @@ function getRelatorio(slug: string) {
   return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
 }
 
+/** Só relatórios de dia — a pasta também tem comite_*, fundamentos_*, mapa_*,
+ *  noticias_* e sugestoes_*, que não têm página de relatório. */
+const ARQUIVO_RELATORIO = /^\d{4}-\d{2}-\d{2}(_(manha|tarde))?\.json$/
+
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), 'relatorios')
   if (!fs.existsSync(dir)) return []
   return fs.readdirSync(dir)
-    .filter(f => f.endsWith('.json') && f !== 'backtest_historico.json')
+    .filter(f => ARQUIVO_RELATORIO.test(f))
     .map(f => ({ slug: f.replace('.json', '') }))
 }
 

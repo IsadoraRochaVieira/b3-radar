@@ -4,11 +4,16 @@ import Link from 'next/link'
 import Nav from '@/components/Nav'
 import HomeClient from '@/components/HomeClient'
 
+/** Só relatórios de dia: 2026-07-17_manha.json, 2026-07-17.json.
+ *  A pasta também guarda comite_*, fundamentos_*, mapa_*, noticias_* e
+ *  sugestoes_* — que NÃO são relatórios e não podem entrar na lista. */
+const ARQUIVO_RELATORIO = /^\d{4}-\d{2}-\d{2}(_(manha|tarde))?\.json$/
+
 function getRelatorios() {
   const dir = path.join(process.cwd(), 'relatorios')
   if (!fs.existsSync(dir)) return []
   return fs.readdirSync(dir)
-    .filter(f => f.endsWith('.json') && f !== 'backtest_historico.json' && !f.startsWith('noticias_') && !f.startsWith('sugestoes_'))
+    .filter(f => ARQUIVO_RELATORIO.test(f))
     .sort((a, b) => b.localeCompare(a))
     .slice(0, 40)
     .map(f => {
@@ -16,6 +21,9 @@ function getRelatorios() {
       return { slug: f.replace('.json', ''), ...data }
     })
 }
+
+/** Dentro do dia: manhã sempre antes da tarde. */
+const ORDEM_TURNO = (t?: string) => (t === 'manha' ? 0 : t === 'tarde' ? 1 : 2)
 
 const semCfg: Record<string, { cor: string; bg: string; label: string }> = {
   verde:    { cor: '#00a63c', bg: 'rgba(0,166,60,0.10)',    label: 'Operar normal'    },
@@ -36,9 +44,13 @@ export default function Home() {
 
   const porDia: Record<string, any[]> = {}
   for (const r of relatorios) {
-    const k = r.data_iso ?? r.slug
+    // o dia vem do nome do arquivo, que é a fonte confiável (data_iso pode faltar nos antigos)
+    const k = r.data_iso ?? r.slug.slice(0, 10)
     if (!porDia[k]) porDia[k] = []
     porDia[k].push(r)
+  }
+  for (const k of Object.keys(porDia)) {
+    porDia[k].sort((a, b) => ORDEM_TURNO(a.turno) - ORDEM_TURNO(b.turno))
   }
   const diasOrdenados = Object.keys(porDia).sort((a, b) => b.localeCompare(a))
 
@@ -182,25 +194,51 @@ export default function Home() {
         {diasOrdenados.slice(1).map(dia => {
           const turnos = porDia[dia]
           const ref = turnos[0]
+          const dataBR = ref.data ?? dia.split('-').reverse().join('/')
+          const diaSemana = new Date(`${dia}T12:00:00`).toLocaleDateString('pt-BR', { weekday: 'short' })
           return (
             <div key={dia} style={{
               background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 8,
-              padding: '10px 14px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8,
+              padding: '10px 14px', display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: 10,
             }}>
-              <span style={{ fontFamily: 'var(--mono)', fontSize: 13, fontWeight: 600, color: 'var(--text)' }}>{ref.data}</span>
-              <div style={{ display: 'flex', gap: 6, alignItems: 'center', flexWrap: 'wrap' }}>
-                {turnos.map((t: any) => (
+              {/* data do dia */}
+              <div style={{ display: 'flex', alignItems: 'baseline', gap: 7, minWidth: 132 }}>
+                <span style={{ fontFamily: 'var(--mono)', fontSize: 13, fontWeight: 600, color: 'var(--text)' }}>{dataBR}</span>
+                <span style={{ fontSize: 11, color: 'var(--muted)', textTransform: 'capitalize' }}>{diaSemana.replace('.', '')}</span>
+              </div>
+
+              {/* turnos: manhã sempre antes da tarde */}
+              <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+                {(['manha', 'tarde'] as const).map(tn => {
+                  const t = turnos.find((x: any) => x.turno === tn)
+                  const label = tn === 'manha' ? '🌅 Manhã' : '☀️ Tarde'
+                  if (!t) return (
+                    <span key={tn} title={`Sem relatório da ${tn === 'manha' ? 'manhã' : 'tarde'}`} style={{
+                      border: '1px dashed var(--border2)', borderRadius: 5, padding: '3px 8px',
+                      fontSize: 12, color: 'var(--muted)', opacity: 0.5,
+                    }}>{label}</span>
+                  )
+                  return (
+                    <Link key={tn} href={`/relatorio/${t.slug}`}>
+                      <span style={{
+                        background: 'var(--blue-bg)', border: '1px solid rgba(91,155,255,0.25)',
+                        borderRadius: 5, padding: '3px 8px', fontSize: 12, color: 'var(--blue-light)', fontWeight: 500, cursor: 'pointer',
+                      }}>{label}</span>
+                    </Link>
+                  )
+                })}
+                {/* formato antigo, sem turno */}
+                {turnos.filter((t: any) => !t.turno).map((t: any) => (
                   <Link key={t.slug} href={`/relatorio/${t.slug}`}>
                     <span style={{
-                      background: 'var(--blue-bg)', border: '1px solid rgba(91,155,255,0.2)',
-                      borderRadius: 5, padding: '3px 8px', fontSize: 12, color: 'var(--blue-light)', fontWeight: 500, cursor: 'pointer',
-                    }}>
-                      {t.turno === 'manha' ? '🌅 Manhã' : t.turno === 'tarde' ? '☀️ Tarde' : '📄 Relatório'}
-                    </span>
+                      background: 'var(--surface2)', border: '1px solid var(--border2)',
+                      borderRadius: 5, padding: '3px 8px', fontSize: 12, color: 'var(--text2)', fontWeight: 500, cursor: 'pointer',
+                    }}>📄 Dia todo</span>
                   </Link>
                 ))}
-                <span style={{ fontSize: 12, color: 'var(--muted)' }}>{ref.resumo_curto}</span>
               </div>
+
+              <span style={{ fontSize: 12, color: 'var(--muted)', marginLeft: 'auto', fontFamily: 'var(--mono)' }}>{ref.resumo_curto}</span>
             </div>
           )
         })}
