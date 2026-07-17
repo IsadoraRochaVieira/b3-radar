@@ -28,9 +28,22 @@ def carregar_historico() -> list:
     return []
 
 
+def _limpar_nan(obj):
+    """NaN/Infinity são válidos em Python mas NÃO em JSON — o site quebra ao ler.
+    Converte para None antes de gravar."""
+    import math
+    if isinstance(obj, dict):
+        return {k: _limpar_nan(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [_limpar_nan(v) for v in obj]
+    if isinstance(obj, float) and (math.isnan(obj) or math.isinf(obj)):
+        return None
+    return obj
+
+
 def salvar_historico(historico: list):
     BACKTEST_FILE.write_text(
-        json.dumps(historico, ensure_ascii=False, indent=2),
+        json.dumps(_limpar_nan(historico), ensure_ascii=False, indent=2, allow_nan=False),
         encoding="utf-8"
     )
 

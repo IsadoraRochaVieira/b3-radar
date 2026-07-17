@@ -836,8 +836,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": NaN,
-    "resultado_pct_atual": NaN
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "WEGE3",
@@ -1091,8 +1091,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": NaN,
-    "resultado_pct_atual": NaN
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "EGIE3",
@@ -1151,8 +1151,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": NaN,
-    "resultado_pct_atual": NaN
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "MELK3",
