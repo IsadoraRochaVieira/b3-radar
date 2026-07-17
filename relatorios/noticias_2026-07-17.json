@@ -1,14 +1,14 @@
 {
-  "coletado_em": "17/07/2026 00:04",
-  "total": 28,
+  "coletado_em": "17/07/2026 00:12",
+  "total": 30,
   "urgentes": 0,
   "destaque": {
     "titulo": "Tarifaço: Durigan diz que Brasil vai preservar soberania financeira e geológica 'sem viralatice' e que país segue aberto a negociações",
     "descricao": "EUA confirmam nova tarifa de 25% sobre produtos brasileiros O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (16) que o Brasil vai preservar a soberania financeira e geológica \"sem viralatice\" e que o governo seguirá aberto à diplomacia e a negociações. \"A gente vai seguir protegendo o Pix, como disse o presidente [do Banco Central] Gabriel Galípolo, o maior símbolo da nossa sobera",
     "link": "https://g1.globo.com/economia/noticia/2026/07/16/tafiraco-durigan-diz-que-brasil-vai-preservar-soberania-financeira-e-geologica-sem-viralatice-e-que-pais-segue-aberto-a-negociacoes.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
     "urgencia": "media",
     "score_relevancia": 4,
     "pub_date": "Thu, 16 Jul 2026 20:34:17 -0000",
@@ -22,9 +22,9 @@
       "titulo": "Tarifaço: Durigan diz que Brasil vai preservar soberania financeira e geológica 'sem viralatice' e que país segue aberto a negociações",
       "descricao": "EUA confirmam nova tarifa de 25% sobre produtos brasileiros O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (16) que o Brasil vai preservar a soberania financeira e geológica \"sem viralatice\" e que o governo seguirá aberto à diplomacia e a negociações. \"A gente vai seguir protegendo o Pix, como disse o presidente [do Banco Central] Gabriel Galípolo, o maior símbolo da nossa sobera",
       "link": "https://g1.globo.com/economia/noticia/2026/07/16/tafiraco-durigan-diz-que-brasil-vai-preservar-soberania-financeira-e-geologica-sem-viralatice-e-que-pais-segue-aberto-a-negociacoes.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 4,
       "pub_date": "Thu, 16 Jul 2026 20:34:17 -0000",
@@ -37,9 +37,9 @@
       "titulo": "Alckmin contesta alegações dos EUA sobre tarifaço e diz que medida é 'injusta e descabida'",
       "descricao": "O vice-presidente da República, Geraldo Alckmin, contestou as alegações usadas pelos Estados Unidos para justificar as tarifas de 25% anunciadas nesta quarta-feira (15) e afirmou que a medida é \"injusta e descabida\". \"É injusta porque se nós pegarmos os próprios dados dos Estados Unidos nos últimos 15 anos os Estados Unidos teve conosco superávit na balança comercial. E descabida porque que os arg",
       "link": "https://g1.globo.com/politica/noticia/2026/07/16/ministros-contestam-alegacoes-dos-eua-sobre-tarifaco.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 4,
       "pub_date": "Thu, 16 Jul 2026 19:51:46 -0000",
@@ -95,12 +95,55 @@
       ]
     },
     {
+      "titulo": "Flávio Bolsonaro diz que foto com 'Sicário' de Vorcaro é manipulação de IA",
+      "descricao": "Flávio Bolsonaro com Daniella Marques em live nesta quinta-feira (16) Reprodução O senador Flávio Bolsonaro (PL) afirmou na noite desta quinta-feira (16) que é manipulação de inteligência artificial a foto em que aparece ao lado de Luiz Phillipi Machado de Moraes Mourão, o \"Sicário\" de Daniel Vorcaro, do Banco Master. A fala foi dada em uma live quando ele criticava o presidente Lula (PT) por não ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/16/flavio-bolsonaro-foto-sicario-vorcaro-manipulacao-ia.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 16 Jul 2026 22:33:21 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Quaest: Renato Casagrande lidera disputa pelo Senado no Espírito Santo",
+      "descricao": "Renato Casagrande (PSB) Carlos Alberto Silva/A Gazeta Pesquisa Quaest divulgada nesta quinta-feira (16) mostra como está a corrida pelo Senado no Espírito Santo. Serão duas vagas em disputa nas eleições de outubro. Na pesquisa espontânea — em que os nomes dos pré-candidatos não são mostrados aos eleitores —, 70% dizem que ainda não sabem em quem votar. A Quaest traz também quatro cenários estimula",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/07/16/quaest-espirito-santo-senado-julho.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 16 Jul 2026 22:04:22 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Presidente do STF pede respeito à autonomia das instituições dos países e diz esperar o mesmo para as brasileiras",
+      "descricao": "Edson Fachin, presidente do Supremo Tribunal Federal (STF). Victor Piemonte/STF/Reprodução O presidente do Supremo Tribunal Federal (STF), Edson Fachin, divulgou uma nota à imprensa nesta quinta-feira (16) em que defende a autonomia das instituições de todas as nações e diz esperar igual respeito às instituições brasileiras. \"Divergências entre Estados devem ser conduzidas pelos canais diplomático",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/16/presidente-do-stf-pede-respeito-a-autonomia-das-instituicoes-dos-paises-e-diz-esperar-o-mesmo-para-as-brasileiras.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 16 Jul 2026 21:55:33 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "Governo faz coletiva sobre novo tarifaço de 25% dos EUA contra Brasil",
       "descricao": "Governo faz coletiva sobre novo tarifaço de 25% dos EUA contra Brasil Vice-presidente, Geraldo Alckmin, ministros e outros representantes do governo falam sobre as novas taxas aplicadas ao país. O ministro das Relações Exteriores, Mauro Vieira diz que novas tarifas dos EUA não têm justificativa.. Vieira ainda classifica como 'ofensivas' declarações de Rubio e diz que secretário dos EUA ataca Lula ",
       "link": "https://g1.globo.com/politica/ao-vivo/governo-brasileiro-novo-tarifaco-de-trump.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
       "pub_date": "Thu, 16 Jul 2026 21:03:38 -0000",
@@ -111,32 +154,16 @@
     },
     {
       "titulo": "PIX: Galípolo defende meio de pagamento alvo de contestação dos EUA; 'gratuito', 'seguro' e 'instantâneo'",
-      "descricao": "Galípolo defende pix e diz que argumentos dos EUA são 'desculpa' O presidente do Banco Central (BC), Gabriel Galípolo, defendeu nesta quinta-feira (16) o PIX como um meio de pagamento \"gratuito\", \"seguro\" e \"instantâneo\", com enorme potencial de inclusão financeira para a população brasileira. Ao lado de ministros do governo do presidente Luiz Inácio Lula da Silva (PT), Galípolo participou de cole",
+      "descricao": "Gabriel Galípolo, presidente do Banco Central, durante coletiva de imprensa nesta quinta-feira (16) Júlio César Silva/MDIC O presidente do Banco Central (BC), Gabriel Galípolo, defendeu nesta quinta-feira (16) o PIX como um meio de pagamento \"gratuito\", \"seguro\" e \"instantâneo\", com enorme potencial de inclusão financeira para a população brasileira. Ao lado de ministros do governo do presidente L",
       "link": "https://g1.globo.com/economia/noticia/2026/07/16/pix-galipolo-defende-meio-de-pagamento-seguro-e-instantaneo.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
       "pub_date": "Thu, 16 Jul 2026 20:15:11 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Exportadoras dizem que carne brasileira pode não conseguir atender exigências da UE sobre antimicrobianos",
-      "descricao": "União Europeia veta importações de carne e produtos de origem animal do Brasil O presidente da Associação Brasileira das Indústrias Exportadoras de Carnes (Abiec), Roberto Perosa, afirmou nesta quinta-feira (16) que há grandes chances da produção de carnes brasileira não conseguir atender às exigências da União Europeia sobre o uso de antimicrobiano e, com isso, perder acesso a esse mercado. \"Eu a",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/exportadoras-dizem-que-carne-brasileira-pode-nao-conseguir-atender-exigencias-da-ue-sobre-antimicrobianos.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 16 Jul 2026 18:05:57 -0000",
-      "setores": [
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
       ]
     },
     {
@@ -215,40 +242,54 @@
       ]
     },
     {
-      "titulo": "Antes da nova tarifa, Brasil já havia perdido R$ 13,2 bilhões em exportações para os EUA, diz CNI",
-      "descricao": "EUA oficializam tarifa de 25% sobre produtos do Brasil O Escritório do Representante de Comércio dos Estados Unidos (USTR) confirmou nesta quinta-feira (15) a imposição de uma tarifa de 25% sobre parte das importações brasileiras, a partir do dia 22 de julho. Apesar de mais uma barreira comercial entre os países, o Brasil e os EUA já conviviam com um cenário tarifário fragmentado, que levou à perd",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/antes-da-nova-tarifa-brasil-ja-havia-perdido-r-132-bilhoes-em-exportacoes-para-os-eua-diz-cni.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "'Defender mulher é pauta de direita', diz Flávio Bolsonaro ao anunciar propostas para mulheres",
+      "descricao": "Flávio Bolsonaro com Daniella Marques em live nesta quinta-feira (16) Reprodução O senador e pré-candidato à Presidência Flávio Bolsonaro (PL) afirmou que a defesa das mulheres é uma pauta da direita porque, segundo ele, \"quem gosta de criminoso é a esquerda\". A declaração foi feita durante uma live realizada nesta quinta-feira (16), em que lançou o plano \"Brasil por Elas\", conjunto de propostas v",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/16/flavio-bolsonaro-anuncia-propostas-para-mulheres.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 20:40:51 -0000",
+      "pub_date": "Thu, 16 Jul 2026 22:45:49 -0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Qual o impacto do tarifaço de Trump no Brasil? 'Deve ser restrito' e mostra 'limites do protecionismo americano', diz economista",
-      "descricao": "Donald Trump e Lula ANDREW CABALLERO-REYNOLDS/AFP via Getty Images/Via BBC A tarifa de 25% contra produtos brasileiros, anunciada pelo governo dos Estados Unidos na quarta-feira (15/07), deve ter impacto restrito diante da extensa lista de itens isentos divulgada, afirma a economista e pesquisadora do PIIE (Instituto Peterson de Economia Internacional, nos EUA), Monica de Bolle. Ainda segundo a es",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/qual-o-impacto-do-tarifaco-de-trump-no-brasil-deve-ser-restrito-e-mostra-limites-do-protecionismo-americano-diz-economista.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "PIX, STF, redes sociais: governo Lula contesta argumentos dos EUA para novo tarifaço contra o Brasil",
+      "descricao": "Governo brasileiro reage a aplicação de tarifa pelos EUA O governo brasileiro divulgou nesta quinta-feira (16) uma nota contestando os argumentos do governo Trump para aplicar o novo tarifaço de 25% contra o Brasil. Entre os fatores usados pelos Estados Unidos estão o Pix, ações do Supremo Tribunal Federal (STF) contra big techs, desmatamento e corrupção (veja mais detalhes abaixo). A tarifa adici",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/16/pix-stf-redes-sociais-governo-lula-contesta-argumentos-dos-eua-para-novo-tarifaco-contra-o-brasil.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 20:12:08 -0000",
+      "pub_date": "Thu, 16 Jul 2026 22:24:53 -0000",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Justiça Eleitoral manda derrubar 21 postagens contra Tarcísio e multa coordenador da pré-campanha de Haddad por vídeo com Chucky",
+      "descricao": "Montagem com fotos dos pré-candidatos a governador de São Paulo: Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) Miguel Pessoa/Código 19/Estadão Conteúdo e Ton Molina/Fotoarena/Estadão Conteúdo A Justiça Eleitoral determinou a retirada de 21 publicações com conteúdos considerados irregulares contra o governador Tarcísio de Freitas (Republicanos), pré-candidato à reeleição em São Paulo. A",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/07/16/justica-eleitoral-manda-derrubar-21-postagens-contra-tarcisio-e-multa-coordenador-da-pre-campanha-de-haddad-por-video-com-chucky.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 16 Jul 2026 20:39:37 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
       "titulo": "Tarifaço: ministro diz que 18% das exportações brasileiras aos EUA, que correspondem a US$ 7,4 bilhões, serão afetadas",
       "descricao": "O ministro Márcio Elias Rosa (Desenvolvimento, Indústria e Comércio) afirmou nesta quinta-feira (16) que 18% das exportações brasileiras para os Estados Unidos serão afetadas com o novo tarifaço imposto pelo governo Donald Trump contra produtos do Brasil. De acordo com Rosa, o percentual tem como referência as exportações do Brasil para os Estados Unidos em 2024 e corresponde a US$ 7,4 bilhões na ",
       "link": "https://g1.globo.com/economia/noticia/2026/07/16/tarifaco-ministro-diz-que-18percent-das-exportacoes-brasileiras-que-correspondem-a-us-74-bilhoes-serao-afetadas.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Thu, 16 Jul 2026 20:05:40 -0000",
@@ -258,32 +299,31 @@
       ]
     },
     {
-      "titulo": "Alckmin diz que empresas afetadas pelo tarifaço terão ajuda e reciprocidade contra EUA será usada em 'momento adequado'",
-      "descricao": "Governo classifica tarifaço dos EUA como 'marco lastimável' e diz que vai acionar Lei de Reciprocidade O vice-presidente Geraldo Alckmin (PSB) afirmou nesta quinta-feira (16) que o governo federal terá um programa para ajudar empresas prejudicadas com a nova taxa de 25% que o governo dos Estados Unidos anunciou sobre produtos brasileiros. \"O presidente, o governo do presidente Lula trabalha para a",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/governo-tera-programa-de-apoio-para-empresas-que-tiverem-problemas-com-novas-taxas-dos-eua-sobre-o-brasil-diz-alckmin.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Estado do Rio entra com ações para tentar recuperar R$ 616 milhões em aplicações do Rioprevidência em fundos geridos pelo grupo Master",
+      "descricao": "Fachada do Banco Master em São Paulo Reprodução/TV Globo A Procuradoria-Geral do Estado do Rio de Janeiro ajuizou, nesta quinta-feira (16), três ações para tentar recuperar R$ 616 milhões aplicados pelo Rioprevidência em fundos administrados pelo conglomerado do Banco Master, atualmente em liquidação extrajudicial. 📱Baixe o app do g1 para ver notícias em tempo real e de graça A Polícia Federal est",
+      "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/07/16/acoes-rj-aplicacoes-rioprevidencia-master.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 19:55:50 -0000",
+      "pub_date": "Thu, 16 Jul 2026 19:18:41 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Telecom (VIVT3, TIMS3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
-      "titulo": "Crime organizado movimenta bilhões por meio de criptomoedas, alerta órgão global",
-      "descricao": "Dupla que fingiu ser policial roubou R$ 800 mil em criptomoedas após falsa abordagem Criminosos estão explorando brechas na regulamentação para movimentar bilhões de dólares em recursos ilícitos por meio do mercado de criptomoedas, afirmou nesta quinta-feira (16) o Grupo de Ação Financeira (Gafi) em seu mais recente relatório sobre ativos virtuais e financiamento ilícito. No documento, o organismo",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/16/crime-organizado-movimenta-bilhoes-por-meio-de-criptomoedas-alerta-orgao-global.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Vieira classifica como 'ofensivas' declarações de Rubio e diz que secretário dos EUA ataca Lula com grosseria e arrogância",
+      "descricao": "'Declarações de Rubio são inaceitáveis e ofensivas ao povo brasileiro', diz Mauro Vieira O ministro das Relações Exteriores, Mauro Vieira, classificou nesta quinta-feira (16) como \"inaceitáveis\" e \"ofensivas ao povo brasileiro\" declarações recentes do Secretário de Estado dos Estados Unidos, Marco Rubio. Ele também afirmou que Rubio ataca de \"forma grosseira e arrogante\" um chefe de Estado de um \"",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/16/declaracoes-de-rubio-sao-inaceitaveis-e-ofensivas-ao-povo-brasileiro-diz-vieira.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 16:28:36 -0000",
+      "pub_date": "Thu, 16 Jul 2026 17:32:40 -0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Mercado geral"
       ]
     },
     {
@@ -414,20 +454,6 @@
       "pub_date": "Thu, 16 Jul 2026 03:59:00 -0300",
       "setores": [
         "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Entenda como vai funcionar a renegociação das dívidas rurais",
-      "descricao": "Após várias reuniões, parlamentares concordam em trocar PL de renegociação que tinha impacto fiscal de R$ 140 bilhões por nova MP",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462244-entenda-como-vai-funcionar-a-renegociacao-das-dividas-rurais.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 16 Jul 2026 03:59:00 -0300",
-      "setores": [
-        "Mercado geral"
       ]
     }
   ]

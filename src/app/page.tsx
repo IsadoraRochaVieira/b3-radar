@@ -2,6 +2,7 @@
 import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import CortinaNumeros from '@/components/CortinaNumeros'
+import Costura from '@/components/Costura'
 
 /* ── Radar de pequi: o núcleo dourado como tela de radar ── */
 function RadarPequi() {
@@ -159,6 +160,8 @@ export default function Landing() {
         </div>
       </section>
 
+      <div style={{ maxWidth: 1100, margin: '0 auto', padding: '0 1rem' }}><Costura /></div>
+
       {/* ── O OURO OCULTO (foto real do pequi) ── */}
       <section style={{ maxWidth: 1100, margin: '0 auto', padding: '5.5rem 1rem' }}>
         <Revela>
@@ -190,6 +193,8 @@ export default function Landing() {
           </div>
         </Revela>
       </section>
+
+      <div style={{ maxWidth: 1100, margin: '0 auto 3rem', padding: '0 1rem' }}><Costura /></div>
 
       {/* ── OS TRÊS PILARES ── */}
       <section style={{ maxWidth: 1100, margin: '0 auto', padding: '0 1rem 5rem' }}>
@@ -240,11 +245,27 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* ── CTA FINAL com árvore ── */}
-      <section style={{ position: 'relative', borderTop: '1px solid var(--border)' }}>
+      {/* ── CTA FINAL — galho recortado emoldurando ── */}
+      <section style={{ position: 'relative', borderTop: '1px solid var(--border)', overflow: 'hidden' }}>
+        {/* galho sem fundo: emoldura o canto superior, com parallax lento */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/pequi-arvore.jpg" alt="" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.18 }} />
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, var(--bg) 0%, rgba(10,14,20,0.85) 100%)' }} />
+        <img src="/galho-pequi.png" alt="" aria-hidden="true" className="galho-esq" style={{
+          position: 'absolute', top: -30, left: -70, width: 460, opacity: 0.5,
+          transform: 'scaleX(-1)', pointerEvents: 'none',
+          filter: 'drop-shadow(0 12px 30px rgba(0,0,0,0.6))',
+        }} />
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/galho-pequi.png" alt="" aria-hidden="true" className="galho-dir" style={{
+          position: 'absolute', top: -50, right: -90, width: 380, opacity: 0.32,
+          pointerEvents: 'none', filter: 'drop-shadow(0 12px 30px rgba(0,0,0,0.6))',
+        }} />
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(10,14,20,0.55) 0%, rgba(10,14,20,0.92) 70%)' }} />
+        <style>{`
+          @media (max-width: 760px){
+            .galho-esq { width: 240px !important; opacity: .3 !important; left: -80px !important; }
+            .galho-dir { display: none; }
+          }
+        `}</style>
         <div style={{ position: 'relative', maxWidth: 1100, margin: '0 auto', padding: '6rem 1rem', textAlign: 'center' }}>
           <Revela>
             {/* eslint-disable-next-line @next/next/no-img-element */}

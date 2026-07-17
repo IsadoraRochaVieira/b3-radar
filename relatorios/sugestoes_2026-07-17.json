@@ -3,7 +3,128 @@
   "data_iso": "2026-07-17",
   "dia_semana": "Sexta-feira",
   "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa - (+0.00%). Destaques: nenhum acima do limiar. Semáforo: VERDE.",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 173.825 (-1.24%). Destaques: EGIE3, ANIM3, CAML3. Semáforo: VERDE.",
   "semaforo": "verde",
-  "sugestoes": []
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "EGIE3",
+      "acao": "COMPRAR",
+      "preco": "30.62",
+      "entrada": "30.62",
+      "stop": "28.66",
+      "alvo": "35.21",
+      "rsi": 34.4,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 34.4 e score de 65 pontos. Entrada em R$ 30.62 com alvo R$ 35.21."
+    },
+    {
+      "rank": 2,
+      "ticker": "ANIM3",
+      "acao": "COMPRAR",
+      "preco": "1.93",
+      "entrada": "1.93",
+      "stop": "1.54",
+      "alvo": "2.22",
+      "rsi": 25.7,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 25.7 e score de 60 pontos. Entrada em R$ 1.93 com alvo R$ 2.22."
+    },
+    {
+      "rank": 3,
+      "ticker": "CAML3",
+      "acao": "COMPRAR",
+      "preco": "4.41",
+      "entrada": "4.41",
+      "stop": "3.93",
+      "alvo": "5.07",
+      "rsi": 33.2,
+      "score": 60,
+      "porque": "RSI em 33.2 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 3.93 limita risco."
+    },
+    {
+      "rank": 4,
+      "ticker": "MTRE3",
+      "acao": "COMPRAR",
+      "preco": "3.07",
+      "entrada": "3.07",
+      "stop": "2.89",
+      "alvo": "3.53",
+      "rsi": 34.7,
+      "score": 60,
+      "porque": "RSI em 34.7 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 2.89 limita risco."
+    },
+    {
+      "rank": 5,
+      "ticker": "MELK3",
+      "acao": "COMPRAR",
+      "preco": "3.0",
+      "entrada": "3.0",
+      "stop": "2.83",
+      "alvo": "3.45",
+      "rsi": 34.8,
+      "score": 60,
+      "porque": "RSI em 34.8 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 2.83 limita risco."
+    },
+    {
+      "rank": 6,
+      "ticker": "POMO4",
+      "acao": "OBSERVAR",
+      "preco": "5.43",
+      "entrada": "5.43",
+      "stop": "5.08",
+      "alvo": "6.24",
+      "rsi": 35.2,
+      "score": 55,
+      "porque": "RSI em 35.2 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.43."
+    },
+    {
+      "rank": 7,
+      "ticker": "ISAE4",
+      "acao": "OBSERVAR",
+      "preco": "27.78",
+      "entrada": "27.78",
+      "stop": "26.28",
+      "alvo": "31.95",
+      "rsi": 45.5,
+      "score": 55,
+      "porque": "RSI em 45.5 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 27.78."
+    },
+    {
+      "rank": 8,
+      "ticker": "POMO3",
+      "acao": "OBSERVAR",
+      "preco": "5.0",
+      "entrada": "5.0",
+      "stop": "4.66",
+      "alvo": "5.75",
+      "rsi": 31.4,
+      "score": 55,
+      "porque": "RSI em 31.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.0."
+    },
+    {
+      "rank": 9,
+      "ticker": "SHUL4",
+      "acao": "OBSERVAR",
+      "preco": "4.5",
+      "entrada": "4.5",
+      "stop": "4.29",
+      "alvo": "5.17",
+      "rsi": 35.9,
+      "score": 55,
+      "porque": "RSI em 35.9 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 4.5."
+    },
+    {
+      "rank": 10,
+      "ticker": "GFSA3",
+      "acao": "OBSERVAR",
+      "preco": "0.49",
+      "entrada": "0.49",
+      "stop": "0.28",
+      "alvo": "0.56",
+      "rsi": 21.2,
+      "score": 50,
+      "porque": "RSI em 21.2 — zona neutra. Score 50/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 0.49."
+    }
+  ]
 }

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import PixPagamento from '@/components/PixPagamento'
 
 export const metadata: Metadata = {
   title: 'Assine o Caryo Map',
@@ -19,8 +20,21 @@ const INCLUI = [
 
 export default function AssinarPage() {
   return (
-    <main style={{ maxWidth: 900, margin: '0 auto', padding: '2.5rem 1.25rem 4rem' }}>
-      <div style={{ textAlign: 'center', marginBottom: 36 }}>
+    <main style={{ maxWidth: 900, margin: '0 auto', padding: '2.5rem 1.25rem 4rem', position: 'relative' }}>
+      {/* pequi recortado — mascote flutuante do topo */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src="/pequi-corte.png" alt="" aria-hidden="true" className="pequi-flutua" style={{
+        position: 'absolute', top: -10, right: -30, width: 260, opacity: 0.9,
+        pointerEvents: 'none', filter: 'drop-shadow(0 18px 40px rgba(0,0,0,0.55))', zIndex: 0,
+      }} />
+      <style>{`
+        @keyframes flutua { 0%,100%{transform:translateY(0) rotate(-2deg)} 50%{transform:translateY(-14px) rotate(1deg)} }
+        .pequi-flutua { animation: flutua 7s ease-in-out infinite; }
+        @media (max-width: 760px){ .pequi-flutua { width: 150px !important; right: -40px !important; opacity: .45 !important; } }
+        @media (prefers-reduced-motion: reduce){ .pequi-flutua { animation: none; } }
+      `}</style>
+
+      <div style={{ textAlign: 'center', marginBottom: 36, position: 'relative', zIndex: 1 }}>
         <Link href="/" style={{ color: 'var(--muted)', fontSize: 13, textDecoration: 'none' }}>← Caryo Map</Link>
         <div style={{ fontSize: 11, color: 'var(--gold)', letterSpacing: '0.16em', fontWeight: 700, fontFamily: 'var(--mono)', textTransform: 'uppercase', marginTop: 20 }}>
           Assinatura
@@ -65,6 +79,9 @@ export default function AssinarPage() {
           </a>
         </div>
       </div>
+
+      {/* Pix — pagamento direto */}
+      <PixPagamento />
 
       {/* O que inclui */}
       <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 16, padding: '1.6rem 1.8rem', marginBottom: 28 }}>
