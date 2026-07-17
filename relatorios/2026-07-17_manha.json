@@ -1,0 +1,40 @@
+{
+  "data": "17/07/2026",
+  "data_iso": "2026-07-17",
+  "turno": "manha",
+  "turno_label": "Manhã (08:30)",
+  "hora_geracao": "00:04",
+  "resumo": "[Manhã (08:30)] Ibovespa - (+0.00%). Destaques: nenhum acima do limiar. Semáforo: VERDE.",
+  "resumo_curto": "Sem candidatos",
+  "resumo_executivo": "",
+  "semaforo": "verde",
+  "pick_semana": null,
+  "macro": {
+    "ibovespa": "-",
+    "ibovespa_var": 0.0,
+    "dolar": "-",
+    "dolar_var": 0.0,
+    "brent": "-",
+    "brent_var": 0.0,
+    "selic": "14.25",
+    "ipca_12m": "4.64",
+    "atualizado_em": "17/07/2026 00:04"
+  },
+  "tops": [],
+  "candidatos": [],
+  "candidatos_top": [],
+  "plano": [],
+  "backtesting": {
+    "total_operacoes": 0,
+    "fechadas": 0,
+    "abertas": 0,
+    "ganhos": 0,
+    "perdas": 0,
+    "taxa_acerto": 0.0,
+    "retorno_medio_pct": 0.0,
+    "maior_ganho_pct": 0.0,
+    "maior_perda_pct": 0.0,
+    "retorno_total_pct": 0.0
+  },
+  "output_raw": "Traceback (most recent call last):\n  File \"C:\\Users\\Isadora\\Desktop\\claudin\\inestidor\\analisador_b3_4.py\", line 14, in <module>\n    import yfinance as yf\nModuleNotFoundError: No module named 'yfinance'\n"
+}
