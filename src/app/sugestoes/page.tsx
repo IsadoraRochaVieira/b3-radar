@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import Nav from '@/components/Nav'
 import SugestoesClient from './SugestoesClient'
+import FontesDados from '@/components/FontesDados'
 
 function getSugestoes() {
   const dir = path.join(process.cwd(), 'relatorios')
@@ -36,6 +37,7 @@ export default function SugestoesPage() {
         </p>
       </header>
       <SugestoesClient dias={dias} comDebate={comDebate} />
+      <FontesDados compacto />
     </main>
   )
 }

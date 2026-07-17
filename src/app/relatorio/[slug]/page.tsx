@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Nav from '@/components/Nav'
 import TickerLink from '@/components/TickerLink'
+import FontesDados from '@/components/FontesDados'
 
 function getRelatorio(slug: string) {
   const filePath = path.join(process.cwd(), 'relatorios', `${slug}.json`)
@@ -185,6 +186,8 @@ export default async function RelatorioPage({ params }: { params: Promise<{ slug
           <p style={{ lineHeight: 1.8, color: '#a0c8a8', fontSize: '0.9rem' }}>{r.resumo_executivo}</p>
         </section>
       )}
+
+      <FontesDados />
     </main>
   )
 }

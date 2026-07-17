@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import CortinaNumeros from '@/components/CortinaNumeros'
 import Costura from '@/components/Costura'
+import NumeroContado from '@/components/NumeroContado'
 
 /* ── Radar de pequi: o núcleo dourado como tela de radar ── */
 function RadarPequi() {
@@ -153,7 +154,7 @@ export default function Landing() {
             { n: '100%', l: 'do histórico aberto no backtest' },
           ].map(s => (
             <div key={s.l} style={{ padding: '1.75rem 1.5rem', borderLeft: '1px solid var(--border)' }}>
-              <div className="cm-display" style={{ fontSize: 34, fontWeight: 900, color: '#f0b429', fontFamily: 'var(--mono)' }}>{s.n}</div>
+              <NumeroContado valor={s.n} className="cm-display" style={{ display: 'block', fontSize: 34, fontWeight: 900, color: '#f0b429', fontFamily: 'var(--mono)' }} />
               <div style={{ fontSize: 12, color: 'var(--muted)', marginTop: 4 }}>{s.l}</div>
             </div>
           ))}

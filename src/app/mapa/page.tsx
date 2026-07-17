@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import Nav from '@/components/Nav'
 import MapaClient, { type Mapa } from './MapaClient'
+import FontesDados from '@/components/FontesDados'
 
 function getMapa(): Mapa | null {
   const dir = path.join(process.cwd(), 'relatorios')
@@ -47,6 +48,7 @@ export default function MapaPage() {
       ) : (
         <MapaClient mapa={mapa} comDebate={comDebate} />
       )}
+      <FontesDados compacto />
     </main>
   )
 }

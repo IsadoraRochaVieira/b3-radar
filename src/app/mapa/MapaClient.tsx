@@ -155,8 +155,21 @@ export default function MapaClient({ mapa, comDebate = [] }: { mapa: Mapa; comDe
       </p>
 
       <style>{`
-        .mapa-tile { transition: transform .12s ease, box-shadow .12s ease, filter .12s ease; }
-        .mapa-tile:hover { transform: translateY(-2px); filter: brightness(1.25); box-shadow: 0 6px 18px rgba(0,0,0,0.4); z-index: 2; }
+        /* Hover magnético — proposta do Léo (microinterações):
+           o quadradinho é atraído ao cursor e ganha o brilho dourado da marca. */
+        .mapa-tile { transition: transform .12s cubic-bezier(.22,1,.36,1), box-shadow .12s ease, filter .12s ease, border-color .12s ease; will-change: transform; }
+        .mapa-tile:hover {
+          transform: translateY(-3px) scale(1.14);
+          filter: brightness(1.3);
+          border-color: rgba(240,180,41,.75);
+          box-shadow: 0 8px 22px rgba(0,0,0,.55), 0 0 18px rgba(240,180,41,.35);
+          z-index: 3;
+        }
+        /* vizinhos cedem espaço de leve, reforçando a sensação magnética */
+        .mapa-tile:hover + .mapa-tile { transform: translateX(3px); }
+        @media (prefers-reduced-motion: reduce) {
+          .mapa-tile, .mapa-tile:hover, .mapa-tile:hover + .mapa-tile { transform: none; transition: none; }
+        }
       `}</style>
     </div>
   )
