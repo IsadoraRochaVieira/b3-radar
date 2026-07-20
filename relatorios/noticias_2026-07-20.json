@@ -1,24 +1,71 @@
 {
-  "coletado_em": "20/07/2026 01:05",
-  "total": 24,
-  "urgentes": 0,
+  "coletado_em": "20/07/2026 15:59",
+  "total": 30,
+  "urgentes": 2,
   "destaque": {
-    "titulo": "Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global",
-    "descricao": "O dólar fechou em leve alta frente ao real, o Ibovespa interrompeu uma sequência de três semanas de ganhos e o petróleo disparou quase 5% nesta sexta-feira (17), em um dia marcado pela escalada do conflito no Oriente Médio. O pessimismo com empresas de inteligência artificial também influenciou as negociações em todo o planeta. O avanço das cotações do petróleo amenizou as perdas da moeda brasilei",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-sobe-para-r-511-e-bolsa-fica-estavel-apesar-de-tensao-global",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
-    "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 6,
-    "pub_date": "Fri, 17 Jul 2026 19:46:00 -0300",
+    "titulo": "Ordem de Lula é evitar reação que dê munição a Trump e Flávio Bolsonaro na crise das tarifas",
+    "descricao": "Ordem de Lula é evitar reação que dê munição a Trump e Flávio Bolsonaro na crise das tarifas Depois do tarifaço de 25% na semana passada, o governo brasileiro aguarda para esta ou próxima semana a definição sobre novo aumento de 12,5% de tarifas — fruto de uma investigação americana sobre importação de produtos produzidos com trabalho forçado em outros países. A ordem no governo do presidente Luiz",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/20/ordem-de-lula-e-evitar-reacao-que-de-municao-a-trump-e-flavio-bolsonaro-na-crise-das-tarifas.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
+    "urgencia": "alta",
+    "score_relevancia": 2,
+    "pub_date": "Mon, 20 Jul 2026 12:29:57 -0000",
     "setores": [
-      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-      "Tecnologia (TOTS3, LWSA3, POSI3)",
+      "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+      "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
       "Câmbio / Exportadores"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Ordem de Lula é evitar reação que dê munição a Trump e Flávio Bolsonaro na crise das tarifas",
+      "descricao": "Ordem de Lula é evitar reação que dê munição a Trump e Flávio Bolsonaro na crise das tarifas Depois do tarifaço de 25% na semana passada, o governo brasileiro aguarda para esta ou próxima semana a definição sobre novo aumento de 12,5% de tarifas — fruto de uma investigação americana sobre importação de produtos produzidos com trabalho forçado em outros países. A ordem no governo do presidente Luiz",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/20/ordem-de-lula-e-evitar-reacao-que-de-municao-a-trump-e-flavio-bolsonaro-na-crise-das-tarifas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 12:29:57 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Beneficiários com NIS de final 1 recebem Bolsa Família de julho",
+      "descricao": "A Caixa Econômica Federal começa a pagar a parcela de julho do Bolsa Família. Recebem nesta segunda-feira (20) os beneficiários com Número de Inscrição Social (NIS) de final 1. Os beneficiários de 175 municípios de seis estados receberão o crédito nesta segunda, independentemente do número final do NIS. O pagamento unificado beneficia localidades em situação de emergência ou em estado de calamidad",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-1-recebem-bolsa-familia-de-julho",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 20 Jul 2026 07:11:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em queda, com foco em petróleo e conflito entre EUA e Irã; Ibovespa oscila",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta segunda-feira (20), com um recuo de 0,35% perto das 14h20, cotado a R$ 5,0931. Já o Ibovespa, principal índice da bolsa brasileira, oscila entre altas e baixas, com uma queda de 0,06% no mesmo horário, aos 173.612 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Sem avanço nas negociações entre Estados Un",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/20/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Mon, 20 Jul 2026 12:00:16 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
     {
       "titulo": "Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global",
       "descricao": "O dólar fechou em leve alta frente ao real, o Ibovespa interrompeu uma sequência de três semanas de ganhos e o petróleo disparou quase 5% nesta sexta-feira (17), em um dia marcado pela escalada do conflito no Oriente Médio. O pessimismo com empresas de inteligência artificial também influenciou as negociações em todo o planeta. O avanço das cotações do petróleo amenizou as perdas da moeda brasilei",
@@ -36,33 +83,180 @@
       ]
     },
     {
-      "titulo": "Dólar encosta em R$ 5,10 com tarifaço e tensão global",
-      "descricao": "Os mercados financeiros encerraram a quinta-feira (16) em clima de cautela. O dólar voltou a subir e fechou próximo de R$ 5,10, refletindo o fortalecimento da moeda estadunidense no exterior e os efeitos da confirmação de tarifas dos Estados Unidos sobre parte das exportações brasileiras. A bolsa brasileira acompanhou o movimento de aversão ao risco e recuou mais de 1%, enquanto o petróleo fechou ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-encosta-em-r-510-com-tarifaco-e-tensao-global",
+      "titulo": "Mercado reduz projeção da inflação de 2026 pela terceira semana seguida",
+      "descricao": "Boletim Focus mostra leve recuo na estimativa do IPCA, que segue acima do teto da meta. Previsões para Selic, PIB e câmbio permanecem praticamente estáveis",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7464328-mercado-reduz-projecao-da-inflacao-de-2026-pela-terceira-semana-seguida.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 20 Jul 2026 09:47:51 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Mercado reduz expectativa de inflação para 5,15% em 2026",
+      "descricao": "As expectativas do mercado financeiro para a inflação em 2026 mantêm a trajetória de queda observada nas últimas semanas. Segundo o boletim Focus divulgado nesta segunda-feira (20) pelo Banco Central (BC), o Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve fechar o ano em 5,15%. Na semana passada, o mercado projetava que o IPCA, índice que corresponde à inflação no país, fecharia o ano em",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-expectativa-de-inflacao-para-515-em-2026",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 4,
-      "pub_date": "Thu, 16 Jul 2026 19:20:00 -0300",
+      "pub_date": "Mon, 20 Jul 2026 09:47:00 -0300",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "Petróleo dispara e chega a maior preço desde junho",
-      "descricao": "Uma embarcação no Estreito de Ormuz , vista de Musandam, em Omã. Stringer / Reuters Os preços do petróleo subiu 3% neste domingo (19) e chegou no patamar mais alto desde junho. O preço do barril tipo Brent ultrapassou os U$D 90 (cerca de R$ 460,53) na abertura dos mercados de negociação. Na sexta-feira (17), o barril do Brent, referência internacional da commodity, avançou 2,86%, e chegou a ser co",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/19/petroleo-dispara-e-chega-a-maior-preco-desde-junho.ghtml",
+      "titulo": "TSE: Número de eleitores com até 18 anos tem queda em relação a 2022; eleitorado acima de 60 anos cresce 13%",
+      "descricao": "Dados do Tribunal Superior Eleitoral (TSE) apontam uma queda no eleitorado jovem apto a votar nas eleições de outubro deste ano. Ao mesmo tempo, o número de eleitores com 60 anos ou mais teve um acréscimo de 13,9%, de 2022 para o pleito deste ano. A Corte Eleitoral divulgou, nesta segunda-feira (20), o perfil do eleitorado que vai às urnas para eleger presidente, governadores, senadores, deputados",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/20/tse-numero-de-eleitores-com-menos-de-18-anos-tem-queda-em-relacao-a-2022-eleitorado-acima-de-60-anos-cresce-13percent.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 20 Jul 2026 14:58:53 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula lamenta morte de Matheus Azevedo, irmão do senador Cleitinho: 'Consternação'",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) lamentou neste domingo (19) a morte de Matheus Augusto Azevedo, irmão mais novo do senador Cleitinho (Republicanos-MG). Matheus morreu neste sábado (18), aos 30 anos, em Divinópolis (MG), em decorrência de complicações causadas por leucemia. Em uma rede social, o presidente da República disse estar consternado com a morte de Matheus e prestou solidarieda",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/19/lula-lamenta-morte-de-matheus-azevedo-irmao-do-senador-cleitinho.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Sun, 19 Jul 2026 16:05:24 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Quer entrar no mercado financeiro? Veja as habilidades mais valorizadas",
+      "descricao": "Certificações continuam sendo importantes, mas especialistas da XP Inc. afirmam que elas são apenas uma parte da avaliação. The post Quer entrar no mercado financeiro? Veja as habilidades mais valorizadas appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/advisor/como-entrar-no-mercado-financeiro-2026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 18:30:00 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Ouro fecha perto da estabilidade com juros dos Treasuries e dólar",
+      "descricao": "A alta nos juros americanos e o dólar forte contiveram os ganhos do metal, enquanto analistas apontam maior influência do movimento especulativo sobre o ativo The post Ouro fecha perto da estabilidade com juros dos Treasuries e dólar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ouro-fecha-perto-da-estabilidade-com-juros-dos-treasuries-e-dolar/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 18:23:25 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "China compra mais soja do Brasil enquanto reduz importações dos EUA",
+      "descricao": "Quais produtos brasileiros mais exportados aos EUA pagarão a tarifa de 25% A China ampliou as compras de soja brasileira e reduziu as importações do produto vindo dos Estados Unidos em junho, reforçando uma tendência observada desde o início da guerra comercial entre as duas maiores economias do mundo. Dados divulgados nesta segunda-feira (20) pela Administração Geral das Alfândegas da China mostr",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/china-compra-mais-soja-do-brasil-enquanto-reduz-importacoes-dos-eua.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Mon, 20 Jul 2026 01:12:50 -0000",
+      "pub_date": "Mon, 20 Jul 2026 12:06:21 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Tarifas de Trump não vão funcionar e fortalecerão Lula, diz Nobel de Economia",
+      "descricao": "Vencedor do prêmio Nobel de economia elogiou o Pix Getty Images via BBC O economista americano Paul Krugman publicou um artigo nesta segunda-feira (20/7) no qual afirma que as tarifas impostas pelo governo Donald Trump ao Brasil não vão funcionar - e vão fortalecer o governo do presidente Luiz Inácio Lula da Silva. 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 \"Usar as tarifas para punir o",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/20/tarifas-de-trump-nao-vao-funcionar-e-fortalecerao-lula-diz-nobel-de-economia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 11:51:02 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Exportações de carne bovina batem recorde no 1º semestre, mas cota da China e restrições da UE preocupam setor",
+      "descricao": "Assessoria do governo do Mato Grosso As exportações brasileiras de carne bovina bateram recorde no primeiro semestre de 2026, mas o segundo semestre será mais desafiador para o setor por causa da cota de importação da China e de restrições da União Europeia, disse a Associação Brasileira de Frigoríficos (Abrafrigo) nesta segunda-feira (20). De janeiro a junho, as vendas de carne bovina para outros",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/exportacoes-de-carne-bovina-batem-recorde-no-1o-semestre-mas-cota-da-china-e-restricoes-da-ue-preocupam-setor.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 11:35:24 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Eleitorado brasileiro cresce 1,4% na comparação com 2022 e chega a 158,7 milhões, diz TSE",
+      "descricao": "Eleitorado brasileiro cresce 1,4% na comparação com 2022 e chega a 158,7 milhões, afirma Tribunal Superior Eleitoral Arte/g1 Ao todo, 158,7 milhões de brasileiros estão aptos a votar nas Eleições de 2026, segundo dados divulgados pelo Tribunal Superior Eleitoral (TSE) nesta segunda-feira (20). O número representa um crescimento de 1,46% em relação às últimas eleições gerais, quando o país tinha 15",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/20/eleitorado-brasileiro-cresce-14percent-na-comparacao-com-2022-e-chega-a-1587-milhoes-diz-tse.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 14:58:57 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Da indicação no Orçamento ao dinheiro na conta: veja as fases de execução de uma emenda parlamentar",
+      "descricao": "O Orçamento da União de 2026 tem cerca de R$ 61 bilhões para serem executados conforme indicação de deputados e senadores por meio das chamadas emendas parlamentares. 🔎As emendas parlamentares são um montante do Orçamento reservado para serem executados conforme a indicação dos congressistas. 🏗️Por meio delas, os deputados e senadores podem direcionar verbas para obras, compra de equipamentos, cus",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/19/da-indicacao-no-orcamento-ao-dinheiro-na-conta-veja-as-fases-de-execucao-de-uma-emenda-parlamentar.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 19 Jul 2026 03:01:10 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Economia cresce 0,7% em maio, puxada por consumo das famílias, diz FGV",
+      "descricao": "A economia brasileira cresceu 0,7% na passagem de abril para maio. No trimestre móvel terminado em maio, a alta é de 1,9% na comparação com o mesmo período de 2025. Com esse desempenho, a variação positiva acumulada no período de 12 meses fica em 1,7%. Os dados fazem parte do Monitor do PIB , estudo mensal elaborado pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas (FGV), div",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/economia-cresce-07-em-maio-puxada-por-consumo-das-familias-diz-fgv",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 11:28:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
@@ -95,6 +289,20 @@
       ]
     },
     {
+      "titulo": "Monitor do PIB aponta crescimento de 0,7% em maio, aponta FGV",
+      "descricao": "Consumo das famílias segue como principal motor da atividade econômica, enquanto indústria perde fôlego",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7464603-monitor-do-pib-aponta-crescimento-de-07-em-maio-aponta-fgv.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 20 Jul 2026 15:11:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
       "titulo": "Desejo de troca faz setor de eletrônicos crescer 11%",
       "descricao": "Em ano de Copa do Mundo, mercado de eletroeletrônicos segue aquecido após crescimento de dois dígitos em 2025, estimulado pelo desejo do consumidor de trocar os aparelhos antigos mesmo com juros e endividamento elevados",
       "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463906-desejo-de-troca-faz-setor-de-eletronicos-crescer-11.html",
@@ -124,251 +332,130 @@
       ]
     },
     {
-      "titulo": "Durigan chama ataque ao Pix de \"completo absurdo\" e descarta retaliação",
-      "descricao": "Ministro da Fazenda diz que sistema de pagamentos não será negociado e afirma que eventual medida de reciprocidade levará em conta os impactos sobre a economia brasileira",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463336-durigan-chama-ataque-ao-pix-de-completo-absurdo-e-descarta-retaliacao.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "Mais de 30 roubos em 40 dias: polícia investiga fraude contra bancos e seguradoras",
+      "descricao": "Casos registrados em um condomínio de luxo levantaram suspeitas sobre o uso de boletins falsos para obter indenizações The post Mais de 30 roubos em 40 dias: polícia investiga fraude contra bancos e seguradoras appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/minhas-financas/mais-de-30-roubos-em-40-dias-policia-investiga-fraude-contra-bancos-e-seguradoras/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 17 Jul 2026 14:20:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "CNA estima que tarifas dos EUA atingirão 36,5% das exportações do agro",
-      "descricao": "Entidade calcula que produtos equivalentes a US$ 4,6 bilhões permanecerão sujeitos ao tarifaço, apesar da ampliação da lista de exceções pelo governo norte-americano",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463132-cna-estima-que-tarifas-dos-eua-atingirao-365-das-exportacoes-do-agro.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 17 Jul 2026 10:18:15 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "IBC-Br: prévia do PIB avança 0,1% em maio",
-      "descricao": "Indicador do Banco Central aponta desaceleração da atividade econômica, com avanço puxado pela indústria, e acumula alta de 1,4% em 12 meses",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463118-ibc-br-previa-do-pib-avanca-01-em-maio.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 17 Jul 2026 09:46:00 -0300",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 20 Jul 2026 18:52:54 +0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
-      "titulo": "Lula sancionará Estratégia Nacional do Complexo Econômico-Industrial da Saúde",
-      "descricao": "Sanção do projeto consta na agenda desta segunda-feira do presidente The post Lula sancionará Estratégia Nacional do Complexo Econômico-Industrial da Saúde appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-sancionara-estrategia-nacional-do-complexo-economico-industrial-da-saude/",
+      "titulo": "Crédito do Trabalhador cresce com múltiplos empréstimos e juros mais altos",
+      "descricao": "Estudo da Serasa mostra que 74% dos tomadores têm ao menos dois empréstimos ativos The post Crédito do Trabalhador cresce com múltiplos empréstimos e juros mais altos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/minhas-financas/credito-do-trabalhador-cresce-com-multiplos-emprestimos-e-juros-mais-altos/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 20 Jul 2026 00:44:00 +0000",
+      "pub_date": "Mon, 20 Jul 2026 18:48:01 +0000",
       "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Trump e Infantino são vaiados ao entrar em campo para entrega do troféu da Copa",
-      "descricao": "Presidente dos EUA e mandatário da Fifa foram responsáveis por entregar o troféu aos espanhóis The post Trump e Infantino são vaiados ao entrar em campo para entrega do troféu da Copa appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/esportes/trump-e-infantino-sao-vaiados-ao-entrar-em-campo-para-entrega-do-trofeu-da-copa/",
+      "titulo": "FIIs ganham 41 mil novos investidores em junho e chegam a 3,25 milhões na B3",
+      "descricao": "Desde outubro de 2025, a base de investidores cresceu de 2,887 milhões para 3,25 milhões The post FIIs ganham 41 mil novos investidores em junho e chegam a 3,25 milhões na B3 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/fiis-ganham-41-mil-novos-investidores-em-junho-e-chegam-a-325-milhoes-na-b3/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 20 Jul 2026 00:23:02 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Rodri supera Messi e é eleito o melhor jogador da Copa 2026; veja os demais premiados",
-      "descricao": "Fora a Chuteira de Ouro, entregue ao artilheiro Mbappé, a Espanha dominou as premiações individuais da Copa The post Rodri supera Messi e é eleito o melhor jogador da Copa 2026; veja os demais premiados appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/esportes/rodri-supera-messi-e-e-eleito-o-melhor-jogador-da-copa-2026-veja-os-demais-premiados/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 19 Jul 2026 23:48:55 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Bolsa Família 2026: pagamentos de julho começam nesta segunda; veja calendário",
-      "descricao": "Bolsa Família veja as regras e dias de pagamentos em julho de 2026 A Caixa Econômica Federal inicia os pagamentos de julho do Bolsa Família 2026 nesta segunda-feira (20). Os primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1. (veja mais abaixo o calendário completo) 📱Baixe o app do g1 para ver notícias em tempo real e de graça O dinheiro será disponibil",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/20/bolsa-familia-2026-pagamentos-de-julho-comecam-nesta-segunda-veja-calendario.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 20 Jul 2026 03:00:38 -0000",
+      "pub_date": "Mon, 20 Jul 2026 18:37:03 +0000",
       "setores": [
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "Temporais castigam cafezais e produtores aceleram colheita para salvar a safra no interior de SP",
-      "descricao": "Temporais castigam cafezais e produtores aceleram colheita para salvar a safra TV TEM/Reprodução As instabilidades climáticas provocadas pelo excesso de chuvas, ventos fortes e quedas de granizo estão castigando as lavouras de café e provocando prejuízos em Garça (SP). Com as tempestades, os grãos caem dos galhos e entram em contato direto com a terra úmida, o que prejudica a qualidade da bebida e",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/19/temporais-castigam-cafezais-e-produtores-aceleram-colheita-para-salvar-a-safra-no-interior-de-sp.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Microsoft amplia uso de chips AMD para sustentar a próxima fase da IA",
+      "descricao": "Segundo executivos das duas empresas, a ampliação da colaboração tem como objetivo oferecer maior desempenho, escalabilidade e mais opções de infraestrutura para uma ampla gama de cargas de trabalho de IA The post Microsoft amplia uso de chips AMD para sustentar a próxima fase da IA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/microsoft-amplia-uso-de-chips-amd-para-sustentar-a-proxima-fase-da-ia/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 19 Jul 2026 10:30:08 -0000",
-      "setores": [
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
-      ]
-    },
-    {
-      "titulo": "Pane geral? Facebook e Instagram apresentam instabilidade em vários países neste domingo",
-      "descricao": "Facebook e Instagram AP Photo/Richard Drew As redes sociais Instagram e Facebook, da Meta, apresentaram uma instabilidade global neste domingo (19). Usuários de diferentes países relataram problemas tanto nos aplicativos quanto nas versões web das plataformas. No Brasil, segundo o DownDetector, plataforma que monitora interrupções em serviços online, o Instagram registrava mais de 500 reclamações ",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/19/facebook-instagram-instabilidade.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 19 Jul 2026 09:23:51 -0000",
+      "pub_date": "Mon, 20 Jul 2026 18:30:57 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Tarifaço pode abrir portas na China, mas analistas veem limites para avanço das exportações brasileiras",
-      "descricao": "Tarifa dos EUA: Brasil avalia adotar a reciprocidade e proteger setores atingidos O novo tarifaço imposto pelos Estados Unidos sobre produtos brasileiros pode levar empresas a buscar novos mercados para reduzir a dependência do consumidor americano. Nesse cenário, a China, principal destino das exportações do Brasil, aparece como uma alternativa. Especialistas, porém, avaliam que o país asiático d",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/19/tarifaco-pode-abrir-portas-na-china-mas-analistas-veem-limites-para-avanco-das-exportacoes-brasileiras.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Aliados de Flávio veem gesto de Ciro a Caiado como afronta, mas evitam confronto",
+      "descricao": "Pré-candidato do PSDB afirmou que pode apoiar concorrentes do senador na disputa presidencial The post Aliados de Flávio veem gesto de Ciro a Caiado como afronta, mas evitam confronto appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/aliados-de-flavio-veem-gesto-de-ciro-a-caiado-como-afronta-mas-evitam-confronto/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 19 Jul 2026 08:00:38 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Vale a pena trabalhar por aplicativo? Estudo mostra impactos da jornada, custos e direitos",
-      "descricao": "Estudo do TST mostra que motoristas de aplicativo podem ter renda mensal próxima à média dos trabalhadores, mas ganham menos por hora Freepik O motorista de aplicativo pode até olhar o valor depositado na conta no fim do mês e achar que ganhou mais do que outros trabalhadores. Mas, quando o cálculo considera o tempo dedicado ao trabalho, o cenário é outro. Um estudo do Tribunal Superior do Trabalh",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/19/trabalhar-de-aplicativo-estudo-do-tst-revela-impacto-da-jornada-custos-e-direitos.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 19 Jul 2026 07:01:09 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Nobel da economia diz que impacto da IA no emprego é superestimado",
-      "descricao": "O temor de um desemprego em massa provocado pela Inteligência artificial (IA) não encontra eco nos dados reais da macroeconomia, segundo o vencedor do Prêmio Nobel de Economia de 2010, Christopher Pissarides. O especialista em dinâmica do mercado de trabalho afirma que a IA tem atuado muito mais como uma ferramenta de assistência ao trabalhador do que como um vetor de substituição de mão de obra. ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/nobel-da-economia-diz-que-impacto-da-ia-no-emprego-e-superestimado",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 16:46:00 -0300",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "São Paulo e Santa Catarina sofrem 52% do impacto do tarifaço dos EUA",
-      "descricao": "Os estados de São Paulo e Santa Catarina concentram 52% do impacto do mais recente tarifaço anunciado pelos Estados Unidos (EUA) contra o Brasil. Dos US$ 7,4 bilhões em vendas afetadas pelas tarifas de 25%, US$ 3 bilhões têm origem em São Paulo. O estado economicamente mais forte do país concentra, sozinho, 41,6% do total do valor das exportações afetadas. Isso representa 20% de exportações paulis",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/sao-paulo-e-santa-catarina-sofrem-52-do-impacto-do-tarifaco-dos-eua",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 15:08:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Apex prevê plano de R$ 130 milhões para diversificar exportações",
-      "descricao": "Após o tarifaço adicional dos Estados Unidos (EUA) contra parte das exportações do Brasil, a Agência Brasileira de Promoção das Exportações e Investimentos (ApexBrasil) anunciou um plano de R$ 130 milhões, a ser lançado em agosto, para diversificar as vendas do Brasil no exterior e reduzir os impactos das tarifas estadunidenses. Vinculada ao Ministério do Desenvolvimento, Indústria, Comércio e Ser",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/apex-preve-plano-de-r-130-milhoes-para-diversificar-exportacoes",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 14:53:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Moeda do Roblox vale mais que o peso argentino? Entenda a comparação",
-      "descricao": "Viral nas redes sociais, comparação entre a moeda do Roblox e o peso argentino chama atenção, mas especialistas afirmam que o fenômeno expõe a desvalorização da moeda da Argentina — e não uma suposta força do Robux",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463457-moeda-do-roblox-vale-mais-que-o-peso-argentino-entenda-a-comparacao.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 17:12:14 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Empresas americanas também são contra tarifaço, diz presidente da Apex",
-      "descricao": "Müller destacou que a ApexBrasil acompanhou todo o processo de discussão da medida em conjunto com entidades brasileiras e americanas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7463300-empresas-dos-eua-tambem-sao-contra-tarifaco-diz-apex.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 13:42:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Senado aprova projeto que reduz 40% da Floresta Nacional no Pará",
-      "descricao": "Projeto de lei desmembra área pouco menor do que o Distrito Federal, de 576 mil hectares. Especialistas alertam para avanço do desmatamento",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7462959-senado-aprova-projeto-que-reduz-40-da-floresta-nacional-no-para.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 17 Jul 2026 03:55:00 -0300",
+      "pub_date": "Mon, 20 Jul 2026 18:26:47 +0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Valdemar muda versão e diz ao STF que não indica emendas como presidente do PL",
+      "descricao": "Em petição encaminhada ao STF, os advogados sustentam que Valdemar não possui qualquer poder formal sobre emendas parlamentares The post Valdemar muda versão e diz ao STF que não indica emendas como presidente do PL appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/valdemar-muda-versao-e-diz-ao-stf-que-nao-indica-emendas-como-presidente-do-pl/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 20 Jul 2026 18:23:56 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "França se prepara para proibir uso de redes sociais para menores de 15 anos",
+      "descricao": "Jovem usa o celular em Sidney, na Austrália; país aprovou lei que proíbe acesso de menores de 16 anos às redes sociais Hollie Adams/Reuters O Parlamento francês deverá proibir o uso de redes sociais por menores de 15 anos na terça-feira (21), após deputados e senadores chegarem a um acordo nesta segunda-feira (20) sobre a legislação que implementará a medida, que ganha força em todo o mundo. 🗒️ Te",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/20/franca-se-prepara-para-proibir-uso-de-redes-sociais-por-menores-de-15-anos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 20 Jul 2026 17:18:47 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Movimentação de passageiros em aeroportos soma 65,2 milhões no 1º semestre de 2026, diz Anac",
+      "descricao": "A movimentação de passageiros nos aeroportos brasileiros chegou a 65,2 milhões de viajantes no primeiro semestre de 2026, segundo dados atualizados pela Agência Nacional de Aviação Civil (Anac). O resultado representa um crescimento de 5,4% em relação aos seis primeiros meses de 2025. Do total registrado entre janeiro e junho, segundo o governo, 50,2 milhões de passageiros viajaram em voos domésti",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/20/movimentacao-de-passageiros-em-aeroportos-soma-652-milhoes-no-1o-semestre-de-2026-diz-anac.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 20 Jul 2026 14:50:33 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "'Trump tentará punir Brasil por esse sucesso', diz Nobel de economia sobre ação do governo americano contra Pix",
+      "descricao": "Por que o PIX virou pretexto dos EUA no tarifaço O economista Paul Krugman, vencedor do Prêmio Nobel de Economia de 2008, criticou a investigação aberta pelo governo dos Estados Unidos contra o Pix e afirmou que a ofensiva representa uma tentativa de punir o Brasil pelo sucesso do sistema brasileiro de pagamentos instantâneos. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Em a",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/20/trump-tentara-punir-brasil-por-esse-sucesso-diz-nobel-de-economia-sobre-acao-do-governo-americano-contra-pix.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 20 Jul 2026 12:49:13 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     }
   ]

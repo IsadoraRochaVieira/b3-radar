@@ -1,6 +1,6 @@
 {
   "data_iso": "2026-07-20",
-  "gerado_em": "20/07/2026 01:06",
+  "gerado_em": "20/07/2026 16:00",
   "total": 138,
   "acoes": [
     {
@@ -12,7 +12,7 @@
       "score": 50,
       "classificacao": "OBSERVAR",
       "setor": "Saúde",
-      "volume": 14737900
+      "volume": 10754800
     },
     {
       "ticker": "AZEV4",
@@ -23,7 +23,7 @@
       "score": 50,
       "classificacao": "OBSERVAR",
       "setor": "Serviços Industriais",
-      "volume": 1197600
+      "volume": 529300
     },
     {
       "ticker": "UGPA3",
@@ -34,7 +34,7 @@
       "score": 45,
       "classificacao": "OBSERVAR",
       "setor": "Varejo",
-      "volume": 11621100
+      "volume": 6650400
     },
     {
       "ticker": "CEAB3",
@@ -45,7 +45,7 @@
       "score": 45,
       "classificacao": "OBSERVAR",
       "setor": "Varejo",
-      "volume": 8341200
+      "volume": 2780100
     },
     {
       "ticker": "MILS3",
@@ -56,7 +56,7 @@
       "score": 45,
       "classificacao": "OBSERVAR",
       "setor": "Financeiro",
-      "volume": 536700
+      "volume": 302600
     },
     {
       "ticker": "PSSA3",
@@ -67,7 +67,7 @@
       "score": 45,
       "classificacao": "OBSERVAR",
       "setor": "Financeiro",
-      "volume": 1862300
+      "volume": 691500
     },
     {
       "ticker": "LAVV3",
@@ -78,7 +78,7 @@
       "score": 45,
       "classificacao": "OBSERVAR",
       "setor": "Financeiro",
-      "volume": 753400
+      "volume": 388200
     },
     {
       "ticker": "CYRE3",
@@ -89,7 +89,7 @@
       "score": 40,
       "classificacao": "OBSERVAR",
       "setor": "Financeiro",
-      "volume": 8461700
+      "volume": 3428400
     },
     {
       "ticker": "AUAU3",
@@ -100,7 +100,7 @@
       "score": 40,
       "classificacao": "OBSERVAR",
       "setor": "Indústria de Processo",
-      "volume": 3001400
+      "volume": 1667500
     },
     {
       "ticker": "GFSA3",
@@ -111,7 +111,7 @@
       "score": 40,
       "classificacao": "OBSERVAR",
       "setor": "Financeiro",
-      "volume": 10000800
+      "volume": 5995200
     },
     {
       "ticker": "MDIA3",
@@ -122,7 +122,7 @@
       "score": 40,
       "classificacao": "OBSERVAR",
       "setor": "Consumo Básico",
-      "volume": 427300
+      "volume": 130900
     },
     {
       "ticker": "ITUB4",
@@ -133,7 +133,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 19576400
+      "volume": 8217700
     },
     {
       "ticker": "ITSA4",
@@ -144,7 +144,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 9882100
+      "volume": 8540000
     },
     {
       "ticker": "CVCB3",
@@ -155,7 +155,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Serviços ao Consumidor",
-      "volume": 23235600
+      "volume": 21376700
     },
     {
       "ticker": "SAUD3",
@@ -166,7 +166,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Saúde",
-      "volume": 2589800
+      "volume": 619800
     },
     {
       "ticker": "LJQQ3",
@@ -177,7 +177,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 1910000
+      "volume": 2432600
     },
     {
       "ticker": "CURY3",
@@ -188,7 +188,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 6073000
+      "volume": 1530900
     },
     {
       "ticker": "VVEO3",
@@ -199,7 +199,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Distribuição",
-      "volume": 812800
+      "volume": 712600
     },
     {
       "ticker": "ITUB3",
@@ -210,7 +210,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 2157100
+      "volume": 1276500
     },
     {
       "ticker": "FIQE3",
@@ -221,7 +221,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Telecom",
-      "volume": 430100
+      "volume": 191300
     },
     {
       "ticker": "TEND3",
@@ -232,7 +232,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 2451300
+      "volume": 1319900
     },
     {
       "ticker": "TUPY3",
@@ -243,7 +243,7 @@
       "score": 35,
       "classificacao": "NEUTRO",
       "setor": "Bens de Capital",
-      "volume": 896100
+      "volume": 308200
     },
     {
       "ticker": "RAIZ4",
@@ -254,7 +254,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 17270300
+      "volume": 22487000
     },
     {
       "ticker": "CMIN3",
@@ -265,7 +265,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Mineração",
-      "volume": 7706900
+      "volume": 7035100
     },
     {
       "ticker": "AMBP3",
@@ -276,7 +276,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Serviços Comerciais",
-      "volume": 1211900
+      "volume": 2303900
     },
     {
       "ticker": "VBBR3",
@@ -287,7 +287,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 12392200
+      "volume": 6928000
     },
     {
       "ticker": "SMFT3",
@@ -298,7 +298,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Serviços ao Consumidor",
-      "volume": 3111500
+      "volume": 2929100
     },
     {
       "ticker": "ISAE4",
@@ -309,7 +309,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 3157300
+      "volume": 976100
     },
     {
       "ticker": "MLAS3",
@@ -320,7 +320,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Tecnologia",
-      "volume": 573800
+      "volume": 416300
     },
     {
       "ticker": "PASS3",
@@ -331,7 +331,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 539200
+      "volume": 487200
     },
     {
       "ticker": "BMGB4",
@@ -342,7 +342,7 @@
       "score": 30,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 1213500
+      "volume": 732800
     },
     {
       "ticker": "BEEF3",
@@ -353,7 +353,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Distribuição",
-      "volume": 8596700
+      "volume": 2590300
     },
     {
       "ticker": "BHIA3",
@@ -364,7 +364,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 2946400
+      "volume": 2909500
     },
     {
       "ticker": "WEGE3",
@@ -375,7 +375,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Bens de Capital",
-      "volume": 8201000
+      "volume": 2260600
     },
     {
       "ticker": "POMO4",
@@ -386,7 +386,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Bens de Capital",
-      "volume": 7769000
+      "volume": 5774900
     },
     {
       "ticker": "CSMG3",
@@ -397,7 +397,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 3520200
+      "volume": 1586400
     },
     {
       "ticker": "BBSE3",
@@ -408,7 +408,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 6340200
+      "volume": 3988700
     },
     {
       "ticker": "CXSE3",
@@ -419,7 +419,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 4111400
+      "volume": 2405300
     },
     {
       "ticker": "PMAM3",
@@ -430,7 +430,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Mineração",
-      "volume": 11064300
+      "volume": 3556900
     },
     {
       "ticker": "PLPL3",
@@ -441,7 +441,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 4184600
+      "volume": 1348300
     },
     {
       "ticker": "GRND3",
@@ -452,7 +452,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Consumo Básico",
-      "volume": 1702800
+      "volume": 725300
     },
     {
       "ticker": "JALL3",
@@ -463,7 +463,7 @@
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Indústria de Processo",
-      "volume": 1427100
+      "volume": 379900
     },
     {
       "ticker": "ABEV3",
@@ -474,7 +474,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Consumo Básico",
-      "volume": 16137900
+      "volume": 12053400
     },
     {
       "ticker": "CPLE3",
@@ -485,7 +485,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 18015900
+      "volume": 5972700
     },
     {
       "ticker": "ENEV3",
@@ -496,7 +496,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 12331500
+      "volume": 4972800
     },
     {
       "ticker": "RADL3",
@@ -507,7 +507,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 9347700
+      "volume": 8142200
     },
     {
       "ticker": "AXIA3",
@@ -518,7 +518,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 12423900
+      "volume": 3484400
     },
     {
       "ticker": "SBSP3",
@@ -529,7 +529,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 12795800
+      "volume": 3538800
     },
     {
       "ticker": "CMIG4",
@@ -540,7 +540,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 18058700
+      "volume": 3873900
     },
     {
       "ticker": "MOTV3",
@@ -551,7 +551,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Transporte e Logística",
-      "volume": 3269000
+      "volume": 1455200
     },
     {
       "ticker": "TIMS3",
@@ -562,7 +562,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Telecom",
-      "volume": 6434400
+      "volume": 2970500
     },
     {
       "ticker": "BRAV3",
@@ -573,7 +573,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Petróleo e Gás",
-      "volume": 8183500
+      "volume": 3659600
     },
     {
       "ticker": "ANIM3",
@@ -584,7 +584,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Serviços ao Consumidor",
-      "volume": 22437000
+      "volume": 13236800
     },
     {
       "ticker": "ECOR3",
@@ -595,7 +595,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Transporte e Logística",
-      "volume": 4100600
+      "volume": 2802900
     },
     {
       "ticker": "SANB11",
@@ -606,7 +606,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 3155000
+      "volume": 3973500
     },
     {
       "ticker": "MULT3",
@@ -617,7 +617,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 2237600
+      "volume": 1371400
     },
     {
       "ticker": "BRAP4",
@@ -628,7 +628,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
-      "volume": 1054200
+      "volume": 1026400
     },
     {
       "ticker": "VIVA3",
@@ -639,7 +639,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Bens de Consumo",
-      "volume": 3309900
+      "volume": 2127700
     },
     {
       "ticker": "PGMN3",
@@ -650,7 +650,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 2748900
+      "volume": 1268200
     },
     {
       "ticker": "AXIA7",
@@ -661,7 +661,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 880100
+      "volume": 189200
     },
     {
       "ticker": "LWSA3",
@@ -672,7 +672,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Tecnologia",
-      "volume": 1819000
+      "volume": 1033700
     },
     {
       "ticker": "TAEE11",
@@ -683,7 +683,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Serviços Industriais",
-      "volume": 2361700
+      "volume": 683200
     },
     {
       "ticker": "SBFG3",
@@ -694,7 +694,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Varejo",
-      "volume": 2091800
+      "volume": 1073900
     },
     {
       "ticker": "GGPS3",
@@ -705,7 +705,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Serviços Comerciais",
-      "volume": 2744300
+      "volume": 1409300
     },
     {
       "ticker": "RECV3",
@@ -716,7 +716,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Petróleo e Gás",
-      "volume": 1912000
+      "volume": 1002500
     },
     {
       "ticker": "MYPK3",
@@ -727,7 +727,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Bens de Capital",
-      "volume": 741900
+      "volume": 354700
     },
     {
       "ticker": "RIAA3",
@@ -738,7 +738,7 @@
       "score": 20,
       "classificacao": "NEUTRO",
       "setor": "Distribuição",
-      "volume": 1016700
+      "volume": 414100
     },
     {
       "ticker": "BBDC4",
@@ -749,7 +749,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 55082500
+      "volume": 8036400
     },
     {
       "ticker": "BBAS3",
@@ -760,7 +760,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 35729100
+      "volume": 9192000
     },
     {
       "ticker": "VALE3",
@@ -771,7 +771,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 13491600
+      "volume": 6160000
     },
     {
       "ticker": "ASAI3",
@@ -782,7 +782,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 11868000
+      "volume": 3953300
     },
     {
       "ticker": "DIRR3",
@@ -793,7 +793,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 7403300
+      "volume": 3819200
     },
     {
       "ticker": "BBDC3",
@@ -804,7 +804,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 10871100
+      "volume": 1881000
     },
     {
       "ticker": "SUZB3",
@@ -815,7 +815,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Indústria de Processo",
-      "volume": 8243300
+      "volume": 2237900
     },
     {
       "ticker": "MBRF3",
@@ -826,7 +826,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Consumo Básico",
-      "volume": 11282800
+      "volume": 3725500
     },
     {
       "ticker": "KLBN11",
@@ -837,7 +837,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 4003400
+      "volume": 2447200
     },
     {
       "ticker": "BRKM5",
@@ -848,7 +848,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Indústria de Processo",
-      "volume": 5421400
+      "volume": 4386600
     },
     {
       "ticker": "SEQL3",
@@ -859,7 +859,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Transporte e Logística",
-      "volume": 329300
+      "volume": 404700
     },
     {
       "ticker": "AURE3",
@@ -870,7 +870,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 5780000
+      "volume": 1066000
     },
     {
       "ticker": "LIGT3",
@@ -881,7 +881,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 3628400
+      "volume": 1248600
     },
     {
       "ticker": "FLRY3",
@@ -892,7 +892,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Saúde",
-      "volume": 2380300
+      "volume": 1083200
     },
     {
       "ticker": "MDNE3",
@@ -903,7 +903,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 1422400
+      "volume": 1287800
     },
     {
       "ticker": "CASH3",
@@ -914,7 +914,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Serviços Comerciais",
-      "volume": 1141500
+      "volume": 398500
     },
     {
       "ticker": "TRIS3",
@@ -925,7 +925,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Bens de Consumo",
-      "volume": 167300
+      "volume": 191200
     },
     {
       "ticker": "CBAV3",
@@ -936,7 +936,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 3636500
+      "volume": 1327900
     },
     {
       "ticker": "INTB3",
@@ -947,7 +947,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Tecnologia",
-      "volume": 729000
+      "volume": 699300
     },
     {
       "ticker": "ALUP11",
@@ -958,7 +958,7 @@
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 871700
+      "volume": 170200
     },
     {
       "ticker": "COGN3",
@@ -969,7 +969,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Serviços Comerciais",
-      "volume": 20218300
+      "volume": 10490400
     },
     {
       "ticker": "VAMO3",
@@ -980,7 +980,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 18253600
+      "volume": 7291700
     },
     {
       "ticker": "MOVI3",
@@ -991,7 +991,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 5037700
+      "volume": 2106300
     },
     {
       "ticker": "RAPT4",
@@ -1002,7 +1002,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Bens de Capital",
-      "volume": 3137200
+      "volume": 1213400
     },
     {
       "ticker": "RDOR3",
@@ -1013,7 +1013,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Saúde",
-      "volume": 2324300
+      "volume": 1606700
     },
     {
       "ticker": "EMBJ3",
@@ -1024,7 +1024,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Tecnologia",
-      "volume": 3191400
+      "volume": 2101400
     },
     {
       "ticker": "KLBN4",
@@ -1035,7 +1035,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 2512900
+      "volume": 2142500
     },
     {
       "ticker": "HYPE3",
@@ -1046,7 +1046,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Saúde",
-      "volume": 2049700
+      "volume": 4852900
     },
     {
       "ticker": "YDUQ3",
@@ -1057,7 +1057,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Serviços Comerciais",
-      "volume": 2750400
+      "volume": 3207900
     },
     {
       "ticker": "DXCO3",
@@ -1068,7 +1068,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Bens de Capital",
-      "volume": 2080800
+      "volume": 380600
     },
     {
       "ticker": "BRSR6",
@@ -1079,7 +1079,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 1091100
+      "volume": 431000
     },
     {
       "ticker": "FRAS3",
@@ -1090,7 +1090,7 @@
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Bens de Capital",
-      "volume": 149600
+      "volume": 77300
     },
     {
       "ticker": "BPAC11",
@@ -1101,7 +1101,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 5469000
+      "volume": 2204900
     },
     {
       "ticker": "RAIL3",
@@ -1112,7 +1112,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Transporte e Logística",
-      "volume": 6711900
+      "volume": 3453400
     },
     {
       "ticker": "CSNA3",
@@ -1123,7 +1123,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 7647600
+      "volume": 5059700
     },
     {
       "ticker": "MRVE3",
@@ -1134,7 +1134,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Bens de Consumo",
-      "volume": 11119200
+      "volume": 6816700
     },
     {
       "ticker": "PETR3",
@@ -1145,7 +1145,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Petróleo e Gás",
-      "volume": 11069200
+      "volume": 5867900
     },
     {
       "ticker": "PRIO3",
@@ -1156,7 +1156,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Petróleo e Gás",
-      "volume": 5312000
+      "volume": 2660000
     },
     {
       "ticker": "RCSL4",
@@ -1167,7 +1167,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Bens de Capital",
-      "volume": 8169200
+      "volume": 8965700
     },
     {
       "ticker": "GMAT3",
@@ -1178,7 +1178,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 4629400
+      "volume": 1610400
     },
     {
       "ticker": "HAPV3",
@@ -1189,7 +1189,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Saúde",
-      "volume": 5489300
+      "volume": 3237700
     },
     {
       "ticker": "ALOS3",
@@ -1200,7 +1200,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 4410500
+      "volume": 2852400
     },
     {
       "ticker": "TOTS3",
@@ -1211,7 +1211,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Tecnologia",
-      "volume": 2812300
+      "volume": 1568500
     },
     {
       "ticker": "VIVT3",
@@ -1222,7 +1222,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Telecom",
-      "volume": 4080000
+      "volume": 876200
     },
     {
       "ticker": "PCAR3",
@@ -1233,7 +1233,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 2778400
+      "volume": 1625500
     },
     {
       "ticker": "ENGI11",
@@ -1244,7 +1244,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 3198900
+      "volume": 653800
     },
     {
       "ticker": "IGTI11",
@@ -1255,7 +1255,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 1114300
+      "volume": 502600
     },
     {
       "ticker": "AMER3",
@@ -1266,7 +1266,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 2425200
+      "volume": 767500
     },
     {
       "ticker": "EGIE3",
@@ -1277,7 +1277,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 14354200
+      "volume": 2426500
     },
     {
       "ticker": "HBSA3",
@@ -1288,7 +1288,7 @@
       "score": 5,
       "classificacao": "EVITAR",
       "setor": "Transporte e Logística",
-      "volume": 1235500
+      "volume": 237400
     },
     {
       "ticker": "CSAN3",
@@ -1299,7 +1299,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 15374600
+      "volume": 5663000
     },
     {
       "ticker": "LREN3",
@@ -1310,7 +1310,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 12914500
+      "volume": 3303600
     },
     {
       "ticker": "EQTL3",
@@ -1321,7 +1321,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
-      "volume": 6527200
+      "volume": 1112200
     },
     {
       "ticker": "SLCE3",
@@ -1332,7 +1332,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Indústria de Processo",
-      "volume": 1607200
+      "volume": 852500
     },
     {
       "ticker": "SIMH3",
@@ -1343,7 +1343,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Transporte e Logística",
-      "volume": 3592500
+      "volume": 1125800
     },
     {
       "ticker": "AZZA3",
@@ -1354,7 +1354,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Consumo Básico",
-      "volume": 1451600
+      "volume": 635900
     },
     {
       "ticker": "EZTC3",
@@ -1365,7 +1365,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 1999800
+      "volume": 1125300
     },
     {
       "ticker": "JSLG3",
@@ -1376,7 +1376,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Transporte e Logística",
-      "volume": 896200
+      "volume": 660200
     },
     {
       "ticker": "EVEN3",
@@ -1387,7 +1387,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 1060300
+      "volume": 533500
     },
     {
       "ticker": "ENJU3",
@@ -1398,7 +1398,7 @@
       "score": 0,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 2377800
+      "volume": 523200
     },
     {
       "ticker": "B3SA3",
@@ -1409,7 +1409,7 @@
       "score": -5,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 48880800
+      "volume": 8862600
     },
     {
       "ticker": "PETR4",
@@ -1420,7 +1420,7 @@
       "score": -5,
       "classificacao": "EVITAR",
       "setor": "Petróleo e Gás",
-      "volume": 32168300
+      "volume": 19009000
     },
     {
       "ticker": "USIM5",
@@ -1431,7 +1431,7 @@
       "score": -5,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 9919800
+      "volume": 2618900
     },
     {
       "ticker": "JHSF3",
@@ -1442,7 +1442,7 @@
       "score": -5,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 1956300
+      "volume": 1373000
     },
     {
       "ticker": "QUAL3",
@@ -1453,7 +1453,7 @@
       "score": -5,
       "classificacao": "EVITAR",
       "setor": "Saúde",
-      "volume": 3778900
+      "volume": 2753200
     },
     {
       "ticker": "MGLU3",
@@ -1464,7 +1464,7 @@
       "score": -10,
       "classificacao": "EVITAR",
       "setor": "Varejo",
-      "volume": 17597900
+      "volume": 9013200
     },
     {
       "ticker": "GGBR4",
@@ -1475,7 +1475,7 @@
       "score": -10,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 5373300
+      "volume": 2272100
     },
     {
       "ticker": "RENT3",
@@ -1486,7 +1486,7 @@
       "score": -10,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 5884300
+      "volume": 3696800
     },
     {
       "ticker": "GOAU4",
@@ -1497,7 +1497,7 @@
       "score": -10,
       "classificacao": "EVITAR",
       "setor": "Mineração",
-      "volume": 3114700
+      "volume": 1689800
     },
     {
       "ticker": "ARML3",
@@ -1508,7 +1508,7 @@
       "score": -10,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
-      "volume": 475200
+      "volume": 340200
     },
     {
       "ticker": "NATU3",
@@ -1519,7 +1519,7 @@
       "score": -15,
       "classificacao": "EVITAR",
       "setor": "Consumo Básico",
-      "volume": 4182000
+      "volume": 2436500
     }
   ]
 }
