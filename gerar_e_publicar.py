@@ -153,7 +153,7 @@ def calcular_semaforo(macro: dict) -> str:
 def salvar_json(dados: dict, nome_arquivo: str):
     destino = RELATORIOS_DIR / nome_arquivo
     destino.write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[OK] Salvo → {destino.name}")
+    print(f"[OK] Salvo -> {destino.name}")
 
 
 def gerar_debates_comite(tickers: list, empresas: dict | None = None):
