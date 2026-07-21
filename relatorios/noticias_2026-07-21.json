@@ -1,22 +1,36 @@
 {
-  "coletado_em": "21/07/2026 18:21",
+  "coletado_em": "21/07/2026 18:33",
   "total": 30,
-  "urgentes": 3,
+  "urgentes": 4,
   "destaque": {
-    "titulo": "'Robô cambista', design manipulativo e vendedores não rastreáveis: governo fiscaliza sites de venda e revenda de ingressos",
-    "descricao": "O Ministério da Justiça e Segurança Pública abriu um processo administrativo sancionador contra a empresa de revenda de ingressos Viagogo Internacional (veja mais detalhes). Segundo o secretário nacional do Consumidor, Ricardo Morishita, a Ticketmaster também é monitorada. 🤖 Na Ticketmaster, o secretário afirmou ainda que a pasta verificou o uso de robôs que funcionam como cambistas para furar fil",
-    "link": "https://g1.globo.com/politica/noticia/2026/07/21/robo-cambista-design-manipulativo-e-vendedores-nao-rastreaveis-governo-fiscaliza-sites-de-venda-e-revenda-de-ingressos.ghtml",
-    "fonte": "G1 Política",
-    "categoria": "Política",
-    "cor": "#d4a017",
+    "titulo": "Parlamento da França aprova proibição de redes sociais para menores de 15 anos",
+    "descricao": "Após receber o aval do Senado mais cedo, o projeto foi aprovado pela Assembleia Nacional, com 279 votos a favor e 81 contra The post Parlamento da França aprova proibição de redes sociais para menores de 15 anos appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/mundo/parlamento-da-franca-aprova-proibicao-de-redes-sociais-para-menores-de-15-anos/",
+    "fonte": "Infomoney",
+    "categoria": "Mercado",
+    "cor": "#4488ff",
     "urgencia": "alta",
     "score_relevancia": 1,
-    "pub_date": "Tue, 21 Jul 2026 20:23:20 -0000",
+    "pub_date": "Tue, 21 Jul 2026 21:27:34 +0000",
     "setores": [
       "Mercado geral"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Parlamento da França aprova proibição de redes sociais para menores de 15 anos",
+      "descricao": "Após receber o aval do Senado mais cedo, o projeto foi aprovado pela Assembleia Nacional, com 279 votos a favor e 81 contra The post Parlamento da França aprova proibição de redes sociais para menores de 15 anos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/parlamento-da-franca-aprova-proibicao-de-redes-sociais-para-menores-de-15-anos/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 21:27:34 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
     {
       "titulo": "'Robô cambista', design manipulativo e vendedores não rastreáveis: governo fiscaliza sites de venda e revenda de ingressos",
       "descricao": "O Ministério da Justiça e Segurança Pública abriu um processo administrativo sancionador contra a empresa de revenda de ingressos Viagogo Internacional (veja mais detalhes). Segundo o secretário nacional do Consumidor, Ricardo Morishita, a Ticketmaster também é monitorada. 🤖 Na Ticketmaster, o secretário afirmou ainda que a pasta verificou o uso de robôs que funcionam como cambistas para furar fil",
@@ -199,6 +213,20 @@
       ]
     },
     {
+      "titulo": "Ex-ministra de Jair Bolsonaro recusa ser candidata a vice-presidente de Flávio Bolsonaro",
+      "descricao": "A senadora Tereza Cristina (PP-MS) negou o convite para ser candidata a vice-presidente na chapa do senador Flávio Bolsonaro (PL-RJ). A informação é do presidente do PL, Valdemar Costa Neto. O pré-candidato do PL busca uma candidata a vice num dos partidos do Centrão como União Brasil, Progressista ou Republicanos, mas até agora não teve sucesso. Tereza e Valdemar se reuniram nesta terça-feira (21",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/21/ex-ministra-de-jair-bolsonaro-recusa-ser-candidata-a-vice-presidente-de-flavio-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 21 Jul 2026 21:10:54 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "Itamaraty emite alerta e desaconselha viagens para Israel, Catar, Emirados Árabes e outros países",
       "descricao": "Grupo rebelde aliado do Irã fecha a segunda maior rota de petróleo da região O Ministério das Relações Exteriores atualizou nesta terça-feira (21) o alerta consular para brasileiros que estão no Oriente Médio ou pretendem viajar para a região. O governo recomenda não viajar para países e áreas afetados diretamente por conflitos e orienta evitar viagens não essenciais a outros destinos. Segundo o I",
       "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/07/21/itamaraty-emite-alerta-e-desaconselha-viagens-para-israel-catar-emirados-arabes-e-outros-paises.ghtml",
@@ -253,20 +281,6 @@
       "pub_date": "Tue, 21 Jul 2026 13:29:14 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Quaest: Lula melhora desempenho no Sudeste, e Flávio Bolsonaro mantém vantagem entre evangélicos; veja números detalhados",
-      "descricao": "Presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) Divulgação O detalhamento da pesquisa Quaest divulgada na última quarta-feira (15) mostra como variaram as intenções de voto de Lula (PT) e Flávio Bolsonaro (PL) nos segmentos do eleitorado. O levantamento divulgado na semana passada com a simulação de um 2º turno entre os dois mostrou que Lula venceria Flávio Bolsonaro po",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/21/quaest-julho-segmentos-lula-flavio-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 03:00:46 -0000",
-      "setores": [
         "Telecom (VIVT3, TIMS3)"
       ]
     },
@@ -356,17 +370,17 @@
       ]
     },
     {
-      "titulo": "Dólar hoje cai 0,31%, a R$ 5,07, em dia de notícias conflitantes no Oriente Médio",
-      "descricao": "O dólar à vista encerrou a sessão de segunda-feira com baixa de 0,42%, aos R$5,0896. The post Dólar hoje cai 0,31%, a R$ 5,07, em dia de notícias conflitantes no Oriente Médio appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21072026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Chefe do Pentágono diz que guerra contra o Irã já custou aos EUA quase R$ 200 bilhões",
+      "descricao": "Irã ameaça impedir trânsito de petróleo sem autorização no Estreito de Ormuz: 'nem uma gota' O secretário de Guerra dos Estados Unidos, Pete Hegseth, afirmou nesta terça-feira (21) que a guerra com o Irã já custou US$ 37,5 bilhões (R$ 190,8 bilhões) aos cofres americanos. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A ofensiva começou em 28 de fevereiro, após o fracasso das negociaç",
+      "link": "https://g1.globo.com/mundo/noticia/2026/07/21/chefe-do-pentagono-diz-que-guerra-contra-o-ira-ja-custou-aos-eua-quase-r-200-bilhoes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 20:31:55 +0000",
+      "pub_date": "Tue, 21 Jul 2026 20:52:04 -0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
     },
     {
@@ -413,15 +427,15 @@
       ]
     },
     {
-      "titulo": "Sabre de luz de Luke Skywalker usado em 'O Império Contra-Ataca' é leiloado por R$ 19 milhões",
-      "descricao": "Sabre de luz de Luke Skywalker, acompanhado de mão decepada, foi usado por Mark Hamill em \"O Império Contra-Ataca\". Heritage Auctions Um sabre de luz de Luke Skywalker acompanhado de uma mão decepada foi vendido por R$ 19 milhões (US$ 3,75 milhões) em um leilão da Heritage Auctions, em Dallas, no Texas, no dia 15 deste mês. O resultado só foi divulgado na segunda-feira (20). O objeto foi usado por",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/21/sabre-de-luz-de-luke-skywalker-e-leiloado-por-us-375-milhoes.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Brasil melhora indicadores sobre segurança alimentar e segue fora do Mapa da Fome, aponta ONU",
+      "descricao": "Relatório divulgado nesta terça-feira (21) pela Organização das Nações Unidas aponta que o Brasil melhorou indicadores sobre segurança alimentar e permanece fora do Mapa da Fome pelo segundo ano seguido. O documento também aponta que o país atingiu o menor nível já registrado de pessoas com insegurança alimentar severa, chegando a 0,6%. Segundo o relatório, 16,7 milhões de pessoas deixaram a condi",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/21/brasil-melhora-indicadores-sobre-seguranca-alimentar-e-segue-fora-do-mapa-da-fome-aponta-onu.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 12:41:07 -0000",
+      "pub_date": "Tue, 21 Jul 2026 21:00:15 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -436,20 +450,6 @@
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Tue, 21 Jul 2026 19:54:36 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Palmas concentra 18% dos eleitores do Tocantins; veja maiores e menores colégios eleitorais",
-      "descricao": "Palmas lidera ranking dos maiores colégios eleitorais do Tocantins Carlos Eller/Ascom/TRE-TO Palmas concentra cerca de 18% dos eleitores do Tocantins e lidera o ranking dos maiores colégios eleitorais do estado para as Eleições Gerais de 2026. Os dados definitivos do eleitorado foram divulgados pelo Tribunal Superior Eleitoral (TSE). Ao todo, o Tocantins tem 1.182.307 eleitoras e eleitores aptos a",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/21/palmas-concentra-18percent-dos-eleitores-do-tocantins-veja-maiores-e-menores-colegios-eleitorais.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 10:36:07 -0000",
       "setores": [
         "Mercado geral"
       ]

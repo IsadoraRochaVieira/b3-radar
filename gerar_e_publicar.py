@@ -18,7 +18,7 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-ANALISADOR = ROOT.parent / "analisador_b3_4.py"
+ANALISADOR = ROOT / "analisador_b3_4.py"
 RELATORIOS_DIR = ROOT / "relatorios"
 RELATORIOS_DIR.mkdir(exist_ok=True)
 
@@ -164,13 +164,13 @@ def gerar_debates_comite(tickers: list, empresas: dict | None = None):
         return
     try:
         import csv, glob
-        sys.path.insert(0, str(ROOT.parent))
+        sys.path.insert(0, str(ROOT))
         import comite_ia
     except Exception as e:
         print(f"[COMITÊ] Não foi possível carregar comite_ia: {e}")
         return
 
-    csvs = sorted(glob.glob(str(ROOT.parent / "b3_analise_*.csv")))
+    csvs = sorted(glob.glob(str(ROOT / "b3_analise_*.csv")))
     if not csvs:
         print("[COMITÊ] Nenhum CSV do analisador encontrado.")
         return
@@ -308,7 +308,7 @@ if __name__ == "__main__":
 
     # 6b2. Fundamentos oficiais da CVM para as ações debatidas
     try:
-        sys.path.insert(0, str(ROOT.parent))
+        sys.path.insert(0, str(ROOT))
         import fundamentos_cvm as fcvm
         reg = fcvm.carregar_registro()
         dfp = fcvm.carregar_dfp(int(os.environ.get("CVM_ANO", "2025")))
@@ -321,9 +321,9 @@ if __name__ == "__main__":
     # 6c. Market Map — matriz visual de toda a bolsa
     try:
         import glob as _glob
-        sys.path.insert(0, str(ROOT.parent))
+        sys.path.insert(0, str(ROOT))
         from gerar_mapa import gerar_mapa
-        _csvs = sorted(_glob.glob(str(ROOT.parent / "b3_analise_*.csv")))
+        _csvs = sorted(_glob.glob(str(ROOT / "b3_analise_*.csv")))
         if _csvs:
             gerar_mapa(_csvs[-1], RELATORIOS_DIR, hoje)
     except Exception as e:
@@ -356,6 +356,6 @@ if __name__ == "__main__":
     # 7. Push
     git_push(f"relatorio: {hoje} {TURNO} | {semaforo} | {', '.join(tickers_top)}")
 
-    print(f"\n✅ Relatório {hoje} [{TURNO}] publicado!")
+    print(f"\n[OK] Relatório {hoje} [{TURNO}] publicado!")
     print(f"   Semáforo: {semaforo.upper()} | Picks: {', '.join(tickers_top)}")
     print(f"   Taxa de acerto: {metricas_bt.get('taxa_acerto', 0)}%")
