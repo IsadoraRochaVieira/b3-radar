@@ -2,8 +2,8 @@
   "data": "21/07/2026",
   "data_iso": "2026-07-21",
   "dia_semana": "Terça-feira",
-  "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 173.326 (-0.03%). Destaques: HYPE3, TEND3, ROMI3. Semáforo: VERDE.",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 173.326 (-0.03%). Destaques: HYPE3, TEND3, ROMI3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "23.28",
       "rsi": 42.1,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 42.1 e score de 65 pontos. Entrada em R$ 20.24 com alvo R$ 23.28."
+      "porque": "RSI em 42.1 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 18.99 limita risco."
     },
     {
       "rank": 2,
@@ -40,7 +40,7 @@
       "alvo": "6.74",
       "rsi": 33.3,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 33.3 e score de 60 pontos. Entrada em R$ 5.86 com alvo R$ 6.74."
+      "porque": "RSI em 33.3 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 5.58 limita risco."
     },
     {
       "rank": 4,

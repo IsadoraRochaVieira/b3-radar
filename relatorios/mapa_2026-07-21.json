@@ -1,7 +1,7 @@
 {
   "data_iso": "2026-07-21",
-  "gerado_em": "21/07/2026 18:34",
-  "total": 186,
+  "gerado_em": "21/07/2026 18:42",
+  "total": 185,
   "acoes": [
     {
       "ticker": "HYPE3",
@@ -992,17 +992,6 @@
       "classificacao": "NEUTRO",
       "setor": "Mineração",
       "volume": 380200
-    },
-    {
-      "ticker": "POSI3",
-      "preco": 3.68,
-      "var_1d": -0.54,
-      "var_20d": -4.66,
-      "rsi": 38.7,
-      "score": 25,
-      "classificacao": "NEUTRO",
-      "setor": "Tecnologia",
-      "volume": 335100
     },
     {
       "ticker": "SANB4",

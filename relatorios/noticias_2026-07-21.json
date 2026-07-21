@@ -1,5 +1,5 @@
 {
-  "coletado_em": "21/07/2026 18:33",
+  "coletado_em": "21/07/2026 18:41",
   "total": 30,
   "urgentes": 4,
   "destaque": {
@@ -91,22 +91,6 @@
       ]
     },
     {
-      "titulo": "Dólar sobe para R$ 5,11, e bolsa fica estável, apesar de tensão global",
-      "descricao": "O dólar fechou em leve alta frente ao real, o Ibovespa interrompeu uma sequência de três semanas de ganhos e o petróleo disparou quase 5% nesta sexta-feira (17), em um dia marcado pela escalada do conflito no Oriente Médio. O pessimismo com empresas de inteligência artificial também influenciou as negociações em todo o planeta. O avanço das cotações do petróleo amenizou as perdas da moeda brasilei",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-sobe-para-r-511-e-bolsa-fica-estavel-apesar-de-tensao-global",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Fri, 17 Jul 2026 19:46:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
       "titulo": "Mercado reduz expectativa de inflação para 5,15% em 2026",
       "descricao": "As expectativas do mercado financeiro para a inflação em 2026 mantêm a trajetória de queda observada nas últimas semanas. Segundo o boletim Focus divulgado nesta segunda-feira (20) pelo Banco Central (BC), o Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve fechar o ano em 5,15%. Na semana passada, o mercado projetava que o IPCA, índice que corresponde à inflação no país, fecharia o ano em",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-expectativa-de-inflacao-para-515-em-2026",
@@ -152,18 +136,17 @@
       ]
     },
     {
-      "titulo": "Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07",
-      "descricao": "Índices nos EUA fecham em alta, de olho nos balanços de tecnologia The post Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07 appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21072026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Plano de governo de Renan Santos propõe 'desfavelização', guerra ao crime organizado, fusão de municípios e fim do Bolsa Família",
+      "descricao": "Pré-candidato do Missão à Presidência da República, Renan Santos Reprodução O pré-candidato à Presidência da República Renan Santos (Missão) apresentou nesta terça-feira (21) o seu plano de governo para as eleições de 2026. Sob o título \"O futuro é glorioso\", o documento reúne propostas inspiradas no governo de Nayib Bukele, presidente de El Salvador, como a construção de presídios de segurança má",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 21 Jul 2026 20:34:50 +0000",
+      "pub_date": "Tue, 21 Jul 2026 21:31:53 -0000",
       "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Câmbio / Exportadores",
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)",
         "Todos os ativos"
       ]
     },
@@ -450,6 +433,20 @@
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Tue, 21 Jul 2026 19:54:36 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Palmas concentra 18% dos eleitores do Tocantins; veja maiores e menores colégios eleitorais",
+      "descricao": "Palmas lidera ranking dos maiores colégios eleitorais do Tocantins Carlos Eller/Ascom/TRE-TO Palmas concentra cerca de 18% dos eleitores do Tocantins e lidera o ranking dos maiores colégios eleitorais do estado para as Eleições Gerais de 2026. Os dados definitivos do eleitorado foram divulgados pelo Tribunal Superior Eleitoral (TSE). Ao todo, o Tocantins tem 1.182.307 eleitoras e eleitores aptos a",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/21/palmas-concentra-18percent-dos-eleitores-do-tocantins-veja-maiores-e-menores-colegios-eleitorais.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 10:36:07 -0000",
       "setores": [
         "Mercado geral"
       ]
