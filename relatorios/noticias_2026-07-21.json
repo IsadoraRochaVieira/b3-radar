@@ -1,6 +1,6 @@
 {
-  "coletado_em": "21/07/2026 10:59",
-  "total": 30,
+  "coletado_em": "21/07/2026 18:01",
+  "total": 29,
   "urgentes": 2,
   "destaque": {
     "titulo": "Beneficiários com NIS de final 1 recebem Bolsa Família de julho",
@@ -80,37 +80,6 @@
       ]
     },
     {
-      "titulo": "Mercado reduz projeção da inflação de 2026 pela terceira semana seguida",
-      "descricao": "Boletim Focus mostra leve recuo na estimativa do IPCA, que segue acima do teto da meta. Previsões para Selic, PIB e câmbio permanecem praticamente estáveis",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7464328-mercado-reduz-projecao-da-inflacao-de-2026-pela-terceira-semana-seguida.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Mon, 20 Jul 2026 09:47:51 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Dólar opera em queda, com conflito no Oriente Médio no radar; Ibovespa cai",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta terça-feira (21), com recuo de 0,22% perto das 10h50, cotado a R$ 5,0781, conforme investidores acompanham os desdobramentos do conflito no Oriente Médio. O Ibovespa, principal índice da bolsa brasileira, caía 0,19% no mesmo horário, aos 173.047 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ O aumento d",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/21/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Tue, 21 Jul 2026 12:00:08 -0000",
-      "setores": [
-        "Câmbio / Exportadores",
-        "Todos os ativos"
-      ]
-    },
-    {
       "titulo": "Mercado reduz expectativa de inflação para 5,15% em 2026",
       "descricao": "As expectativas do mercado financeiro para a inflação em 2026 mantêm a trajetória de queda observada nas últimas semanas. Segundo o boletim Focus divulgado nesta segunda-feira (20) pelo Banco Central (BC), o Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve fechar o ano em 5,15%. Na semana passada, o mercado projetava que o IPCA, índice que corresponde à inflação no país, fecharia o ano em",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-expectativa-de-inflacao-para-515-em-2026",
@@ -127,32 +96,33 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa opera sem força e tenta manter os 173 mil pontos",
-      "descricao": "Bolsas dos EUA avançam juntas antes de novos balanços The post Ibovespa Hoje Ao Vivo: Bolsa opera sem força e tenta manter os 173 mil pontos appeared first on InfoMoney .",
+      "titulo": "Hypera e Rede D’Or: por que as ações foram as maiores quedas do Ibovespa nesta terça",
+      "descricao": "Mercado tem cautela com números das companhias - mas olharão com mais cuidado os números da RDOR3 The post Hypera e Rede D&#8217;Or: por que as ações foram as maiores quedas do Ibovespa nesta terça appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/hypera-hype3-e-rede-dor-rdor3-por-que-as-acoes-foram-as-maiores-quedas-do-ibovespa-nesta-terca/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 21 Jul 2026 20:40:30 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07",
+      "descricao": "Índices nos EUA fecham em alta, de olho nos balanços de tecnologia The post Ibovespa anda de lado e tem leve queda; dólar recua de novo, agora a R$ 5,07 appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21072026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 21 Jul 2026 13:49:06 +0000",
+      "pub_date": "Tue, 21 Jul 2026 20:34:50 +0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Câmbio / Exportadores",
         "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Câmara responde STF sobre emendas e diz que indicações seguiram regras e são transparentes",
-      "descricao": "A Câmara dos Deputados enviou nesta segunda-feira (20) ao Supremo Tribunal Federal (STF) uma manifestação em que diz ser regular e transparente o processo de indicação das emendas parlamentares de comissão. 🔎As emendas parlamentares são um montante do Orçamento reservado para serem executados conforme a indicação dos congressistas. As emendas de comissão não são de execução obrigatória. Em 2026, o",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/20/camara-responde-stf-sobre-emendas-e-diz-que-indicacoes-seguiram-regras-e-sao-transparentes.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 21 Jul 2026 00:46:11 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -170,60 +140,34 @@
       ]
     },
     {
-      "titulo": "PF intima Jaques Wagner a depor sobre caso Master",
-      "descricao": "A Polícia Federal (PF) intimou o senador Jaques Wagner (PT-BA) a depor no âmbito das investigações da Operação Compliance Zero, que apura suspeitas de fraudes financeiras envolvendo o Banco Master. A oitiva está marcada para 7 de agosto. Jaques Wagner é apontado pela PF como \"suposto beneficiário central das vantagens econômicas investigadas, figurando como agente público em favor de quem teriam s",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/21/pf-intima-jaques-wagner-a-depor-sobre-caso-master.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "IA impulsiona exportações mexicanas para EUA e dificulta cruzada comercial de Trump",
+      "descricao": "Presidente dos EUA, Donald Trump, durante pronunciamento em 16 de julho de 2026 Saul Loeb/Pool via AP O avanço da inteligência artificial (IA) nos Estados Unidos impulsionou as exportações mexicanas de equipamentos de alta tecnologia. A alta acontece em um momento em que o governo de Donald Trump tenta reduzir a dependência do paíse relação aos parceiros do acordo de livre comércio da América do N",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/21/ia-impulsiona-exportacoes-mexicanas-para-eua-e-dificulta-cruzada-comercial-de-trump.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 13:29:14 -0000",
+      "pub_date": "Tue, 21 Jul 2026 14:55:46 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Quaest: Lula melhora desempenho no Sudeste, e Flávio Bolsonaro mantém vantagem entre evangélicos; veja números detalhados",
-      "descricao": "Presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) Divulgação O detalhamento da pesquisa Quaest divulgada na última quarta-feira (15) mostra como variaram as intenções de voto de Lula (PT) e Flávio Bolsonaro (PL) nos segmentos do eleitorado. O levantamento divulgado na semana passada com a simulação de um 2º turno entre os dois mostrou que Lula venceria Flávio Bolsonaro po",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/21/quaest-julho-segmentos-lula-flavio-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Governo prepara ajuda em etapas a empresas afetadas por tarifaço",
+      "descricao": "Ana Flor: Pacote de apoio contra tarifaço terá cobrança por emprego O governo federal fecha nos próximos dias uma série de medidas para conter o impacto econômico tanto do novo tarifaço imposto pelos Estados Unidos ao Brasil quanto da alta do preço dos insumos de fertilizantes, necessários para o agronegócio e impactados pela guerra no Oriente Médio. Segundo informou ao blog o ministro da Fazenda,",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/21/governo-prepara-ajuda-em-etapas-a-empresas-afetadas-por-tarifaco.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 03:00:46 -0000",
+      "pub_date": "Tue, 21 Jul 2026 14:20:38 -0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Democracia, privatizações, recado aos EUA: discurso de Lula em convenção do PDT indica tom de campanha à reeleição",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) discursou na primeira convenção que oficializou apoio à sua pré-candidatura ao Palácio do Planalto e indicou o tom que deve adotar na campanha para reeleição à Presidência. O petista fez o discurso de encerramento da convenção nacional do PDT na noite desta segunda-feira (20). O partido oficializou apoio à pré-candidatura de Lula para concorrer ao quarto",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/democracia-privatizacoes-recado-aos-eua-discurso-de-lula-em-convencao-do-pdt-indica-tom-de-campanha-a-reeleicao.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 03:00:08 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Nunes Marques será relator no TSE de representação sobre suposta rede de perfis contra Flávio Bolsonaro",
-      "descricao": "O presidente do TSE, ministro Kássio Nunes Marques Antonio Augusto/TSE O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, é o relator da representação protocolada pelo Partido Liberal que solicita a investigação de um suposto esquema de perfis nas redes sociais da Meta financiados para atacar o senador. O coordenador de campanha do pré-candidato Flávio Bolsonaro (PL), senador",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/20/nunes-marques-tse-representacao-rede-de-perfis-contra-flavio-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 20 Jul 2026 23:03:37 -0000",
-      "setores": [
-        "Mercado geral"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
@@ -256,65 +200,107 @@
       ]
     },
     {
-      "titulo": "Monitor do PIB aponta crescimento de 0,7% em maio, aponta FGV",
-      "descricao": "Consumo das famílias segue como principal motor da atividade econômica, enquanto indústria perde fôlego",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7464603-monitor-do-pib-aponta-crescimento-de-07-em-maio-aponta-fgv.html",
+      "titulo": "Bolsa caminha para julho com menor liquidez desde a pandemia",
+      "descricao": "Dados da B3 analisados pela Elos Ayta apontam ritmo de negociação reduzido, com influência de fatores sazonais e menor participação dos investidores",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465134-bolsa-caminha-para-julho-com-menor-liquidez-desde-a-pandemia.html",
       "fonte": "Correio Braziliense Economia",
       "categoria": "Brasília / DF",
       "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Mon, 20 Jul 2026 15:11:00 -0300",
+      "pub_date": "Tue, 21 Jul 2026 11:12:00 -0300",
       "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "Tarifas de Trump não vão funcionar e fortalecerão Lula, diz Nobel de Economia",
-      "descricao": "Professor americano Paul Krugman disse que sistema de pagamentos brasileiros pode abrir caminho para criação de uma moeda digital do Banco Central.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/07/7464300-tarifas-de-trump-nao-vao-funcionar-e-fortalecerao-lula-diz-nobel-de-economia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 20 Jul 2026 08:43:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "UE não flexibilizará exigências sanitárias para carne brasileira, diz embaixador",
-      "descricao": "Presidente da União Europeia, Martin Gallagher destacou que bloco mantém diálogo com o governo brasileiro na busca de encontrar caminhos para a adequação The post UE não flexibilizará exigências sanitárias para carne brasileira, diz embaixador appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/brasil/ue-nao-flexibilizara-exigencias-sanitarias-para-carne-brasileira-diz-embaixador/",
+      "titulo": "Bolsas da NY sobem com impulso de semicondutores, mas com balanços e guerra no radar",
+      "descricao": "O Dow Jones subiu 0,74%, em 52.223,93 pontos. O S&#038;P 500 ganhou 0,89%, nos 7.509,20 pontos. E o Nasdaq teve alta de 1,29%, encerrando em 25.837,21 pontos The post Bolsas da NY sobem com impulso de semicondutores, mas com balanços e guerra no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/bolsas-da-ny-sobem-com-impulso-de-semicondutores-mas-com-balancos-e-guerra-no-radar/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 13:32:13 +0000",
+      "pub_date": "Tue, 21 Jul 2026 20:51:40 +0000",
       "setores": [
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "O conflito entre Irã e EUA ganhou um novo alvo: a Amazon",
-      "descricao": "Guarda Revolucionária afirma ter atingido infraestrutura no Bahrein após bombardeios dos EUA The post O conflito entre Irã e EUA ganhou um novo alvo: a Amazon appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/o-conflito-entre-ira-e-eua-ganhou-um-novo-alvo-teera-diz-ter-atacado-a-amazon/",
+      "titulo": "Guerra dos EUA contra Irã já custou US$ 37,5 bi, diz Pentágono",
+      "descricao": "Pete Hegseth apresentou a nova estimativa a parlamentares no Senado americano, revelando um aumento de quase US$ 8 bilhões em relação ao valor divulgado anteriormente The post Guerra dos EUA contra Irã já custou US$ 37,5 bi, diz Pentágono appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/guerra-dos-eua-contra-ira-ja-custou-us-375-bi-diz-pentagono/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 13:22:16 +0000",
+      "pub_date": "Tue, 21 Jul 2026 20:46:06 +0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Dólar hoje cai 0,31%, a R$ 5,07, em dia de notícias conflitantes no Oriente Médio",
+      "descricao": "O dólar à vista encerrou a sessão de segunda-feira com baixa de 0,42%, aos R$5,0896. The post Dólar hoje cai 0,31%, a R$ 5,07, em dia de notícias conflitantes no Oriente Médio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 20:31:55 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Justiça dos EUA impede que governo Trump retire autorizações de trabalho de migrantes",
+      "descricao": "Juiz federal acatou pedido de coalizão de direitos humanos que buscava impedir que políticas de restrições relacionadas à migração sejam levadas adiante The post Justiça dos EUA impede que governo Trump retire autorizações de trabalho de migrantes appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/justica-dos-eua-impede-que-governo-trump-retire-autorizacoes-de-trabalho-de-migrantes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 20:21:45 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
+      "titulo": "GM, dona da Chevrolet, eleva previsão de lucro após alta nas vendas de picapes e SUVs nos EUA",
+      "descricao": "Linha 2027 da Chevrolet Silverado Divulgação / GM A General Motors (GM), dona das marcas Chevrolet e Cadillac no Brasil, elevou nesta terça-feira (21), pela segunda vez neste ano, sua projeção de lucro para 2026. As informações são da agência Reuters. A GM elevou sua expectativa de lucro para 2026 em US$ 500 milhões (R$ 2,54 bilhões), passando para uma faixa entre US$ 14 bilhões (R$ 71,12 bilhões)",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/21/gm-chevrolet-eleva-previsao-de-lucro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 15:40:15 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Tarifaço: setor de máquinas diz não apoiar reciprocidade e defende ampliação de programa de crédito para empresas afetadas",
+      "descricao": "Representantes da Associação Brasileira da Indústria de Máquinas e Equipamentos (Abimaq) afirmaram nesta terça-feira (21) que são contra a aplicação, pelo governo Luiz Inácio Lula da Silva (PT), de reciprocidade tarifária sobre produtos americanos exportados ao Brasil. Os representantes do setor de máquinas e equipamentos se reuniram com o vice-presidente Geraldo Alckmin e com os ministros Márcio ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/21/tarifaco-setor-de-maquinas-diz-nao-apoiar-reciprocidade-e-defende-ampliacao-de-programa-de-credito-para-empresas-afetadas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 14:20:55 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
       "titulo": "INSS começa a analisar pedidos de pensão a órfãos de feminicídio; veja as regras e como pedir",
-      "descricao": "O Instituto Nacional do Seguro Social (INSS) promete analisar, ainda neste mês, o estoque de pedidos de pensão a crianças e adolescentes que perderam as mães vítimas de feminicídio. São mais de 400 requerimentos parados. A partir de agora, o INSS diz que vai analisar o estoque de pedidos e também as novas solicitações para a pensão. A lei que garante o benefício é de 2023, mas faltava uma etapa da",
+      "descricao": "O Instituto Nacional do Seguro Social (INSS) promete concluir a análise, até o fim deste mês, do estoque de pedidos de pensão a crianças e adolescentes que perderam as mães vítimas de feminicídio. São mais de 400 requerimentos parados. A partir de agora, o INSS diz que vai analisar o estoque de pedidos e também as novas solicitações para a pensão. A lei que garante o benefício é de 2023, mas falta",
       "link": "https://g1.globo.com/economia/noticia/2026/07/21/inss-comeca-a-analisar-pedidos-de-pensao-a-orfaos-de-feminicidio-veja-as-regras-e-como-pedir.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -341,118 +327,123 @@
       ]
     },
     {
-      "titulo": "Trump prepara novas tarifas contra dezenas de países, diz Financial Times",
-      "descricao": "O presidente dos EUA, Donald Trump, durante um pronunciamento à nação no Salão Leste da Casa Branca, em Washington SAUL LOEB/Pool via REUTERS O presidente dos Estados Unidos, Donald Trump, deve anunciar novas tarifas sobre dezenas de países já nesta semana, informou o Financial Times nesta terça-feira. A taxa global temporária de 10% está prevista para expirar na sexta-feira (24). 🗒️Tem alguma sug",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/21/trump-prepara-novas-tarifas-contra-dezenas-de-paises-diz-financial-times.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "Beneficiários com NIS de final 2 recebem Bolsa Família de julho",
+      "descricao": "A Caixa Econômica Federal paga nesta terça-feira (21) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 2. Neste mês, o valor médio do benefício está em R$ 679,19. Na segunda-feira (20), moradores de 175 municípios de seis estados receberam o crédito, independentemente do número final do NIS. O pagamento unificado foi para localidades em situação d",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-julho",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 10:26:44 -0000",
+      "pub_date": "Tue, 21 Jul 2026 07:20:00 -0300",
       "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "Vinhos importados mais baratos perdem espaço com inflação, enquanto rótulos premium avançam",
-      "descricao": "Taça de vinho wavebreakmedia_micro/freepik A queda do poder de compra da classe média-baixa provocou uma redução de 9% no volume de vinhos importados de menor preço, aponta levantamento da consultoria Ideal.BI. Em contrapartida, o setor passou a investir em marcas premium, de maior valor agregado. Elas representaram um terço de toda a receita gerada pelas compras do exterior no primeiro trimestre ",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/21/vinhos-importados-mais-baratos-perdem-espaco-com-inflacao-enquanto-rotulos-premium-avancam.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "PF investiga desvio de 45 milhões de correntistas da Caixa",
+      "descricao": "Diligência aponta o envolvimento de advogados e servidores públicos para acessar dados sigilosos e tentar impedir investigações. Ao todo, foram desviados R$ 45 milhões",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465399-pf-investiga-desvio-de-45-milhoes-de-correntistas-da-caixa.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 08:02:29 -0000",
+      "pub_date": "Tue, 21 Jul 2026 16:28:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Mulheres gastam mais, apesar de serem minoria nos bares na final da Copa",
+      "descricao": "Mesmo representando apenas 30% das transações, mulheres tiveram ticket médio superior ao dos homens durante a final entre Espanha e Argentina",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465387-mulheres-gastam-mais-apesar-de-serem-minoria-nos-bares-na-final-da-copa.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 15:22:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Governo abre crédito extraordinário de R$ 547 milhões para ressarcir aposentados",
+      "descricao": "Medida provisória destina recursos ao Ministério da Previdência Social para reembolsar beneficiários do Regime Geral de Previdência Social por descontos indevidos",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465310-governo-abre-credito-extraordinario-de-rs-547-milhoes-para-ressarcir-aposentados.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 15:18:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Abimaq rejeita retaliação e cobra diplomacia diante do tarifaço dos EUA",
+      "descricao": "Presidente da entidade afirma que ainda há espaço para negociação e destaca apoio de empresários norte-americanos ao Brasil",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465229-abimaq-rejeita-retaliacao-e-cobra-diplomacia-diante-do-tarifaco-dos-eua.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 21 Jul 2026 12:53:11 -0300",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     },
     {
-      "titulo": "'Piratinha', 'hemorroida' e outros: a linha entre humor e assédio que leva apelidos no trabalho a indenizações",
-      "descricao": "Apelidos no trabalho: quando a brincadeira passa do limite \"Pano de pia. 8h da manhã e já está fedendo\", \"Buzina de avião. Não serve para nada\", \"Cesta básica. Tem tudo, menos carne\", \"Tartaruga Ninja. Tartaruga para chegar e ninja para sair\". Em vídeos curtos que viralizam nas redes sociais, colegas de trabalho trocam esse tipo de apelido para debochar de comportamentos do dia a dia. É uma piada ",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/21/assedio-humor-apelidos-trabalho-indenizacoes.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Tarifaço preocupa indústria de máquinas, mas setor mantém otimismo com novos mercados",
+      "descricao": "Após reunião com Alckmin, Abimaq defende medidas de competitividade e ampliação do programa Brasil Soberano. Segundo a associação, as exportações do setor seguem em patamar recorde",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465171-tarifaco-preocupa-industria-de-maquinas-mas-setor-mantem-otimismo-com-novos-mercados.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 07:01:06 -0000",
+      "pub_date": "Tue, 21 Jul 2026 12:25:00 -0300",
       "setores": [
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Petróleo cai após sinal de mediação entre EUA e Irã",
-      "descricao": "Navio no Estreito de Ormuz nesta terça, 21 de julho. Stringer / Reuters Os preços do petróleo recuaram nesta terça-feira (21) após surgirem sinais de uma possível mediação entre Estados Unidos e Irã para tentar conter a escalada da guerra. Mesmo com novos ataques registrados nas últimas horas, investidores reagiram à informação de que mediadores apresentaram uma proposta de cessar-fogo de dez dias",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/21/petroleo-cai-apos-sinal-de-mediacao-entre-eua-e-ira.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "UE descarta flexibilizar regras para retomar importação de carne brasileira",
+      "descricao": "União Europeia mantém veto sanitário ao Brasil, enquanto esgotamento da cota de importação da China deve reduzir o ritmo das vendas no segundo semestre",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465081-ue-descarta-flexibilizar-regras-para-retomar-importacao-de-carne-brasileira.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 05:45:23 -0000",
+      "pub_date": "Tue, 21 Jul 2026 10:10:00 -0300",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "UE não flexibilizará exigências sanitárias para a carne brasileira, diz embaixador da Irlanda, que preside o bloco europeu",
-      "descricao": "União Europeia veta importações de carne e produtos de origem animal do Brasil O embaixador da Irlanda no Brasil, Martin Gallagher, afirmou que a União Europeia não flexibilizará as exigências sanitárias para que a carne brasileira volte a ser exportada ao bloco. A Irlanda ocupa a presidência rotativa do Conselho da União Europeia, iniciada em 1º de julho e com duração de seis meses. Gallagher res",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/21/ue-nao-flexibilizara-exigencias-sanitarias-para-a-carne-brasileira-diz-embaixador-da-irlanda-que-preside-o-bloco-europeu.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 03:00:32 -0000",
-      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Frigoríficos (JBSS3, MRFG3, BEEF3)",
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Palmas concentra 18% dos eleitores do Tocantins; veja maiores e menores colégios eleitorais",
-      "descricao": "Palmas lidera ranking dos maiores colégios eleitorais do Tocantins Carlos Eller/Ascom/TRE-TO Palmas concentra cerca de 18% dos eleitores do Tocantins e lidera com folga o ranking dos maiores colégios eleitorais do estado para as Eleições Gerais de 2026. Os dados definitivos do eleitorado foram divulgados pelo Tribunal Superior Eleitoral (TSE). Ao todo, o Tocantins tem 1.182.307 eleitoras e eleitor",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/21/palmas-concentra-18percent-dos-eleitores-do-tocantins-veja-maiores-e-menores-colegios-eleitorais.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "EUA podem perder para o Brasil o papel de maior exportador agrícola do mundo, diz Financial Times",
+      "descricao": "China, um dos maiores compradores do mundo, reduziu importações dos americanos depois que Donald Trump impôs tarifas ao país, o que, segundo jornal, beneficiou o Brasil.",
+      "link": "https://www.correiobraziliense.com.br/mundo/2026/07/7465019-eua-podem-perder-para-o-brasil-o-papel-de-maior-exportador-agricola-do-mundo-diz-financial-times.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 10:36:07 -0000",
+      "pub_date": "Tue, 21 Jul 2026 08:30:00 -0300",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Flávio Bolsonaro diz ter esperança de receber apoio da federação formada por União Brasil e PP",
-      "descricao": "Flávio Bolsonaro (PL), senador e pré-candidato à Presidência da República, entre Guilherme Derrite (esq) e Tarcísio de Freitas (dir) Victória Cócolo/g1 O pré-candidato à Presidência da República pelo PL, senador Flávio Bolsonaro, afirmou nesta segunda-feira (20) que participou da convenção estadual da federação União Progressista, em São Paulo, após ser convidado pessoalmente, por telefone, pelo p",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/20/flavio-bolsonaro-apoio-federacao-uniao-brasil-e-pp.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 20 Jul 2026 23:29:08 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Lula diz que se Marco Rubio quiser apoiar candidatura de Flávio Bolsonaro 'que venha, que monte um comitê': 'vamos derrotar todos'",
-      "descricao": "Lula: Se Marco Rubio quiser apoiar candidatura de Flávio Bolsonaro 'que venha' O presidente Luiz Inácio Lula da Silva (PT) afirmou nessa segunda-feira (20) que se o secretário de Estado americano, Marco Rubio, quiser apoiar a candidatura à Presidência de Flávio Bolsonaro \"que venha, que monte um comitê\". \"Se o secretário de Estado americano Marco Rubio quiser vir apoiar o meu adversário, que venha",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/20/lula-diz-que-se-marco-rubio-quiser-vir-ao-brasil-apoiar-candidatura-de-flavio-bolsonaro-que-venha-vamos-derrotar-todos.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 20 Jul 2026 23:02:14 -0000",
-      "setores": [
-        "Mercado geral"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     }
   ]
