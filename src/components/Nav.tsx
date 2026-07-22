@@ -45,8 +45,17 @@ export default function Nav({ ativa }: { ativa: Aba }) {
 
         {/* Logo */}
         <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 9, paddingRight: 16, borderRight: '1px solid #1c2538', textDecoration: 'none', flexShrink: 0 }}>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/icone-pequi.png" alt="Caryo Map" width={28} height={28} style={{ objectFit: 'contain', filter: 'drop-shadow(0 0 6px rgba(240,180,41,0.35))', flexShrink: 0 }} />
+          <div style={{ width: 28, height: 28, overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '50%', flexShrink: 0 }}>
+            <model-viewer 
+              src="/Meshy_AI_Golden_Geometric_Embl_0722051208_texture.glb" 
+              auto-rotate 
+              rotation-per-second="10deg" 
+              disable-zoom
+              interaction-prompt="none"
+              camera-orbit="0deg 90deg 100%"
+              style={{ width: '40px', height: '40px', pointerEvents: 'none', transform: 'scale(1.3) translateY(-2px)', '--poster-color': 'transparent' } as React.CSSProperties} 
+            ></model-viewer>
+          </div>
           <div>
             <div style={{ fontSize: 15, fontWeight: 800, color: '#e8edf5', letterSpacing: '-0.02em', lineHeight: 1 }}>
               Caryo<span style={{ color: 'var(--gold-bright)' }}> Map</span>

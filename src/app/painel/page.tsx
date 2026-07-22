@@ -70,8 +70,19 @@ export default function Home() {
         gridTemplateColumns: '1fr auto',
         gap: 20,
         alignItems: 'center',
+        position: 'relative',
+        overflow: 'hidden'
       }}>
-        <div>
+        <model-viewer
+          src="/flor%20pequi.glb"
+          auto-rotate
+          rotation-per-second="2deg"
+          disable-zoom
+          interaction-prompt="none"
+          style={{ position: 'absolute', right: '-10%', top: '-50%', width: '400px', height: '400px', zIndex: 0, opacity: 0.15, pointerEvents: 'none', '--poster-color': 'transparent' } as React.CSSProperties}
+        ></model-viewer>
+        
+        <div style={{ position: 'relative', zIndex: 1 }}>
           <div style={{ fontSize: 10, fontWeight: 600, color: 'var(--muted)', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 8 }}>
             Ibovespa · {ultimo?.data ?? 'hoje'}
           </div>
@@ -89,7 +100,7 @@ export default function Home() {
         </div>
 
         {/* Semáforo */}
-        <Link href="/segunda-feira" style={{ textDecoration: 'none' }}>
+        <Link href="/segunda-feira" style={{ textDecoration: 'none', position: 'relative', zIndex: 1 }}>
           <div style={{
             display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 8,
             background: sem.bg, border: `1px solid ${sem.cor}30`, borderRadius: 12,

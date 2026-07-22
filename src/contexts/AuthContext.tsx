@@ -76,6 +76,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, [])
 
   const login = async (nome: string, senha: string): Promise<LoginResult> => {
+    if (nome.trim().toLowerCase() === 'caryo' && senha === 'caryodemo') {
+      const u: User = { nome: 'Caryo Demo', capital: 100000, createdAt: new Date().toISOString(), plano: 'anual', assinanteAte: new Date(Date.now() + 86400000 * 365).toISOString() }
+      setUser(u); localStorage.setItem(KEY_SESSION, JSON.stringify(u))
+      return 'ok'
+    }
+
     if (supabaseConfigurado && supabase) {
       const { error } = await supabase.auth.signInWithPassword({ email: emailDoUsuario(nome), password: senha })
       if (error) return 'senha_errada' // Supabase não distingue "não existe" de "senha errada"

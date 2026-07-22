@@ -4,15 +4,19 @@ import Link from 'next/link'
 import CortinaNumeros from '@/components/CortinaNumeros'
 import Costura from '@/components/Costura'
 import NumeroContado from '@/components/NumeroContado'
+import AcoesInterativas from '@/components/AcoesInterativas'
 
-/* ── Radar de pequi: o núcleo dourado como tela de radar ── */
+const heroAtivos = [
+  { ticker: 'PETR4', nome: 'Petrobras', score: 92, acao: 'COMPRAR', entrada: '38.50', alvo: '42.00', stop: '36.80', rsi: 45, pl: 4.2 },
+  { ticker: 'VALE3', nome: 'Vale S.A.', score: 85, acao: 'COMPRAR', entrada: '62.10', alvo: '70.00', stop: '59.50', rsi: 52, pl: 6.8 },
+  { ticker: 'WEGE3', nome: 'WEG S.A.', score: 78, acao: 'OBSERVAR', entrada: '39.80', alvo: '44.00', stop: '37.50', rsi: 58, pl: 32.1 },
+]
+
 function RadarPequi() {
   const canvasRef = useRef<HTMLCanvasElement>(null)
   useEffect(() => {
-    const canvas = canvasRef.current
-    if (!canvas) return
-    const ctx = canvas.getContext('2d')
-    if (!ctx) return
+    const canvas = canvasRef.current; if (!canvas) return
+    const ctx = canvas.getContext('2d'); if (!ctx) return
     const reduz = window.matchMedia('(prefers-reduced-motion: reduce)').matches
     const S = 420
     canvas.width = S * 2; canvas.height = S * 2; ctx.scale(2, 2)
@@ -79,6 +83,7 @@ export default function Landing() {
           .cm-3col { grid-template-columns: 1fr; }
           .cm-stats { grid-template-columns: repeat(2, 1fr); }
           .cm-ouro { grid-template-columns: 1fr; }
+          .hero-3d-fruto { display: none; }
         }
         .cm-cta { display: inline-flex; align-items: center; gap: 10px; background: linear-gradient(135deg, #d4920a, #f0b429);
           color: #0a0e14; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 10px; text-decoration: none;
@@ -88,79 +93,98 @@ export default function Landing() {
           color: #e8edf5; padding: 13px 24px; border-radius: 10px; text-decoration: none; font-size: 14px;
           background: rgba(10,14,20,0.4); backdrop-filter: blur(6px); transition: border-color 0.15s, color 0.15s; }
         .cm-ghost:hover { border-color: #f0b429; color: #f0b429; }
-        /* no celular o pequi vira atmosfera atrás do texto, não concorrente */
-        @media (max-width: 860px) {
-          .hero-pequi { width: 90% !important; right: -22% !important; bottom: 2% !important; opacity: .3 !important; }
-        }
         @media (prefers-reduced-motion: reduce) { .cm-cta:hover { transform: none; } }
       `}</style>
 
-      {/* ── HERO — a cortina de números é o fundo; o pequi, a presença ── */}
-      <section style={{ position: 'relative', minHeight: '100svh', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
-        <CortinaNumeros />
-        {/* pequi recortado: o ouro emergindo do fluxo de dados */}
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/pequi-corte.png" alt="" aria-hidden="true" className="hero-pequi" style={{
-          position: 'absolute', right: '-4%', bottom: '6%', width: '46%', maxWidth: 620,
-          zIndex: 1, pointerEvents: 'none', opacity: 0.92,
-          filter: 'drop-shadow(0 30px 70px rgba(0,0,0,0.75))',
-        }} />
-        {/* overlay para legibilidade */}
+      {/* ── HERO ── */}
+      <section style={{ position: 'relative', minHeight: '100svh', display: 'flex', flexDirection: 'column', overflow: 'hidden', background: 'rgba(7, 10, 15, 0.4)' }}>
+        
+        {/* Fundo Interativo B3 */}
+        <CortinaNumeros som={false} />
+
         <div style={{ position: 'absolute', inset: 0, zIndex: 2, pointerEvents: 'none',
-          background: 'radial-gradient(120% 90% at 15% 40%, rgba(10,14,20,0.94) 0%, rgba(10,14,20,0.72) 45%, rgba(10,14,20,0.55) 100%), linear-gradient(180deg, rgba(10,14,20,0.55) 0%, transparent 35%, rgba(10,14,20,0.95) 100%)' }} />
+          background: 'radial-gradient(120% 90% at 15% 40%, rgba(10,14,20,0.85) 0%, rgba(10,14,20,0.60) 45%, rgba(10,14,20,0.30) 100%), linear-gradient(180deg, rgba(10,14,20,0.35) 0%, transparent 35%, rgba(10,14,20,0.95) 100%)' }} />
+
+        {/* 3D Fruto Flutuando no Hero (Lado Direito) */}
+        <model-viewer
+          src="/pequi%20fruto.glb"
+          auto-rotate
+          rotation-per-second="4deg"
+          camera-controls
+          disable-zoom
+          interaction-prompt="none"
+          exposure="1.2"
+          shadow-intensity="1.5"
+          style={{ position: 'absolute', top: '15%', right: '-5%', width: '60%', height: '70%', zIndex: 1, opacity: 0.9, transform: 'scale(1.2)', '--poster-color': 'transparent' } as React.CSSProperties}
+          className="hero-3d-fruto"
+        ></model-viewer>
 
         {/* header */}
-        <header style={{ position: 'relative', zIndex: 3, maxWidth: 1100, width: '100%', margin: '0 auto',
+        <header style={{ position: 'relative', zIndex: 4, maxWidth: 1100, width: '100%', margin: '0 auto',
           padding: '1.25rem 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/icone-pequi.png" alt="" width={34} height={34} style={{ objectFit: 'contain', filter: 'drop-shadow(0 0 8px rgba(240,180,41,0.4))' }} />
+            <div style={{ width: 34, height: 34, overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '50%' }}>
+              <model-viewer 
+                src="/Meshy_AI_Golden_Geometric_Embl_0722051208_texture.glb" 
+                auto-rotate 
+                rotation-per-second="10deg" 
+                disable-zoom 
+                interaction-prompt="none"
+                camera-orbit="0deg 90deg 100%"
+                style={{ width: '48px', height: '48px', pointerEvents: 'none', transform: 'scale(1.3) translateY(-2px)', '--poster-color': 'transparent' } as React.CSSProperties} 
+              ></model-viewer>
+            </div>
             <span className="cm-display" style={{ fontWeight: 800, fontSize: 19, color: '#fff' }}>Caryo <span style={{ color: '#f0b429' }}>Map</span></span>
           </div>
-          <Link href="/painel" className="cm-ghost" style={{ padding: '9px 20px', fontSize: 14 }}>Entrar</Link>
+          <Link href="/login" className="cm-ghost" style={{ padding: '9px 20px', fontSize: 14 }}>Entrar</Link>
         </header>
 
         {/* conteúdo do hero */}
-        <div style={{ position: 'relative', zIndex: 3, flex: 1, display: 'flex', alignItems: 'center',
+        <div style={{ position: 'relative', zIndex: 4, flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center',
           maxWidth: 1100, width: '100%', margin: '0 auto', padding: '2rem 1rem 4rem' }}>
-          <div style={{ maxWidth: 680 }}>
+          
+          <div style={{ maxWidth: 720 }}>
             <div style={{ fontSize: 11, color: '#f0b429', letterSpacing: '0.2em', fontWeight: 700,
               fontFamily: 'var(--mono)', marginBottom: 22, textTransform: 'uppercase' }}>
-              Caryocar brasiliense · a joia bruta do cerrado
+              Inteligência Quantitativa & Curadoria
             </div>
             <h1 className="cm-display" style={{ fontSize: 'clamp(40px, 7vw, 74px)', fontWeight: 900, lineHeight: 1.02, color: '#fff', margin: 0 }}>
-              Descascamos<br/>o mercado.<br/>
+              O Radar<br/>Definitivo<br/>
               <span style={{ background: 'linear-gradient(135deg, #f0b429, #d4920a)', WebkitBackgroundClip: 'text', backgroundClip: 'text', color: 'transparent' }}>
-                Mapeamos o ouro.
+                da B3.
               </span>
             </h1>
             <p style={{ color: 'rgba(232,237,245,0.86)', fontSize: 18, lineHeight: 1.6, marginTop: 26, maxWidth: 500 }}>
-              O Caryo Map é o comitê de inteligência que varre 138 ações da B3 duas vezes por dia —
-              cruzando técnica, fundamentos, macro e notícias — para achar as assimetrias
-              e blindar você contra os espinhos do risco.
+              Esqueça o ruído. O Caryo Map cruza dados macro, fundamentos e análise técnica para mapear
+              as maiores assimetrias do mercado financeiro em tempo real.
             </p>
-            <div style={{ display: 'flex', gap: 12, marginTop: 34, flexWrap: 'wrap' }}>
-              <Link href="/painel" className="cm-cta">Ver o mapa de hoje →</Link>
-              <Link href="/backtesting" className="cm-ghost">Conferir o histórico</Link>
+            <div style={{ display: 'flex', gap: 12, marginTop: 34, flexWrap: 'wrap', marginBottom: '4rem' }}>
+              <Link href="/login" className="cm-cta">Acessar a Plataforma →</Link>
+              <Link href="/backtesting" className="cm-ghost">Verificar Performance</Link>
             </div>
+          </div>
+
+          {/* GSAP Pills Interativos na Home (Exibindo 3 Ativos Top) */}
+          <div style={{ width: '100%' }}>
+            <div style={{ fontSize: 12, color: 'var(--muted)', letterSpacing: '0.15em', textTransform: 'uppercase', marginBottom: 12, fontWeight: 700 }}>Em Destaque Agora</div>
+            <AcoesInterativas ativos={heroAtivos} />
           </div>
         </div>
       </section>
 
-      {/* ── NÚMEROS (com a Cortina de Números viva ao fundo) ── */}
-      <section style={{ position: 'relative', borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)', background: 'var(--surface)', overflow: 'hidden' }}>
-        <CortinaNumeros />
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(15,21,32,0.70), rgba(15,21,32,0.88))', pointerEvents: 'none' }} />
-        <div className="cm-stats" style={{ position: 'relative', maxWidth: 1100, margin: '0 auto', pointerEvents: 'none' }}>
+      {/* ── NÚMEROS ── */}
+      <section style={{ position: 'relative', borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)', background: 'transparent', overflow: 'hidden' }}>
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(10,14,20,0.60), rgba(10,14,20,0.85))', pointerEvents: 'none', zIndex: 0 }} />
+        <div className="cm-stats" style={{ position: 'relative', maxWidth: 1100, margin: '0 auto', pointerEvents: 'none', zIndex: 1 }}>
           {[
-            { n: '138', l: 'ações varridas por análise' },
-            { n: '2×', l: 'mapas por dia útil' },
-            { n: '15', l: 'setores lidos nas notícias' },
-            { n: '100%', l: 'do histórico aberto no backtest' },
+            { n: '138', l: 'ativos varridos diariamente' },
+            { n: '2×', l: 'atualizações por pregão' },
+            { n: '15', l: 'setores de mercado analisados' },
+            { n: '100%', l: 'de transparência no backtest' },
           ].map(s => (
             <div key={s.l} style={{ padding: '1.75rem 1.5rem', borderLeft: '1px solid var(--border)' }}>
               <NumeroContado valor={s.n} className="cm-display" style={{ display: 'block', fontSize: 34, fontWeight: 900, color: '#f0b429', fontFamily: 'var(--mono)' }} />
-              <div style={{ fontSize: 12, color: 'var(--muted)', marginTop: 4 }}>{s.l}</div>
+              <div style={{ fontSize: 12, color: '#8a9bbf', marginTop: 4 }}>{s.l}</div>
             </div>
           ))}
         </div>
@@ -168,50 +192,70 @@ export default function Landing() {
 
       <div style={{ maxWidth: 1100, margin: '0 auto', padding: '0 1rem' }}><Costura /></div>
 
-      {/* ── O OURO OCULTO (foto real do pequi) ── */}
-      <section style={{ maxWidth: 1100, margin: '0 auto', padding: '5.5rem 1rem' }}>
+      {/* ── ASSIMETRIAS REAIS ── */}
+      <section style={{ maxWidth: 1100, margin: '0 auto', padding: '5.5rem 1rem', position: 'relative' }}>
         <Revela>
           <div className="cm-ouro">
-            <div style={{ position: 'relative' }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/pequi-aberto.jpg" alt="Pequi cortado revelando a polpa dourada, com cotações ao fundo"
-                style={{ width: '100%', borderRadius: 16, border: '1px solid var(--border2)', boxShadow: '0 20px 60px rgba(0,0,0,0.5)' }} />
-              <div style={{ position: 'absolute', inset: 0, borderRadius: 16, boxShadow: 'inset 0 0 80px rgba(240,180,41,0.12)', pointerEvents: 'none' }} />
+            <div style={{ position: 'relative', height: 400, background: 'rgba(10,14,20,0.4)', borderRadius: 16, border: '1px solid var(--border2)', boxShadow: '0 20px 60px rgba(0,0,0,0.5)', overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <div style={{ width: 220, height: 220, overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '50%' }}>
+                <model-viewer
+                  src="/Meshy_AI_Golden_Geometric_Embl_0722051208_texture.glb"
+                  auto-rotate
+                  rotation-per-second="15deg"
+                  disable-zoom
+                  interaction-prompt="none"
+                  camera-orbit="0deg 90deg 100%"
+                  exposure="1"
+                  shadow-intensity="1"
+                  style={{ width: '320px', height: '320px', transform: 'scale(1.3) translateY(-10px)', '--poster-color': 'transparent' } as React.CSSProperties}
+                ></model-viewer>
+              </div>
+              <div style={{ position: 'absolute', inset: 0, borderRadius: 16, boxShadow: 'inset 0 0 80px rgba(240,180,41,0.08)', pointerEvents: 'none' }} />
             </div>
             <div>
               <div style={{ fontSize: 11, color: 'var(--gold)', letterSpacing: '0.18em', fontWeight: 700, fontFamily: 'var(--mono)', textTransform: 'uppercase', marginBottom: 16 }}>
-                Por fora, cerrado · por dentro, ouro
+                Precisão & Risco/Retorno
               </div>
               <h2 className="cm-display" style={{ fontSize: 'clamp(28px, 4vw, 42px)', fontWeight: 800, color: 'var(--text)', margin: 0, lineHeight: 1.1 }}>
-                O pequi não aceita passividade.
+                Assimetrias Reais.
               </h2>
               <p style={{ color: 'var(--text2)', fontSize: 16, lineHeight: 1.75, marginTop: 20 }}>
-                Casca rústica e impenetrável por fora — como o mercado antes da análise: um bloco denso
-                de dados macro, notícias e balanços indecifráveis. Por dentro, a polpa dourada: as
-                small caps fora do radar institucional, as distorções que geram riqueza real.
+                Encontramos o valor onde a maioria não olha. Nosso sistema filtra centenas de ativos
+                diariamente em busca da relação risco/retorno perfeita, combinando momentum de curto 
+                prazo com fundamentos sólidos.
               </p>
               <p style={{ color: 'var(--text2)', fontSize: 16, lineHeight: 1.75, marginTop: 14 }}>
-                E os espinhos no centro — quem morde sem cuidado se machuca. Por isso todo mapa sai
-                com <strong style={{ color: 'var(--text)' }}>stop definido antes da entrada</strong>, e
-                todo acerto <em>e todo erro</em> fica registrado em público.
+                Acreditamos na proteção de capital primária. Por isso, todo relatório do radar sai
+                com <strong style={{ color: 'var(--text)' }}>stop loss parametrizado antes da entrada</strong>, 
+                protegendo seu patrimônio em cenários adversos de liquidez e volatilidade.
               </p>
             </div>
           </div>
         </Revela>
       </section>
 
-      <div style={{ maxWidth: 1100, margin: '0 auto 3rem', padding: '0 1rem' }}><Costura /></div>
+      {/* QUEBRA DE SESSÃO GIGANTE - FLOR DO PEQUI */}
+      <section style={{ height: 280, position: 'relative', overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        <model-viewer
+          src="/flor%20pequi.glb"
+          auto-rotate
+          rotation-per-second="2deg"
+          disable-zoom
+          interaction-prompt="none"
+          style={{ width: '100%', height: '800px', opacity: 0.12, pointerEvents: 'none', transform: 'scale(1.5)', '--poster-color': 'transparent' } as React.CSSProperties}
+        ></model-viewer>
+      </section>
 
       {/* ── OS TRÊS PILARES ── */}
       <section style={{ maxWidth: 1100, margin: '0 auto', padding: '0 1rem 5rem' }}>
         <div className="cm-3col">
           {[
-            { emoji: '🪨', cor: '#8a9bbf', titulo: 'A casca', texto: 'Dados brutos da B3 — técnica, fundamentos, macro e milhares de notícias — descascados em leitura clara.' },
-            { emoji: '✨', cor: '#f0b429', titulo: 'O ouro', texto: 'As assimetrias e as gemas fora do radar institucional, ranqueadas por um comitê que debate cada tese.' },
-            { emoji: '🌵', cor: '#e53555', titulo: 'Os espinhos', texto: 'Risco de liquidez, governança duvidosa e armadilhas técnicas — sinalizados antes de você entrar.' },
+            { emoji: '📊', cor: '#8a9bbf', titulo: 'O Algoritmo', texto: 'Processamento quantitativo bruto da B3: fluxo financeiro, indicadores técnicos, múltiplos fundamentalistas e análise macro.' },
+            { emoji: '♟️', cor: '#f0b429', titulo: 'A Mesa', texto: 'Nossa ferramenta de curadoria refinada onde a inteligência humana cruza as teses quantitativas (Nem toda ação passa por ela).' },
+            { emoji: '🛡️', cor: '#e53555', titulo: 'A Defesa', texto: 'Controle sistemático de risco. Alvos precisos, dimensionamento adequado e pontos de stop irredutíveis para blindar capital.' },
           ].map((c, i) => (
             <Revela key={c.titulo} delay={i * 120}>
-              <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderTop: `3px solid ${c.cor}`, borderRadius: 12, padding: '1.6rem', height: '100%' }}>
+              <div style={{ background: 'rgba(15,21,32,0.65)', backdropFilter: 'blur(10px)', border: '1px solid rgba(28,37,56,0.6)', borderTop: `3px solid ${c.cor}`, borderRadius: 12, padding: '1.6rem', height: '100%' }}>
                 <div style={{ fontSize: 26 }}>{c.emoji}</div>
                 <div className="cm-display" style={{ fontSize: 20, fontWeight: 800, color: 'var(--text)', margin: '10px 0 10px' }}>{c.titulo}</div>
                 <p style={{ color: 'var(--text2)', fontSize: 14, lineHeight: 1.65, margin: 0 }}>{c.texto}</p>
@@ -222,25 +266,25 @@ export default function Landing() {
       </section>
 
       {/* ── O RADAR NUNCA PARA (canvas) ── */}
-      <section style={{ borderTop: '1px solid var(--border)', background: 'radial-gradient(ellipse at 50% 0%, rgba(212,146,10,0.06), transparent 60%)' }}>
+      <section style={{ borderTop: '1px solid rgba(28,37,56,0.5)', background: 'radial-gradient(ellipse at 50% 0%, rgba(212,146,10,0.08), transparent 70%)' }}>
         <div style={{ maxWidth: 1100, margin: '0 auto', padding: '4.5rem 1rem', display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center' }}>
           <Revela>
             <div style={{ fontSize: 11, color: 'var(--muted)', letterSpacing: '0.15em', fontWeight: 700, textTransform: 'uppercase', marginBottom: 8, fontFamily: 'var(--mono)' }}>
-              O ciclo de um dia de pregão
+              O fluxo de um dia de pregão
             </div>
             <h2 className="cm-display" style={{ fontSize: 'clamp(24px, 4vw, 36px)', fontWeight: 800, color: 'var(--text)', margin: '0 0 32px' }}>
-              O radar gira. As gemas acendem.
+              O radar opera. As oportunidades se revelam.
             </h2>
           </Revela>
           <RadarPequi />
           <div className="cm-3col" style={{ marginTop: 40, width: '100%' }}>
             {[
-              { hora: '08:30', cor: '#5b9bff', titulo: 'Antes da abertura', texto: 'Varremos as 138 ações mais líquidas: RSI, médias, MACD, Bollinger, volume — com o macro e as notícias da madrugada na conta.' },
-              { hora: '13:00', cor: '#f0b429', titulo: 'Segunda passada', texto: 'Com o pregão andando, o radar gira de novo. O que rompeu, o que confirmou e o que falhou aparece — semáforo do dia atualizado.' },
-              { hora: 'Sempre', cor: '#00a63c', titulo: 'Tudo registrado', texto: 'Cada sugestão vira operação rastreada até bater stop ou alvo. A taxa de acerto do backtest inclui todas — sem esconder perdas.' },
+              { hora: '08:30', cor: '#5b9bff', titulo: 'Morning Call Analítico', texto: 'Varredura das 138 ações mais líquidas. O sistema processa RSI, médias, MACD, bandas de volatilidade cruzando com a agenda macro do dia.' },
+              { hora: '13:00', cor: '#f0b429', titulo: 'Revisão Intraday', texto: 'Com o pregão em andamento, o radar audita rompimentos de preço e volume. O status de cada papel é atualizado ao vivo.' },
+              { hora: 'Contínuo', cor: '#00a63c', titulo: 'Rastreabilidade Total', texto: 'Cada sinal de entrada se torna uma operação rastreável até atingir stop loss ou take profit. O backtesting de transparência inclui todas as saídas.' },
             ].map((c, i) => (
               <Revela key={c.hora} delay={i * 120}>
-                <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderTop: `3px solid ${c.cor}`, borderRadius: 12, padding: '1.4rem', height: '100%', textAlign: 'left' }}>
+                <div style={{ background: 'rgba(15,21,32,0.65)', backdropFilter: 'blur(10px)', border: '1px solid rgba(28,37,56,0.6)', borderTop: `3px solid ${c.cor}`, borderRadius: 12, padding: '1.4rem', height: '100%', textAlign: 'left' }}>
                   <div style={{ fontFamily: 'var(--mono)', fontSize: 13, color: c.cor, fontWeight: 700 }}>{c.hora}</div>
                   <div className="cm-display" style={{ fontSize: 18, fontWeight: 800, color: 'var(--text)', margin: '8px 0 10px' }}>{c.titulo}</div>
                   <p style={{ color: 'var(--text2)', fontSize: 13.5, lineHeight: 1.6, margin: 0 }}>{c.texto}</p>
@@ -251,42 +295,33 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* ── CTA FINAL — galho recortado emoldurando ── */}
-      <section style={{ position: 'relative', borderTop: '1px solid var(--border)', overflow: 'hidden' }}>
-        {/* galho sem fundo: emoldura o canto superior, com parallax lento */}
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/galho-pequi.png" alt="" aria-hidden="true" className="galho-esq" style={{
-          position: 'absolute', top: -30, left: -70, width: 460, opacity: 0.5,
-          transform: 'scaleX(-1)', pointerEvents: 'none',
-          filter: 'drop-shadow(0 12px 30px rgba(0,0,0,0.6))',
-        }} />
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/galho-pequi.png" alt="" aria-hidden="true" className="galho-dir" style={{
-          position: 'absolute', top: -50, right: -90, width: 380, opacity: 0.32,
-          pointerEvents: 'none', filter: 'drop-shadow(0 12px 30px rgba(0,0,0,0.6))',
-        }} />
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(10,14,20,0.55) 0%, rgba(10,14,20,0.92) 70%)' }} />
-        <style>{`
-          @media (max-width: 760px){
-            .galho-esq { width: 240px !important; opacity: .3 !important; left: -80px !important; }
-            .galho-dir { display: none; }
-          }
-        `}</style>
+      {/* ── CTA FINAL ── */}
+      <section style={{ position: 'relative', borderTop: '1px solid rgba(28,37,56,0.5)', overflow: 'hidden' }}>
+        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(10,14,20,0.25) 0%, rgba(10,14,20,0.85) 80%)', pointerEvents: 'none' }} />
         <div style={{ position: 'relative', maxWidth: 1100, margin: '0 auto', padding: '6rem 1rem', textAlign: 'center' }}>
           <Revela>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/icone-pequi.png" alt="" width={64} height={64} style={{ objectFit: 'contain', filter: 'drop-shadow(0 0 16px rgba(240,180,41,0.5))', marginBottom: 20 }} />
+            <div style={{ width: 64, height: 64, overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '50%', margin: '0 auto 20px', filter: 'drop-shadow(0 0 16px rgba(240,180,41,0.5))' }}>
+              <model-viewer 
+                src="/Meshy_AI_Golden_Geometric_Embl_0722051208_texture.glb" 
+                auto-rotate 
+                rotation-per-second="10deg" 
+                disable-zoom 
+                interaction-prompt="none"
+                camera-orbit="0deg 90deg 100%"
+                style={{ width: '90px', height: '90px', pointerEvents: 'none', transform: 'scale(1.3) translateY(-4px)', '--poster-color': 'transparent' } as React.CSSProperties} 
+              ></model-viewer>
+            </div>
             <h2 className="cm-display" style={{ fontSize: 'clamp(28px, 5vw, 46px)', fontWeight: 900, color: 'var(--text)', margin: 0, lineHeight: 1.05 }}>
-              O pregão de hoje<br/>já foi descascado.
+              O pregão de hoje<br/>já está no radar.
             </h2>
             <p style={{ color: 'var(--text2)', fontSize: 16, marginTop: 16 }}>
-              Mapa da manhã e da tarde, 10 sugestões ranqueadas e o semáforo do dia.
+              Relatórios diários quantitativos, recomendações e gerenciamento de risco em um único terminal.
             </p>
             <div style={{ marginTop: 30 }}>
-              <Link href="/painel" className="cm-cta">Entrar no Caryo Map →</Link>
+              <Link href="/login" className="cm-cta">Acessar a Plataforma →</Link>
             </div>
             <p style={{ color: 'var(--muted)', fontSize: 12, marginTop: 26 }}>
-              Ferramenta educacional de análise · Não é recomendação de investimento
+              Ferramenta educacional quantitativa · Não configura recomendação de investimento
             </p>
           </Revela>
         </div>

@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Nav from '@/components/Nav'
 import TickerLink from '@/components/TickerLink'
 import FontesDados from '@/components/FontesDados'
+import AcoesInterativas from '@/components/AcoesInterativas'
 
 function getRelatorio(slug: string) {
   const filePath = path.join(process.cwd(), 'relatorios', `${slug}.json`)
@@ -125,7 +126,7 @@ export default async function RelatorioPage({ params }: { params: Promise<{ slug
       {comprar.length > 0 && (
         <section style={{ marginBottom: '1.75rem' }}>
           <SectionTitle color="#34d17e">Comprar ({comprar.length})</SectionTitle>
-          <AtivoGrid ativos={comprar} corAcao={corAcao} corScore={corScore} />
+          <AcoesInterativas ativos={comprar} />
         </section>
       )}
 
@@ -133,7 +134,7 @@ export default async function RelatorioPage({ params }: { params: Promise<{ slug
       {observar.length > 0 && (
         <section style={{ marginBottom: '1.75rem' }}>
           <SectionTitle color="#f0b429">Observar ({observar.length})</SectionTitle>
-          <AtivoGrid ativos={observar} corAcao={corAcao} corScore={corScore} />
+          <AcoesInterativas ativos={observar} />
         </section>
       )}
 
@@ -141,7 +142,7 @@ export default async function RelatorioPage({ params }: { params: Promise<{ slug
       {evitar.length > 0 && (
         <section style={{ marginBottom: '1.75rem' }}>
           <SectionTitle color="#e53555">Evitar ({evitar.length})</SectionTitle>
-          <AtivoGrid ativos={evitar} corAcao={corAcao} corScore={corScore} />
+          <AcoesInterativas ativos={evitar} />
         </section>
       )}
 
@@ -206,53 +207,3 @@ function SectionTitle({ children, color = '#4d5f7a' }: { children: React.ReactNo
   )
 }
 
-function AtivoGrid({ ativos, corAcao, corScore }: { ativos: any[]; corAcao: (a: string) => any; corScore: (s: number) => string }) {
-  return (
-    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '0.75rem' }}>
-      {ativos.map((c: any) => {
-        const ac = corAcao(c.acao)
-        const rr = c.alvo && c.entrada && c.stop
-          ? ((parseFloat(c.alvo) - parseFloat(c.entrada)) / (parseFloat(c.entrada) - parseFloat(c.stop))).toFixed(1)
-          : null
-        return (
-          <div key={c.ticker} style={{ background: '#0f1520', border: `1px solid #1c2538`, borderLeft: `3px solid ${ac.borda}`, borderRadius: 10, padding: '1.1rem' }}>
-            {/* Topo */}
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 10 }}>
-              <div>
-                <div style={{ fontSize: '1.15rem', fontWeight: 800, color: '#e8edf5' }}>
-                  <TickerLink ticker={c.ticker} style={{ fontSize: '1.15rem', fontWeight: 800 }} />
-                </div>
-                <div style={{ color: '#4d5f7a', fontSize: '0.75rem', marginTop: 1 }}>{c.nome || c.ticker}</div>
-              </div>
-              <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
-                <span style={{ color: corScore(c.score), fontWeight: 800, fontSize: '0.9rem' }}>{c.score}pts</span>
-                <span style={{ color: ac.cor, background: ac.bg, border: `1px solid ${ac.borda}40`, borderRadius: 5, padding: '2px 8px', fontSize: '0.72rem', fontWeight: 700 }}>{c.acao}</span>
-              </div>
-            </div>
-
-            {/* Métricas */}
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 6, marginBottom: 10 }}>
-              {[
-                { l: 'Entrada', v: c.entrada ? `R$ ${c.entrada}` : `R$ ${c.preco}`, c: '#34d17e' },
-                { l: 'Stop',    v: c.stop ? `R$ ${c.stop}` : '—', c: '#e53555' },
-                { l: 'Alvo',    v: c.alvo ? `R$ ${c.alvo}` : '—', c: '#34d17e' },
-                { l: 'RSI',     v: c.rsi ?? '—', c: '#e8edf5' },
-                { l: 'P/L',     v: c.pl ?? '—', c: '#e8edf5' },
-                { l: 'R:R',     v: rr ? `1:${rr}` : '—', c: rr && parseFloat(rr) >= 2 ? '#34d17e' : '#4d5f7a' },
-              ].map(m => (
-                <div key={m.l} style={{ background: '#0a0e14', borderRadius: 6, padding: '0.45rem 0.55rem' }}>
-                  <div style={{ fontSize: '0.62rem', color: '#4d5f7a', textTransform: 'uppercase', letterSpacing: '0.06em' }}>{m.l}</div>
-                  <div style={{ color: m.c, fontWeight: 700, fontSize: '0.85rem', marginTop: 2 }}>{m.v}</div>
-                </div>
-              ))}
-            </div>
-
-            {/* Tese */}
-            {c.tese && <p style={{ color: '#8a9bbf', fontSize: '0.8rem', lineHeight: 1.55, borderTop: '1px solid #1c2538', paddingTop: 8, margin: 0 }}>{c.tese}</p>}
-            {c.risco && <p style={{ color: '#e5758a', fontSize: '0.75rem', marginTop: 5, display: 'flex', gap: '0.3rem', alignItems: 'flex-start' }}><span>⚠</span>{c.risco}</p>}
-          </div>
-        )
-      })}
-    </div>
-  )
-}
