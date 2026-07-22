@@ -1,68 +1,24 @@
 {
-  "coletado_em": "22/07/2026 03:41",
-  "total": 30,
-  "urgentes": 2,
+  "coletado_em": "22/07/2026 13:19",
+  "total": 26,
+  "urgentes": 0,
   "destaque": {
-    "titulo": "Tarifaço: por que o Brasil evita uma retaliação imediata — e como pode responder aos EUA",
-    "descricao": "Ordem de Lula é evitar reação que dê munição a Trump e Flávio Bolsonaro na crise das tarifas A tarifa adicional de 25% dos Estados Unidos sobre parte dos produtos brasileiros exportados ao país entra em vigor nesta quarta-feira (22) sem que o governo do presidente Luiz Inácio Lula da Silva (PT) tenha, até agora, adotado uma retaliação prática à medida. Após a gestão de Donald Trump confirmar a tax",
-    "link": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-por-que-o-brasil-evita-uma-retaliacao-imediata-e-como-pode-responder-aos-eua.ghtml",
-    "fonte": "G1 Política",
-    "categoria": "Política",
-    "cor": "#d4a017",
-    "urgencia": "alta",
-    "score_relevancia": 1,
-    "pub_date": "Wed, 22 Jul 2026 03:00:15 -0000",
+    "titulo": "Dólar cai para R$ 5,07, menor nível em um mês; bolsa fica estável",
+    "descricao": "O dólar voltou a cair nesta terça-feira (21) e fechou no menor nível desde 15 de junho, com influência dos juros altos no Brasil e da alta internacional do petróleo. A bolsa de valores encerrou praticamente estável, mas acumulou a quinta queda seguida. Impulsionado pelas tensões no Oriente Médio , o petróleo avançou pela terceira sessão consecutiva. O avanço da commodity favoreceu moedas de países",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-507-menor-nivel-em-um-mes-bolsa-fica-estavel",
+    "fonte": "Agência Brasil",
+    "categoria": "Política Econômica",
+    "cor": "#009c3b",
+    "urgencia": "media",
+    "score_relevancia": 4,
+    "pub_date": "Tue, 21 Jul 2026 19:24:00 -0300",
     "setores": [
-      "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-      "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
-    {
-      "titulo": "Tarifaço: por que o Brasil evita uma retaliação imediata — e como pode responder aos EUA",
-      "descricao": "Ordem de Lula é evitar reação que dê munição a Trump e Flávio Bolsonaro na crise das tarifas A tarifa adicional de 25% dos Estados Unidos sobre parte dos produtos brasileiros exportados ao país entra em vigor nesta quarta-feira (22) sem que o governo do presidente Luiz Inácio Lula da Silva (PT) tenha, até agora, adotado uma retaliação prática à medida. Após a gestão de Donald Trump confirmar a tax",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-por-que-o-brasil-evita-uma-retaliacao-imediata-e-como-pode-responder-aos-eua.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "alta",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 22 Jul 2026 03:00:15 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "'Robô cambista', design manipulativo e vendedores não rastreáveis: governo fiscaliza sites de venda e revenda de ingressos",
-      "descricao": "O Ministério da Justiça e Segurança Pública abriu um processo administrativo sancionador contra a empresa de revenda de ingressos Viagogo Internacional (veja mais detalhes). Segundo o secretário nacional do Consumidor, Ricardo Morishita, a Ticketmaster também é monitorada. 🤖 Na Ticketmaster, o secretário afirmou ainda que a pasta verificou o uso de robôs que funcionam como cambistas para furar fil",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/21/robo-cambista-design-manipulativo-e-vendedores-nao-rastreaveis-governo-fiscaliza-sites-de-venda-e-revenda-de-ingressos.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "alta",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 20:23:20 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Dólar cai para R$ 5,08, e bolsa recua pela quarta vez consecutiva",
-      "descricao": "O dólar voltou a cair e fechou abaixo de R$ 5,09, com o real favorecido pelos juros altos e pela valorização do petróleo. A bolsa de valores registrou a quarta queda seguida, pressionada por perdas de mineradoras. No início do dia, o mercado reagiu a sinais de uma possível redução das tensões no Oriente Médio, mas novas declarações do presidente americano, Donald Trump, mantiveram a cautela dos in",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-508-e-bolsa-recua-pela-quarta-vez-consecutiva",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Mon, 20 Jul 2026 19:53:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Câmbio / Exportadores"
-      ]
-    },
     {
       "titulo": "Dólar cai para R$ 5,07, menor nível em um mês; bolsa fica estável",
       "descricao": "O dólar voltou a cair nesta terça-feira (21) e fechou no menor nível desde 15 de junho, com influência dos juros altos no Brasil e da alta internacional do petróleo. A bolsa de valores encerrou praticamente estável, mas acumulou a quinta queda seguida. Impulsionado pelas tensões no Oriente Médio , o petróleo avançou pela terceira sessão consecutiva. O avanço da commodity favoreceu moedas de países",
@@ -80,32 +36,19 @@
       ]
     },
     {
-      "titulo": "Em reunião com diplomatas, Flávio Bolsonaro ataca urnas eletrônicas com acusações já desmentidas pelo TSE",
-      "descricao": "Flávio Bolsonaro ataca urnas eletrônicas com acusações já desmentidas pelo TSE O senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência da República, atacou nesta terça-feira (21) as urnas eletrônicas com acusações já desmentidas pelo Tribunal Superior Eleitoral (TSE). Em reunião com diplomatas, o filho do ex-presidente Jair Bolsonaro (PL) disse que as urnas eletrônicas brasileiras têm a me",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/21/em-reuniao-com-diplomatas-flavio-bolsonaro-ataca-urnas-eletronicas-com-acusacoes-ja-desmentidas-pelo-tse.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Petrobras: BB Investimentos aposta em petróleo mais caro e eleva ações para compra",
+      "descricao": "Banco cita a persistência do risco geopolítico e a criação de um patamar mais elevado para os preços da commodity The post Petrobras: BB Investimentos aposta em petróleo mais caro e eleva ações para compra appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-bb-investimentos-aposta-em-petroleo-mais-caro-e-eleva-acoes-para-compra/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 21 Jul 2026 23:04:54 -0000",
+      "pub_date": "Wed, 22 Jul 2026 15:46:55 +0000",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Plano de governo de Renan Santos propõe 'desfavelização', guerra ao crime organizado, fusão de municípios e fim do Bolsa Família",
-      "descricao": "Pré-candidato do Missão à Presidência da República, Renan Santos Reprodução O pré-candidato à Presidência da República Renan Santos (Missão) apresentou nesta terça-feira (21) o seu plano de governo para as eleições de 2026. Sob o título \"O futuro é glorioso\", o documento reúne propostas inspiradas no governo de Nayib Bukele, presidente de El Salvador, como a construção de presídios de segurança má",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/21/plano-de-governo-de-renan-santos-propoe-desfavelizacao-guerra-ao-crime-organizado-fusao-de-municipios-fim-do-bolsa-familia.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 21 Jul 2026 21:31:53 -0000",
-      "setores": [
-        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)",
-        "Todos os ativos"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -123,174 +66,173 @@
       ]
     },
     {
-      "titulo": "Flávio tem dificuldade para fechar chapa e busca vice do Republicanos ou União-PP, mas partidos sinalizam independência",
-      "descricao": "Ainda sem definição de quem disputará o cargo de vice-presidente na chapa do senador Flávio Bolsonaro (PL-RJ), o PL tenta uma articulação para atrair o apoio de Republicanos e a federação União-PP em nível nacional. Contudo, os partidos têm sinalizado que adotarão neutralidade e deixarão os diretórios estaduais livres para apoiarem o candidato que preferirem na disputa presidencial. A falta de def",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/22/flavio-tem-dificuldade-para-fechar-chapa-e-busca-vice-do-republicanos-ou-uniao-pp-mas-partidos-sinalizam-independencia.ghtml",
+      "titulo": "Reforma tributária: governo adia para janeiro obrigação de pessoa física e produtor rural ter 'CNPJ técnico' e emitir nota fiscal",
+      "descricao": "Um decreto presidencial publicado no \"Diário Oficial da União\" (DOU) desta quarta-feira (22) adia para janeiro de 2027 a obrigatoriedade das pessoas físicas, e dos produtores rurais, terem o chamado \"CNPJ técnico\" e, também, de emitirem a nota fiscal do novo imposto sobre o consumo — no âmbito da reforma tributária. O \"CNPJ técnico\" é uma inscrição cadastral vinculada ao CPF de pessoas físicas que",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/22/reforma-tributaria-governo-adia-para-janeiro-obrigacao-de-pessoa-fisica-e-produtor-rural-ter-cnpj-tecnico-e-emitir-nota-fiscal.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 22 Jul 2026 03:00:34 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Ex-ministra de Jair Bolsonaro recusa ser candidata a vice-presidente de Flávio Bolsonaro",
-      "descricao": "A senadora Tereza Cristina (PP-MS) negou o convite para ser candidata a vice-presidente na chapa do senador Flávio Bolsonaro (PL-RJ). A informação é do presidente do PL, Valdemar Costa Neto. O pré-candidato do PL busca uma candidata a vice num dos partidos do Centrão como União Brasil, Progressista ou Republicanos, mas até agora não teve sucesso. Tereza e Valdemar se reuniram nesta terça-feira (21",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/21/ex-ministra-de-jair-bolsonaro-recusa-ser-candidata-a-vice-presidente-de-flavio-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 21:10:54 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Itamaraty emite alerta e desaconselha viagens para Israel, Catar, Emirados Árabes e outros países",
-      "descricao": "Grupo rebelde aliado do Irã fecha a segunda maior rota de petróleo da região O Ministério das Relações Exteriores atualizou nesta terça-feira (21) o alerta consular para brasileiros que estão no Oriente Médio ou pretendem viajar para a região. O governo recomenda não viajar para países e áreas afetados diretamente por conflitos e orienta evitar viagens não essenciais a outros destinos. Segundo o I",
-      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/07/21/itamaraty-emite-alerta-e-desaconselha-viagens-para-israel-catar-emirados-arabes-e-outros-paises.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 19:33:59 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "Tarifaço deve ter efeito limitado na balança comercial brasileira",
-      "descricao": "O tarifaço imposto pelos Estados Unidos sobre produtos brasileiros deve provocar efeitos limitados sobre a balança comercial do Brasil. No entanto, setores da indústria sentirão o impacto, embora as medidas do governo Donald Trump afetem apenas 18% das exportações nacionais para o mercado estadunidense. Segundo especialistas ouvidos pela Agência Brasil , as áreas que sofrerão mais com perdas de co",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/tarifaco-deve-ter-efeito-limitado-na-balanca-comercial-brasileira",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 20 Jul 2026 17:59:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Economia cresce 0,7% em maio, puxada por consumo das famílias, diz FGV",
-      "descricao": "A economia brasileira cresceu 0,7% na passagem de abril para maio. No trimestre móvel terminado em maio, a alta é de 1,9% na comparação com o mesmo período de 2025. Com esse desempenho, a variação positiva acumulada no período de 12 meses fica em 1,7%. Os dados fazem parte do Monitor do PIB , estudo mensal elaborado pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas (FGV), div",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/economia-cresce-07-em-maio-puxada-por-consumo-das-familias-diz-fgv",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 20 Jul 2026 11:28:00 -0300",
+      "pub_date": "Wed, 22 Jul 2026 14:09:57 -0000",
       "setores": [
         "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
-      "titulo": "Bolsa caminha para julho com menor liquidez desde a pandemia",
-      "descricao": "Dados da B3 analisados pela Elos Ayta apontam ritmo de negociação reduzido, com influência de fatores sazonais e menor participação dos investidores",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465134-bolsa-caminha-para-julho-com-menor-liquidez-desde-a-pandemia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "VÍDEO: presidente da Câmara de Vitória xinga no microfone ao encerrar sessão: 'Quero que se f***, que meu p** cresça'",
+      "descricao": "Presidente da Câmara de Vitória xinga ao encerrar sessão: \"Quero que se f****\" O encerramento da sessão ordinária na Câmara Municipal de Vitória (CMV), realizada na noite desta terça-feira (21), chamou atenção de quem acompanhava os trabalhos dos parlamentares. Após declarar o fim dos trabalhos, o presidente da Casa, o vereador Anderson Goggi (Progressista), proferiu xingamentos e ofensas com o mi",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/22/video-presidente-da-camara-de-vitoria-xinga-no-microfone-ao-encerrar-sessao-quero-de-se-f.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 21 Jul 2026 11:12:00 -0300",
+      "pub_date": "Wed, 22 Jul 2026 13:39:08 -0000",
       "setores": [
-        "Todos os ativos"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Ataques EUA-Irã seguem e Teerã promete retaliar bombardeios a instalações nucleares",
-      "descricao": "Este é o décimo dia consecutivo de agressões entre EUA e Irã após fim do cessar-fogo The post Ataques EUA-Irã seguem e Teerã promete retaliar bombardeios a instalações nucleares appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/ataques-eua-ira-seguem-e-teera-promete-retaliar-bombardeios-a-instalacoes-nucleares/",
+      "titulo": "Ministros do STF classificam como 'graves' e 'absurdas' declarações de Flávio Bolsonaro sobre urnas eletrônicas",
+      "descricao": "Ministros do STF classificam como 'graves' e 'absurdas' declarações de Flávio Bolsonaro sobre urnas eletrônicas As declarações do pré-candidato do PL à Presidência, Flávio Bolsonaro, sobre urnas eletrônicas foram criticadas por ministros do Supremo Tribunal Federal (STF) ouvidos pelo blog. Eles classificaram as falas do senador do PL de \"graves\" e \"absurdas\" ao levantar suspeitas de que as urnas e",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/22/ministros-do-stf-classificam-como-graves-e-absurdas-declaracoes-de-flavio-bolsonaro-sobre-urnas-eletronicas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 22 Jul 2026 13:02:05 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Tarifaço de 25% dos EUA sobre o Brasil começa a valer; saiba mais",
+      "descricao": "Começou a vigorar nesta quarta-feira (22) a tarifa adicional de 25% aplicada pelo governo de Donald Trump sobre produtos brasileiros. O tarifaço atinge cerca de 20% das exportações do Brasil para os Estados Unidos. A estimativa do valor total das exportações afetadas varia entre US$ 7,2 bilhões e US$ 11 bilhões, segundo cálculos da Agência Brasileira de Promoção das Exportações e Investimentos (Ap",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/tarifaco-de-25-dos-eua-sobre-o-brasil-comeca-valer-nesta-quarta",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 22 Jul 2026 12:00:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Copa impulsiona varejo, que cresce 6%, com avanço do Pix e compras presenciais",
+      "descricao": "Comércio físico foi o maior beneficiado, com crescimento de 4%, indicando a preferência dos brasileiros pelos encontros presenciais, conforme levantamento feito pela Getnet The post Copa impulsiona varejo, que cresce 6%, com avanço do Pix e compras presenciais appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/consumo/copa-impulsiona-varejo-que-cresce-6-com-avanco-do-pix-e-compras-presenciais/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 22 Jul 2026 01:16:00 +0000",
+      "pub_date": "Wed, 22 Jul 2026 15:34:48 +0000",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Renan Santos: o outsider candidato à Presidência - O Assunto #1766",
-      "descricao": "Na segunda-feira (20), Renan Santos foi oficializado como candidato à Presidência da República pelo Missão, partido que nasceu a partir do MBL (Movimento Brasil Livre) e que recebeu a chancela do TSE apenas em novembro de 2025. Ele foi um dos fundadores do MBL em 2014 e liderou o movimento em seus momentos mais emblemáticos: nas convocações para defender o impeachment de Dilma Rousseff, em 2016, n",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/22/renan-santos-o-outsider-candidato-a-presidencia-o-assunto-1766.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 22 Jul 2026 05:20:42 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Tarifaço de Trump: governo ainda estuda como reagir à taxação que começa nesta quarta",
-      "descricao": "Governo se reúne com setores para avaliar impacto da nova tarifa dos EUA O governo federal ainda avalia quais medidas adotará em resposta às novas tarifas anunciadas pelos Estados Unidos sobre produtos brasileiros, que começam a valer nesta quarta-feira (22). A decisão foi confirmada pelo governo americano na semana passada. ➡️ A tarifa de 25% sobre produtos brasileiros é resultado de uma investig",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-de-trump-governo-ainda-estuda-como-reagir-a-taxacao-que-comeca-nesta-quarta.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 22 Jul 2026 03:00:31 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Tarifaço dos EUA: taxa adicional de 25% passa a valer nesta quarta; veja perguntas e respostas",
-      "descricao": "Ana Flor: Pacote de apoio contra tarifaço terá cobrança por emprego A tarifa adicional de 25% dos Estados Unidos sobre parte dos produtos brasileiros exportados ao país entra em vigor nesta quarta-feira (22). A medida foi anunciada após uma investigação do governo Donald Trump concluir que o Brasil adota práticas que \"oneram ou restringem\" o comércio com os EUA. Entre os exemplos citados estão o s",
-      "link": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-dos-eua-taxa-adicional-de-25percent-passa-a-valer-nesta-quarta-veja-perguntas-e-respostas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 22 Jul 2026 03:00:11 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
-      "titulo": "Brasil melhora indicadores sobre segurança alimentar e segue fora do Mapa da Fome, aponta ONU",
-      "descricao": "Relatório divulgado nesta terça-feira (21) pela Organização das Nações Unidas aponta que o Brasil melhorou indicadores sobre segurança alimentar e permanece fora do Mapa da Fome pelo segundo ano seguido. O documento também aponta que o país atingiu o menor nível já registrado de pessoas com insegurança alimentar severa, chegando a 0,6%. Segundo o relatório, 16,7 milhões de pessoas deixaram a condi",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/21/brasil-melhora-indicadores-sobre-seguranca-alimentar-e-segue-fora-do-mapa-da-fome-aponta-onu.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "PT acusa Flávio de repetir cultura golpista e pode judicializar críticas às urnas",
+      "descricao": "Edinho Silva afirma que senador reproduz estratégia usada por Jair Bolsonaro em 2022 ao questionar o sistema eleitoral diante de diplomatas The post PT acusa Flávio de repetir cultura golpista e pode judicializar críticas às urnas appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/pt-acusa-flavio-de-repetir-cultura-golpista-e-pode-judicializar-criticas-as-urnas/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 21:00:15 -0000",
+      "pub_date": "Wed, 22 Jul 2026 15:29:26 +0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Crítica de Eduardo desagrada aliados de Michelle e amplia distância com Flávio",
+      "descricao": "Filho do ex-presidente disse que a madrasta foi ‘imatura’ ao expor publicamente o conflito familiar The post Crítica de Eduardo desagrada aliados de Michelle e amplia distância com Flávio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/critica-de-eduardo-desagrada-aliados-de-michelle-e-amplia-distancia-com-flavio/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 15:26:01 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Presidente do STJ marca para 6 de agosto julgamento do ministro Buzzi, acusado de assédio sexual",
-      "descricao": "O presidente do Superior Tribunal de Justiça (STJ), ministro Herman Benjamin, agendou para o dia 6 de agosto, a partir das 9h, o julgamento do ministro afastado da Corte Marco Buzzi, acusado de crimes sexuais. A sessão será fechada ao público e ocorrerá de forma presencial no plenário do STJ. No comunicado de convocação, Benjamin afirma que a sessão será \"destinada a tratar de assuntos de interess",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/21/presidente-do-stj-marca-para-6-de-agosto-julgamento-do-ministro-marco-buzzi-acusado-de-assedio-sexual.ghtml",
+      "titulo": "PL vê inelegibilidade de Eduardo como irreversível, mas mantém suplência ao Senado",
+      "descricao": "Ex-deputado que está nos Estados Unidos foi condenado a 4 anos e 2 meses de prisão pelo crime de coação no curso do processo The post PL vê inelegibilidade de Eduardo como irreversível, mas mantém suplência ao Senado appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/pl-ve-inelegibilidade-de-eduardo-como-irreversivel-mas-mantem-suplencia-ao-senado/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 15:22:15 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula decreta luto oficial de três dias pela morte do cineasta Luiz Carlos Barreto",
+      "descricao": "Relembre a trajetória do cineasta Luiz Carlos Barreto, que morreu aos 98 anos O presidente Luiz Inácio Lula da Silva (PT) decretou luto oficial de três dias pela morte do produtor e cineasta Luiz Carlos Barreto, o Barretão, que morreu nesta quarta-feira (22), aos 98 anos. Considerado um dos principais nomes da história do cinema brasileiro, Barreto participou de mais de 100 obras como diretor ou p",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/22/lula-decreta-luto-oficial-de-tres-dias-pela-morte-do-cineasta-luiz-carlos-barreto.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 19:54:36 -0000",
+      "pub_date": "Wed, 22 Jul 2026 15:38:47 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "CEO italiano da Stellantis brinca após microfone falhar em reunião com Lula: 'Deve ser de origem asiática a bateria'",
+      "descricao": "O CEO global da Stellantis, o executivo italiano Antonio Filosa, fez nesta quarta-feira (22) uma brincadeira após o microfone que utilizava falhar durante uma reunião com o presidente Luiz Inácio Lula da Silva (PT), o vice Geraldo Alckmin, e ministros do governo no Palácio do Planalto. Filosa apresentava ao presidente Lula e aos demais integrantes do governo os investimentos que a multinacional do",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/22/ceo-italiano-da-stellantis-brinca-apos-microfone-falhar-em-reuniao-com-lula-bateria-deve-ser-asiatica.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 15:36:39 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Promessas dos Políticos: veja o que foi cumprido após 3 anos e meio de mandato pelos governadores e pelo presidente Lula",
+      "descricao": "Um levantamento publicado pelo g1 nesta quarta-feira (22) mostra quais promessas e compromissos de campanha assumidos pelo presidente Lula (PT) e pelos governadores eleitos em 2022 foram cumpridos após três anos e meio de mandato. O projeto Promessas dos Políticos, do g1, monitora o andamento e a entrega de propostas e projetos apresentados durante as campanhas eleitorais, em entrevistas e sabatin",
+      "link": "https://g1.globo.com/politica/promessas-dos-politicos/noticia/2026/07/22/promessas-dos-politicos-3-anos-e-meio.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 13:26:16 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Tarifa dos EUA terá efeito limitado sobre etanol brasileiro",
+      "descricao": "A tarifa adicional de 25% anunciada pelos Estados Unidos sobre o etanol brasileiro deve provocar impactos pontuais sobre empresas exportadoras, mas esse efeito tende a ser limitado sobre o conjunto da economia brasileira. Especialistas ouvidos pela Agência Brasil avaliam que a medida tem forte componente político e ocorre em um momento quando o mercado norte-americano responde por menos de 16% do ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/tarifa-dos-eua-tera-efeito-limitado-sobre-etanol-brasileiro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 12:37:00 -0300",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
       ]
     },
     {
@@ -334,6 +276,34 @@
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Tarifa de 25% dos EUA entra em vigor e afeta setores exportadores brasileiros",
+      "descricao": "Levantamento da Fiemg aponta que os 15 principais produtos atingidos movimentaram cerca de US$ 2,5 bilhões em exportações ao mercado norte-americano em 2025",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465939-tarifa-de-25-dos-eua-entra-em-vigor-e-afeta-setores-exportadores-brasileiros.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 11:57:07 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Especialistas defendem negociação e alertam sobre riscos de retaliação aos EUA",
+      "descricao": "Nova taxa de 25% sobre 3 mil produtos brasileiros passa a valer a partir de hoje. Para especialistas, no entanto, país precisa insistir na tentativa de reverter a sanção",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465700-especialistas-defendem-negociacao-e-alertam-sobre-riscos-de-retaliacao-aos-eua.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 22 Jul 2026 04:22:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     },
     {
@@ -422,38 +392,6 @@
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
         "Telecom (VIVT3, TIMS3)",
         "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "UE descarta flexibilizar regras para retomar importação de carne brasileira",
-      "descricao": "União Europeia mantém veto sanitário ao Brasil, enquanto esgotamento da cota de importação da China deve reduzir o ritmo das vendas no segundo semestre",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7465081-ue-descarta-flexibilizar-regras-para-retomar-importacao-de-carne-brasileira.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 10:10:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "EUA podem perder para o Brasil o papel de maior exportador agrícola do mundo, diz Financial Times",
-      "descricao": "China, um dos maiores compradores do mundo, reduziu importações dos americanos depois que Donald Trump impôs tarifas ao país, o que, segundo jornal, beneficiou o Brasil.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/07/7465019-eua-podem-perder-para-o-brasil-o-papel-de-maior-exportador-agricola-do-mundo-diz-financial-times.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 21 Jul 2026 08:30:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Telecom (VIVT3, TIMS3)"
       ]
     }
   ]
