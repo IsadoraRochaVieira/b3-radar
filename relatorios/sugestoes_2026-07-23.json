@@ -2,8 +2,8 @@
   "data": "23/07/2026",
   "data_iso": "2026-07-23",
   "dia_semana": "Quinta-feira",
-  "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 176.724 (-0.46%). Destaques: IRBR3, BLAU3, LWSA3. Semáforo: VERDE.",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 176.724 (-0.46%). Destaques: IRBR3, BLAU3, LWSA3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -28,7 +28,7 @@
       "alvo": "10.33",
       "rsi": 31.3,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 31.3 e score de 60 pontos. Entrada em R$ 8.98 com alvo R$ 10.33."
+      "porque": "RSI em 31.3 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 8.28 limita risco."
     },
     {
       "rank": 3,
