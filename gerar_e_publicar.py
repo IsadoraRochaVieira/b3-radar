@@ -302,8 +302,9 @@ if __name__ == "__main__":
     }
     salvar_json(dados_sugestoes, f"sugestoes_{hoje}.json")
 
-    # 6b. Comitê de IA debate as 3 principais sugestões do dia
-    top_tickers = [s["ticker"] for s in sugestoes[:3]]
+    # 6b. A Mesa debate as 5 principais sugestões do dia.
+    # A pré-seleção quantitativa limita o uso de tokens antes do debate completo.
+    top_tickers = [s["ticker"] for s in sugestoes[:5]]
     gerar_debates_comite(top_tickers)
 
     # 6b2. Fundamentos oficiais da CVM para as ações debatidas

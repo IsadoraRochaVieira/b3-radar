@@ -31,6 +31,13 @@ export default function MacroPage() {
   const ultimo = getUltimoRelatorio()
   const historico = getHistoricoMacro()
   const m = ultimo?.macro
+  const vix = Number(m?.vix ?? 20)
+  const ibovVar = Number(m?.ibovespa_var ?? 0)
+  const regime = vix >= 30 || ibovVar <= -3
+    ? { nome: 'Defensivo', cor: '#e53555', texto: 'Volatilidade elevada: reduza tamanho, exija confirmação e proteja caixa.' }
+    : vix >= 22 || Math.abs(ibovVar) >= 1.5
+      ? { nome: 'Seletivo', cor: '#f0b429', texto: 'Mercado irregular: priorize força relativa e catalisadores claros.' }
+      : { nome: 'Construtivo', cor: '#34d17e', texto: 'Ambiente estável: sinais confirmados encontram melhor continuidade.' }
 
   const cards = m ? [
     {
@@ -116,11 +123,21 @@ export default function MacroPage() {
       <Nav ativa="macro" />
 
       <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8edf5' }}>Painel Macro ao Vivo</h1>
+        <div style={{ fontSize: 10, color: 'var(--gold)', letterSpacing: '.16em', fontWeight: 700, textTransform: 'uppercase' }}>Leitura acionável</div>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8edf5', marginTop: 6 }}>Contexto de Mercado</h1>
         <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: '0.25rem' }}>
           {m?.atualizado_em ? `Atualizado em ${m.atualizado_em}` : 'Atualizado automaticamente toda manhã'}
         </p>
       </header>
+
+      <div style={{ background: `linear-gradient(135deg, ${regime.cor}18, #0f1520 65%)`, border: `1px solid ${regime.cor}55`, borderLeft: `4px solid ${regime.cor}`, borderRadius: 14, padding: '1.2rem 1.4rem', marginBottom: '1.5rem', display: 'flex', alignItems: 'center', gap: 18, flexWrap: 'wrap' }}>
+        <div style={{ flex: 1, minWidth: 240 }}>
+          <div style={{ color: '#4d5f7a', fontSize: 10, letterSpacing: '.12em', textTransform: 'uppercase' }}>Regime detectado</div>
+          <div style={{ color: regime.cor, fontSize: 24, fontWeight: 850, marginTop: 4 }}>{regime.nome}</div>
+          <p style={{ color: '#8a9bbf', fontSize: 13, lineHeight: 1.55, margin: '6px 0 0' }}>{regime.texto}</p>
+        </div>
+        <div style={{ color: '#8a9bbf', fontFamily: 'var(--mono)', fontSize: 12 }}>VIX {vix.toFixed(1)} · IBOV {ibovVar > 0 ? '+' : ''}{ibovVar.toFixed(2)}%</div>
+      </div>
 
       {/* Cards macro */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(160px, 1fr))', gap: '0.75rem', marginBottom: '2rem' }}>

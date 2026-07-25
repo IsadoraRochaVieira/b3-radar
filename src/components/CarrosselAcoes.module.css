@@ -1,0 +1,211 @@
+.section {
+  position: relative;
+  width: 100%;
+  padding: 12px 0 18px;
+}
+
+.viewport {
+  position: relative;
+  width: min(100%, 760px);
+  height: 250px;
+  margin: 0 auto;
+  perspective: 900px;
+  perspective-origin: 50% 48%;
+}
+
+.viewport::before {
+  content: '';
+  position: absolute;
+  z-index: 0;
+  left: 50%;
+  bottom: 8px;
+  width: min(76vw, 520px);
+  height: 58px;
+  border-radius: 50%;
+  background: radial-gradient(ellipse, rgba(240, 180, 41, 0.18), transparent 68%);
+  filter: blur(8px);
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+
+.card {
+  --delay: 0s;
+  --accent: #f0b429;
+  position: absolute;
+  z-index: 1;
+  top: 24px;
+  left: calc(50% - 76px);
+  width: 152px;
+  min-height: 174px;
+  padding: 15px;
+  border: 1px solid color-mix(in srgb, var(--accent) 46%, transparent);
+  border-top: 3px solid var(--accent);
+  border-radius: 14px;
+  background:
+    linear-gradient(155deg, color-mix(in srgb, var(--accent) 13%, transparent), transparent 45%),
+    linear-gradient(180deg, rgba(22, 29, 42, 0.98), rgba(9, 13, 19, 0.98));
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.48), inset 0 1px rgba(255, 255, 255, 0.05);
+  animation: orbit 16s linear infinite;
+  animation-delay: var(--delay);
+  backface-visibility: hidden;
+  will-change: transform, opacity;
+}
+
+.viewport:hover .card,
+.viewport:focus-within .card {
+  animation-play-state: paused;
+}
+
+.tickerRow,
+.metricRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.ticker {
+  color: #fff;
+  font-family: var(--mono);
+  font-size: 18px;
+  font-weight: 850;
+  letter-spacing: -0.02em;
+}
+
+.score {
+  color: var(--accent);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.name {
+  min-height: 30px;
+  margin-top: 5px;
+  color: #8a9bbf;
+  font-size: 10px;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.action {
+  display: inline-flex;
+  margin-top: 10px;
+  padding: 4px 8px;
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  border-radius: 999px;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.divider {
+  height: 1px;
+  margin: 12px 0 9px;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.metricLabel {
+  color: #4d5f7a;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.price {
+  color: #e8edf5;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 750;
+}
+
+.hint {
+  margin: 0;
+  color: #62718b;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+@keyframes orbit {
+  0% {
+    z-index: 6;
+    opacity: 1;
+    transform: rotateY(0deg) translateZ(260px) rotateY(0deg) scale(1);
+  }
+  25% {
+    z-index: 3;
+    opacity: 0.68;
+    transform: rotateY(90deg) translateZ(260px) rotateY(-90deg) scale(0.82);
+  }
+  49% {
+    z-index: 1;
+    opacity: 0.2;
+  }
+  50% {
+    z-index: 1;
+    opacity: 0.16;
+    transform: rotateY(180deg) translateZ(260px) rotateY(-180deg) scale(0.7);
+  }
+  75% {
+    z-index: 3;
+    opacity: 0.68;
+    transform: rotateY(270deg) translateZ(260px) rotateY(-270deg) scale(0.82);
+  }
+  100% {
+    z-index: 6;
+    opacity: 1;
+    transform: rotateY(360deg) translateZ(260px) rotateY(-360deg) scale(1);
+  }
+}
+
+@media (max-width: 680px) {
+  .viewport {
+    height: 220px;
+    perspective: 760px;
+  }
+
+  .card {
+    top: 18px;
+    left: calc(50% - 66px);
+    width: 132px;
+    min-height: 164px;
+    padding: 12px;
+  }
+
+  @keyframes orbit {
+    0% { z-index: 6; opacity: 1; transform: rotateY(0deg) translateZ(185px) rotateY(0deg) scale(1); }
+    25% { z-index: 3; opacity: 0.62; transform: rotateY(90deg) translateZ(185px) rotateY(-90deg) scale(0.8); }
+    49% { z-index: 1; opacity: 0.14; }
+    50% { z-index: 1; opacity: 0.1; transform: rotateY(180deg) translateZ(185px) rotateY(-180deg) scale(0.68); }
+    75% { z-index: 3; opacity: 0.62; transform: rotateY(270deg) translateZ(185px) rotateY(-270deg) scale(0.8); }
+    100% { z-index: 6; opacity: 1; transform: rotateY(360deg) translateZ(185px) rotateY(-360deg) scale(1); }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .viewport {
+    display: flex;
+    width: 100%;
+    height: auto;
+    gap: 12px;
+    overflow-x: auto;
+    padding: 4px 2px 16px;
+    perspective: none;
+    scroll-snap-type: x mandatory;
+  }
+
+  .viewport::before { display: none; }
+
+  .card {
+    position: relative;
+    top: auto;
+    left: auto;
+    flex: 0 0 152px;
+    animation: none;
+    scroll-snap-align: center;
+  }
+}

@@ -37,15 +37,29 @@ export default function BacktestingPage() {
   const retornoMedio = fechados.length > 0
     ? (fechados.reduce((s, op) => s + (op.resultado_pct ?? 0), 0) / fechados.length).toFixed(2)
     : '0.00'
+  const ganhoMedio = ganhos.length ? ganhos.reduce((s, op) => s + op.resultado_pct, 0) / ganhos.length : 0
+  const perdaMedia = perdas.length ? Math.abs(perdas.reduce((s, op) => s + op.resultado_pct, 0) / perdas.length) : 0
+  const payoff = perdaMedia ? ganhoMedio / perdaMedia : 0
+  const expectativa = fechados.length ? (taxaAcerto / 100) * ganhoMedio - (1 - taxaAcerto / 100) * perdaMedia : 0
+  const lucroBruto = ganhos.reduce((s, op) => s + op.resultado_pct, 0)
+  const perdaBruta = Math.abs(perdas.reduce((s, op) => s + op.resultado_pct, 0))
+  const profitFactor = perdaBruta ? lucroBruto / perdaBruta : 0
+  let acumulado = 0, pico = 0, drawdownMax = 0
+  for (const op of [...fechados].sort((a, b) => String(a.data_saida).localeCompare(String(b.data_saida)))) {
+    acumulado += op.resultado_pct ?? 0
+    pico = Math.max(pico, acumulado)
+    drawdownMax = Math.max(drawdownMax, pico - acumulado)
+  }
 
   return (
     <main style={{ maxWidth: 1100, margin: '0 auto', padding: '2rem 1rem' }}>
       <Nav ativa="backtest" />
 
       <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8edf5' }}>Backtesting</h1>
+        <div style={{ fontSize: 10, color: 'var(--gold)', letterSpacing: '.16em', fontWeight: 700, textTransform: 'uppercase' }}>Transparência radical</div>
+        <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#e8edf5', marginTop: 6 }}>Performance do Radar</h1>
         <p style={{ color: '#4d5f7a', fontSize: '0.85rem', marginTop: '0.25rem' }}>
-          Resultado histórico de todas as sugestões geradas pelo sistema
+          Resultado histórico de todas as sugestões — incluindo perdas, risco e qualidade da estratégia
         </p>
       </header>
 
@@ -53,10 +67,10 @@ export default function BacktestingPage() {
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(140px, 1fr))', gap: '0.75rem', marginBottom: '2rem' }}>
         {[
           { label: 'Taxa de acerto', valor: `${taxaAcerto}%`, cor: taxaAcerto >= 60 ? '#34d17e' : taxaAcerto >= 40 ? '#f0b429' : '#e53555' },
-          { label: 'Retorno médio', valor: `${Number(retornoMedio) > 0 ? '+' : ''}${retornoMedio}%`, cor: Number(retornoMedio) >= 0 ? '#34d17e' : '#e53555' },
-          { label: 'Operações', valor: String(historico.length), cor: '#e8edf5' },
-          { label: 'Ganhos', valor: String(ganhos.length), cor: '#34d17e' },
-          { label: 'Perdas', valor: String(perdas.length), cor: '#e53555' },
+          { label: 'Expectativa/op.', valor: `${expectativa >= 0 ? '+' : ''}${expectativa.toFixed(2)}%`, cor: expectativa >= 0 ? '#34d17e' : '#e53555' },
+          { label: 'Payoff', valor: `${payoff.toFixed(2)}×`, cor: payoff >= 1.5 ? '#34d17e' : '#f0b429' },
+          { label: 'Fator de lucro', valor: profitFactor.toFixed(2), cor: profitFactor >= 1 ? '#34d17e' : '#e53555' },
+          { label: 'Drawdown', valor: `-${drawdownMax.toFixed(1)} p.p.`, cor: '#e53555' },
           { label: 'Em aberto', valor: String(abertos.length), cor: '#f0b429' },
         ].map(c => (
           <div key={c.label} style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1rem' }}>
@@ -64,6 +78,12 @@ export default function BacktestingPage() {
             <div style={{ color: c.cor, fontWeight: 800, fontSize: '1.5rem', marginTop: '0.3rem' }}>{c.valor}</div>
           </div>
         ))}
+      </div>
+
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(210px,1fr))', gap: 10, marginBottom: '2rem' }}>
+        <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1rem 1.1rem' }}><div style={{ color: '#4d5f7a', fontSize: 10, textTransform: 'uppercase', letterSpacing: '.08em' }}>Ganho médio</div><div style={{ color: '#34d17e', fontWeight: 800, fontSize: 20, marginTop: 6 }}>+{ganhoMedio.toFixed(2)}%</div></div>
+        <div style={{ background: '#0f1520', border: '1px solid #1c2538', borderRadius: 12, padding: '1rem 1.1rem' }}><div style={{ color: '#4d5f7a', fontSize: 10, textTransform: 'uppercase', letterSpacing: '.08em' }}>Perda média</div><div style={{ color: '#e53555', fontWeight: 800, fontSize: 20, marginTop: 6 }}>-{perdaMedia.toFixed(2)}%</div></div>
+        <div style={{ background: 'linear-gradient(135deg,rgba(240,180,41,.08),#0f1520)', border: '1px solid rgba(212,146,10,.35)', borderRadius: 12, padding: '1rem 1.1rem' }}><div style={{ color: '#f0b429', fontSize: 10, textTransform: 'uppercase', letterSpacing: '.08em' }}>Leitura da estratégia</div><div style={{ color: '#e8edf5', fontSize: 13, lineHeight: 1.55, marginTop: 6 }}>{expectativa > 0 ? 'A vantagem por operação é positiva, mesmo com uma taxa de acerto menor.' : 'A estratégia ainda não compensa as perdas pelo tamanho e frequência dos ganhos.'}</div></div>
       </div>
 
       {/* Barra visual de acerto */}

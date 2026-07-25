@@ -4,13 +4,19 @@ import Link from 'next/link'
 import CortinaNumeros from '@/components/CortinaNumeros'
 import Costura from '@/components/Costura'
 import NumeroContado from '@/components/NumeroContado'
-import AcoesInterativas from '@/components/AcoesInterativas'
+import CarrosselAcoes from '@/components/CarrosselAcoes'
+import CarrosselModulos from '@/components/CarrosselModulos'
 
 const heroAtivos = [
-  { ticker: 'PETR4', nome: 'Petrobras', score: 92, acao: 'COMPRAR', entrada: '38.50', alvo: '42.00', stop: '36.80', rsi: 45, pl: 4.2 },
-  { ticker: 'VALE3', nome: 'Vale S.A.', score: 85, acao: 'COMPRAR', entrada: '62.10', alvo: '70.00', stop: '59.50', rsi: 52, pl: 6.8 },
-  { ticker: 'WEGE3', nome: 'WEG S.A.', score: 78, acao: 'OBSERVAR', entrada: '39.80', alvo: '44.00', stop: '37.50', rsi: 58, pl: 32.1 },
-]
+  { ticker: 'PETR4', nome: 'Petrobras', score: 92, acao: 'COMPRAR', preco: '38,50' },
+  { ticker: 'VALE3', nome: 'Vale', score: 85, acao: 'COMPRAR', preco: '62,10' },
+  { ticker: 'WEGE3', nome: 'WEG', score: 78, acao: 'OBSERVAR', preco: '39,80' },
+  { ticker: 'BBAS3', nome: 'Banco do Brasil', score: 76, acao: 'COMPRAR', preco: '27,42' },
+  { ticker: 'EGIE3', nome: 'Engie Brasil', score: 71, acao: 'OBSERVAR', preco: '41,18' },
+  { ticker: 'BBSE3', nome: 'BB Seguridade', score: 68, acao: 'COMPRAR', preco: '36,25' },
+  { ticker: 'UGPA3', nome: 'Ultrapar', score: 52, acao: 'OBSERVAR', preco: '20,64' },
+  { ticker: 'ANIM3', nome: 'Ânima Educação', score: 31, acao: 'EVITAR', preco: '3,81' },
+] as const
 
 function RadarPequi() {
   const canvasRef = useRef<HTMLCanvasElement>(null)
@@ -164,10 +170,10 @@ export default function Landing() {
             </div>
           </div>
 
-          {/* GSAP Pills Interativos na Home (Exibindo 3 Ativos Top) */}
+          {/* Carrossel 3D de ações em destaque */}
           <div style={{ width: '100%' }}>
             <div style={{ fontSize: 12, color: 'var(--muted)', letterSpacing: '0.15em', textTransform: 'uppercase', marginBottom: 12, fontWeight: 700 }}>Em Destaque Agora</div>
-            <AcoesInterativas ativos={heroAtivos} />
+            <CarrosselAcoes ativos={[...heroAtivos]} />
           </div>
         </div>
       </section>
@@ -264,6 +270,8 @@ export default function Landing() {
           ))}
         </div>
       </section>
+
+      <CarrosselModulos />
 
       {/* ── O RADAR NUNCA PARA (canvas) ── */}
       <section style={{ borderTop: '1px solid rgba(28,37,56,0.5)', background: 'radial-gradient(ellipse at 50% 0%, rgba(212,146,10,0.08), transparent 70%)' }}>

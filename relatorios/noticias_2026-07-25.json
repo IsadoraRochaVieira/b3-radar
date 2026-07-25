@@ -1,0 +1,455 @@
+{
+  "coletado_em": "25/07/2026 00:15",
+  "total": 30,
+  "urgentes": 0,
+  "destaque": {
+    "titulo": "Dólar fica estável em R$ 5,08, mas cai 0,58% na semana",
+    "descricao": "O mercado financeiro encerrou a sexta-feira (24) dividido entre a cautela com as novas tarifas comerciais impostas pelos Estados Unidos e os desdobramentos da guerra no Oriente Médio. O dólar fechou praticamente estável frente ao real, e a bolsa caiu mais de 1,5%, pressionada pela queda no petróleo, que recuou em meio a expectativas de retomada das negociações entre Estados Unidos e Irã. Principai",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-fica-estavel-em-r-508-mas-cai-058-na-semana",
+    "fonte": "Agência Brasil",
+    "categoria": "Política Econômica",
+    "cor": "#009c3b",
+    "urgencia": "media",
+    "score_relevancia": 5,
+    "pub_date": "Fri, 24 Jul 2026 20:25:00 -0300",
+    "setores": [
+      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+      "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+      "Câmbio / Exportadores"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Dólar fica estável em R$ 5,08, mas cai 0,58% na semana",
+      "descricao": "O mercado financeiro encerrou a sexta-feira (24) dividido entre a cautela com as novas tarifas comerciais impostas pelos Estados Unidos e os desdobramentos da guerra no Oriente Médio. O dólar fechou praticamente estável frente ao real, e a bolsa caiu mais de 1,5%, pressionada pela queda no petróleo, que recuou em meio a expectativas de retomada das negociações entre Estados Unidos e Irã. Principai",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-fica-estavel-em-r-508-mas-cai-058-na-semana",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Fri, 24 Jul 2026 20:25:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Galípolo diz que juros devem seguir restritivos por mais tempo",
+      "descricao": "Presidente do Banco Central cita resiliência da economia, choques externos e expectativas de inflação desancoradas como fatores para manter cautela na política monetária",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7467452-galipolo-diz-que-juros-devem-seguir-restritivos-por-mais-tempo.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Fri, 24 Jul 2026 14:49:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Presidente do BC compara cartão de crédito brasileiro a jabuticaba: 'É uma fruta legal, mas tem coisa que você não quer ser o único a ter’",
+      "descricao": "O presidente do Banco Central, Gabriel Galípolo, durante sessão no Congresso. Saulo Cruz/Agência Senado O presidente do Banco Central (BC), Gabriel Galípolo, comparou nesta sexta-feira (24), o sistema brasileiro de cartão de crédito a uma jabuticaba, ou seja, algo único no mundo. Galípolo também defendeu que, com o passar do tempo, o país caminhe para um arranjo de pagamentos mais parecido com o q",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/presidente-do-bc-compara-cartao-de-credito-brasileiro-a-jabuticaba-e-uma-fruta-legal-mas-tem-coisa-que-voce-nao-quer-ser-o-unico-a-ter.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 24 Jul 2026 15:56:16 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Durigan diz que ajuste fiscal é a \"última milha\" para reduzir juros",
+      "descricao": "Ministro afirma que governo enviará Orçamento de 2027 com meta de superavit de 0,5% e defende controle das contas públicas para fortalecer a economia",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7467373-durigan-diz-que-ajuste-fiscal-e-a-ultima-milha-para-reduzir-juros.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 24 Jul 2026 12:31:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Alvo de tarifaço, Brasil é há décadas fonte de superávit recorde para os EUA",
+      "descricao": "Governo brasileiro rechaça decisão dos EUA em impor tarifa de 12,5% e volta a falar em Reciprocidade Novamente na mira de tarifas impostas pelo governo Donald Trump, o Brasil acumula um déficit de 144 bilhões de dólares (R$ 734 bilhões) em quatro décadas de comércio de bens com os Estados Unidos. Ou seja, a balança entre os dois parceiros favorece Washington, que registrou saldo positivo em 26 dos",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/25/alvo-de-tarifaco-brasil-e-ha-decadas-fonte-de-superavit-recorde-para-os-eua.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Sat, 25 Jul 2026 03:00:46 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Tarifaço dos EUA: setores veem risco para economia e pedem ao governo que insista no diálogo em vez de agir com reciprocidade",
+      "descricao": "Após o governo do presidente Luiz Inácio Lula da Silva (PT) anunciar que prepara o uso da chamada Lei de Reciprocidade em razão do novo tarifaço dos Estados Unidos, entidades empresariais defenderam que o Brasil insista nas negociações em vez de uma retaliação, para não “escalar” a tensão com o governo de Donald Trump. Este é o segundo tarifaço contra produtos brasileiros anunciado pelos Estados U",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/tarifaco-dos-eua-setores-veem-risco-para-economia-e-pedem-ao-governo-que-insista-no-dialogo-em-vez-de-agir-com-reciprocidade.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 24 Jul 2026 15:21:23 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Com precatórios, previsão de déficit primário soma R$ 52 bilhões",
+      "descricao": "A queda na previsão de gastos obrigatórios fez a estimativa total de déficit primário para este ano cair de R$ 60,3 bilhões para R$ 52 bilhões. A previsão consta do Relatório Bimestral de Avaliação de Receitas e Despesas, documento que orienta a execução do Orçamento, enviado nesta sexta-feira (24) ao Congresso Nacional. O déficit primário representa o resultado negativo das contas do governo sem ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/com-precatorios-previsao-de-deficit-primario-soma-r-52-bilhoes",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 24 Jul 2026 16:02:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Governo desbloqueia R$ 5,7 bi do Orçamento de 2026",
+      "descricao": "O Orçamento de 2026 terá um desbloqueio de R$ 5,7 bilhões de gastos não obrigatórios, informaram há pouco os Ministérios da Fazenda e do Planejamento. O valor consta do Relatório Bimestral de Avaliação de Receitas e Despesas, documento enviado ao Congresso a cada dois meses que orienta a execução do Orçamento. Com o desbloqueio, o total de recursos bloqueados em 2026 cai de R$ 23,7 bilhões para R$",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-desbloqueia-r-57-bi-do-orcamento-de-2026",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 24 Jul 2026 15:28:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Pequenas empresas dos EUA processam Trump por novas tarifas sobre 60 países",
+      "descricao": "'Nós estamos trabalhando': novas tarifas de Trump sobre o Brasil gera reações Duas pequenas empresas dos Estados Unidos entraram com uma ação na Justiça nesta sexta-feira (24) para contestar a nova rodada de tarifas anunciada pelo presidente Donald Trump sobre produtos de 60 parceiros comerciais. Segundo elas, assim como ocorreu com a maior parte das tarifas impostas anteriormente pelo presidente,",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/pequenas-empresas-dos-eua-processam-trump-por-novas-tarifas-sobre-60-paises.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 18:05:56 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Governo anuncia liberação de R$ 5,7 bilhões em gastos no orçamento de 2026",
+      "descricao": "A equipe econômica anunciou nesta sexta-feira (25) a liberação de R$ 5,7 bilhões para gastos dos ministérios no orçamento deste ano. A informação consta no relatório de receitas e despesas do terceiro bimestre, divulgado pelos Ministérios da Fazenda e do Planejamento. 🔎 A autorização foi concedida porque o governo revisou a estimativa para baixo das despesas previstas para 2026 e concluiu que havi",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/governo-anuncia-liberacao-de-r-57-bilhoes-em-gastos-no-orcamento-de-2026.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 17:57:23 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Veto ao foie gras no Brasil reacende tensão comercial com a França após acordo Mercosul-UE",
+      "descricao": "Brasil é o segundo país a proibir produção e comércio de foie gras O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (24) a lei que proíbe a produção e a comercialização de foie gras no Brasil, uma medida celebrada por organizações de proteção animal, mas que volta a provocar atritos com produtores franceses poucos meses após a assinatura do acordo comercial entre Mercosul e União",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/24/veto-ao-foie-gras-no-brasil-reacende-tensao-comercial-com-a-franca-apos-acordo-mercosul-ue.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 16:49:46 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Datafolha: 46% rejeitam Lula, e 48%, Flávio Bolsonaro",
+      "descricao": "Datafolha: 46% rejeitam Lula; 48% rejeitam Flávio Bolsonaro Pesquisa Datafolha divulgada nesta sexta-feira (24) pelo site do jornal \"Folha de S.Paulo\" mostra que o senador Flávio Bolsonaro (PL) e o presidente Lula (PT) são os nomes mais rejeitados pelos eleitores para a disputa presidencial de outubro: 48% dizem que não votariam em Flávio de jeito nenhum, e 46% responderam o mesmo sobre Lula. Os n",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/24/datafolha-rejeicao-flavio-bolsonaro-lula.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 22:20:45 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Datafolha 2º turno: Lula tem 48%, e Flávio Bolsonaro, 43%",
+      "descricao": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert e Raul Spinassé/Divulgação Pesquisa Datafolha divulgada nesta sexta-feira (24) pelo site do jornal \"Folha de S.Paulo\" mostra que o presidente Lula (PT) tem 48% das intenções de voto no 2º turno, contra 43% do senador Flávio Bolsonaro (PL). Os números mostram um cenário de estabilidade na disputa. Na pesquisa anterior, divulgada em 20 de",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/24/datafolha-2o-turno-lula-tem-48percent-e-flavio-bolsonaro-43percent.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 22:04:28 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Datafolha: Lula lidera com 40% no 1º turno, e Flávio Bolsonaro tem 32%",
+      "descricao": "Datafolha: Lula tem 40% e Flávio Bolsonaro, 32% no 1º turno Pesquisa Datafolha divulgada nesta sexta-feira (24) pelo site do jornal \"Folha de S.Paulo\" mostra o presidente Lula (PT) com 40% das intenções de voto no cenário de 1º turno, oito pontos à frente do senador Flávio Bolsonaro (PL), que tem 32%. No levantamento anterior, divulgado em 20 de junho, o presidente tinha 41%, e o senador, 31%. Os ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/24/datafolha-primeiro-turno-julho.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 22:04:01 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "PDT confirma apoio a Haddad em convenção estadual em SP",
+      "descricao": "O pré-candidato ao governo de SP Fernando Haddad (PT) e o presidente nacional do PDT, Carlos Luppi, durante convenção do PDT-SP LEANDRO CHEMALLE/THENEWS2/ESTADÃO CONTEÚDO O Diretório Estadual do Partido Democrático Trabalhista (PDT) em São Paulo realizou, na tarde desta sexta-feira (24), a convenção para oficializar os candidatos que vão disputar as eleições de 2026 pelo partido. O encontro ocorre",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/07/24/pdt-confirma-apoio-a-haddad-marina-e-tebet-em-convencao-estadual-em-sp.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 20:28:12 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Defesa de Bolsonaro reclama ao STF que restrição de visitas é silenciamento político",
+      "descricao": "O senador Flávio Bolsonaro (PL-RJ) exibe carta escrita pelo pai, o ex-presidente Jair Bolsonaro Reprodução Em documento enviado à Primeira Turma do Supremo Tribunal Federal (STF), a defesa de Jair Bolsonaro (PL) reclama que a proibição de que ele receba visitas com fins político-eleitorais é um \"instrumento de limitação ideológica\" e um silenciamento político do ex-presidente. 📱Baixe o app do g1 p",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/07/24/defesa-bolsonaro-stf-restricao-visitas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 19:57:04 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "É #FAKE que Lula defendeu que 'saúde é para quem pode pagar'; posts omitem contexto da fala",
+      "descricao": "É #FAKE que Lula defendeu que 'saúde é para quem pode pagar' Reprodução Circulam nas redes sociais publicações com um vídeo em que o presidente Lula (PT) supostamente diz que \"saúde é para quem pode pagar\". É #FAKE. Selo Fake (Horizontal) g1 🔴 Como são as publicações? Os conteúdos circulam desde 18 de julho no Facebook, no TikTok e no Instagram e trazem o seguinte texto sobreposto às imagens: \"Lul",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/24/e-fake-que-lula-defendeu-que-saude-e-para-quem-pode-pagar-posts-omitem-contexto-da-fala.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 18:56:58 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Receita prevê arrecadar R$ 17,2 bilhões com IR sobre dividendos",
+      "descricao": "A arrecadação com o Imposto de Renda sobre dividendos deve somar R$ 17,2 bilhões este ano, abaixo dos R$ 28 bilhões previstos inicialmente no Orçamento . A estimativa foi apresentada nesta sexta-feira (24) pela Receita Federal durante a divulgação do Relatório Bimestral de Avaliação de Receitas e Despesas. A tributação dos dividendos foi criada para compensar a perda de arrecadação provocada pela ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-preve-arrecadar-r-172-bilhoes-com-ir-sobre-dividendos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 19:49:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Subsídio de R$ 0,35 ao diesel não será retomado, diz ministro",
+      "descricao": "Apesar de o petróleo voltar a se aproximar de US$ 100 por barril, a equipe econômica não pretende, neste momento, restabelecer a subvenção de R$ 0,35 por litro do diesel, suspensa no início de julho . A informação foi dada nesta sexta-feira pelo ministro do Planejamento e Orçamento, Bruno Moretti, durante a apresentação do Relatório Bimestral de Avaliação de Receitas e Despesas. Segundo o ministro",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/subsidio-de-r-035-ao-diesel-nao-sera-retomado-diz-ministro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 24 Jul 2026 19:07:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Governo reduz previsão de déficit primário de estatais em 2026 para R$ 95,1 milhões",
+      "descricao": "Essa estimativa já leva em conta os R$ 10 bilhões excluídos da meta das estatais por causa do plano de reestruturação dos Correios The post Governo reduz previsão de déficit primário de estatais em 2026 para R$ 95,1 milhões appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/governo-reduz-previsao-de-deficit-primario-de-estatais-em-2026-para-r-951-milhoes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 25 Jul 2026 01:37:50 +0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Paramount e Warner concordam em adiar fusão em meio a questionamentos judiciais",
+      "descricao": "A Paramount informou que não concluirá a aquisição da Warner até que uma decisão judicial seja tomada sobre as alegações dos estados ou até 1º de junho de 2027 The post Paramount e Warner concordam em adiar fusão em meio a questionamentos judiciais appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/paramount-e-warner-concordam-em-adiar-fusao-em-meio-a-questionamentos-judiciais/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 25 Jul 2026 01:11:39 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Como é feito o foie gras, alimento que foi proibido por Lula e reacendeu a tensão comercial com a França",
+      "descricao": "Método para produção de foie gras, com tubo enfiado na garganta da ave, é considerado cruel Bebeto Matthews/Arquivo/AP Photo O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (24) o projeto de lei que proíbe a produção e a venda de produtos obtidos por meio da alimentação forçada de animais. Entre eles, está o foie gras, produto da culinária francesa feito com fígado gordo de pato",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/25/como-e-feito-o-foie-gras.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 25 Jul 2026 03:00:32 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Michelle Bolsonaro e Flávio Bolsonaro ainda não se encontraram após reconciliação virtual",
+      "descricao": "Em vídeo, Flávio Bolsonaro pede reaproximação de Michelle: 'As portas estão abertas' A ex-primeira dama Michelle Bolsonaro e o senador Flávio Bolsonaro (PL-RJ) não se encontraram pessoalmente após a reconciliação virtual de quinta-feira (23). Ambos postaram vídeos em seus perfis afirmando que trabalharão juntos na campanha à Presidência da República de Flávio. ATUALIZAÇÃO: Inicialmente, o texto in",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/24/michelle-bolsonaro-e-flavio-voltam-a-se-seguir-nas-redes-sociais-mas-ainda-nao-se-encontraram.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 20:45:27 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Governo estima que 47,3% das exportações brasileiras são atingidas por tarifas dos EUA",
+      "descricao": "O governo federal estima que 47,3% das exportações brasileiras são atingidas por tarifas impostas pelos Estados Unidos. O cálculo considera as tarifas de 12,5%, anunciadas nesta quinta-feira (23), as de 25%, anunciadas na semana passada, e a sobretaxa aplicada ao aço e alumínio, anunciada no ano passado pelo governo norte-americano. Considerando apenas as novas taxas, o ministério de Desenvolvimen",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/governo-estima-que-473percent-das-exportacoes-brasileiras-sao-atingidas-por-tarifas-dos-eua.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 19:58:05 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "'Brasil precisa agir com firmeza': setor produtivo pede negociação e rapidez após nova tarifa dos EUA",
+      "descricao": "EUA justificam novas tarifas ao Brasil com suposto trabalho forçado; entenda O anúncio da nova tarifa de 12,5% pelos Estados Unidos aumentou a pressão sobre a indústria brasileira. Enquanto o agronegócio ficou quase de fora dos impactos do tarifaço, a indústria foi a mais afetada e, por isso, cobra agilidade do governo federal. O pedido do setor é negociar diretamente com os americanos, descartand",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/brasil-precisa-agir-com-firmeza-setor-produtivo-pede-negociacao-e-rapidez-apos-nova-tarifa-de-ate-375percent.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 17:45:21 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Após multa contra o Google, Trump anuncia investigação contra a União Europeia e ameaça novas tarifas",
+      "descricao": "Funcionário do Google é acusado de usar dados internos para lucrar US$ 1 milhão O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (24) que vai abrir uma investigação comercial contra a União Europeia sob a Seção 301 da Lei de Comércio, acusando o bloco de aplicar multas \"ilegais e discriminatórias\" contra empresas americanas de tecnologia. Em publicação na Truth Social, sua ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/24/apos-multa-contra-o-google-trump-anuncia-investigacao-contra-a-uniao-europeia-e-ameaca-novas-tarifas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 17:13:07 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Defesa de Bolsonaro recorre contra proibição de visitas com fins político-eleitorais e divulgação de manifestos",
+      "descricao": "A defesa de Jair Bolsonaro recorreu nesta sexta-feira (24) contra a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que impôs ao ex-presidente a proibição de receber visitas com finalidades político-eleitorais e de divulgar manifestos com esse teor. Os advogados classificam a restrição como \"genérica\" e dizem que foi criada uma limitação sem respaldo constitucional ou l",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/24/defesa-de-bolsonaro-recorre-contra-proibicao-de-visitas-com-fins-politico-eleitorais-e-divulgacao-de-manifestos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 19:55:33 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula quer mais investimentos em Defesa: 'Não deixar ninguém meter o nariz nesse país'",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) voltou a defender, nesta sexta-feira (24), mais investimentos no setor de Defesa. A fala dialoga com discursos recentes do petista, com foco na soberania nacional — tema que ele deve priorizar durante a campanha à reeleição neste ano. No discurso, Lula afirmou que o Brasil tem a paz como prioridade, mas quer ele quer soldados das Forças Armadas bem trein",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/24/lula-quer-investimentos-em-defesa-preparados-para-nao-deixar-ninguem-meter-nariz-nesse-pais.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 16:47:38 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Presidente defende investimento nas Forças Armadas",
+      "descricao": "O presidente da República, Luiz Inácio Lula da Silva, defendeu nesta sexta-feira (24) o investimento nas Forças Armadas do país, no preparo dos militares e no fortalecimento da defesa nacional. “Quero ela [Forças Armadas] bem preparada do ponto de visto do poderio, do conhecimento científico e tecnológico para que a gente possa andar de cabeça erguida, sem nenhuma arrogância. Falando em paz, mas p",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/presidente-defende-investimento-nas-forcas-armadas",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 18:58:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Tarifa de 37,5% dos EUA atinge US$ 6,6 bi em exportações do Brasil",
+      "descricao": "As novas tarifas anunciadas pelos Estados Unidos vão atingir US$ 6,6 bilhões em produtos brasileiros exportados ao mercado norte-americano, informou nesta sexta-feira (24) o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic). Segundo a pasta, a sobretaxa acumulada de 37,5% alcança 16,5% das exportações brasileiras para os EUA. Notícias relacionadas: Tarifa de 37,5% atingirá quase",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/tarifa-de-375-dos-eua-atinge-us-66-bi-em-exportacoes-do-brasil",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 24 Jul 2026 18:10:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    }
+  ]
+}

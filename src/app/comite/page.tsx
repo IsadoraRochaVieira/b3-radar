@@ -3,13 +3,29 @@ import path from 'path'
 import Nav from '@/components/Nav'
 import ComiteClient, { type Comite } from './ComiteClient'
 
+function getRankingDoDia(): Map<string, number> {
+  const dir = path.join(process.cwd(), 'relatorios')
+  if (!fs.existsSync(dir)) return new Map()
+  const arquivo = fs.readdirSync(dir)
+    .filter(f => f.startsWith('sugestoes_') && f.endsWith('.json'))
+    .sort((a, b) => b.localeCompare(a))[0]
+  if (!arquivo) return new Map()
+  const dados = JSON.parse(fs.readFileSync(path.join(dir, arquivo), 'utf-8'))
+  return new Map((dados.sugestoes ?? []).map((s: { ticker: string; rank: number }) => [s.ticker, s.rank]))
+}
+
 function getComites(): Comite[] {
   const dir = path.join(process.cwd(), 'relatorios')
   if (!fs.existsSync(dir)) return []
+  const ranking = getRankingDoDia()
   return fs.readdirSync(dir)
     .filter(f => f.startsWith('comite_') && f.endsWith('.json'))
     .map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8')) as Comite)
-    .sort((a, b) => a.ticker.localeCompare(b.ticker))
+    .sort((a, b) => {
+      const rankA = ranking.get(a.ticker) ?? 999
+      const rankB = ranking.get(b.ticker) ?? 999
+      return rankA - rankB || String(b.data).localeCompare(String(a.data))
+    })
 }
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -39,9 +55,13 @@ export default function ComitePage() {
         </div>
         <h1 className="mono" style={{ fontSize: '1.6rem', fontWeight: 800, color: 'var(--text)', marginTop: 6 }}>A Mesa</h1>
         <p style={{ color: 'var(--text2)', fontSize: 14, marginTop: 6, maxWidth: 620, lineHeight: 1.6 }}>
-          Sete analistas especialistas debatem uma ação pela sua lente. Você lê os argumentos de
-          defesa e de ataque antes de decidir — e um veredito único concilia a mesa.
+          A seleção diária coloca as ações mais relevantes na cabeceira. Sete analistas confrontam
+          fundamentos, técnica e risco antes de construir um veredito verificável.
         </p>
+        <div style={{ display: 'flex', gap: 8, marginTop: 12, flexWrap: 'wrap' }}>
+          <span style={{ color: 'var(--gold-bright)', background: 'var(--gold-bg)', border: '1px solid rgba(212,146,10,.3)', borderRadius: 999, padding: '4px 10px', fontSize: 10, fontFamily: 'var(--mono)' }}>MESA DO DIA</span>
+          <span style={{ color: 'var(--muted)', border: '1px solid var(--border)', borderRadius: 999, padding: '4px 10px', fontSize: 10 }}>{comites.length} teses disponíveis</span>
+        </div>
       </header>
 
       {comites.length === 0 ? (

@@ -1,0 +1,130 @@
+{
+  "data": "25/07/2026",
+  "data_iso": "2026-07-25",
+  "dia_semana": "Sábado",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 176.724 (+0.00%). Destaques: TAEE4. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "TAEE4",
+      "acao": "OBSERVAR",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 61.1,
+      "score": 40,
+      "porque": "RSI em 61.1 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ None."
+    },
+    {
+      "rank": 2,
+      "ticker": "ISAE4",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 51.9,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 51.9. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 3,
+      "ticker": "IRBR3",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 44.8,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 44.8. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 4,
+      "ticker": "ITSA4",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 56.3,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 56.3. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 5,
+      "ticker": "ITUB4",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 53.6,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 53.6. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 6,
+      "ticker": "CXSE3",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 80.7,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 80.7. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 7,
+      "ticker": "CMIN3",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 74.5,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 74.5. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 8,
+      "ticker": "BBSE3",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 78.3,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 78.3. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 9,
+      "ticker": "UGPA3",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 79.4,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 79.4. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 10,
+      "ticker": "ALPA4",
+      "acao": "NEUTRO",
+      "preco": null,
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 33.3,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 33.3. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    }
+  ]
+}

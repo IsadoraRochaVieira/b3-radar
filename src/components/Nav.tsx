@@ -7,16 +7,15 @@ import { useAuth } from '@/contexts/AuthContext'
 type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias' | 'sugestoes' | 'comite' | 'mapa'
 
 const links: { href: string; label: string; id: Aba }[] = [
-  { href: '/painel',        label: 'Relatórios',   id: 'home'        },
-  { href: '/mapa',          label: 'Market Map',   id: 'mapa'        },
+  { href: '/painel',        label: 'Radar',         id: 'home'        },
+  { href: '/mapa',          label: 'Mapa',          id: 'mapa'        },
   { href: '/comite',        label: 'A Mesa',       id: 'comite'      },
-  { href: '/sugestoes',     label: '10 Sugestões', id: 'sugestoes'   },
-  { href: '/segunda-feira', label: 'Segunda',      id: 'segunda'     },
-  { href: '/macro',         label: 'Macro',        id: 'macro'       },
+  { href: '/sugestoes',     label: 'Oportunidades', id: 'sugestoes'   },
+  { href: '/macro',         label: 'Contexto',      id: 'macro'       },
   { href: '/noticias',      label: 'Notícias BR',  id: 'noticias'    },
   { href: '/geopolitica',   label: 'Geopolítica',  id: 'geopolitica' },
-  { href: '/patrimonio',    label: 'Patrimônio',   id: 'patrimonio'  },
-  { href: '/backtesting',   label: 'Backtesting',  id: 'backtest'    },
+  { href: '/patrimonio',    label: 'Minha Carteira', id: 'patrimonio'  },
+  { href: '/backtesting',   label: 'Performance',   id: 'backtest'    },
 ]
 
 export default function Nav({ ativa }: { ativa: Aba }) {
