@@ -1,7 +1,451 @@
 {
-  "coletado_em": "29/07/2026 11:48",
-  "total": 0,
-  "urgentes": 0,
-  "destaque": null,
-  "noticias": []
+  "coletado_em": "29/07/2026 16:27",
+  "total": 30,
+  "urgentes": 1,
+  "destaque": {
+    "titulo": "Prévia da inflação surpreende mercado e reforça expectativa de corte de juros",
+    "descricao": "Deflação dos alimentos puxou desaceleração do IPCA-15 e aumentou as apostas em corte dos juros pelo Banco Central na próxima semana",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/07/7469205-previa-da-inflacao-surpreende-mercado-e-reforca-expectativa-de-corte-de-juros.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
+    "urgencia": "alta",
+    "score_relevancia": 4,
+    "pub_date": "Tue, 28 Jul 2026 10:24:00 -0300",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Prévia da inflação surpreende mercado e reforça expectativa de corte de juros",
+      "descricao": "Deflação dos alimentos puxou desaceleração do IPCA-15 e aumentou as apostas em corte dos juros pelo Banco Central na próxima semana",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7469205-previa-da-inflacao-surpreende-mercado-e-reforca-expectativa-de-corte-de-juros.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "alta",
+      "score_relevancia": 4,
+      "pub_date": "Tue, 28 Jul 2026 10:24:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Dólar cai após Fed manter juros inalterados; Ibovespa cai",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar passou a operar em queda nesta quarta-feira (29), com um recuo de 0,47% perto das 15h50, cotado a R$ 5,0976. Já o Ibovespa, principal índice da bolsa brasileira, tinha perdas de 0,85% no mesmo horário, aos 175.072 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ A nova decisão de juros do Federal Reserve (Fed, o banco central",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/29/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Wed, 29 Jul 2026 12:00:08 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Ibovespa segue em baixa de mais de 1% após Fed manter juros, mas com dissidência",
+      "descricao": "A decisão amplamente esperada de manter a taxa básica de juros na faixa de 3,50% a 3,75% teve a discordância de três dos 12 membros The post Ibovespa segue em baixa de mais de 1% após Fed manter juros, mas com dissidência appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-29072026-sessao-queda-apos-decisao-federal-reserve/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 29 Jul 2026 18:29:13 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Fed mantém juros dos EUA na faixa de 3,50% a 3,75% ao ano pela 5ª reunião consecutiva",
+      "descricao": "Prédio do Federal Reserve dos EUA em Washington, EUA (maio/2020) Kevin Lamarque / Reuters O Federal Reserve (Fed), banco central dos Estados Unidos, manteve a taxa de juros do país inalterada na faixa de 3,50% a 3,75% ao ano — menor nível desde setembro de 2022. A decisão, anunciada nesta quarta-feira (29), veio em linha com a expectativa do mercado financeiro. Foi a quinta reunião consecutiva em ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/29/decisao-fed-julho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 29 Jul 2026 18:00:17 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Democratas pedem investigação sobre plano da Trump Media de vender acesso antecipado a posts de Trump",
+      "descricao": "Donald Trump, presidente dos EUA, segura cópia impressa de uma de suas publicações na Truth Social, em 8 de julho de 2026 AFP/Saul Loeb Os senadores democratas Elizabeth Warren e Adam Schiff solicitaram à SEC, órgão regulador do mercado de capitais dos Estados Unidos, que investigue se o plano da Trump Media de vender acesso antecipado às publicações do presidente Donald Trump nas redes sociais vi",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/29/democratas-pedem-investigacao-sobre-plano-da-trump-media.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 29 Jul 2026 15:20:21 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula sanciona lei que cria 'PIX Pensão Alimentícia', com transferências automáticas do dinheiro",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (29) uma lei que cria um sistema de transferência automática da pensão alimentícia, batizado de \"PIX Pensão\". A proposta já havia sido aprovada pela Câmara dos Deputados e pelo Senado Federal. A lei altera a legislação para permitir que quem recebe pensão alimentícia peça ao juiz a transferência automática, mês a mês, do valo",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/29/lula-sanciona-lei-que-cria-pix-pensao-alimenticia-com-transferencias-automaticas-para-beneficiarios.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 29 Jul 2026 19:16:07 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Dino defende ampliar responsabilidade sobre emendas e dá 10 dias para Congresso criar proposta",
+      "descricao": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou nesta quarta-feira (29) que a Presidência da República e as cúpulas da Câmara dos Deputados e do Senado Federal apresentem, em até 10 dias, uma proposta de \"matriz de responsabilidades\" para o controle das emendas parlamentares. A decisão foi tomada no âmbito da ação que questiona se é constitucional o atual regime das emendas imp",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/29/dino-defende-ampliar-responsabilidade-de-parlamentares-sobre-emendas-e-da-10-dias-para-governo-e-congresso-criarem-proposta.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 29 Jul 2026 13:21:11 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre",
+      "descricao": "A Petrobras informou que a produção total de petróleo e gás (óleo, líquido de gás natural e gás natural) alcançou a marca recorde de 3,34 milhões (MM) barris de óleo equivalente por dia (boed) no 2º trimestre de 2026 , valor 14,1% acima do mesmo trimestre do ano passado e 3,4% acima do 1º trimestre de 2026. De acordo com a companhia, o desempenho resulta da melhoria na eficiência dos navios-plataf",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/producao-de-petroleo-e-gas-no-brasil-cresce-14-no-2o-trimestre",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 28 Jul 2026 21:32:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "IPCA-15 desacelera para 0,06% em julho com queda nos preços dos alimentos",
+      "descricao": "Prévia da inflação oficial perde força após recuo de tomate, batata e café, enquanto alta da energia elétrica impede uma desaceleração mais intensa",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7469169-ipca-15-desacelera-para-006-em-julho-com-queda-nos-precos-dos-alimentos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 28 Jul 2026 09:49:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "TRE-SP multa Lula em R$ 15 mil por propaganda eleitoral antecipada",
+      "descricao": "Durante evento em maio, presidente teria pedido votos para as pré-candidatas ao Senado, Marina e Simone Tebet The post TRE-SP multa Lula em R$ 15 mil por propaganda eleitoral antecipada appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/tre-sp-multa-lula-em-r-15-mil-por-propaganda-eleitoral-antecipada/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 29 Jul 2026 18:56:14 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Bolsonaro não poderia autorizar uso de imagem e voz para vídeo gerado por IA por não poder receber visitas, diz advogado",
+      "descricao": "A defesa do ex-presidente Jair Bolsonaro disse que o ex-presidente não autorizou o uso e imagem em vídeo gerado por Inteligência Artificial (IA), exibido na convenção do PL neste sábado. O advogado Paulo Cunha Bueno afirmou que, como o senador Flávio Bolsonaro (PL-RJ) está proibido de visitar pai por 90 dias, não teria como o ex-presidente autorizar o uso da imagem. \"Aliás, sequer poderia fazê-lo.",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/29/defesa-de-bolsonaro-diz-que-ex-presidente-nao-autorizou-uso-de-imagem-e-voz-em-video-gerado-por-ia.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 29 Jul 2026 19:07:40 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Defesa de Bolsonaro diz que ex-presidente não autorizou vídeo de IA",
+      "descricao": "Defesa de Flávio Bolsonaro nega que vídeo por IA do pai seja pedido de voto A defesa do ex-presidente Jair Bolsonaro (PL) protocolou nesta quarta-feira (29) uma petição no Supremo Tribunal Federal (STF) afirmando que ele não autorizou o uso de sua imagem e de sua voz para a produção de um vídeo elaborado com inteligência artificial exibido na convenção do PL que oficializou a candidatura do senado",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/07/29/defesa-de-bolsonaro-diz-que-ex-presidente-nao-autorizou-video-de-ia.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 29 Jul 2026 19:05:07 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Republicanos diz que Cleitinho não será candidato em MG, mas senador nega; o que diz a lei eleitoral",
+      "descricao": "Cleitinho não disputará governo de MG, diz presidente do Republicanos O partido Republicanos anunciou nesta quarta-feira (29) que o senador Cleitinho (REP-MG) não será candidato ao governo de Minas Gerais. O senador negou a informação e afirmou que vai disputar o cargo. A assessoria de Cleitinho ainda não informou se ele permanece no partido. Pela legislação eleitoral, ele não pode trocar de legen",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/29/republicanos-diz-que-cleitinho-nao-sera-candidato-em-mg-mas-senador-nega-o-que-diz-a-lei-eleitoral.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 29 Jul 2026 15:28:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Cleitinho não disputará governo de Minas Gerais, diz presidente do Republicanos",
+      "descricao": "Cleitinho não disputará governo de Minas Gerais, diz presidente do Republicanos O partido Republicanos anunciou nesta quarta-feira (29) que o senador Cleitinho (REP-MG) não será candidato ao governo de Minas Gerais. O senador negou e afirmou que vai concorrer sim ao cargo. A informação da desistência foi confirmada à Globonews pelo presidente nacional do Republicanos, Marcos Pereira (REP-SP) por v",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/29/cleitinho-nao-disputara-o-governo-de-minas-diz-presidente-do-republicanos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 29 Jul 2026 13:24:53 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Consumidores podem renegociar dívidas bancárias até 31 de agosto",
+      "descricao": "Programa de renegociação de dívidas de consumidores, o Desenrola Brasil 2.0 será prorrogado até 31 de agosto, anunciou nesta terça-feira (28) o ministro da Fazenda, Dario Durigan. Segundo o ministro, a decisão foi tomada em conjunto com o presidente Luiz Inácio Lula da Silva e dará mais um mês para que consumidores renegociem dívidas bancárias e regularizem a situação de crédito. Notícias relacion",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/consumidores-podem-renegociar-dividas-bancarias-ate-31-de-agosto",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 28 Jul 2026 20:01:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Eco Invest Brasil promove quinto leilão para financiar inovação",
+      "descricao": "O Ministério da Fazenda publicou nesta terça-feira (28) o Manual Operacional do Quinto Leilão do Eco Invest Brasil , documento que reúne as regras para participação das instituições financeiras na nova rodada do programa. O edital é voltado ao financiamento de projetos de inovação tecnológica em setores considerados estratégicos para a transição ecológica e o desenvolvimento industrial do país. O ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/eco-invest-brasil-promove-quinto-leilao-para-financiar-inovacao",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 28 Jul 2026 18:04:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Durigan garante deficit primário zerado em 2026 e vê chance de superavit",
+      "descricao": "Ministro da Fazenda diz que governo manterá as contas em ordem, defende controle dos gastos para reduzir os juros e afirma que, \"com alguma sorte\", o país poderá registrar superavit",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7469941-durigan-garante-deficit-primario-zerado-em-2026-e-ve-chance-de-superavit.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 29 Jul 2026 10:18:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Brasil vira maior importador de carros chineses: mais um alerta para locadoras da B3?",
+      "descricao": "Entrada de chineses acelera depreciação de frotas no Brasil, mas impacto sobre locadoras pode ser limitado por tarifas e foco em SUVs The post Brasil vira maior importador de carros chineses: mais um alerta para locadoras da B3? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/brasil-vira-maior-importador-de-carros-chineses-mais-um-alerta-para-locadoras-da-b3/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 19:00:00 +0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Eu pedi uma boa briga de família e estamos nela, diz Warsh sobre dissidência do Fed",
+      "descricao": "O Federal Open Market Comittee (FOMC) manteve as taxas de juros no intervalo entre 3,5% e 3,75% The post Eu pedi uma boa briga de família e estamos nela, diz Warsh sobre dissidência do Fed appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/federal-reserve-juros-coletiva-kevin-warsh-29072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 18:39:06 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Se El Niño for grave, estamos preparados; se não for, valeu a intenção, diz Lula",
+      "descricao": "Nesta quarta-feira (29), a ministra da Casa Civil, Miriam Belchior, anunciou o reforço orçamentário de R$ 1,335 bilhão para mitigar as consequências do fenômeno climático The post Se El Niño for grave, estamos preparados; se não for, valeu a intenção, diz Lula appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/se-el-nino-for-grave-estamos-preparados-se-nao-for-valeu-a-intencao-diz-lula/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 18:32:45 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Jerônimo reage à declaração de Caiado sobre ‘alforriar’ estado se eleito",
+      "descricao": "Em resposta, presidenciável definiu postura como 'lacração eleitoreira' e ressaltou ser casado com 'uma baiana arretada'; termo remete à concessão de liberdade aos escravizados The post Jerônimo reage à declaração de Caiado sobre &#8216;alforriar&#8217; estado se eleito appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/jeronimo-reage-a-declaracao-de-caiado-sobre-alforriar-estado-se-eleito/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 18:30:39 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Com juro alto, criação de empregos formais cai 25% e registra o pior 1º semestre em seis anos",
+      "descricao": "A economia brasileira gerou 921,64 mil empregos formais no primeiro semestre deste ano, informou nesta quarta-feira (29) o Ministério do Trabalho e do Emprego. O número representa uma queda de 25% na comparação com o mesmo período de 2025, quando foram abertas 1,23 milhão de vagas com carteira assinada. Essa também foi o pior resultado na geração de empregos para os seis primeiros meses de um ano ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/29/com-juro-alto-criacao-de-empregos-formais-cai-25percent-e-registra-o-pior-1o-semestre-em-seis-anos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 17:30:08 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "El Niño: governo prevê gastar até R$ 1,3 bilhão para enfrentar secas, chuvas intensas e incêndios",
+      "descricao": "O governo informou nesta quarta-feira (29) que prevê investir até R$ 1,3 bilhão em ações para enfrentar os impactos negativos do El Niño no Brasil, como, por exemplo, secas extremas, chuvas intensas e incêndios. 🔎O fenômeno climático, caracterizado pelo aquecimento anormal das águas do Oceano Pacífico, pode alterar o regime de chuvas e as temperaturas em diferentes partes do mundo. No Brasil, os e",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/29/el-nino-governo-preve-gastar-ate-r-13-bilhao-para-enfrentar-secas-chuvas-intensas-e-incendios.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 16:17:06 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Brasil e Argentina já estiveram em guerra?",
+      "descricao": "Caçadores brasileiros repelindo a cavalaria argentina na Batalha de Passo do Rosário, em tela de José Washt Rodrigues de 1937 Domínio público A rivalidade entre brasileiros e argentinos é recheada de episódios que transcendem as piadas, as provocações de parte a parte e o mundo do futebol. 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 Muito antes das rusgas provocadas por declarações públi",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/29/brasil-e-argentina-ja-estiveram-em-guerra.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 14:19:51 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Alerta de tempestade e ventania: saiba se o seguro do seu carro cobre danos nesses casos",
+      "descricao": "Carros presos em alagamento em Santo André, na Grande SP Reprodução/TV Globo A Defesa Civil do Estado de São Paulo enviou um alerta severo para a região após os ventos ultrapassarem o previsto. E o Centro de Monitoramento da Defesa Civil Estadual (CMDEC) divulgou nesta terça-feira (28) um Aviso Hidrometeorológico para inundações de cidades às margens de cinco rios do Rio Grande do Sul para os próx",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/29/saiba-se-o-seguro-do-seu-carro-cobre-danos-causados-pela-chuva.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 13:41:42 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Anac limita venda de passagens de empresa argentina após cancelamento de 79% dos voos no Brasil",
+      "descricao": "A Agência Nacional de Aviação Civil (Anac) informou nesta quarta-feira (29) ter limitado a venda de passagens da companhia aérea argentina Flybondi no Brasil após identificar uma sequência de cancelamentos de voos, redução das operações e problemas no atendimento aos passageiros. A decisão foi tomada por meio de medida cautelar e entrou em vigor nesta quarta. Segundo a agência, entre 1º e 27 de ju",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/29/anac-limita-venda-de-passagens-de-empresa-argentina-apos-cancelamento-de-79percent-dos-voos-no-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 11:38:46 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Benefícios do PIX superam custos impostos ao Brasil pelas tarifas de Trump, diz Nobel de Economia",
+      "descricao": "Joseph Stiglitz foi economista-chefe do Banco Mundial e ganhador do prêmio Nobel de Economia em 2001 AFP VIA GETTY IMAGES Para o economista americano Joseph Stiglitz, ganhador do Nobel de Economia e professor da Universidade Columbia, as tarifas impostas pelos Estados Unidos ao Brasil são motivadas por uma tentativa de punir o país por buscar maior independência digital e por resistir a pressões p",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/29/beneficios-do-pix-superam-custos-impostos-ao-brasil-pelas-tarifas-de-trump-diz-nobel-de-economia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 08:52:11 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Vacas monitoradas por IA viram garantia de empréstimos em operação inédita no Brasil",
+      "descricao": "Vacas monitoradas por IA viram garantia de empréstimos em operação inédita no Brasil Divulgação Cowmed Para quem é do campo, usar animais como garantia em empréstimos bancários não é novidade. Mas uma nova tecnologia pode tornar esse modelo mais atrativo para as instituições financeiras: o monitoramento de vacas leiteiras. O Brasil realizou a primeira operação de crédito registrada na B3 com um re",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/29/brasil-faz-primeira-operacao-usando-vacas-monitoradas-por-ia-como-garantia-para-emprestimos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 08:03:21 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Indecisão de Cleitinho e medo de governar: o que fez candidatura ao governo de Minas emperrar mesmo liderando pesquisas",
+      "descricao": "Cleitinho contradiz partido e diz que vai concorrer pelo governo de MG Líder nas pesquisas, o senador Cleitinho não será candidato ao governo de Minas Gerais por decisão do seu partido, o Republicanos. O senador, por sua vez, declarou que será candidato ao cargo. Pela legislação eleitoral, ele não pode trocar de legenda agora. A assessoria de Cleitinho ainda não informou se ele permanece no partid",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/29/indecisao-e-medo-de-governar-o-que-fez-cleitinho-nao-ser-candidato-mesmo-sendo-lider-nas-pesquisas-para-governo-de-minas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 18:25:24 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ministério recomenda veto a trechos de projeto que cria piso mínimo do frete para caminhoneiros",
+      "descricao": "Congresso aprova mudanças no piso do frete dos caminhoneiros O Ministério dos Transportes recomendou à Casa Civil o veto parcial ao Projeto de Lei de Conversão (PLV) que trata do piso mínimo do frete para caminhoneiros. O projeto tem origem na Medida Provisória (MP) do Frete, aprovada pelo Congresso Nacional no último dia 14 de julho. A pasta recomenda a retirada de seis dispositivos do texto apro",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/29/ministerio-recomenda-veto-a-trechos-de-projeto-que-cria-piso-minimo-do-frete-para-caminhoneiros.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 29 Jul 2026 15:46:55 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    }
+  ]
 }
