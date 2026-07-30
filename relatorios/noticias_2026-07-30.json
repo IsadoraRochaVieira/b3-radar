@@ -1,24 +1,66 @@
 {
-  "coletado_em": "30/07/2026 08:36",
+  "coletado_em": "30/07/2026 13:07",
   "total": 30,
-  "urgentes": 0,
+  "urgentes": 3,
   "destaque": {
-    "titulo": "Dólar cai para R$ 5,10, após juros serem mantidos nos EUA",
-    "descricao": "O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Reserve (Fed, Banco Central estadunidense) de manter os juros dos Estados Unidos entre 3,50% e 3,75%. O mercado reagiu ao tom mais moderado adotado pelo presidente da instituição, Kevin Warsh, e à divisão entre os dirigentes da autoridade monetária estadunidense. Em contrapartida, o petr",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
+    "titulo": "Apesar do Desenrola 2.0, inadimplência bancária mantém recorde em junho",
+    "descricao": "A taxa de inadimplência média total registrada pelos bancos nas operações de crédito permaneceu estável em 4,7% em junho, recorde histórico, informou nesta quinta-feira (30) o Banco Central (BC). O valor continuou no maior desde o início da série histórica revisada da autoridade monetária, em março de 2011. O indicador de inadimplência do Banco Central considera as operações com atraso superior a ",
+    "link": "https://g1.globo.com/economia/noticia/2026/07/30/mesmo-com-desenrola-20-inadimplencia-bancaria-mantem-recorde-em-junho.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
     "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 6,
-    "pub_date": "Wed, 29 Jul 2026 18:53:00 -0300",
+    "urgencia": "alta",
+    "score_relevancia": 2,
+    "pub_date": "Thu, 30 Jul 2026 11:45:03 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Câmbio / Exportadores",
-      "Todos os ativos"
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Apesar do Desenrola 2.0, inadimplência bancária mantém recorde em junho",
+      "descricao": "A taxa de inadimplência média total registrada pelos bancos nas operações de crédito permaneceu estável em 4,7% em junho, recorde histórico, informou nesta quinta-feira (30) o Banco Central (BC). O valor continuou no maior desde o início da série histórica revisada da autoridade monetária, em março de 2011. O indicador de inadimplência do Banco Central considera as operações com atraso superior a ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/30/mesmo-com-desenrola-20-inadimplencia-bancaria-mantem-recorde-em-junho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 11:45:03 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Sem novos ataques de Milei, integrantes do Itamaraty avaliam que 'tendência' é embaixador brasileiro retornar a Buenos Aires",
+      "descricao": "O presidente Lula durante reunião nesta quarta (29) com o chanceler Mauro Vieira e o embaixador do Brasil na argentina, Júlio Bitelli Thiago Dias/Presidência da República Os sinais emitidos pela diplomacia da Argentina, tentando baixar a temperatura da crise criada por Javier Milei com o Brasil, foram bem recebidos por integrantes do Ministério das Relações Exteriores. Segundo eles, assessores de ",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/30/sem-novos-ataques-de-milei-integrantes-do-itamaraty-avaliam-que-tendencia-e-embaixador-retornar-a-buenos-aires.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 15:20:45 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Juros das famílias seguem elevados e chegam a 64% ao ano, diz BC",
+      "descricao": "As Estatísticas Monetárias e de Crédito divulgadas nesta quinta-feira (30) pelo Banco Central (BC) mostram que os juros cobrados das famílias continuam altos, assim como a inadimplência e o comprometimento da renda. A taxa média de juros do crédito livre às pessoas físicas alcançou 64% ao ano em junho, com alta de 1,2 ponto percentual (p.p.) no mês e de 4,6 p.p. em 12 meses. Notícias relacionadas:",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/juros-das-familias-seguem-elevados-e-chegam-64-ao-ano-diz-bc",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 11:05:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
     {
       "titulo": "Dólar cai para R$ 5,10, após juros serem mantidos nos EUA",
       "descricao": "O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Reserve (Fed, Banco Central estadunidense) de manter os juros dos Estados Unidos entre 3,50% e 3,75%. O mercado reagiu ao tom mais moderado adotado pelo presidente da instituição, Kevin Warsh, e à divisão entre os dirigentes da autoridade monetária estadunidense. Em contrapartida, o petr",
@@ -33,22 +75,6 @@
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Câmbio / Exportadores",
         "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-      "descricao": "Futuros nos EUA avançam com balanços de tecnologia e busca por recuperação The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30072026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Thu, 30 Jul 2026 10:46:20 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -68,34 +94,18 @@
       ]
     },
     {
-      "titulo": "Morgan vê alívio para ações do Brasil após Fed, mas aponta que “limbo” não acabou",
-      "descricao": "Pausa do Fed favorece fluxo para emergentes e sustenta visão positiva para a América Latina, mas Morgan Stanley alerta que incertezas sobre inflação e juros nos EUA ainda limitam uma reprecificação mais forte da bolsa brasileira The post Morgan vê alívio para ações do Brasil após Fed, mas aponta que &#8220;limbo&#8221; não acabou appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/morgan-stanley-ve-alivio-para-acoes-do-brasil-apos-fed-mas-aponta-que-limbo-nao-acabou/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Dólar opera em queda, de olho em dados econômicos e conflito entre EUA e Irã; Ibovespa sobe",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta quinta-feira (30), com um recuo de 0,77% perto das 12h, cotado a R$ 5,0687. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 0,76% no mesmo horário, aos 175.213 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Uma série de dados econômicos do Brasil e dos Estados Unidos toma conta da age",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/30/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 4,
-      "pub_date": "Thu, 30 Jul 2026 10:40:33 +0000",
+      "pub_date": "Thu, 30 Jul 2026 12:00:12 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
         "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Ambev, Usiminas, Bradesco, Motiva, Vale e mais ações para acompanhar hoje",
-      "descricao": "Veja os principais destaques do noticiário corporativo desta quinta-feira (30) The post Ambev, Usiminas, Bradesco, Motiva, Vale e mais ações para acompanhar hoje appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ambev-usiminas-bradesco-motiva-vale-e-mais-acoes-para-acompanhar-hoje/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Thu, 30 Jul 2026 11:20:36 +0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
@@ -113,18 +123,59 @@
       ]
     },
     {
-      "titulo": "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre",
-      "descricao": "A Petrobras informou que a produção total de petróleo e gás (óleo, líquido de gás natural e gás natural) alcançou a marca recorde de 3,34 milhões (MM) barris de óleo equivalente por dia (boed) no 2º trimestre de 2026 , valor 14,1% acima do mesmo trimestre do ano passado e 3,4% acima do 1º trimestre de 2026. De acordo com a companhia, o desempenho resulta da melhoria na eficiência dos navios-plataf",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/producao-de-petroleo-e-gas-no-brasil-cresce-14-no-2o-trimestre",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 28 Jul 2026 21:32:00 -0300",
+      "titulo": "Economia da zona do euro supera EUA no 2º tri, apesar da incerteza da guerra no Irã",
+      "descricao": "A economia cresceu 1,8% em termos anualizados, superando o crescimento nos EUA, que foi de 1,5% no período The post Economia da zona do euro supera EUA no 2º tri, apesar da incerteza da guerra no Irã appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/economia-da-zona-do-euro-supera-eua-no-2o-tri-apesar-da-incerteza-da-guerra-no-ira/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 15:55:52 +0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Alta do petróleo ajuda e arrecadação federal soma R$ 264,4 bilhões em junho, novo recorde para o mês",
+      "descricao": "A arrecadação do governo federal com impostos, contribuições e demais receitas somou R$ 264,4 bilhões em junho deste ano, informou nesta quinta-feira (30) a Receita Federal. O resultado representa um aumento real de 7,7% na comparação com o mesmo mês do ano passado, quando a arrecadação somou R$ 245,5 bilhões (valor corrigido pela inflação). O valor também foi o maior já registrado para meses de j",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/30/arrecadacao-federal-soma-r-2644-bilhoes-em-junho-e-bate-recorde-para-o-mes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 14:00:09 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Eleições 2026: veja como está a corrida presidencial em 10 estados, segundo a Quaest",
+      "descricao": "Lula, Flávio Bolsonaro, Ronaldo Caiado, Romeu Zema, Renan Santos Ricardo Stuckert, Raul Spinassé, Cristiano Borges, Karoline Barreto e Reprodução As pesquisas Quaest divulgadas entre segunda-feira (27) e esta quinta-feira (30) desenham o cenário da corrida presidencial em dez estados brasileiros. Os levantamentos mostram o presidente Lula (PT), que tenta a reeleição, com vantagem no primeiro turno",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/30/eleicoes-2026-presidencial-10-estados-quaest.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 13:26:57 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ministros do STF e TSE avaliam que Nunes Marques não tem outro caminho a não ser punir Flávio Bolsonaro",
+      "descricao": "Depois de os advogados do ex-presidente Jair Bolsonaro afirmarem que ele não sabia do vídeo divulgado na convenção, ministros do Tribunal Superior Eleitoral (TSE) e do Supremo Tribunal Federal (STF) avaliam que Nunes Marques terá de punir o senador Flávio Bolsonaro, pré-candidato à Presidência da República, com multa e uma advertência para que o recurso não seja usado novamente. Afinal, dizem os m",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/30/ministros-do-stf-e-tse-avaliam-que-nunes-marques-nao-tem-outro-caminho-a-nao-ser-punir-flavio-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 30 Jul 2026 13:05:20 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -143,7 +194,7 @@
     },
     {
       "titulo": "Quaest no Ceará: Cid Gomes e Capitão Wagner aparecem à frente na disputa pelo Senado",
-      "descricao": "Candidatos ao Senado pelo Ceará Arte g1 Pesquisa Quaest divulgada nesta quinta-feira (30) mostra como está a disputa pelo Senado no Ceará. Serão duas vagas em disputa nas eleições de outubro. A Quaest traz também três cenários estimulados, em que os nomes são apresentados aos entrevistados. Neste caso, Cid Gomes aparece com 23% e Capitão Wagner aparece com 16%. Veja os números para Senado no Ceará",
+      "descricao": "Quaest para o Senado no CE: Cid Gomes e Capitão Wagner aparecem à frente na disputa Pesquisa Quaest divulgada nesta quinta-feira (30) mostra como está a disputa pelo Senado no Ceará. Serão duas vagas em disputa nas eleições de outubro. A Quaest traz também três cenários estimulados, em que os nomes são apresentados aos entrevistados. Neste caso, Cid Gomes aparece com 23% e Capitão Wagner aparece c",
       "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/07/30/quaest-ceara-senado-julho.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -156,73 +207,17 @@
       ]
     },
     {
-      "titulo": "Quaest no RS: cinco candidatos ao Senado estão tecnicamente empatados",
-      "descricao": "Em ordem: Frederico Antunes (PSD), Germano Rigotto (MDB), Manuela d'Ávila (PSOL), Marcel Van Hattem (Novo), Milton Cardoso (PSDB), Paulo Pimenta (PT), Renato Jaguarão (Cidadania) e Ubiratan Sanderson (PL). Sérgio Gonzalez/Divulgação A pesquisa Quaest divulgada nesta quinta-feira (30) mostra como está a disputa pelo Senado no Rio Grande do Sul. Serão duas vagas em disputa nas eleições de outubro. C",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/30/quaest-rs-senado-julho.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 30 Jul 2026 10:00:04 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Duas vagas para o Senado: repetir o candidato anula o 2º voto; saiba como votar e evite erros",
-      "descricao": "Urna eletrônica Giuliano Gomes/PR Press Nas eleições de 2026, os eleitores irão às urnas escolher dois representantes para o Senado. Em 2018, na última eleição em que duas vagas estavam em disputa, milhões de votos para o cargo ficaram em branco ou foram anulados. ➡️Entenda: o Senado tem 81 cadeiras, e o mandato dos senadores é de oito anos. A renovação acontece de forma alternada: em uma eleição ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/30/duas-vagas-para-o-senado-repetir-o-candidato-anula-o-2o-voto-saiba-como-votar-e-evite-erros.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 30 Jul 2026 03:00:51 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Embaixador brasileiro na Argentina se reúne com Lula e ficará no Brasil por tempo indeterminado",
-      "descricao": "Itamaraty convoca embaixador da Argentina no Brasil O embaixador do Brasil na Argentina, Júlio Bitelli, se reuniu nesta quarta-feira (29) com o presidente Luiz Inácio Lula da Silva (PT) e com o ministro das Relações Exteriores, Mauro Vieira. Após o encontro, o governo decidiu manter Bitelli no Brasil por tempo indeterminado enquanto avalia o quadro da relação com Buenos Aires. O governo quer anali",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/29/embaixador-brasileiro-na-argentina-se-reune-com-lula-e-ficara-no-brasil-por-tempo-indeterminado.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 29 Jul 2026 23:34:37 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Consumidores podem renegociar dívidas bancárias até 31 de agosto",
-      "descricao": "Programa de renegociação de dívidas de consumidores, o Desenrola Brasil 2.0 será prorrogado até 31 de agosto, anunciou nesta terça-feira (28) o ministro da Fazenda, Dario Durigan. Segundo o ministro, a decisão foi tomada em conjunto com o presidente Luiz Inácio Lula da Silva e dará mais um mês para que consumidores renegociem dívidas bancárias e regularizem a situação de crédito. Notícias relacion",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/consumidores-podem-renegociar-dividas-bancarias-ate-31-de-agosto",
+      "titulo": "Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões",
+      "descricao": "A arrecadação das receitas federais alcançou R$ 264,4 bilhões em junho deste ano, com crescimento real de 7,7% em relação ao mesmo mês de 2025, já descontada a inflação. No acumulado do primeiro semestre, as receitas somaram cerca de R$ 1,587 trilhão, avanço real de 6,6% na comparação com os seis primeiros meses do ano passado. Segundo a Receita Federal, do total arrecadado em junho, R$ 255,3 bilh",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/arrecadacao-federal-cresce-77-em-junho-e-soma-r-2644-bilhoes",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 28 Jul 2026 20:01:00 -0300",
+      "pub_date": "Thu, 30 Jul 2026 12:49:00 -0300",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Eco Invest Brasil promove quinto leilão para financiar inovação",
-      "descricao": "O Ministério da Fazenda publicou nesta terça-feira (28) o Manual Operacional do Quinto Leilão do Eco Invest Brasil , documento que reúne as regras para participação das instituições financeiras na nova rodada do programa. O edital é voltado ao financiamento de projetos de inovação tecnológica em setores considerados estratégicos para a transição ecológica e o desenvolvimento industrial do país. O ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/eco-invest-brasil-promove-quinto-leilao-para-financiar-inovacao",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 28 Jul 2026 18:04:00 -0300",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Mercado geral"
       ]
     },
     {
@@ -240,102 +235,158 @@
       ]
     },
     {
-      "titulo": "Santander Brasil (SANB11) desaba após balanço e JPMorgan rebaixa ações para neutra",
-      "descricao": "Após decepção com o 2T26, banco americano cortou estimativas de lucro e passou a enxergar retorno sobre patrimônio próximo ou abaixo do custo de capital nos próximos anos The post Santander Brasil (SANB11) desaba após balanço e JPMorgan rebaixa ações para neutra appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/santander-brasil-sanb11-desaba-apos-balanco-e-jpmorgan-rebaixa-acoes-para-neutra/",
+      "titulo": "Vivo e TIM: o que esperar para as ações das teles depois do tombo com 2T26?",
+      "descricao": "Após a forte reação negativa aos resultados do 2º trimestre, analistas seguem cautelosos com Vivo e TIM diante da intensificação da disputa no mercado de telefonia móvel The post Vivo e TIM: o que esperar para as ações das teles depois do tombo com 2T26? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/vivo-e-tim-o-que-esperar-para-as-acoes-das-teles-depois-do-tombo-com-2t26/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 30 Jul 2026 11:22:53 +0000",
+      "pub_date": "Thu, 30 Jul 2026 16:00:00 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Intelbras (INTB3) tem alta de 16% no lucro no 2T e anuncia R$ 93 mi em proventos",
-      "descricao": "Companhia registrou lucro líquido de R$ 158,3 milhões no segundo trimestre The post Intelbras (INTB3) tem alta de 16% no lucro no 2T e anuncia R$ 93 mi em proventos appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/intelbras-intb3-resultados-segundo-trimestre-2026/",
+      "titulo": "FIIs de “papel” têm retorno de até 17% em um ano; Selic pode mudar o jogo?",
+      "descricao": "Analistas explicam por que o CDI favorece os FIIs de papéis hoje e o que pode acontecer quando a Selic cair mais The post FIIs de &#8220;papel&#8221; têm retorno de até 17% em um ano; Selic pode mudar o jogo? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/fiis-de-papel-obtem-retornos-acima-de-15-selic-pode-mudar-o-jogo-veja-os-campeoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 30 Jul 2026 10:57:08 +0000",
-      "setores": [
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Lucro ajustado da Profarma sobe para R$ 31,7 mi no 2º tri",
-      "descricao": "A ​companhia apurou lucro antes de juros, impostos, ‌depreciação e ​amortização (Ebitda) ajustado de R$126,6 milhões The post Lucro ajustado da Profarma sobe para R$ 31,7 mi no 2º tri appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/profarma-pfrm3-segundo-trimestre-2026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 30 Jul 2026 10:42:56 +0000",
+      "pub_date": "Thu, 30 Jul 2026 16:00:00 +0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
-      "titulo": "Justiça impede INSS de recusar benefícios a entregadores do iFood por falta de carteira assinada",
-      "descricao": "Entregadores de aplicativos fazem protesto em frente à Câmara Municipal de São Paulo Celso Tavares/G1 Uma decisão da Justiça do Trabalho determinou que o Instituto Nacional do Seguro Social (INSS) passe a analisar, caso a caso, os pedidos de benefícios previdenciários de entregadores por aplicativo do iFood que sofrerem acidentes ou adoecerem em decorrência do trabalho. A liminar tem alcance nacio",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/30/justica-impede-inss-de-recusar-beneficios-a-entregadores-do-ifood-por-falta-de-carteira-assinada.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Samsung prevê que escassez de chips se estenderá até 2028 e anuncia novos acordos",
+      "descricao": "As ações da Samsung fecharam em queda de 0,7%, após terem chegado a subir 8,4% The post Samsung prevê que escassez de chips se estenderá até 2028 e anuncia novos acordos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/samsung-preve-que-escassez-de-chips-se-estendera-ate-2028-e-anuncia-novos-acordos/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 30 Jul 2026 06:00:14 -0000",
+      "pub_date": "Thu, 30 Jul 2026 15:57:29 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Lula chama falas de Milei em convenção do PL de 'patacoada'",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) disse nesta quarta-feira (29) que as falas do presidente argentino Javier Milei durante a convenção nacional do PL neste sábado (25) foram uma \"papaguada\". \"Vocês viram aqui a papaguada [sic] que fez aqui o presidente da Argentina. Eu não falei nada, porque a minha relação é uma relação de chefe de Estado com o Estado. E eu gosto do povo argentino e não ",
-      "link": "https://g1.globo.com/politica/noticia/2026/07/29/lula-milei-em-convencao-do-pl-de-papaguada.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Lula confirma que governo negou visto a autoridades dos EUA",
+      "descricao": "Apesar da negativa, presidente brasileiro afirmou que não deseja brigar com Donald Trump The post Lula confirma que governo negou visto a autoridades dos EUA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/lula-confirma-que-governo-negou-visto-a-autoridades-dos-eua/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 30 Jul 2026 00:13:45 -0000",
+      "pub_date": "Thu, 30 Jul 2026 15:50:26 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Geraldo Alckmin venceu a desconfiança de petistas e se consolidou como 'companheiro' de Lula, de quem foi rival em 2006",
-      "descricao": "Geraldo José Rodrigues Alckmin Filho tem 73 anos de idade e 54 de política. Já foi vereador, prefeito, deputado estadual, deputado federal, vice-governador, governador e ministro – função que acumulou com a de vice-presidente no terceiro mandato de Luiz Inácio Lula da Silva (PT). Nascido em Pindamonhangaba (SP), em 7 de novembro de 1952, o vice-presidente é formado em medicina pela Universidade de",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/29/geraldo-alckmin-venceu-a-desconfianca-de-petistas-e-se-consolidou-como-companheiro-de-lula-de-quem-foi-rival-em-2006.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Conselho de Política Energética aprova novos leilões de gás; governo prevê redução de mais de 50% no preço para indústria",
+      "descricao": "O Conselho Nacional de Política Energética (CNPE) aprovou nesta quinta-feira (30) uma resolução que muda as regras para a comercialização do gás natural pertencente à União e permite a venda direta do produto ao mercado livre por meio de leilões realizados pela Pré-Sal Petróleo S.A. (PPSA). 🔎 A PPSA é uma estatal vinculada ao Ministério de Minas e Energia responsável pela comercialização do gás na",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/30/cnpe-aprova-novos-leiloes-de-gas-da-uniao-e-governo-preve-reducao-de-mais-de-50percent-no-preco-para-industria.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 29 Jul 2026 23:13:47 -0000",
+      "pub_date": "Thu, 30 Jul 2026 15:15:55 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Copa à venda? Novo plano comercial da Fifa enfrenta resistência global",
+      "descricao": "A proximidade entre Gianni Infantino e Donald Trump alimenta questionamentos sobre conflitos de interesse no plano da Fifa de atrair investidores privados Kai Pfaffenbach/REUTERS \"Enquanto vocês dividem, nós unimos\", escreveu Gianni Infantino nas redes sociais em 27 de julho, em uma longa mensagem dirigida a seus críticos. Um dia depois, porém, o presidente da Fifa conseguiu unir diferentes setore",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/30/copa-a-venda-novo-plano-comercial-da-fifa-enfrenta-resistencia-global.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 30 Jul 2026 14:06:03 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Geraldo Alckmin é oficializado pelo PSB como candidato à vice-presidência na chapa de Lula à reeleição",
-      "descricao": "Alckmin é oficializado como candidato à vice-presidência na chapa de Lula O Partido Socialista Brasileiro (PSB) oficializou nesta quarta-feira (29), em Brasília, a candidatura de Geraldo Alckmin ao cargo de vice-presidente da República. Ele vai integrar a chapa do pré-candidato à reeleição, presidente Luiz Inácio Lula da Silva (PT), que ainda terá a candidatura oficializada pelo PT. A confirmação ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/29/geraldo-alckmin-e-oficializado-pelo-psb-como-candidato-a-vice-presidencia-na-chapa-de-lula-a-reeleicao.ghtml",
+      "titulo": "Dívida pública federal sobe 2,6% em junho e atinge R$ 9,27 trilhões, diz Tesouro Nacional",
+      "descricao": "A dívida pública federal cresceu 2,6% em junho, cerca de R$ 240 bilhões, e atingiu R$ 9,27 trilhões, informou nesta quarta-feira (29) a Secretaria do Tesouro Nacional. Em maio, o endividamento estava em R$ 9,03 trilhões. A dívida pública federal é a contraída pelo Tesouro Nacional para financiar o déficit orçamentário do governo federal, ou seja, pagar as despesas do governo acima da arrecadação c",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/30/divida-publica-sobe-26percent-em-junho-e-atinge-r-927-trilhoes-diz-tesouro-nacional.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 30 Jul 2026 13:24:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "TCU identifica irregularidades em 82% dos repasses via 'emendas Pix' analisados em auditoria",
+      "descricao": "Auditoria do Tribunal de Contas da União (TCU) que analisou uma amostra de 100 transferências por emendas Pix, entre 2020 e 2024, identificou irregularidades em 82% dos repasses fiscalizados e 82,4% dos beneficiários. As emendas foram destinadas a 73 municípios e dois estados (Pará e São Paulo). O volume de recursos auditados soma R$ 198,11 milhões. 🔎As chamadas \"emendas Pix\" foram criadas em 2019",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/30/auditoria-do-tcu-identifica-irregularidades-em-82percent-dos-repasses-via-emendas-pix.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 30 Jul 2026 12:55:56 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Associação repudia ataques de Paulo Figueiredo a jornalistas e veículos de comunicação",
+      "descricao": "Paulo Renato de Oliveira Figueiredo Filho, neto do ex-presidente da Ditadura militar João Baptista de Oliveira Figueiredo Reprodução/YouTube A Associação Brasileira de Emissoras de Rádio e Televisão (Abert) publicou na última quinta-feira (29) uma nota de repúdio contra os ataques proferidos pelo influenciador Paulo Figueiredo contra jornalistas e veículos de comunicação, principalmente \"as declar",
+      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/30/abert-paulo-figueiredo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 30 Jul 2026 12:22:26 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Lula sanciona lei que destina parte da arrecadação das bets para a Polícia Federal",
+      "descricao": "Lula sanciona lei que destina recursos das bets à Polícia Federal Reprodução/CanalGov O presidente Luiz Inácio Lula da Silva (PT) sancionou, nesta quinta-feira (30), o projeto que destina até 3% da arrecadação das apostas esportivas, as chamadas bets, ao Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal (Funapol). A lei sancionada teve origem em uma medida provisór",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/30/lula-sanciona-lei-que-destina-parte-da-arrecadacao-das-bets-para-a-policia-federal.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 29 Jul 2026 23:13:41 -0000",
+      "pub_date": "Thu, 30 Jul 2026 15:48:33 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "IGP-M tem queda de preços de 1,16% em julho, diz FGV",
+      "descricao": "O Índice Geral de Preços – Mercado (IGP-M), medido pela Fundação Getulio Vargas (FGV), teve deflação (queda de preços) de 1,16% em julho deste ano. Essa é a segunda queda consecutiva do indicador, que já havia recuado 0,50% em junho. Apesar das quedas, o indicador acumula inflação no ano (2,08%) e nos últimos 12 meses (2,76%). Em junho deste ano, o IGP-M acumulava inflação de 3,16% em 12 meses. A ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/igp-m-tem-queda-de-precos-de-116-em-julho-diz-fgv",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 30 Jul 2026 09:12:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -381,77 +432,17 @@
       ]
     },
     {
-      "titulo": "Beneficiários com NIS de final 8 recebem Bolsa Família de julho",
-      "descricao": "A Caixa Econômica Federal paga nesta quarta-feira (29) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 8. Neste mês, o valor médio do benefício está em R$ 679,19. Os moradores de 175 municípios de seis estados receberam o crédito no último dia 20, independentemente do número final do NIS. O pagamento unificado beneficiou localidades em situação d",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-8-recebem-bolsa-familia-de-julho",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 29 Jul 2026 06:50:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Acordo entre Mercosul e Singapura garante tarifa zero para exportações",
-      "descricao": "Entra em vigor a partir do próximo sábado (1º) o Acordo Mercosul-Singapura, que deverá reduzir ou eliminar gradualmente as tarifas entre o país asiático e o bloco sul americano. A parceria garante tarifa zero para 100% das exportações brasileiras destinadas ao país asiático. O texto também trará a definição de critérios comuns para as operações comerciais. Notícias relacionadas: Brasil ratifica ac",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/acordo-entre-mercosul-e-singapura-garante-tarifa-zero-para-exportacoes",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 28 Jul 2026 21:08:00 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Caged: Brasil registra menor saldo de novos empregos para junho desde 2020",
-      "descricao": "Dados do MTE mostram crescimento de 145 mil novos empregos gerados no país durante o mês",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7470368-caged-brasil-registra-menor-saldo-de-novos-empregos-para-junho-desde-2020.html",
+      "titulo": "Arrecadação federal chega a R$ 1,5 trilhão no primeiro semestre de 2026",
+      "descricao": "IRPJ e CSLL tiveram um crescimento de 5,7% no período, enquanto receitas da Previdência avançaram em 5%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7470800-arrecadacao-federal-chega-a-rs-15-trilhao-no-primeiro-semestre-de-2026.html",
       "fonte": "Correio Braziliense Economia",
       "categoria": "Brasília / DF",
       "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 29 Jul 2026 17:20:00 -0300",
+      "pub_date": "Thu, 30 Jul 2026 12:32:00 -0300",
       "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Com inflação em alta, confiança no varejo apresentou queda em julho",
-      "descricao": "Mesmo com a queda, índice da CNC que calcula otimismo no setor permanece em patamar positivo",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7470067-com-inflacao-em-alta-confianca-no-varejo-cai-em-julho.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 29 Jul 2026 13:06:00 -0300",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Benefícios do Pix superam custos impostos ao Brasil pelas tarifas de Trump, diz Nobel de Economia",
-      "descricao": "Para economista americano Joseph Stiglitz, tarifas impostas pelos EUA ao Brasil são motivadas por tentativa de punir país por buscar maior independência digital e resistir a pressões externas.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/07/7469817-beneficios-do-pix-superam-custos-impostos-ao-brasil-pelas-tarifas-de-trump-diz-nobel-de-economia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 29 Jul 2026 05:42:00 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+        "Mercado geral"
       ]
     }
   ]
