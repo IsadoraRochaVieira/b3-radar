@@ -2,8 +2,8 @@
   "data": "04/08/2026",
   "data_iso": "2026-08-04",
   "dia_semana": "Terça-feira",
-  "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 177.895 (-0.06%). Destaques: SAUD3, TIMS3, GFSA3. Semáforo: VERDE.",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 177.895 (-0.06%). Destaques: SAUD3, TIMS3, GFSA3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "16.36",
       "rsi": 42.2,
       "score": 75,
-      "porque": "RSI em 42.2 — zona de sobrevenda técnica. Score 75/100 indica pressão compradora se acumulando. Stop em R$ 13.21 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 42.2 e score de 75 pontos. Entrada em R$ 14.23 com alvo R$ 16.36."
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@
       "alvo": "21.65",
       "rsi": 24.2,
       "score": 65,
-      "porque": "RSI em 24.2 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 17.36 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 24.2 e score de 65 pontos. Entrada em R$ 18.83 com alvo R$ 21.65."
     },
     {
       "rank": 3,
@@ -40,7 +40,7 @@
       "alvo": "0.29",
       "rsi": 17.4,
       "score": 60,
-      "porque": "RSI em 17.4 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 0.11 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 17.4 e score de 60 pontos. Entrada em R$ 0.25 com alvo R$ 0.29."
     },
     {
       "rank": 4,
@@ -64,7 +64,7 @@
       "alvo": "16.03",
       "rsi": 33.4,
       "score": 60,
-      "porque": "RSI em 33.4 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 12.85 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 33.4 e score de 60 pontos. Entrada em R$ 13.94 com alvo R$ 16.03."
     },
     {
       "rank": 6,
