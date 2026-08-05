@@ -2,8 +2,8 @@
   "data": "05/08/2026",
   "data_iso": "2026-08-05",
   "dia_semana": "Quarta-feira",
-  "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 178.504 (+0.34%). Destaques: SAUD3, TIMS3, PSSA3. Semáforo: VERDE.",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 178.504 (+0.34%). Destaques: SAUD3, TIMS3, PSSA3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -34,13 +34,13 @@
       "rank": 3,
       "ticker": "PSSA3",
       "acao": "OBSERVAR",
-      "preco": "53.65",
-      "entrada": "53.65",
-      "stop": "51.18",
-      "alvo": "61.7",
-      "rsi": 49.4,
+      "preco": "53.69",
+      "entrada": "53.69",
+      "stop": "51.22",
+      "alvo": "61.74",
+      "rsi": 49.6,
       "score": 55,
-      "porque": "RSI em 49.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 53.65."
+      "porque": "RSI em 49.6 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 53.69."
     },
     {
       "rank": 4,
