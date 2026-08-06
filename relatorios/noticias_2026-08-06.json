@@ -1,38 +1,50 @@
 {
-  "coletado_em": "06/08/2026 08:36",
+  "coletado_em": "06/08/2026 13:05",
   "total": 30,
-  "urgentes": 0,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026",
-    "descricao": "O mercado financeiro reduziu as expectativas para os índices de inflação e, pela primeira vez desde março, da taxa básica de juros. Segundo o Boletim Focus, divulgado nesta segunda-feira (3) pelo Banco Central (BC), a Selic deve fechar 2026 em 13,75%. As projeções para a economia (PIB, Produto Interno Bruto) e o câmbio (dólar) neste ano vêm se mantendo estáveis há pelo menos cinco semanas, em 1,99",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pela-1a-vez-desde-marco-mercado-reduz-expectativa-para-selic-em-2026",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
+    "titulo": "Presidente do Itaú vê calotes em alta enquanto taxas seguirem elevadas: 'Não há quem defenda juros nesse patamar'",
+    "descricao": "Milton Maluhy Filho assume presidência do Itaú Unibanco Divulgação O presidente do Itaú Unibanco, Milton Maluhy Filho, afirmou nesta quinta-feira (5) que os juros brasileiros seguem elevados e devem continuar a se refletir em altos níveis de inadimplência e a impactar o orçamento das famílias. \"Não há quem defensa juros nesse patamar. O juro real [descontado a inflação] no Brasil, hoje, é muito al",
+    "link": "https://g1.globo.com/economia/noticia/2026/08/06/presidente-do-itau.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
     "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 9,
-    "pub_date": "Mon, 03 Aug 2026 10:31:00 -0300",
+    "urgencia": "alta",
+    "score_relevancia": 5,
+    "pub_date": "Thu, 06 Aug 2026 13:41:41 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Telecom (VIVT3, TIMS3)",
-      "Câmbio / Exportadores"
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
     ]
   },
   "noticias": [
     {
-      "titulo": "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026",
-      "descricao": "O mercado financeiro reduziu as expectativas para os índices de inflação e, pela primeira vez desde março, da taxa básica de juros. Segundo o Boletim Focus, divulgado nesta segunda-feira (3) pelo Banco Central (BC), a Selic deve fechar 2026 em 13,75%. As projeções para a economia (PIB, Produto Interno Bruto) e o câmbio (dólar) neste ano vêm se mantendo estáveis há pelo menos cinco semanas, em 1,99",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pela-1a-vez-desde-marco-mercado-reduz-expectativa-para-selic-em-2026",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Presidente do Itaú vê calotes em alta enquanto taxas seguirem elevadas: 'Não há quem defenda juros nesse patamar'",
+      "descricao": "Milton Maluhy Filho assume presidência do Itaú Unibanco Divulgação O presidente do Itaú Unibanco, Milton Maluhy Filho, afirmou nesta quinta-feira (5) que os juros brasileiros seguem elevados e devem continuar a se refletir em altos níveis de inadimplência e a impactar o orçamento das famílias. \"Não há quem defensa juros nesse patamar. O juro real [descontado a inflação] no Brasil, hoje, é muito al",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/06/presidente-do-itau.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 5,
+      "pub_date": "Thu, 06 Aug 2026 13:41:41 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Dólar e Ibovespa operam em queda após Copom reduzir juros ao menor patamar desde março de 2025",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta quinta-feira (6), e tinha um recuo de 0,51% perto das 12h30, cotado a R$ 5,1021. O Ibovespa, principal índice da bolsa brasileira, tinha perdas de 0,65% no mesmo horário, aos 176.572 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Investidores repercutem nesta quinta-feira a nova decisão e juros do Banco",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/06/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 9,
-      "pub_date": "Mon, 03 Aug 2026 10:31:00 -0300",
+      "score_relevancia": 6,
+      "pub_date": "Thu, 06 Aug 2026 12:00:08 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
+        "Câmbio / Exportadores",
+        "Todos os ativos"
       ]
     },
     {
@@ -65,66 +77,6 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-      "descricao": "Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06082026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Thu, 06 Aug 2026 11:24:36 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "O que é a taxa Selic — e como ela afeta juros, emprego e investimentos",
-      "descricao": "Como a Selic mexe com tudo na sua vida A Selic é a taxa básica de juros da economia brasileira. A sigla significa “Sistema Especial de Liquidação e de Custódia”, mas, na prática, representa os juros cobrados entre bancos e serve de referência para diversas taxas aplicadas ao consumidor. Nesta quarta-feira (5), o Comitê de Política Monetária (Copom) do Banco Central (BC) decidiu reduzir a taxa em 0",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/08/05/o-que-e-a-taxa-selic.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Wed, 05 Aug 2026 21:53:51 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Apesar de corte na Selic, Brasil tem o maior juro real do mundo; veja ranking",
-      "descricao": "Como a Selic mexe com tudo na sua vida O Brasil tem o maior juro real do mundo mesmo após o Comitê de Política Monetária (Copom) do Banco Central (BC) reduzir a taxa Selic em 0,25 ponto percentual, para 14% ao ano, em decisão anunciada nesta quarta-feira (5). 🔎 O juro real é formado, entre outros pontos, pela taxa de juros nominal subtraída da inflação prevista para os próximos 12 meses. Assim, se",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/05/ranking-juro-real-agosto.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Wed, 05 Aug 2026 21:34:10 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Selic: Copom reduz taxa básica de juros para 14% ao ano",
-      "descricao": "O Comitê de Política Monetária (Copom) do Banco Central (BC) decidiu, nesta quarta-feira (5), reduzir a taxa básica de juros da economia em 0,25 ponto percentual, levando a Selic de 14,25% para 14% ao ano. Este é o quarto corte consecutivo da taxa. A decisão foi unânime. Copom reduz taxa de juros para 14% ao ano No comunicado, o comitê afirma que \"entende que essa decisão é compatível com a estrat",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/05/selic-copom-reduz-taxa-basica-de-juros-para-14percent-ao-ano.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Wed, 05 Aug 2026 21:34:09 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
       "titulo": "Copom inicia reunião que definirá taxa básica de juros",
       "descricao": "Começa nesta terça-feira (4) a quinta reunião de 2026 do Comitê de Política Monetária (Copom) do Banco Central (BC). As expectativas são de que a decisão sobre a Taxa Selic seja anunciada dia 5 de agosto, após os dois dias de discussões do grupo sobre o cenário econômico nacional e internacional. O Copom reúne-se a cada 45 dias. No primeiro dia do encontro, são feitas apresentações técnicas sobre ",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/copom-inicia-reuniao-que-definira-taxa-basica-de-juros",
@@ -154,6 +106,34 @@
       ]
     },
     {
+      "titulo": "Durigan admite preocupação com trajetória da dívida e fala em redução de benefícios e controle de gastos para melhorar contas",
+      "descricao": "O ministro da Fazenda, Dario Durigan, admitiu nesta quinta-feira (6) uma preocupação com a expectativa de crescimento da dívida pública brasileira, que já avançou mais de 10 pontos no atual mandato do presidente Luiz Inácio Lula da Silva e atingiu o maior nível desde 2021. Em entrevista exclusiva à GloboNews, ele afirmou que o governo federal continuará tentando, se reeleito, melhorar o perfil das",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/06/durigan-admite-preocupacao-com-trajetoria-da-divida-e-fala-em-reducao-de-beneficios-e-controle-de-gastos-para-melhorar-contas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Thu, 06 Aug 2026 14:13:29 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Bets tiraram R$ 62,5 bilhões das famílias brasileiras em 2025, aponta estudo",
+      "descricao": "Entenda como vai funcionar o alerta em publicidade de bets As apostas online, conhecidas como bets, provocaram uma saída líquida de R$ 62,5 bilhões do orçamento das famílias brasileiras em 2025, segundo a terceira edição do Boletim Fiscal dos Estados Brasileiros. O estudo foi elaborado pelo Comitê Nacional de Secretários de Fazenda dos Estados e do Distrito Federal (Comsefaz) em parceria com o Cen",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/06/bets-tiraram-r-625-bilhoes-das-familias-brasileiras-em-2025-aponta-estudo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Thu, 06 Aug 2026 13:19:54 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
       "titulo": "Emissão de notas fiscais com CBS e IBS começa nesta segunda-feira",
       "descricao": "Começa a valer nesta segunda-feira (3) a obrigatoriedade de preenchimento dos campos da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS) em parte dos documentos fiscais eletrônicos emitidos no país. A medida integra a implementação da reforma tributária sobre o consumo e alcança, nesta primeira etapa, documentos como a Nota Fiscal Eletrônica (NF-e) e a Nota Fiscal ",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/emissao-de-notas-fiscais-com-cbs-e-ibs-comeca-nesta-segunda-feira",
@@ -169,31 +149,59 @@
       ]
     },
     {
-      "titulo": "Se ir ao mercado já pesa no bolso, cenário deve piorar; ONU prevê alta dos alimentos até o fim de 2026",
-      "descricao": "Dia dos Pais: Procon reforça orientações para evitar problemas durante compras O mundo pode enfrentar uma nova onda de inflação dos alimentos, impulsionada pela combinação da guerra entre Irã e Israel, do conflito na Ucrânia e dos efeitos do El Niño sobre a produção agrícola. O alerta é de Máximo Torero, economista-chefe da Organização das Nações Unidas para a Alimentação e Agricultura (FAO), que ",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/05/se-ir-ao-mercado-ja-pesa-no-bolso-cenario-deve-piorar-onu-preve-alta-dos-alimentos-ate-o-fim-de-2026.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 05 Aug 2026 16:52:52 -0000",
+      "titulo": "Copom corta juros a 14% ao ano e mantém cautela nos próximos",
+      "descricao": "Taxa Selic tem quarto corte consecutivo no ano, mas B mantém cautela e evita sinalizar novo corte na reunião de setembro",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7474755-copom-corta-juros-a-14-ao-ano-e-mantem-cautela-nos-proximos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Thu, 6 Aug 2026 03:28:00 -0300",
       "setores": [
-        "Mercado geral"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
-      "titulo": "Veja quem são os candidatos a senador no Amazonas em 2026",
-      "descricao": "Senado Federal - plenário Ton Molina/Agência Senado A disputa pelas duas vagas do Amazonas para o Senado Federal tem, até o dia 5 de agosto, oito nomes confirmados como candidatos nas eleições 2026. São eles: Capitão Alberto Neto; Eduardo Braga; Evandro de Oliveira; Ismael Munduruku; Professora Evany; Plínio Valério; Wilson Lima Xuxa do Amazonas Após a realização das convenções, sujo prazo termina",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-senador-no-amazonas-em-2026.ghtml",
+      "titulo": "Eleições 2026: veja quem são os candidatos a presidente e seus vices",
+      "descricao": "Urna eletrônica exibida em evento do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), no Rio Tânia Rêgo/Agência Brasil As eleições de 2026 já têm a maior parte das chapas à Presidência da República definida. As convenções partidárias foram realizadas entre 20 de julho e 5 de agosto, quando os partidos oficializaram seus candidatos e, na maioria dos casos, também anunciaram os nomes para a v",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/eleicoes-2026-veja-quem-sao-os-candidatos-a-presidente-e-seus-vices.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Thu, 06 Aug 2026 08:02:08 -0000",
+      "pub_date": "Thu, 06 Aug 2026 15:20:42 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "g1 e GloboNews entrevistam Romeu Zema, candidato à Presidência pelo Novo",
+      "descricao": "g1 e GloboNews entrevistam Romeu Zema, candidato à Presidência pelo Novo Romeu Zema, candidato à Presidência pelo partido Novo, é o segundo entrevistado pelo g1 e pela GloboNews.. Na quarta-feira (5), Renan Santos (Missão) abriu a série de entrevistas com os presidenciáveis. Na sexta (7), será a vez de Ronaldo Caiado (PSD).. O presidente Lula (PT) recusou o convite para participar, e o senador Flá",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/zema-entrevista-g1-globonews.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 06 Aug 2026 14:47:27 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Durigan diz que aumento da dívida decorre dos juros, não dos gastos",
+      "descricao": "O ministro da Fazenda, Dario Durigan, disse que o aumento da dívida brasileira não se deve ao aumento de gastos, e sim aos juros altos que são cobrados no país. Segundo ele, isso ocorre por conta da necessidade de o governo pagar dívidas antigas com títulos novos, o que implica em mais pagamento de juros. A declaração do ministro em entrevista à Globonews nesta quinta-feira (6). Ele explicou que, ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-diz-que-aumento-da-divida-decorre-dos-juros-nao-dos-gastos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 06 Aug 2026 11:54:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -211,59 +219,157 @@
       ]
     },
     {
-      "titulo": "Infantino pede desculpas, reconhece erros e tenta fim à turbulência de sua gestão",
-      "descricao": "Presidente reconhece erros na condução do projeto que previa venda de participação em torneios, obtém apoio da cúpula da entidade e tenta conter rebelião às vésperas da eleição de 2027 The post Infantino pede desculpas, reconhece erros e tenta fim à turbulência de sua gestão appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/esportes/fifa-infantino-pede-desculpas-reconhece-erros-e-tenta-fim-a-turbulencia-de-sua-gestao/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Durigan diz que governo não gasta mais do que arrecada e culpa juros por endividamento",
+      "descricao": "O ministro da Fazenda demonstrou preocupação com trajetória da dívida e afirmou que governo Lula estuda reduzir benefícios para melhorar as contas",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7475010-durigan-diz-que-governo-nao-gasta-mais-do-que-arrecada-e-culpa-juros-por-endividamento.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 11:36:35 +0000",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 6 Aug 2026 12:18:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Lula sanciona MP do Frete com piso a caminhoneiros autônomos",
+      "descricao": "Iniciativa do governo federal, medida passou por alterações no Congresso, que retirou o valor mínimo de R$ 5 mil na remuneração de caminhoneiros. ANTT definirá novo piso",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7474617-lula-sanciona-mp-do-frete-com-piso-a-caminhoneiros-autonomos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 5 Aug 2026 19:30:00 -0300",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Bolsas da Ásia caem majoritariamente; Kospi volta a ser derrubado por semicondutores",
-      "descricao": "O índice sul-coreano Kospi caiu 4,58% em Seul, para 6.296,38 pontos, com tombos da SK Hynix (-10,4%) e da Samsung Electronics (-6,3%) The post Bolsas da Ásia caem majoritariamente; Kospi volta a ser derrubado por semicondutores appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/bolsas-da-asia-caem-majoritariamente-kospi-volta-a-ser-derrubado-por-semicondutores/",
+      "titulo": "Totvs lançará serviços de IA integrados que trarão vantagem competitiva, diz CEO",
+      "descricao": "Executivo destacou ​que a infraestrutura tecnológica da Lynn, da qual a Totvs é proprietária, ​ajudará a melhorar cada vez mais a eficiência The post Totvs lançará serviços de IA integrados que trarão vantagem competitiva, diz CEO appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/totvs-lancara-servicos-de-ia-integrados-que-trarao-vantagem-competitiva-diz-ceo/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 11:26:01 +0000",
+      "pub_date": "Thu, 06 Aug 2026 15:58:48 +0000",
       "setores": [
-        "Todos os ativos"
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
-      "titulo": "Equatorial recebe aval do Cade para comprar 30% da Copasa",
-      "descricao": "As ações foram alienadas pelo Estado de Minas Gerais The post Equatorial recebe aval do Cade para comprar 30% da Copasa appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/equatorial-recebe-aval-do-cade-para-comprar-30-da-copasa/",
+      "titulo": "Tarifas, visto de embaixadora e guerra: o que pode entrar na conversa de Lula e Trump",
+      "descricao": "Presidente sinalizou a aliados de partidos da esquerda, nesta quarta-feira, que buscaria falar com o americano na próxima semana The post Tarifas, visto de embaixadora e guerra: o que pode entrar na conversa de Lula e Trump appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/tarifas-visto-de-embaixadora-e-guerra-o-que-pode-entrar-na-conversa-de-lula-e-trump/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 11:22:59 +0000",
+      "pub_date": "Thu, 06 Aug 2026 15:58:09 +0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Entenda as negociações entre Irã e Omã sobre o Estreito de Ormuz",
+      "descricao": "Desde o início do conflito no Oriente Médio, em fevereiro, o estreito enfrenta restrições à navegação após um bloqueio iraniano imposto em resposta a ataques americanos The post Entenda as negociações entre Irã e Omã sobre o Estreito de Ormuz appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/entenda-as-negociacoes-entre-ira-e-oma-sobre-o-estreito-de-ormuz/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 06 Aug 2026 15:53:57 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Lula sinaliza a aliados que vai procurar Trump na próxima semana",
-      "descricao": "Em reunião no Alvorada, presidente disse ter falado nos últimos dias com os presidentes da China, Xi JinPing, e da Rússia, Vladimir Putin, e que também procuraria americano The post Lula sinaliza a aliados que vai procurar Trump na próxima semana appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-sinaliza-a-aliados-que-vai-procurar-trump-na-proxima-semana/",
+      "titulo": "Vice-presidente do PT diz que Lulinha vive em “condições precárias” na Espanha",
+      "descricao": "Segundo Washington Quaquá, Fábio Luís Lula da Silva não se beneficia da condição do pai para ficar rico The post Vice-presidente do PT diz que Lulinha vive em &#8220;condições precárias&#8221; na Espanha appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/quaqua-diz-que-lulinha-vive-em-condicoes-precarias-na-espanha/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 11:22:10 +0000",
+      "pub_date": "Thu, 06 Aug 2026 15:50:55 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Axia Energia prioriza resgate de ações como forma de remunerar acionistas, diz CFO",
+      "descricao": "Os resgates das ações preferenciais classe C (PNCs) ⁠funcionam como uma espécie de programa de recompra The post Axia Energia prioriza resgate de ações como forma de remunerar acionistas, diz CFO appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/axia-energia-prioriza-resgate-de-acoes-como-forma-de-remunerar-acionistas-diz-cfo/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 06 Aug 2026 15:50:40 +0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Moraes marca audiência pública para discutir constitucionalidade da Lei Antifacção",
+      "descricao": "O debate antecede a análise dos pedidos de medida cautelar e o julgamento do mérito das ações que questionam a norma The post Moraes marca audiência pública para discutir constitucionalidade da Lei Antifacção appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/moraes-marca-audiencia-publica-para-discutir-constitucionalidade-da-lei-antifaccao/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 06 Aug 2026 15:48:05 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "ConocoPhillips tem lucro de US$ 3,9 bi no 2º tri, impulsionado por alta do petróleo",
+      "descricao": "O lucro ajustado por ação foi de US$ 3,24, acima do consenso de US$ 2,90 de analistas consultados pela FactSet The post ConocoPhillips tem lucro de US$ 3,9 bi no 2º tri, impulsionado por alta do petróleo appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/conocophillips-tem-lucro-de-us-39-bi-no-2o-tri-impulsionado-por-alta-do-petroleo/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 06 Aug 2026 15:47:26 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Aliados de Trump e democratas criticam resposta da Casa Branca após ataques de IA",
+      "descricao": "Donald Trump anunciou o plano de infraestrutura para inteligência artificial nos EUA. Ao lado dele estão Masayoshi Son, CEO do SoftBank, Larry Ellison, cofundador da Oracle, e Sam Altman, da OpenAI AP/Julia Nikhinson Em uma rara demonstração de convergência, democratas e aliados conservadores de Donald Trump criticam a resposta limitada da Casa Branca aos recentes ataques realizados por agentes de",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/06/aliados-de-trump-e-democratas-criticam-resposta-da-casa-branca-apos-ataques-de-ia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 06 Aug 2026 14:21:27 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Comitê dos estados estima futuro imposto sobre o consumo brasileiro de 28% em 2033; taxa supera a dos países da OCDE",
+      "descricao": "O Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) estimou que a alíquota dos futuros impostos sobre o consumo do governo federal, estados e municípios somará cerca de 28% em 2033, o primeiro ano com tributação cheia, conforme a regra da reforma tributária aprovada em 2024. Esse será o nível necessário para manter a atual carga tributária sobre o consumo, ou seja, o peso dos impostos sobre e",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/06/comite-dos-estados-estima-futuro-imposto-sobre-o-consumo-brasileiro-de-28percent-em-2033-taxa-supera-a-dos-paises-da-ocde.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 06 Aug 2026 11:36:48 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
@@ -312,144 +418,31 @@
       ]
     },
     {
-      "titulo": "Produção de carne bovina do Brasil deve cair em 2026 em meio a tarifas, barreiras comerciais e incertezas no mercado global",
-      "descricao": "Currais em São Paulo usam biometria facial em bois O setor de carne bovina brasileiro deve enfrentar um cenário internacional bem mais desafiador ao longo de 2026. A combinação de conflitos geopolíticos, imposição de novas tarifas e barreiras comerciais no exterior tem criado obstáculos adicionais para a cadeia produtiva, segundo avalia o presidente da Associação Brasileira das Indústrias Exportad",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/05/producao-de-carne-bovina-do-brasil-deve-cair-em-2026-em-meio-a-tarifas-barreiras-comerciais-e-incertezas-no-mercado-global.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 05 Aug 2026 13:53:12 -0000",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
-      ]
-    },
-    {
-      "titulo": "França condena dois streamers após morte de influenciador durante transmissão ao vivo; relembre o caso",
-      "descricao": "Raphaël Graven, streamer conhecido como Jean Pormanove, morreu durante live na Kick Divulgação; X/@JeanPormanove O tribunal criminal de Nice, na França, condenou nesta quarta-feira (5) os streamers Naruto e Safine a penas de prisão suspensas, multas e a um “banimento digital” de seis meses por atos de violência e humilhações online que antecederam a morte do influenciador Jean Pormanove, em agosto",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/05/franca-condena-dois-streamers-apos-morte-de-influenciador-durante-transmissao-ao-vivo-relembre-o-caso.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 05 Aug 2026 12:50:07 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "IA da Anthropic cria identidades falsas para enganar humanos em novo teste de segurança",
-      "descricao": "Por que tanta gente está falando do Claude? Conheça a IA mais perigosa do mundo O modelo de inteligência artificial Claude Mythos 5, da Anthropic, considerado um dos modelos de IA mais perigosos do mundo, criou identidades falsas para tentar convencer um desenvolvedor a aprovar alterações maliciosas em um projeto de código aberto durante um teste de segurança cibernética. O caso foi divulgado pelo",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/05/ia-da-anthropic-cria-identidades-falsas-para-enganar-humanos-em-novo-teste-de-seguranca.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 05 Aug 2026 12:29:08 -0000",
-      "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Veja quem são os candidatos a governador no Espírito Santo em 2026",
-      "descricao": "Foram anunciados candidatos ao governo do Espírito Santo em 2026: Breno Barcelos (Missão), Helder Salomão (PT), Lorenzo Pazolini (Republicanos), Rafael Demuner (UP) e Ricardo Ferraço (MDB) Reprodução A disputa pelo governo do Espírito Santo tem cinco nomes confirmados como candidatos nas Eleições 2026, após a realização das convenções partidárias. São eles: Breno Barcelos (Missão) Helder Salomão (",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-governador-no-espirito-santo-em-2026.ghtml",
+      "titulo": "Lula prorroga até 2030 acesso de Santas Casas e hospitais filantrópicos a crédito com recursos do FGTS",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quinta-feira (6) um projeto de lei que retoma o uso de recursos do Fundo de Garantia do Tempo de Serviço (FGTS) em linhas de crédito destinadas a hospitais filantrópicos, Santas Casas e outras instituições sem fins lucrativos que prestam atendimento ao Sistema Único de Saúde (SUS). Na prática, a lei permite que essas instituições tenham a",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/06/lula-prorroga-ate-2030-acesso-de-santas-casas-e-hospitais-filantropicos-a-credito-com-recursos-do-fgts.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 10:55:17 -0000",
+      "pub_date": "Thu, 06 Aug 2026 15:49:41 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
-      "titulo": "Veja quem são os candidatos a vice-governador no Amazonas em 2026",
-      "descricao": "Sede do Governo do Amazonas - Bruno Zanardo/Secom A disputa pelo cargo de vice-governador do Amazonas tem sete nomes confirmados como candidatos nas eleições 2026. São eles: Alessandra Campêlo; Coronel Aníbal; Juliana Frota; Leo Balbi Shádia fraxe; Serafim Corrêa; Igor Oliveira. Após as convenções, as legendas têm o prazo até o dia 15 de agosto para a inscrição das chapas que vão concorrer às elei",
-      "link": "https://g1.globo.com/politica/eleicoes/2016/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-vice-governador-no-amazonas-em-2026.ghtml",
+      "titulo": "Superintendentes da PF defendem diretor-geral após polêmica no STF",
+      "descricao": "Andrei Rodrigues, diretor-geral da PF Andressa Anholete/Agência Senado Os 27 superintendentes regionais da Polícia Federal divulgaram nesta quinta-feira (6) uma nota conjunta em que defendem o diretor-geral da corporação, Andrei Rodrigues. Eles também reafirmam o compromisso da instituição com a Constituição, a legalidade e o Estado Democrático de Direito. O documento surge em um cenário de forte ",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/06/superintendentes-da-pf-nota-stf.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 08:02:07 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Veja quem são os candidatos a governador no Amazonas em 2026",
-      "descricao": "Candidatos ao Governo do Amazonas. Reprodução/Redes Sociais A disputa pelo governo do Amazonas tem sete nomes confirmados, após a realização das convenções partidárias, como candidatos nas eleições 2026. São eles: David Almeida (Avante); Gilberto Vasconcelos (PSTU); Isael Munduruku (Rede); Maria do Carmo (PL); Omar Aziz (PSD); Roberto Cidade (União Brasil); Cabo Daciolo (Mobiliza). Após as convenç",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-governador-no-amazonas-em-2026.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 08:02:06 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Aprovação e desaprovação de Lula: veja números da Quaest por renda, sexo, religião, região e posicionamento político",
-      "descricao": "Quaest: números da corrida presidencial e avaliação do governo Lula Os dados da pesquisa Quaest de agosto, divulgada nesta quarta-feira (5), sobre a aprovação do governo Lula (PT), candidato à reeleição, mostram variações no desempenho entre diferentes segmentos do eleitorado. Em alguns grupos, a aprovação cresceu ao nos últimos 4 meses, enquanto em outros a desaprovação continua predominante. Em ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/06/aprovacao-e-desaprovacao-de-lula-veja-numeros-da-quaest-por-renda-sexo-religiao-regiao-e-posicionamento-politico.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 03:00:37 -0000",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Entenda o peso das alianças partidárias para Lula e Flávio Bolsonaro nas eleições de 2026",
-      "descricao": "Lula e Flávio Bolsonaro terão distribuição distinta de tempo de propaganda eleitoral gratuita na TV e no rádio Arte g1 Apesar de o período oficial das campanhas eleitorais ainda não ter começado oficialmente, a disputa presidencial já ganhou forma a partir de um aspecto muito importante: as alianças partidárias. Além de fortalecer palanques locais e atrair mais votos, a união entre partidos impact",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/06/entenda-aliancas-partidarias-lula-e-flavio-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 03:00:36 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "STJ deve decidir nesta quinta se pune Marco Buzzi por assédio; punição pode chegar à demissão",
-      "descricao": "O Superior Tribunal de Justiça (STJ) deve decidir nesta quinta-feira (6) se o ministro Marco Buzzi deve ser punido ou não pelas acusações de assédio e importunação sexual contra duas mulheres, além de injúria. LEIA TAMBÉM: Quem é o ministro do STJ Marco Buzzi, investigado em casos de venda de sentenças e assédio sexual. A comissão interna que apurou o caso deve recomendar a aplicação da pena de di",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/06/stj-deve-decidir-nesta-quinta-se-pune-marco-buzzi-por-assedio-punicao-pode-chegar-a-demissao.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 03:00:19 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Flávio diz que teve duas filhas para que elas cuidem dele na velhice",
-      "descricao": "Flávio Bolsonaro diz que teve duas filhas para que elas cuidem dele na velhice O pré-candidato à Presidência da República, o senador Flávio Bolsonaro (PL-RJ), disse nesta quarta-feira (5) que teve duas filhas mulheres para que elas cuidem dele na velhice (veja vídeo acima). \"Muitas vezes, na grande parte das vezes, quem tem que tomar conta dos idosos são as mulheres. Eu fiz duas filhas exatamente ",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/05/flavio-diz-que-fez-duas-filhas-para-que-elas-cuidem-dele-na-velhice.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 06 Aug 2026 00:01:20 -0000",
+      "pub_date": "Thu, 06 Aug 2026 12:43:27 -0000",
       "setores": [
         "Mercado geral"
       ]
