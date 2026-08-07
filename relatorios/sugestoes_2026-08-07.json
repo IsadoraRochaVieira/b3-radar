@@ -1,0 +1,130 @@
+{
+  "data": "07/08/2026",
+  "data_iso": "2026-08-07",
+  "dia_semana": "Sexta-feira",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 175.546 (-1.23%). Destaques: VLID3, BBAS3, ITUB4. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "VLID3",
+      "acao": "COMPRAR",
+      "preco": "17.39",
+      "entrada": "17.39",
+      "stop": "16.45",
+      "alvo": "20.0",
+      "rsi": 41.9,
+      "score": 80,
+      "porque": "Análise técnica aponta reversão com RSI 41.9 e score de 80 pontos. Entrada em R$ 17.39 com alvo R$ 20.0."
+    },
+    {
+      "rank": 2,
+      "ticker": "BBAS3",
+      "acao": "COMPRAR",
+      "preco": "20.28",
+      "entrada": "20.28",
+      "stop": "19.31",
+      "alvo": "23.32",
+      "rsi": 45.4,
+      "score": 70,
+      "porque": "RSI em 45.4 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 19.31 limita risco."
+    },
+    {
+      "rank": 3,
+      "ticker": "ITUB4",
+      "acao": "COMPRAR",
+      "preco": "41.83",
+      "entrada": "41.83",
+      "stop": "39.99",
+      "alvo": "48.1",
+      "rsi": 46.5,
+      "score": 65,
+      "porque": "RSI em 46.5 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 39.99 limita risco."
+    },
+    {
+      "rank": 4,
+      "ticker": "ITSA4",
+      "acao": "COMPRAR",
+      "preco": "13.51",
+      "entrada": "13.51",
+      "stop": "12.94",
+      "alvo": "15.54",
+      "rsi": 47.8,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 47.8 e score de 65 pontos. Entrada em R$ 13.51 com alvo R$ 15.54."
+    },
+    {
+      "rank": 5,
+      "ticker": "PSSA3",
+      "acao": "COMPRAR",
+      "preco": "52.65",
+      "entrada": "52.65",
+      "stop": "50.23",
+      "alvo": "60.55",
+      "rsi": 44.1,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 44.1 e score de 65 pontos. Entrada em R$ 52.65 com alvo R$ 60.55."
+    },
+    {
+      "rank": 6,
+      "ticker": "KEPL3",
+      "acao": "COMPRAR",
+      "preco": "6.1",
+      "entrada": "6.1",
+      "stop": "5.79",
+      "alvo": "7.01",
+      "rsi": 31.4,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 31.4 e score de 65 pontos. Entrada em R$ 6.1 com alvo R$ 7.01."
+    },
+    {
+      "rank": 7,
+      "ticker": "BBDC4",
+      "acao": "OBSERVAR",
+      "preco": "17.7",
+      "entrada": "17.7",
+      "stop": "16.85",
+      "alvo": "20.35",
+      "rsi": 39.9,
+      "score": 55,
+      "porque": "RSI em 39.9 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 17.7."
+    },
+    {
+      "rank": 8,
+      "ticker": "SMFT3",
+      "acao": "OBSERVAR",
+      "preco": "18.38",
+      "entrada": "18.38",
+      "stop": "16.98",
+      "alvo": "21.14",
+      "rsi": 36.4,
+      "score": 55,
+      "porque": "RSI em 36.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 18.38."
+    },
+    {
+      "rank": 9,
+      "ticker": "TIMS3",
+      "acao": "OBSERVAR",
+      "preco": "18.9",
+      "entrada": "18.9",
+      "stop": "17.54",
+      "alvo": "21.73",
+      "rsi": 26.9,
+      "score": 55,
+      "porque": "RSI em 26.9 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 18.9."
+    },
+    {
+      "rank": 10,
+      "ticker": "GRND3",
+      "acao": "OBSERVAR",
+      "preco": "3.54",
+      "entrada": "3.54",
+      "stop": "3.36",
+      "alvo": "4.07",
+      "rsi": 30.4,
+      "score": 55,
+      "porque": "RSI em 30.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 3.54."
+    }
+  ]
+}
