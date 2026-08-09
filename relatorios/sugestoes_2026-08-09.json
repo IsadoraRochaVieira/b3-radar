@@ -2,8 +2,8 @@
   "data": "09/08/2026",
   "data_iso": "2026-08-09",
   "dia_semana": "Domingo",
-  "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 172.513 (-1.73%). Destaques: WIZC3, CMIG4, SMFT3. Semáforo: AMARELO.",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 172.513 (-1.73%). Destaques: WIZC3, CMIG4, SMFT3. Semáforo: AMARELO.",
   "semaforo": "amarelo",
   "sugestoes": [
     {
@@ -28,7 +28,7 @@
       "alvo": "12.56",
       "rsi": 44.1,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 44.1 e score de 65 pontos. Entrada em R$ 10.92 com alvo R$ 12.56."
+      "porque": "RSI em 44.1 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 10.48 limita risco."
     },
     {
       "rank": 3,
@@ -40,7 +40,7 @@
       "alvo": "20.87",
       "rsi": 34.9,
       "score": 65,
-      "porque": "RSI em 34.9 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 16.77 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 34.9 e score de 65 pontos. Entrada em R$ 18.15 com alvo R$ 20.87."
     },
     {
       "rank": 4,
@@ -52,7 +52,7 @@
       "alvo": "44.14",
       "rsi": 48.4,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 48.4 e score de 65 pontos. Entrada em R$ 38.38 com alvo R$ 44.14."
+      "porque": "RSI em 48.4 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 36.84 limita risco."
     },
     {
       "rank": 5,
@@ -64,7 +64,7 @@
       "alvo": "26.25",
       "rsi": 32.5,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 32.5 e score de 65 pontos. Entrada em R$ 22.83 com alvo R$ 26.25."
+      "porque": "RSI em 32.5 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 21.28 limita risco."
     },
     {
       "rank": 6,
@@ -76,7 +76,7 @@
       "alvo": "50.2",
       "rsi": 42.5,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 42.5 e score de 65 pontos. Entrada em R$ 43.65 com alvo R$ 50.2."
+      "porque": "RSI em 42.5 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 41.64 limita risco."
     },
     {
       "rank": 7,
@@ -88,7 +88,7 @@
       "alvo": "4.98",
       "rsi": 34.3,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 34.3 e score de 65 pontos. Entrada em R$ 4.33 com alvo R$ 4.98."
+      "porque": "RSI em 34.3 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 4.12 limita risco."
     },
     {
       "rank": 8,
