@@ -1,0 +1,130 @@
+{
+  "data": "09/08/2026",
+  "data_iso": "2026-08-09",
+  "dia_semana": "Domingo",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 172.513 (-1.73%). Destaques: WIZC3, CMIG4, SMFT3. Semáforo: AMARELO.",
+  "semaforo": "amarelo",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "WIZC3",
+      "acao": "COMPRAR",
+      "preco": "7.87",
+      "entrada": "7.87",
+      "stop": "7.41",
+      "alvo": "9.05",
+      "rsi": 37.2,
+      "score": 70,
+      "porque": "Análise técnica aponta reversão com RSI 37.2 e score de 70 pontos. Entrada em R$ 7.87 com alvo R$ 9.05."
+    },
+    {
+      "rank": 2,
+      "ticker": "CMIG4",
+      "acao": "COMPRAR",
+      "preco": "10.92",
+      "entrada": "10.92",
+      "stop": "10.48",
+      "alvo": "12.56",
+      "rsi": 44.1,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 44.1 e score de 65 pontos. Entrada em R$ 10.92 com alvo R$ 12.56."
+    },
+    {
+      "rank": 3,
+      "ticker": "SMFT3",
+      "acao": "COMPRAR",
+      "preco": "18.15",
+      "entrada": "18.15",
+      "stop": "16.77",
+      "alvo": "20.87",
+      "rsi": 34.9,
+      "score": 65,
+      "porque": "RSI em 34.9 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 16.77 limita risco."
+    },
+    {
+      "rank": 4,
+      "ticker": "BBSE3",
+      "acao": "COMPRAR",
+      "preco": "38.38",
+      "entrada": "38.38",
+      "stop": "36.84",
+      "alvo": "44.14",
+      "rsi": 48.4,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 48.4 e score de 65 pontos. Entrada em R$ 38.38 com alvo R$ 44.14."
+    },
+    {
+      "rank": 5,
+      "ticker": "PASS3",
+      "acao": "COMPRAR",
+      "preco": "22.83",
+      "entrada": "22.83",
+      "stop": "21.28",
+      "alvo": "26.25",
+      "rsi": 32.5,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 32.5 e score de 65 pontos. Entrada em R$ 22.83 com alvo R$ 26.25."
+    },
+    {
+      "rank": 6,
+      "ticker": "ITUB3",
+      "acao": "COMPRAR",
+      "preco": "43.65",
+      "entrada": "43.65",
+      "stop": "41.64",
+      "alvo": "50.2",
+      "rsi": 42.5,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 42.5 e score de 65 pontos. Entrada em R$ 43.65 com alvo R$ 50.2."
+    },
+    {
+      "rank": 7,
+      "ticker": "SHUL4",
+      "acao": "COMPRAR",
+      "preco": "4.33",
+      "entrada": "4.33",
+      "stop": "4.12",
+      "alvo": "4.98",
+      "rsi": 34.3,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 34.3 e score de 65 pontos. Entrada em R$ 4.33 com alvo R$ 4.98."
+    },
+    {
+      "rank": 8,
+      "ticker": "BPAC11",
+      "acao": "COMPRAR",
+      "preco": "53.91",
+      "entrada": "53.91",
+      "stop": "50.89",
+      "alvo": "62.0",
+      "rsi": 42.1,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 42.1 e score de 60 pontos. Entrada em R$ 53.91 com alvo R$ 62.0."
+    },
+    {
+      "rank": 9,
+      "ticker": "EZTC3",
+      "acao": "COMPRAR",
+      "preco": "10.76",
+      "entrada": "10.76",
+      "stop": "9.92",
+      "alvo": "12.37",
+      "rsi": 33.9,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 33.9 e score de 60 pontos. Entrada em R$ 10.76 com alvo R$ 12.37."
+    },
+    {
+      "rank": 10,
+      "ticker": "PSSA3",
+      "acao": "COMPRAR",
+      "preco": "50.42",
+      "entrada": "50.42",
+      "stop": "47.7",
+      "alvo": "57.98",
+      "rsi": 35.0,
+      "score": 60,
+      "porque": "RSI em 35.0 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 47.7 limita risco."
+    }
+  ]
+}
