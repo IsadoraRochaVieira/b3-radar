@@ -2,8 +2,8 @@
   "data": "09/08/2026",
   "data_iso": "2026-08-09",
   "dia_semana": "Domingo",
-  "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 172.513 (-1.73%). Destaques: WIZC3, CMIG4, SMFT3. Semáforo: AMARELO.",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 172.513 (-1.73%). Destaques: WIZC3, CMIG4, SMFT3. Semáforo: AMARELO.",
   "semaforo": "amarelo",
   "sugestoes": [
     {
@@ -52,7 +52,7 @@
       "alvo": "44.14",
       "rsi": 48.4,
       "score": 65,
-      "porque": "RSI em 48.4 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 36.84 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 48.4 e score de 65 pontos. Entrada em R$ 38.38 com alvo R$ 44.14."
     },
     {
       "rank": 5,
@@ -100,7 +100,7 @@
       "alvo": "62.0",
       "rsi": 42.1,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 42.1 e score de 60 pontos. Entrada em R$ 53.91 com alvo R$ 62.0."
+      "porque": "RSI em 42.1 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 50.89 limita risco."
     },
     {
       "rank": 9,
@@ -112,7 +112,7 @@
       "alvo": "12.37",
       "rsi": 33.9,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 33.9 e score de 60 pontos. Entrada em R$ 10.76 com alvo R$ 12.37."
+      "porque": "RSI em 33.9 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 9.92 limita risco."
     },
     {
       "rank": 10,
@@ -124,7 +124,7 @@
       "alvo": "57.98",
       "rsi": 35.0,
       "score": 60,
-      "porque": "RSI em 35.0 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 47.7 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 35.0 e score de 60 pontos. Entrada em R$ 50.42 com alvo R$ 57.98."
     }
   ]
 }

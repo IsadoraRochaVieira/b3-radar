@@ -1,6 +1,6 @@
 {
-  "coletado_em": "09/08/2026 00:17",
-  "total": 18,
+  "coletado_em": "09/08/2026 21:44",
+  "total": 28,
   "urgentes": 0,
   "destaque": {
     "titulo": "Ibovespa despenca e tem a pior semana desde maio; dólar recua para R$ 5,08",
@@ -44,6 +44,35 @@
       "score_relevancia": 3,
       "pub_date": "Thu, 06 Aug 2026 19:37:00 -0300",
       "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Família Roncoleta mantém tradição agrícola há cinco gerações em Getulina",
+      "descricao": "O jovem Lucas Roncoleta, de 15 anos, aprende com o pai, Sérgio, os valores e práticas da agricultura Reprodução / TV TEM Em Getulina, interior de São Paulo, a família Roncoleta soma cinco gerações dedicadas ao campo. Hoje, o jovem Lucas Roncoleta, de 15 anos, aprende com o pai, Sérgio, os valores e práticas da agricultura. A fazenda pertence à família desde o bisavô de Sérgio. O trabalho atravesso",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/familia-roncoleta-mantem-tradicao-agricola-ha-cinco-geracoes-em-getulina.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 09 Aug 2026 10:30:13 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Taxa das blusinhas: se medida provisória não for aprovada, taxação volta em setembro",
+      "descricao": "Polêmica, a \"taxa das blusinhas\" era reprovada por grande parte dos consumidores brasileiros Nonato Sousa/ SupCom ALE-RR A chamada \"taxa das blusinhas\" – cobrança de imposto de importação, de 20%, sobre as compras com valor abaixo de US$ 50 – retornará em setembro se a medida provisória sobre o assunto não for votada. Publicada em 12 de maio deste ano, a MP transferiu ao ministro da Fazenda, Dario",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/09/taxa-das-blusinhas-se-medida-provisoria-nao-for-aprovada-taxacao-volta-no-comeco-de-setembro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 09 Aug 2026 03:00:29 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
         "Câmbio / Exportadores"
       ]
     },
@@ -134,45 +163,133 @@
       ]
     },
     {
-      "titulo": "Lula e Flávio Bolsonaro miram voto feminino em SP; presidente critica Faria Lima",
-      "descricao": "O período oficial de campanha, quando os candidatos poderão pedir votos, começa em 16 de agosto The post Lula e Flávio Bolsonaro miram voto feminino em SP; presidente critica Faria Lima appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-e-flavio-bolsonaro-miram-voto-feminino-em-sp-presidente-critica-faria-lima/",
+      "titulo": "Haddad acusa direita de “apoiar o agressor” sobre tarifaço; Tarcísio rebate com ações",
+      "descricao": "Candidatos ao governo de São Paulo divergem sobre resposta às tarifas dos EUA; petista cobra atuação diplomática e pagamento de créditos de ICMS, enquanto governador destaca medidas de apoio aos exportadores The post Haddad acusa direita de “apoiar o agressor” sobre tarifaço; Tarcísio rebate com ações appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/haddad-acusa-direita-de-apoiar-o-agressor-sobre-tarifaco-tarcisio-rebate-com-acoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 08 Aug 2026 22:30:00 +0000",
+      "pub_date": "Mon, 10 Aug 2026 00:39:50 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "“Você vai negociar com o crime?”: segurança domina debate para governo do RJ",
+      "descricao": "Primeira parte do debate para o governo do Rio é marcado por acusações contra a gestão da segurança pública no estado The post &#8220;Você vai negociar com o crime?”: segurança domina debate para governo do RJ appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/voce-vai-negociar-com-o-crime-seguranca-domina-do-debate-para-governo-do-rj/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 10 Aug 2026 00:13:50 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Prefeito quer suspensão de voos panorâmicos no RJ para Anac ampliar fiscalização",
-      "descricao": "Eduardo Cavaliere cobra providências após acidente que deixou quatro mortos e defende fiscalização mais rigorosa The post Prefeito quer suspensão de voos panorâmicos no RJ para Anac ampliar fiscalização appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/prefeito-quer-suspensao-de-voos-panoramicos-no-rj-para-anac-ampliar-fiscalizacao/",
+      "titulo": "Com Cleitinho de volta ao páreo, veja como fica a disputa pelo governo de Minas",
+      "descricao": "Retorno do senador, que lidera as intenções de voto, pode fortalecer palanque de Flávio Bolsonaro no estado e impactar diretamente a disputa pela Presidência da República The post Com Cleitinho de volta ao páreo, veja como fica a disputa pelo governo de Minas appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/quem-candidatos-governo-minas-gerais-eleicoes-2026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 08 Aug 2026 22:00:00 +0000",
+      "pub_date": "Sun, 09 Aug 2026 23:12:25 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Ataque com explosivos é registrado um dia após a posse do novo presidente da Colômbia",
-      "descricao": "A informação foi divulgada pelo exército colombiano neste sábado, 8 The post Ataque com explosivos é registrado um dia após a posse do novo presidente da Colômbia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/ataque-com-explosivos-e-registrado-um-dia-apos-a-posse-do-novo-presidente-da-colombia/",
+      "titulo": "A IA está danificando seus próprios data centers — e o problema é a energia",
+      "descricao": "Oscilações bruscas no consumo sobrecarrega equipamentos críticos das instalações The post A IA está danificando seus próprios data centers &#8212; e o problema é a energia appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/a-ia-esta-danificando-seus-proprios-data-centers-e-o-problema-e-a-energia/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 08 Aug 2026 21:30:00 +0000",
+      "pub_date": "Sun, 09 Aug 2026 23:00:00 +0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Quem são os candidatos ao governo do Rio de Janeiro nas eleições de 2026",
+      "descricao": "Disputa pela sucessão de Cláudio Castro reúne ex-prefeito da capital, ex-governador, deputados e nomes que concorrem pela primeira vez The post Quem são os candidatos ao governo do Rio de Janeiro nas eleições de 2026 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/candidatos-governo-rio-de-janeiro-eleicoes-2026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 09 Aug 2026 22:54:30 +0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Desembargador federal abandona ações da Lava Jato após punição do CNJ",
+      "descricao": "Loraci Flores comunicou a decisão à Corte por meio de um despacho de cinco linhas após punição The post Desembargador federal abandona ações da Lava Jato após punição do CNJ appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/desembargador-federal-abandona-acoes-da-lava-jato-apos-punicao-do-cnj/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 09 Aug 2026 22:45:00 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Parceria com escola italiana busca aprimorar produção de vinhos em Jundiaí",
+      "descricao": "Jundiaí tem produção anual de cerca de 40 mil toneladas de uva Reprodução / TV TEM Especialistas da tradicional Escola de Enologia de Conegliano, a mais antiga da Itália, estão em Jundiaí (SP) para ajudar produtores locais a aprimorar a qualidade do vinho durante a preparação para a safra de inverno. A colaboração internacional ocorre por meio de trocas tecnológicas e visitas anuais de professores",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/parceria-com-escola-italiana-busca-aprimorar-producao-de-vinhos-em-jundiai.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 09 Aug 2026 10:30:14 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Expo Rio Preto atrai 50 mil visitantes na primeira semana",
+      "descricao": "Expo Rio Preto atrai 50 mil visitantes na primeira semana Reprodução / TV TEM A 63ª Expo Rio Preto, considerada a maior feira do agronegócio de São Paulo em número de animais, recebeu 50 mil visitantes na primeira semana. O evento acontece até 16 de agosto e reúne mais de mil bovinos e equinos. A programação inclui atividades voltadas à bacia leiteira e o tradicional Torneio Leiteiro, que segue at",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/expo-rio-preto-atrai-50-mil-visitantes-na-primeira-semana.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 09 Aug 2026 10:30:12 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Câmeras com IA prometem prever crimes antes que aconteçam, mas acendem alerta sobre privacidade",
+      "descricao": "Sistemas de câmeras usam inteligência artificial e prometem se antecipar a crimes Câmeras de monitoramento estão entre as soluções mais comuns para tentar desencorajar a ação de criminosos. Agora, em vez de apenas gravar o que acontece no local, esses equipamentos também são usados para prever roubos e outras ocorrências. 🔎 O chamado policiamento preditivo tenta identificar situações fora do padrã",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/09/cameras-com-ia-prometem-prever-crimes-antes-que-acontecam-mas-acendem-alerta-sobre-privacidade.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 09 Aug 2026 08:00:34 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
@@ -219,6 +336,48 @@
       ]
     },
     {
+      "titulo": "Pix é a instituição mais confiável do Brasil e supera até a Igreja",
+      "descricao": "Sistema de pagamento tem 80% de confiança e lidera ranking, à frente das Forças Armadas, Congresso e Presidência; veja a lista completa",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7476761-pix-e-a-instituicao-mais-confiavel-do-brasil-e-supera-ate-a-igreja.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 9 Aug 2026 19:02:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Taxa das blusinhas pode voltar em setembro se MP não avançar no Congresso",
+      "descricao": "Medida que permite zerar imposto sobre compras internacionais de até US$ 50 ainda precisa ser analisada pelo Congresso; comissão responsável sequer foi instalada",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7476644-taxa-das-blusinhas-pode-voltar-em-setembro-se-mp-nao-avancar-no-congresso.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 9 Aug 2026 13:36:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Educação financeira deve começar cedo na vida das crianças",
+      "descricao": "PL em tramitação no Congresso obriga ensino de finanças nas escolas. Alto endividamento reforça importância do tema",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7476439-educacao-financeira-deve-comecar-cedo-na-vida-das-criancas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 9 Aug 2026 03:55:00 -0300",
+      "setores": [
+        "Educação (COGN3, YDUQ3)"
+      ]
+    },
+    {
       "titulo": "IBS precisa garantir direitos sociais, diz especialista",
       "descricao": "Defensor do IVA, ex-presidente da Febrafite alerta que falta regra que garanta a vinculação de recursos a fundos sociais",
       "link": "https://www.correiobraziliense.com.br/economia/2026/08/7476224-ibs-precisa-garantir-direitos-sociais-diz-especialista.html",
@@ -258,21 +417,6 @@
       "pub_date": "Fri, 7 Aug 2026 16:27:00 -0300",
       "setores": [
         "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Produção de veículos no Brasil bate recorde: o melhor julho em 7 anos",
-      "descricao": "Vendas de carros novos atingem o maior nível em 12 anos, impulsionando o setor; exportações e empregos, no entanto, apresentam desafios",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7475876-producao-de-veiculos-no-brasil-bate-recorde-o-melhor-julho-em-7-anos.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 7 Aug 2026 14:51:00 -0300",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Câmbio / Exportadores"
       ]
     }
   ]
