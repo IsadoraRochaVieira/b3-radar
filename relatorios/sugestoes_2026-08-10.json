@@ -2,8 +2,8 @@
   "data": "10/08/2026",
   "data_iso": "2026-08-10",
   "dia_semana": "Segunda-feira",
-  "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 172.043 (-0.27%). Destaques: UGPA3, BBSE3, VBBR3. Semáforo: VERDE.",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 172.043 (-0.27%). Destaques: UGPA3, BBSE3, VBBR3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "35.63",
       "rsi": 48.9,
       "score": 65,
-      "porque": "Análise técnica aponta reversão com RSI 48.9 e score de 65 pontos. Entrada em R$ 30.98 com alvo R$ 35.63."
+      "porque": "RSI em 48.9 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 29.18 limita risco."
     },
     {
       "rank": 2,
@@ -40,7 +40,7 @@
       "alvo": "38.32",
       "rsi": 46.3,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 46.3 e score de 60 pontos. Entrada em R$ 33.32 com alvo R$ 38.32."
+      "porque": "RSI em 46.3 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 31.39 limita risco."
     },
     {
       "rank": 4,
@@ -64,7 +64,7 @@
       "alvo": "57.49",
       "rsi": 33.6,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 33.6 e score de 60 pontos. Entrada em R$ 49.99 com alvo R$ 57.49."
+      "porque": "RSI em 33.6 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 47.29 limita risco."
     },
     {
       "rank": 6,
