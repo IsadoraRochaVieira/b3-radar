@@ -1,0 +1,453 @@
+{
+  "coletado_em": "12/08/2026 10:22",
+  "total": 30,
+  "urgentes": 1,
+  "destaque": {
+    "titulo": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
+    "descricao": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais Foto de setengah lima sore Os pedidos de recuperação judicial no agronegócio somaram 474 no primeiro trimestre deste ano, alta de 21,9% em relação ao mesmo período de 2025. O avanço foi impulsionado pelo aumento das solicitações feitas por produtores rurais que atuam como pessoa jurídica, em um cenário de crescimento da",
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "alta",
+    "score_relevancia": 3,
+    "pub_date": "Wed, 12 Aug 2026 11:25:43 -0000",
+    "setores": [
+      "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
+      "descricao": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais Foto de setengah lima sore Os pedidos de recuperação judicial no agronegócio somaram 474 no primeiro trimestre deste ano, alta de 21,9% em relação ao mesmo período de 2025. O avanço foi impulsionado pelo aumento das solicitações feitas por produtores rurais que atuam como pessoa jurídica, em um cenário de crescimento da",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 11:25:43 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Ibovespa cai 2,26% com mercado de olho no IPCA e na ata do Copom",
+      "descricao": "Dólar sobe 1,16% e chega a R$ 5,17, enquanto investidores avaliam inflação de 4,44% em 12 meses e sinais do Banco Central sobre os juros",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477912-ibovespa-cai-226-com-mercado-de-olho-no-ipca-e-na-ata-do-copom.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 8,
+      "pub_date": "Tue, 11 Aug 2026 15:10:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar abre em queda, com inflação dos EUA e Oriente Médio no foco",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (12) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1556. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. Investidores aguardam novos dados de inflação dos Estados Unidos e seguem atentos aos desdobramentos da guerra no Oriente Médio. O cenário eleitoral bras",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Wed, 12 Aug 2026 12:00:31 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos",
+      "descricao": "A ata da reunião em que o Comitê de Política Monetária (Copom) reduziu a taxa básica de juros (Selic) para 14% ao ano mostra que a decisão foi tomada em um ambiente de desaceleração da inflação, mas ainda marcado por incertezas. As expectativas inflacionárias , segundo o documento divulgado pelo Banco Central nesta terça-feira (11), permanecem elevadas em um cenário de riscos. Notícias relacionada",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-aponta-desaceleracao-da-inflacao-mas-mantem-alerta-sobre-riscos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 11 Aug 2026 11:16:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Eleições 2026: Quanto ganham presidente, deputados e senadores?",
+      "descricao": "Praça dos Três Poderes, em Brasília, com vista para o Congresso Nacional Tony Winston/Agência Brasília/Divulgação Apesar de ser, em tese, o cargo mais importante da República, o presidente no Brasil ganha o mesmo que os 513 deputados federais. Isso é determinado pela lei do país. O valor é de R$ 46.366 mil e corresponde ao teto do funcionalismo público. Ou seja, nenhum servidor público pode ganhar",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/eleicoes-2026-quanto-ganham-presidente-deputados-e-senadores.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 12 Aug 2026 03:01:01 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Turbulência pré-eleições na Bolsa está só começando, alerta Dahlia",
+      "descricao": "Gestora afirma que decisão do eleitorado pode estar longe de fechada para o pleito, e mantém alocação abaixo da média em ações brasileiras The post Turbulência pré-eleições na Bolsa está só começando, alerta Dahlia appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/turbulencia-pre-eleicoes-na-bolsa-esta-so-comecando-alerta-dahlia/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 13:00:00 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Chefe da campanha de Flávio Bolsonaro, Marinho pede a Fachin que STF julgue ações sobre a Lei da Dosimetria",
+      "descricao": "Campanha de Flávio pede julgamento da dosimetria no STF O senador Rogério Marinho (PL-RN), chefe da campanha de Flávio Bolsonaro à Presidência, pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, que coloque em julgamento quatro ações que questionam a constitucionalidade da chamada Lei da Dosimetria 🔎Aprovada em 2025, a Lei da Dosimetria permite a redução de penas de cond",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/12/chefe-da-campanha-de-flavio-bolsonaro-marinho-pede-a-fachin-que-stf-julgue-acoes-sobre-a-lei-da-dosimetria.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 12:47:42 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Planalto aprecia gesto de Alcolumbre de instalar comissão para analisar MP que acaba com taxa das blusinhas",
+      "descricao": "O governo apreciou o gesto do presidente do Senado, Davi Alcolumbre (União-AP), de marcar para esta quarta-feira (12) a instalação de uma comissão para analisar a medida provisória (MP) que acaba com o imposto de importação de 20% sobre compras internacionais de até US$ 50, a chamada \"taxa das blusinhas\". No entanto, a escolha do senador Eduardo Braga (MDB-AM) como relator para a MP da taxa das bl",
+      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/08/12/planalto-aprecia-gesto-de-alcolumbre-de-instalar-comissao-para-analisar-mp-que-acaba-com-taxa-das-blusinhas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 03:00:23 -0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Petroleiros pedem Petrobras mais estatal e menor repasse a acionistas",
+      "descricao": "De olho nas eleições, a Federação Única dos Petroleiros (FUP) divulgou, nesta terça-feira (11), 50 propostas para o setor de óleo e gás no Brasil e para transição energética. A instituição pede o fortalecimento do papel da Petrobras, o aumento do controle estatal sobre a companhia, assim como a reestatização de refinarias e a redução de dividendos pagos aos acionistas da petroleira. Reunidos na FU",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petroleiros-pedem-petrobras-mais-estatal-e-menor-repasse-acionistas",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 11 Aug 2026 13:28:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Inflação recua para 0,07% em julho e volta para a meta do governo",
+      "descricao": "Os alimentos ficaram mais baratos no mês de julho e ajudaram a inflação oficial a perder força pelo quarto mês seguido e fechar em 0,07%. O resultado faz o Índice Nacional de Preços ao Consumidor Amplo (IPCA) acumular 4,44% em 12 meses, trazendo o indicador de volta para a meta do governo. O IPCA de julho veio em linha com a estimativa do mercado financeiro. O boletim Focus desta segunda-feira (10",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inflacao-recua-para-007-em-julho-e-volta-para-meta-do-governo",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 11 Aug 2026 09:48:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "BBI aponta “outros motivos” para sell-off da Bolsa e vê oportunidade de compra",
+      "descricao": "Correção recente foi provocada por ajuste técnico, alta dos juros futuros e migração de recursos para tecnologia global, e não por deterioração dos fundamentos The post BBI aponta &#8220;outros motivos&#8221; para sell-off da Bolsa e vê oportunidade de compra appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/bbi-aponta-outros-motivos-para-sell-off-b3-bolsa-brasileira-e-ve-oportunidade-de-compra/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 12:55:00 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera",
+      "descricao": "Moeda norte-americana subiu mais de 1% na terça-feira The post Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 12:39:19 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Austrália cria proteção inédita para entregadores de aplicativo",
+      "descricao": "Motoristas e entregadores por aplicativo na Austrália terão condições mais justas no trabalho Rafael Ben Ari/Avalon/IMAGO Entregadores de alimentos e compras na Austrália receberão pelo menos 31,30 dólares australianos (cerca de 115 reais) por hora e terão seguro contra acidentes durante o trabalho, de acordo com novas regras aprovadas pelo tribunal de relações trabalhistas do país. A remuneração ",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 10:34:05 -0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Na Câmara, Amorim diz que governo brasileiro não tem 'complacência' ou 'tolerância' com facções criminosas",
+      "descricao": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12), em audiência na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados, que o governo brasileiro não tem \"qualquer complacência\" com organizações criminosas e defendeu a posição manifestada por ele sobre a classificação de facções brasileiras como grupo. Convidado p",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/na-camara-amorim-diz-que-governo-brasileiro-nao-tem-complacencia-com-faccoes-criminosas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 13:08:01 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "É #FAKE que eleições de 2026 terão novo modelo de urna eletrônica",
+      "descricao": "TSE não adotará nova urna para 2026 g1 Circulam nas redes sociais publicações afirmando que o Tribunal Superior Eleitoral (TSE) adotará um novo modelo de urna eletrônica nas eleições de 2026. É #FAKE. Selo Fake (Horizontal) g1 🔴 Como são os posts? Publicações que viralizaram no X, no Facebook e no Threads no final de julho exibem a seguinte legenda: \"O TSE anuncia novas urnas, auditoria do código-",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/12/e-fake-que-eleicoes-de-2026-terao-novo-modelo-de-urna-eletronica.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 08:02:17 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Pra que lado aponta o pêndulo do Centrão? - O Assunto #1781",
+      "descricao": "Nos últimos quatro anos, a relação entre Executivo e Legislativo foi atribulada, marcada por atritos nos bastidores e até por críticas públicas de lado a lado. O governo Lula e o Centrão, bloco formado por partidos que vão desde o centro até a direita e que comanda o Congresso, chegaram a um ponto de quase não retorno, mas a proximidade das eleições mudou o clima de lado a lado. Arranjos regionais",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/12/pra-que-lado-aponta-o-pendulo-do-centrao-o-assunto-1781.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 03:30:08 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Lula liga para agradecer declaração de voto de Motta e o convida para encontro nesta semana",
+      "descricao": "12.05.2026 - Presidente da República, Luiz Inácio Lula da Silva, e deputado federal Hugo Motta durante Lançamento do Programa Brasil Contra o Crime Organizado, no Palácio do Planalto. Brasília-DF. SEAUD/PR O presidente Luiz Inácio Lula da Silva (PT) telefonou nesta terça-feira (11) para o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), para agradecer pelo apoio ao seu nome à reel",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/lula-liga-para-agradecer-declaracao-de-voto-de-motta-e-o-convida-para-encontro-nesta-semana.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 11 Aug 2026 22:31:36 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos",
+      "descricao": "Valores divulgados nesta terça-feira (11) pelo Banco Central (BC) mostram que há mais de R$ 5,12 bilhões esquecidos em instituições financeiras brasileiras. Desse total, R$ 3,76 bilhões pertencem a cerca de 22,66 milhões de pessoas físicas, e R$ 1,35 bilhão a 2 milhões de pessoas jurídicas, de acordo com informações do Sistema Valores a Receber (SVR) . Segundo o BC, dos mais de R$ 20,93 bilhões qu",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 11 Aug 2026 13:10:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Banco Central estuda interligar Pix com sistemas de outros países",
+      "descricao": "O Banco Central (BC) do Brasil estuda interligar o Pix com sistemas de pagamentos de outros países e com mecanismos multilaterais globais de pagamentos instantâneos. A autoridade monetária argumenta que a medida tem o potencial de diminuir tarifas e ampliar o acesso a transações internacionais. “Estão em discussão tanto interligações bilaterais como a participação em hubs multilaterais. Essas inte",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 10 Aug 2026 16:47:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Congresso começa a debater fim da \"taxa das blusinhas\"",
+      "descricao": "Instalação da comissão mista para tratar da MP que acaba com o imposto de importação para compras on-line de até US$ 50 busca evitar que a medida caduque. Até a edição da proposta, em maio, a Receita havia arrecadado R$ 1,85 bi com a tributação este ano",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478308-congresso-comeca-a-debater-fim-da-taxa-das-blusinhas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 05:00:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "IPCA desacelera para 0,07% em julho e fica em 4,44% nos 12 meses",
+      "descricao": "Energia elétrica puxa alta da habitação em julho, enquanto no grupo alimentação e bebidas os preços caem 0,67%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478259-ipca-desacelera-para-007-em-julho-e-fica-em-444-nos-12-meses.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 05:00:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Lula diz que Brasil será \"dono do próprio nariz\" no mundo da IA",
+      "descricao": "A projeção de que o Brasil fomente invista em inteligência artificial, na avaliação de Lula, Alckmin e dos especialistas presentes na reunião, dependerá de ações voltadas à infraestrutura e energia",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478271-lula-diz-que-brasil-sera-dono-do-proprio-nariz-no-mundo-da-ia.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 11 Aug 2026 20:59:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "IPCA desacelera para 0,07% em julho com queda nos preços dos alimentos",
+      "descricao": "Energia elétrica puxa alta da habitação, enquanto alimentação registra deflação de 0,67% no mês",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477659-ipca-desacelera-para-007-em-julho-com-queda-nos-precos-dos-alimentos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 11 Aug 2026 09:57:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Como estoques recordes e avanço do agro brasileiro podem reduzir impacto do 'super El Niño' no mundo",
+      "descricao": "Com fenômeno El Niño, tempo seco e quente amplia alerta para doenças de pele O sistema alimentar global está mais preparado para enfrentar os efeitos de um forte episódio de El Niño do que em eventos semelhantes no passado. Estoques de produtos agrícolas próximos de níveis recordes, avanços tecnológicos e o crescimento de países como Brasil e Rússia entre os grandes exportadores aumentaram a capac",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/como-estoques-recordes-e-avanco-do-agro-brasileiro-podem-reduzir-impacto-do-super-el-nino-no-mundo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 08:03:51 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Transpetro publica editais de concurso com 4.171 vagas e salários de até R$ 15 mil; veja como participar",
+      "descricao": "Terminal da Transpetro em Brasília, no DF. TV Globo A Transpetro, empresa de transporte da Petrobras, publicou nesta quarta-feira (12), no Diário Oficial da União (DOU), os editais de seu novo concurso público. Ao todo, são oferecidas 281 vagas imediatas, além de 3.890 para cadastro de reserva, totalizando 4.171 oportunidades. ✅ Clique aqui para seguir o canal do g1 Concursos no WhatsApp. Os salár",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/12/transpetro-publica-edital-de-concurso-com-4171-vagas-e-salarios-de-ate-r-15-mil-veja-como-participar.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 07:22:11 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Defesa do Consumidor do ES propõe à Fazenda que bets mostrem risco de perda para apostadores",
+      "descricao": "Órgãos de defesa do consumidor do Espírito Santo querem que bets sejam obrigadas a informar risco de perda para apostadores. Arquivo/Agência Brasil Um grupo de trabalho formado por representantes de diferentes órgãos de defesa do consumidor do Espírito Santo apresentou, na última semana, uma proposta inédita ao Ministério da Fazenda que prevê que sites e aplicativos de bets sejam obrigados a mostr",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/12/defesa-do-consumidor-do-es-propoe-a-fazenda-que-bets-mostrem-risco-de-perda-para-apostadores.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 07:01:47 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Jeep lança o Avenger nesta quarta, mirando disputa entre SUVs compactos; veja o que se sabe",
+      "descricao": "Jeep lança o Avenger no Brasil Divulgação / Stellantis A Jeep do Brasil vai lançar nesta quarta-feira (12) o Avenger. O modelo mais importante da marca chega com motor T200 híbrido leve (MHEV) de 12V em todas as versões. O g1 acompanha o lançamento e vai trazer todas as informações durante o dia. ✅ Clique aqui para seguir o canal do g1 Carros no WhatsApp A Jeep ainda não divulgou oficialmente os d",
+      "link": "https://g1.globo.com/carros/noticia/2026/08/12/jeep-lanca-o-avenger-nesta-quarta-veja-o-que-se-sabe.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 03:00:58 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Bônus da usina de Itaipu deve dar alívio temporário para as contas de luz em agosto; entenda",
+      "descricao": "O dinheiro do bônus da usina de Itaipu deve ajudar dar um alívio temporário nas contas de luz em agosto e reduzir o impacto da energia sobre a inflação do mês, avalia o Instituto Brasileiro de Geografia e Estatística (IBGE). 🔎 O bônus é uma forma de devolver aos consumidores o dinheiro que sobra da operação de Itaipu. A usina é administrada conjuntamente pelo Brasil e pelo Paraguai e está entre as",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/12/bonus-da-usina-de-itaipu-deve-dar-alivio-temporario-para-as-contas-de-luz-em-agosto-entenda.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 03:00:47 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Desemprego entre jovens sobe no mundo e já atinge 67 milhões; IA pode agravar cenário, diz OIT",
+      "descricao": "Taxa de desemprego fica em 5,4%, em junho O desemprego entre os jovens aumentou no mundo em 2025, em meio ao crescimento econômico mais fraco, às tensões geopolíticas e à criação lenta de empregos. O cenário tem dificultado a entrada de jovens no mercado de trabalho e pode se agravar com os avanços da inteligência artificial (IA), alertou a Organização Internacional do Trabalho (OIT) nesta quarta-",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/desemprego-entre-jovens-sobe-no-mundo-e-ja-atinge-67-milhoes-ia-pode-agravar-cenario-diz-oit.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 22:54:06 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Equipe de Lula vê plano de Marco Rubio para impedir reeleição após vídeo dos EUA sobre domínio nas Américas",
+      "descricao": "A equipe do presidente Luiz Inácio Lula da Silva (PT) avalia que nunca ficou tão claro que o secretário de Estado dos Estados Unidos, Marco Rubio, quer evitar a reeleição do petista. A convicção foi reforçada depois que o departamento chefiado por Rubio divulgou vídeo dizendo que o domínio dos Estados Unidos em toda a América \"nunca mais será questionado\", citando intervenções do governo americano",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/12/equipe-de-lula-ve-plano-de-marco-rubio-para-impedir-reeleicao-apos-video-dos-eua-sobre-dominio-nas-americas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 12:42:06 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    }
+  ]
+}
