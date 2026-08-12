@@ -1,36 +1,24 @@
 {
-  "coletado_em": "12/08/2026 10:22",
+  "coletado_em": "12/08/2026 13:08",
   "total": 30,
-  "urgentes": 1,
+  "urgentes": 0,
   "destaque": {
-    "titulo": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
-    "descricao": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais Foto de setengah lima sore Os pedidos de recuperação judicial no agronegócio somaram 474 no primeiro trimestre deste ano, alta de 21,9% em relação ao mesmo período de 2025. O avanço foi impulsionado pelo aumento das solicitações feitas por produtores rurais que atuam como pessoa jurídica, em um cenário de crescimento da",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
-    "urgencia": "alta",
-    "score_relevancia": 3,
-    "pub_date": "Wed, 12 Aug 2026 11:25:43 -0000",
+    "titulo": "Ibovespa cai 2,26% com mercado de olho no IPCA e na ata do Copom",
+    "descricao": "Dólar sobe 1,16% e chega a R$ 5,17, enquanto investidores avaliam inflação de 4,44% em 12 meses e sinais do Banco Central sobre os juros",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477912-ibovespa-cai-226-com-mercado-de-olho-no-ipca-e-na-ata-do-copom.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
+    "urgencia": "media",
+    "score_relevancia": 8,
+    "pub_date": "Tue, 11 Aug 2026 15:10:00 -0300",
     "setores": [
-      "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Câmbio / Exportadores",
+      "Todos os ativos"
     ]
   },
   "noticias": [
-    {
-      "titulo": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais",
-      "descricao": "Crise no campo: pedidos de recuperação judicial saltam entre produtores rurais Foto de setengah lima sore Os pedidos de recuperação judicial no agronegócio somaram 474 no primeiro trimestre deste ano, alta de 21,9% em relação ao mesmo período de 2025. O avanço foi impulsionado pelo aumento das solicitações feitas por produtores rurais que atuam como pessoa jurídica, em um cenário de crescimento da",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "alta",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 12 Aug 2026 11:25:43 -0000",
-      "setores": [
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
-      ]
-    },
     {
       "titulo": "Ibovespa cai 2,26% com mercado de olho no IPCA e na ata do Copom",
       "descricao": "Dólar sobe 1,16% e chega a R$ 5,17, enquanto investidores avaliam inflação de 4,44% em 12 meses e sinais do Banco Central sobre os juros",
@@ -48,17 +36,17 @@
       ]
     },
     {
-      "titulo": "Dólar abre em queda, com inflação dos EUA e Oriente Médio no foco",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (12) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1556. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. Investidores aguardam novos dados de inflação dos Estados Unidos e seguem atentos aos desdobramentos da guerra no Oriente Médio. O cenário eleitoral bras",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Sell-off na B3: comprar exportadoras ou apostar na queda dos juros? O que fazer agora",
+      "descricao": "Enquanto JPMorgan recomenda uma postura mais defensiva e focada em exportadoras, BBI vê oportunidade nas ações ligadas à queda da Selic; após roadshow na Ásia, Itaú BBA encontrou investidores construtivos com Brasil, mas ainda cautelosos The post Sell-off na B3: comprar exportadoras ou apostar na queda dos juros? O que fazer agora appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/sell-off-na-b3-comprar-acoes-exportadoras-ou-apostar-na-queda-dos-juros-o-que-fazer-agora/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Wed, 12 Aug 2026 12:00:31 -0000",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "setores": [
-        "Câmbio / Exportadores",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Todos os ativos"
       ]
     },
@@ -77,31 +65,17 @@
       ]
     },
     {
-      "titulo": "Eleições 2026: Quanto ganham presidente, deputados e senadores?",
-      "descricao": "Praça dos Três Poderes, em Brasília, com vista para o Congresso Nacional Tony Winston/Agência Brasília/Divulgação Apesar de ser, em tese, o cargo mais importante da República, o presidente no Brasil ganha o mesmo que os 513 deputados federais. Isso é determinado pela lei do país. O valor é de R$ 46.366 mil e corresponde ao teto do funcionalismo público. Ou seja, nenhum servidor público pode ganhar",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/eleicoes-2026-quanto-ganham-presidente-deputados-e-senadores.ghtml",
+      "titulo": "Lula recebe Alcolumbre no Alvorada para tentar destravar pautas no Senado; ministro fala em 'institucionalidade reconstruída'",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) recebeu nesta quarta-feira (12) o presidente do Senado, Davi Alcolumbre (União-AP), no Palácio da Alvorada para tentar destravar pautas do governo na Casa. O encontro durou cerca de duas horas e contou apenas com a participação de Lula, Alcolumbre, do ministro das Relações Institucionais, José Guimarães, e da líder do governo no Senado, Teresa Leitão (PT",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/lula-recebe-alcolumbre-no-alvorada-para-tentar-destravar-pautas-no-senado-ministro-fala-em-institucionalidade-reconstruida.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Wed, 12 Aug 2026 03:01:01 -0000",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 14:02:56 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Turbulência pré-eleições na Bolsa está só começando, alerta Dahlia",
-      "descricao": "Gestora afirma que decisão do eleitorado pode estar longe de fechada para o pleito, e mantém alocação abaixo da média em ações brasileiras The post Turbulência pré-eleições na Bolsa está só começando, alerta Dahlia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/turbulencia-pre-eleicoes-na-bolsa-esta-so-comecando-alerta-dahlia/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 12 Aug 2026 13:00:00 +0000",
-      "setores": [
-        "Todos os ativos"
       ]
     },
     {
@@ -116,20 +90,6 @@
       "pub_date": "Wed, 12 Aug 2026 12:47:42 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Planalto aprecia gesto de Alcolumbre de instalar comissão para analisar MP que acaba com taxa das blusinhas",
-      "descricao": "O governo apreciou o gesto do presidente do Senado, Davi Alcolumbre (União-AP), de marcar para esta quarta-feira (12) a instalação de uma comissão para analisar a medida provisória (MP) que acaba com o imposto de importação de 20% sobre compras internacionais de até US$ 50, a chamada \"taxa das blusinhas\". No entanto, a escolha do senador Eduardo Braga (MDB-AM) como relator para a MP da taxa das bl",
-      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/08/12/planalto-aprecia-gesto-de-alcolumbre-de-instalar-comissao-para-analisar-mp-que-acaba-com-taxa-das-blusinhas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 12 Aug 2026 03:00:23 -0000",
-      "setores": [
-        "Câmbio / Exportadores"
       ]
     },
     {
@@ -163,52 +123,54 @@
       ]
     },
     {
-      "titulo": "BBI aponta “outros motivos” para sell-off da Bolsa e vê oportunidade de compra",
-      "descricao": "Correção recente foi provocada por ajuste técnico, alta dos juros futuros e migração de recursos para tecnologia global, e não por deterioração dos fundamentos The post BBI aponta &#8220;outros motivos&#8221; para sell-off da Bolsa e vê oportunidade de compra appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/bbi-aponta-outros-motivos-para-sell-off-b3-bolsa-brasileira-e-ve-oportunidade-de-compra/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 12 Aug 2026 12:55:00 +0000",
+      "titulo": "Recuperações judiciais no agronegócio avançam 21,9% no primeiro trimestre",
+      "descricao": "Alta ocorre em meio a crédito mais restrito, custos elevados e maior endividamento, apesar da expectativa de safra recorde",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478517-recuperacoes-judiciais-no-agronegocio-avancam-219-no-primeiro-trimestre.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 11:23:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Todos os ativos"
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
       ]
     },
     {
-      "titulo": "Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera",
-      "descricao": "Moeda norte-americana subiu mais de 1% na terça-feira The post Dólar hoje recua após dados de inflação nos EUA e ganhos da véspera appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-12082026/",
+      "titulo": "Taesa paga 100% do lucro em dividendos, mas ainda vale para renda passiva?",
+      "descricao": "A elétrica distribuiu todo o lucro regulatório do trimestre aos acionistas, mas conta conta divide os analistas sobre a sustentabilidade da tese no médio prazo The post Taesa paga 100% do lucro em dividendos, mas ainda vale para renda passiva? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/taesa-tese-dividendos-analise-2t2026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 12 Aug 2026 12:39:19 +0000",
+      "pub_date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
-      "titulo": "Austrália cria proteção inédita para entregadores de aplicativo",
-      "descricao": "Motoristas e entregadores por aplicativo na Austrália terão condições mais justas no trabalho Rafael Ben Ari/Avalon/IMAGO Entregadores de alimentos e compras na Austrália receberão pelo menos 31,30 dólares australianos (cerca de 115 reais) por hora e terão seguro contra acidentes durante o trabalho, de acordo com novas regras aprovadas pelo tribunal de relações trabalhistas do país. A remuneração ",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "CNJ e BC firmam parceria para criar sistema de rastreamento para compra e venda de precatórios",
+      "descricao": "O Conselho Nacional de Justiça (CNJ) e o Banco Central (BC) firmaram nesta quarta-feira (12) um convênio que cria um grupo de trabalho para desenvolver uma sistemática nacional de registro e rastreamento das transferências de créditos de precatórios (sentenças judiciais). O acordo foi formalizado por meio da assinatura de uma portaria conjunta pelo presidente do CNJ, ministro Luiz Edson Fachin, e ",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 12 Aug 2026 10:34:05 -0000",
+      "pub_date": "Wed, 12 Aug 2026 14:25:40 -0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
-      "titulo": "Na Câmara, Amorim diz que governo brasileiro não tem 'complacência' ou 'tolerância' com facções criminosas",
-      "descricao": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12), em audiência na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados, que o governo brasileiro não tem \"qualquer complacência\" com organizações criminosas e defendeu a posição manifestada por ele sobre a classificação de facções brasileiras como grupo. Convidado p",
+      "titulo": "Na Câmara, Amorim diz que classificação de facções como terroristas ameaça soberania e não traz 'ganhos concretos'",
+      "descricao": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12), em audiência na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados, que o governo brasileiro não tem \"qualquer complacência\" com organizações criminosas. Na ocasião, ele defendeu que o tema seja tratado dentro dos marcos da Constituição e do Estado Democrático d",
       "link": "https://g1.globo.com/politica/noticia/2026/08/12/na-camara-amorim-diz-que-governo-brasileiro-nao-tem-complacencia-com-faccoes-criminosas.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -235,34 +197,6 @@
       ]
     },
     {
-      "titulo": "Pra que lado aponta o pêndulo do Centrão? - O Assunto #1781",
-      "descricao": "Nos últimos quatro anos, a relação entre Executivo e Legislativo foi atribulada, marcada por atritos nos bastidores e até por críticas públicas de lado a lado. O governo Lula e o Centrão, bloco formado por partidos que vão desde o centro até a direita e que comanda o Congresso, chegaram a um ponto de quase não retorno, mas a proximidade das eleições mudou o clima de lado a lado. Arranjos regionais",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/12/pra-que-lado-aponta-o-pendulo-do-centrao-o-assunto-1781.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 12 Aug 2026 03:30:08 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Lula liga para agradecer declaração de voto de Motta e o convida para encontro nesta semana",
-      "descricao": "12.05.2026 - Presidente da República, Luiz Inácio Lula da Silva, e deputado federal Hugo Motta durante Lançamento do Programa Brasil Contra o Crime Organizado, no Palácio do Planalto. Brasília-DF. SEAUD/PR O presidente Luiz Inácio Lula da Silva (PT) telefonou nesta terça-feira (11) para o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), para agradecer pelo apoio ao seu nome à reel",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/11/lula-liga-para-agradecer-declaracao-de-voto-de-motta-e-o-convida-para-encontro-nesta-semana.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 11 Aug 2026 22:31:36 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos",
       "descricao": "Valores divulgados nesta terça-feira (11) pelo Banco Central (BC) mostram que há mais de R$ 5,12 bilhões esquecidos em instituições financeiras brasileiras. Desse total, R$ 3,76 bilhões pertencem a cerca de 22,66 milhões de pessoas físicas, e R$ 1,35 bilhão a 2 milhões de pessoas jurídicas, de acordo com informações do Sistema Valores a Receber (SVR) . Segundo o BC, dos mais de R$ 20,93 bilhões qu",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos",
@@ -274,22 +208,6 @@
       "pub_date": "Tue, 11 Aug 2026 13:10:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Banco Central estuda interligar Pix com sistemas de outros países",
-      "descricao": "O Banco Central (BC) do Brasil estuda interligar o Pix com sistemas de pagamentos de outros países e com mecanismos multilaterais globais de pagamentos instantâneos. A autoridade monetária argumenta que a medida tem o potencial de diminuir tarifas e ampliar o acesso a transações internacionais. “Estão em discussão tanto interligações bilaterais como a participação em hubs multilaterais. Essas inte",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 10 Aug 2026 16:47:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -336,103 +254,60 @@
       ]
     },
     {
-      "titulo": "IPCA desacelera para 0,07% em julho com queda nos preços dos alimentos",
-      "descricao": "Energia elétrica puxa alta da habitação, enquanto alimentação registra deflação de 0,67% no mês",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477659-ipca-desacelera-para-007-em-julho-com-queda-nos-precos-dos-alimentos.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 11 Aug 2026 09:57:00 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Como estoques recordes e avanço do agro brasileiro podem reduzir impacto do 'super El Niño' no mundo",
-      "descricao": "Com fenômeno El Niño, tempo seco e quente amplia alerta para doenças de pele O sistema alimentar global está mais preparado para enfrentar os efeitos de um forte episódio de El Niño do que em eventos semelhantes no passado. Estoques de produtos agrícolas próximos de níveis recordes, avanços tecnológicos e o crescimento de países como Brasil e Rússia entre os grandes exportadores aumentaram a capac",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/como-estoques-recordes-e-avanco-do-agro-brasileiro-podem-reduzir-impacto-do-super-el-nino-no-mundo.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Galípolo: Falta de controle em precatórios “premia comportamentos indesejados”",
+      "descricao": "Presidente do BC e CNJ criam grupo para propor melhorias no registro e rastreabilidade dos títulos. Fachin afirma que precatório não pode ser usado para \"enganar\" vulneráveis ou encobrir crimes The post Galípolo: Falta de controle em precatórios &#8220;premia comportamentos indesejados&#8221; appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/galipolo-falta-de-controle-em-precatorios-premia-comportamentos-indesejados/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 12 Aug 2026 08:03:51 -0000",
-      "setores": [
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
-      ]
-    },
-    {
-      "titulo": "Transpetro publica editais de concurso com 4.171 vagas e salários de até R$ 15 mil; veja como participar",
-      "descricao": "Terminal da Transpetro em Brasília, no DF. TV Globo A Transpetro, empresa de transporte da Petrobras, publicou nesta quarta-feira (12), no Diário Oficial da União (DOU), os editais de seu novo concurso público. Ao todo, são oferecidas 281 vagas imediatas, além de 3.890 para cadastro de reserva, totalizando 4.171 oportunidades. ✅ Clique aqui para seguir o canal do g1 Concursos no WhatsApp. Os salár",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/12/transpetro-publica-edital-de-concurso-com-4171-vagas-e-salarios-de-ate-r-15-mil-veja-como-participar.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 12 Aug 2026 07:22:11 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Defesa do Consumidor do ES propõe à Fazenda que bets mostrem risco de perda para apostadores",
-      "descricao": "Órgãos de defesa do consumidor do Espírito Santo querem que bets sejam obrigadas a informar risco de perda para apostadores. Arquivo/Agência Brasil Um grupo de trabalho formado por representantes de diferentes órgãos de defesa do consumidor do Espírito Santo apresentou, na última semana, uma proposta inédita ao Ministério da Fazenda que prevê que sites e aplicativos de bets sejam obrigados a mostr",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/12/defesa-do-consumidor-do-es-propoe-a-fazenda-que-bets-mostrem-risco-de-perda-para-apostadores.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 12 Aug 2026 07:01:47 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Jeep lança o Avenger nesta quarta, mirando disputa entre SUVs compactos; veja o que se sabe",
-      "descricao": "Jeep lança o Avenger no Brasil Divulgação / Stellantis A Jeep do Brasil vai lançar nesta quarta-feira (12) o Avenger. O modelo mais importante da marca chega com motor T200 híbrido leve (MHEV) de 12V em todas as versões. O g1 acompanha o lançamento e vai trazer todas as informações durante o dia. ✅ Clique aqui para seguir o canal do g1 Carros no WhatsApp A Jeep ainda não divulgou oficialmente os d",
-      "link": "https://g1.globo.com/carros/noticia/2026/08/12/jeep-lanca-o-avenger-nesta-quarta-veja-o-que-se-sabe.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 12 Aug 2026 03:00:58 -0000",
+      "pub_date": "Wed, 12 Aug 2026 15:49:32 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Bônus da usina de Itaipu deve dar alívio temporário para as contas de luz em agosto; entenda",
-      "descricao": "O dinheiro do bônus da usina de Itaipu deve ajudar dar um alívio temporário nas contas de luz em agosto e reduzir o impacto da energia sobre a inflação do mês, avalia o Instituto Brasileiro de Geografia e Estatística (IBGE). 🔎 O bônus é uma forma de devolver aos consumidores o dinheiro que sobra da operação de Itaipu. A usina é administrada conjuntamente pelo Brasil e pelo Paraguai e está entre as",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/12/bonus-da-usina-de-itaipu-deve-dar-alivio-temporario-para-as-contas-de-luz-em-agosto-entenda.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Trump é processado por plano de vender acesso mais rápido a posts no Truth Social",
+      "descricao": "The Intercept e Freedom of the Press Foundation pedem à Justiça que bloqueie o Truth API, que cobra de US$ 60 mil a US$ 100 mil por mês por acesso antecipado a postagens do presidente The post Trump é processado por plano de vender acesso mais rápido a posts no Truth Social appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-e-processado-por-plano-de-vender-acesso-mais-rapido-a-posts-no-truth-social/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 12 Aug 2026 03:00:47 -0000",
+      "pub_date": "Wed, 12 Aug 2026 15:44:29 +0000",
       "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Desemprego entre jovens sobe no mundo e já atinge 67 milhões; IA pode agravar cenário, diz OIT",
-      "descricao": "Taxa de desemprego fica em 5,4%, em junho O desemprego entre os jovens aumentou no mundo em 2025, em meio ao crescimento econômico mais fraco, às tensões geopolíticas e à criação lenta de empregos. O cenário tem dificultado a entrada de jovens no mercado de trabalho e pode se agravar com os avanços da inteligência artificial (IA), alertou a Organização Internacional do Trabalho (OIT) nesta quarta-",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/desemprego-entre-jovens-sobe-no-mundo-e-ja-atinge-67-milhoes-ia-pode-agravar-cenario-diz-oit.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "'Graves violações de direitos de crianças': por que o Discord teve lives suspensas no Brasil",
+      "descricao": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil As transmissões ao vivo do Discord foram suspensas no Brasil após a Agência Nacional de Proteção de Dados (ANPD) identificar que a ferramenta vinha sendo usada de forma recorrente em casos de violência, assédio e indução à automutilação e ao suicídio envolvendo crianças e adolescentes. 📱Favorite o",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/por-que-o-discord-teve-lives-suspensas-no-brasil.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 11 Aug 2026 22:54:06 -0000",
+      "pub_date": "Wed, 12 Aug 2026 14:38:20 -0000",
       "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Amorim diz que EUA agiram de forma 'bizarra' e 'às pressas' ao indicar embaixador para o Brasil: 'Não foi por acaso'",
+      "descricao": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12) que o governo dos Estados Unidos agiu de forma \"bizarra\" ao anunciar e dar andamento à indicação de Daniel Perez para a embaixada no Brasil antes da concessão do agrément, autorização formal necessária para que um embaixador seja aceito pelo país onde servirá. A declaração de Amorim foi d",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/amorim-diz-que-eua-agiram-de-forma-bizarra-e-as-pressas-ao-indicar-embaixador-para-o-brasil-nao-foi-por-acaso.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 13:50:41 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -447,6 +322,136 @@
       "pub_date": "Wed, 12 Aug 2026 12:42:06 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
+      "descricao": "O Plano Nacional de Logística (PNL) 2050 entra em vigor nesta quarta-feira (12), tendo, como objetivo, orientar o planejamento da infraestrutura de transportes no país até 2050. O documento servirá de referência para investimentos públicos e privados em rodovias, ferrovias, hidrovias, portos e aeroportos. Elaborado no âmbito do Planejamento Integrado de Transportes (PIT), o PNL foi estruturado a p",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/plano-nacional-de-logistica-preve-r-12-trilhao-em-investimentos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 12:48:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Setor de serviços fica estável em junho e sobe 2% no 1º semestre",
+      "descricao": "O setor de serviços terminou o primeiro semestre de 2026 com expansão de 2% em comparação com o mesmo período do ano passado. Em junho, o comportamento foi de estabilidade, ou seja, sem variação na comparação com maio. Na comparação com junho de 2025 houve crescimento de 2%. No acumulado de 12 meses, o setor avança 2,6%. O segundo trimestre de 2026 teve desempenho positivo de 0,4% na comparação co",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/setor-de-servicos-fica-estavel-em-junho-e-sobe-2-no-1o-semestre",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 10:02:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "ANP atualiza regras para comercialização de biometano",
+      "descricao": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) atualizou as regras para a comercialização de biometano no país. A Resolução n.° 1.006/2026 determina novos padrões de qualidade, transporte e comercialização do combustível renovável destinado aos setores veicular, residencial, comercial e industrial. O biometano é uma forma de combustível renovável produzido a partir do aproveit",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/anp-atualiza-regras-para-comercializacao-de-biometano",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 09:01:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "INPC registra deflação em julho e acumula alta de 4,10% em 12 meses",
+      "descricao": "O Índice Nacional de Preços ao Consumidor (INPC), utilizado para a correção anual de salários, fechou julho com deflação de 0,01%. No acumulado de 12 meses, o indicador está em 4,1%. Os dados foram divulgados nesta terça-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas: Inflação recua para 0,07% em julho e volta para a meta do governo. A última vez em q",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inpc-registra-deflacao-em-julho-e-acumula-alta-de-410-em-12-meses",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 11:02:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Procon Rio divulga cartilha com orientações sobre riscos das bets",
+      "descricao": "O Programa de Proteção e Defesa do Consumidor (Procon-RJ) lançou nesta segunda-feira (10), a cartilha Apostas Online: Bets e Jogos de Azar - Proteja Seu Dinheiro, Sua Saúde e Sua Família . O guia reúne orientações para conscientizar a população sobre os riscos das apostas esportivas e dos jogos de azar online e oferece informações para prevenção do superendividamento. O material mostra ainda como ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/procon-rio-divulga-cartilha-com-orientacoes-sobre-riscos-das-bets",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 10 Aug 2026 18:21:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Brasil registra quase 250 bilhões de ataques cibernéticos até julho",
+      "descricao": "De acordo com relatório da Fortinet, maioria das ações foram consideradas tentativas de negação de serviço; criminosos utilizam mais IA para furar barreiras",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478570-brasil-registra-quase-250-bilhoes-de-ataques-ciberneticos-ate-julho.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 12:30:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula e Vieira recebem secretária de negócios das Filipinas no Alvorada",
+      "descricao": "Estratégia do governo é diversificar mercados para exportações de produtos em meio ao tarifaço dos Estados Unidos",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477945-lula-e-vieira-recebem-secretaria-de-negocios-das-filipinas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 16:27:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Mais de R$ 5,1 bilhões estão esquecidos em bancos, aponta Banco Central",
+      "descricao": "Cerca de 24,6 milhões de pessoas e empresas ainda têm valores a receber. A maioria dos beneficiários tem até R$ 10 disponíveis para resgate",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477957-mais-de-rs-51-bilhoes-estao-esquecidos-em-bancos-aponta-bc.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 16:07:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Exportações do Brasil para os EUA caem 12,2% até julho",
+      "descricao": "Vendas brasileiras ao mercado norte-americano somaram US$ 20,95 bilhões no período, enquanto produtos submetidos a sobretaxas recuaram 14,4%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477920-exportacoes-do-brasil-para-os-eua-caem-122-ate-julho.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 15:37:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
       ]
     }
   ]
