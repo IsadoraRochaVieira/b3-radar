@@ -14541,5 +14541,18 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null
+  },
+  {
+    "ticker": "RADL3",
+    "data_entrada": "2026-08-16",
+    "preco_entrada": 17.53,
+    "stop": 16.09,
+    "alvo": 20.16,
+    "score": 50,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
   }
 ]
