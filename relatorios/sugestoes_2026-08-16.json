@@ -1,0 +1,130 @@
+{
+  "data": "16/08/2026",
+  "data_iso": "2026-08-16",
+  "dia_semana": "Domingo",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 166.934 (-0.10%). Destaques: SBSP3, CMIG4, TFCO4. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "SBSP3",
+      "acao": "COMPRAR",
+      "preco": "23.79",
+      "entrada": "23.79",
+      "stop": "21.93",
+      "alvo": "27.36",
+      "rsi": 24.8,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 24.8 e score de 65 pontos. Entrada em R$ 23.79 com alvo R$ 27.36."
+    },
+    {
+      "rank": 2,
+      "ticker": "CMIG4",
+      "acao": "COMPRAR",
+      "preco": "10.23",
+      "entrada": "10.23",
+      "stop": "9.74",
+      "alvo": "11.76",
+      "rsi": 29.3,
+      "score": 65,
+      "porque": "RSI em 29.3 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 9.74 limita risco."
+    },
+    {
+      "rank": 3,
+      "ticker": "TFCO4",
+      "acao": "COMPRAR",
+      "preco": "13.29",
+      "entrada": "13.29",
+      "stop": "12.25",
+      "alvo": "15.28",
+      "rsi": 32.0,
+      "score": 65,
+      "porque": "RSI em 32.0 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 12.25 limita risco."
+    },
+    {
+      "rank": 4,
+      "ticker": "BBAS3",
+      "acao": "COMPRAR",
+      "preco": "18.38",
+      "entrada": "18.38",
+      "stop": "17.31",
+      "alvo": "21.14",
+      "rsi": 29.6,
+      "score": 60,
+      "porque": "RSI em 29.6 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 17.31 limita risco."
+    },
+    {
+      "rank": 5,
+      "ticker": "DXCO3",
+      "acao": "COMPRAR",
+      "preco": "4.98",
+      "entrada": "4.98",
+      "stop": "4.63",
+      "alvo": "5.73",
+      "rsi": 45.4,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 45.4 e score de 60 pontos. Entrada em R$ 4.98 com alvo R$ 5.73."
+    },
+    {
+      "rank": 6,
+      "ticker": "FESA4",
+      "acao": "COMPRAR",
+      "preco": "4.8",
+      "entrada": "4.8",
+      "stop": "4.42",
+      "alvo": "5.52",
+      "rsi": 17.8,
+      "score": 60,
+      "porque": "RSI em 17.8 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 4.42 limita risco."
+    },
+    {
+      "rank": 7,
+      "ticker": "MOTV3",
+      "acao": "OBSERVAR",
+      "preco": "13.8",
+      "entrada": "13.8",
+      "stop": "13.05",
+      "alvo": "15.87",
+      "rsi": 37.1,
+      "score": 55,
+      "porque": "RSI em 37.1 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 13.8."
+    },
+    {
+      "rank": 8,
+      "ticker": "AUAU3",
+      "acao": "OBSERVAR",
+      "preco": "3.16",
+      "entrada": "3.16",
+      "stop": "2.88",
+      "alvo": "3.63",
+      "rsi": 41.2,
+      "score": 55,
+      "porque": "RSI em 41.2 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 3.16."
+    },
+    {
+      "rank": 9,
+      "ticker": "DIRR3",
+      "acao": "OBSERVAR",
+      "preco": "10.45",
+      "entrada": "10.45",
+      "stop": "9.51",
+      "alvo": "12.02",
+      "rsi": 30.1,
+      "score": 55,
+      "porque": "RSI em 30.1 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 10.45."
+    },
+    {
+      "rank": 10,
+      "ticker": "CSMG3",
+      "acao": "OBSERVAR",
+      "preco": "55.81",
+      "entrada": "55.81",
+      "stop": "51.9",
+      "alvo": "64.18",
+      "rsi": 31.7,
+      "score": 55,
+      "porque": "RSI em 31.7 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 55.81."
+    }
+  ]
+}
