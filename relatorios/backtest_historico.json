@@ -15819,5 +15819,20 @@
     "motivo_saida": null,
     "preco_atual": 0.46,
     "resultado_pct_atual": 0.0
+  },
+  {
+    "ticker": "FIQE3",
+    "data_entrada": "2026-08-18",
+    "preco_entrada": 4.79,
+    "stop": 4.42,
+    "alvo": 5.51,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 4.79,
+    "resultado_pct_atual": -0.0
   }
 ]

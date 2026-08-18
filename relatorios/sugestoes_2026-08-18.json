@@ -2,8 +2,8 @@
   "data": "18/08/2026",
   "data_iso": "2026-08-18",
   "dia_semana": "Terça-feira",
-  "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 166.934 (+0.00%). Destaques: CMIG4, PASS3, DXCO3. Semáforo: VERDE.",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 166.934 (+0.00%). Destaques: CMIG4, PASS3, DXCO3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -14,9 +14,9 @@
       "entrada": "10.21",
       "stop": "9.72",
       "alvo": "11.74",
-      "rsi": 29.7,
+      "rsi": 28.9,
       "score": 65,
-      "porque": "RSI em 29.7 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 9.72 limita risco."
+      "porque": "RSI em 28.9 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 9.72 limita risco."
     },
     {
       "rank": 2,
@@ -36,11 +36,11 @@
       "acao": "COMPRAR",
       "preco": "4.9",
       "entrada": "4.9",
-      "stop": "4.55",
+      "stop": "4.54",
       "alvo": "5.63",
-      "rsi": 42.6,
+      "rsi": 42.1,
       "score": 60,
-      "porque": "RSI em 42.6 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 4.55 limita risco."
+      "porque": "RSI em 42.1 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 4.54 limita risco."
     },
     {
       "rank": 4,
@@ -60,11 +60,11 @@
       "acao": "OBSERVAR",
       "preco": "3.13",
       "entrada": "3.13",
-      "stop": "2.84",
+      "stop": "2.85",
       "alvo": "3.6",
-      "rsi": 40.1,
+      "rsi": 39.5,
       "score": 55,
-      "porque": "RSI em 40.1 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 3.13."
+      "porque": "RSI em 39.5 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 3.13."
     },
     {
       "rank": 6,
@@ -74,9 +74,9 @@
       "entrada": "5.87",
       "stop": "5.53",
       "alvo": "6.75",
-      "rsi": 31.6,
+      "rsi": 31.2,
       "score": 55,
-      "porque": "RSI em 31.6 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.87."
+      "porque": "RSI em 31.2 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.87."
     },
     {
       "rank": 7,
@@ -84,11 +84,11 @@
       "acao": "OBSERVAR",
       "preco": "28.05",
       "entrada": "28.05",
-      "stop": "26.54",
+      "stop": "26.59",
       "alvo": "32.26",
-      "rsi": 27.9,
+      "rsi": 28.1,
       "score": 55,
-      "porque": "RSI em 27.9 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 28.05."
+      "porque": "RSI em 28.1 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 28.05."
     },
     {
       "rank": 8,
@@ -98,9 +98,9 @@
       "entrada": "40.99",
       "stop": "38.69",
       "alvo": "47.14",
-      "rsi": 28.0,
+      "rsi": 26.8,
       "score": 55,
-      "porque": "RSI em 28.0 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 40.99."
+      "porque": "RSI em 26.8 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 40.99."
     },
     {
       "rank": 9,
@@ -110,9 +110,9 @@
       "entrada": "47.52",
       "stop": "44.86",
       "alvo": "54.65",
-      "rsi": 31.5,
+      "rsi": 30.9,
       "score": 55,
-      "porque": "RSI em 31.5 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 47.52."
+      "porque": "RSI em 30.9 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 47.52."
     },
     {
       "rank": 10,
@@ -120,11 +120,11 @@
       "acao": "OBSERVAR",
       "preco": "20.98",
       "entrada": "20.98",
-      "stop": "19.68",
+      "stop": "19.64",
       "alvo": "24.13",
-      "rsi": 47.2,
+      "rsi": 47.0,
       "score": 55,
-      "porque": "RSI em 47.2 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 20.98."
+      "porque": "RSI em 47.0 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 20.98."
     }
   ]
 }
