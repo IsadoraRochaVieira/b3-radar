@@ -1,0 +1,130 @@
+{
+  "data": "20/08/2026",
+  "data_iso": "2026-08-20",
+  "dia_semana": "Quinta-feira",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 167.907 (+0.05%). Destaques: INTB3, CMIG4, BBAS3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "INTB3",
+      "acao": "COMPRAR",
+      "preco": "13.09",
+      "entrada": "13.09",
+      "stop": "12.07",
+      "alvo": "15.05",
+      "rsi": 39.4,
+      "score": 75,
+      "porque": "RSI em 39.4 — zona de sobrevenda técnica. Score 75/100 indica pressão compradora se acumulando. Stop em R$ 12.07 limita risco."
+    },
+    {
+      "rank": 2,
+      "ticker": "CMIG4",
+      "acao": "COMPRAR",
+      "preco": "9.9",
+      "entrada": "9.9",
+      "stop": "9.39",
+      "alvo": "11.38",
+      "rsi": 24.0,
+      "score": 65,
+      "porque": "RSI em 24.0 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 9.39 limita risco."
+    },
+    {
+      "rank": 3,
+      "ticker": "BBAS3",
+      "acao": "COMPRAR",
+      "preco": "18.08",
+      "entrada": "18.08",
+      "stop": "17.07",
+      "alvo": "20.79",
+      "rsi": 30.7,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 30.7 e score de 60 pontos. Entrada em R$ 18.08 com alvo R$ 20.79."
+    },
+    {
+      "rank": 4,
+      "ticker": "VAMO3",
+      "acao": "COMPRAR",
+      "preco": "2.49",
+      "entrada": "2.49",
+      "stop": "2.21",
+      "alvo": "2.86",
+      "rsi": 26.5,
+      "score": 60,
+      "porque": "RSI em 26.5 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 2.21 limita risco."
+    },
+    {
+      "rank": 5,
+      "ticker": "TIMS3",
+      "acao": "COMPRAR",
+      "preco": "18.19",
+      "entrada": "18.19",
+      "stop": "17.03",
+      "alvo": "20.92",
+      "rsi": 30.9,
+      "score": 60,
+      "porque": "RSI em 30.9 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 17.03 limita risco."
+    },
+    {
+      "rank": 6,
+      "ticker": "SBSP3",
+      "acao": "OBSERVAR",
+      "preco": "23.25",
+      "entrada": "23.25",
+      "stop": "21.58",
+      "alvo": "26.74",
+      "rsi": 24.5,
+      "score": 55,
+      "porque": "RSI em 24.5 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 23.25."
+    },
+    {
+      "rank": 7,
+      "ticker": "DIRR3",
+      "acao": "OBSERVAR",
+      "preco": "10.4",
+      "entrada": "10.4",
+      "stop": "9.53",
+      "alvo": "11.96",
+      "rsi": 34.0,
+      "score": 55,
+      "porque": "RSI em 34.0 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 10.4."
+    },
+    {
+      "rank": 8,
+      "ticker": "ITUB3",
+      "acao": "OBSERVAR",
+      "preco": "40.39",
+      "entrada": "40.39",
+      "stop": "38.45",
+      "alvo": "46.45",
+      "rsi": 30.5,
+      "score": 55,
+      "porque": "RSI em 30.5 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 40.39."
+    },
+    {
+      "rank": 9,
+      "ticker": "EGIE3",
+      "acao": "OBSERVAR",
+      "preco": "27.84",
+      "entrada": "27.84",
+      "stop": "26.34",
+      "alvo": "32.02",
+      "rsi": 28.4,
+      "score": 55,
+      "porque": "RSI em 28.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 27.84."
+    },
+    {
+      "rank": 10,
+      "ticker": "PSSA3",
+      "acao": "OBSERVAR",
+      "preco": "46.72",
+      "entrada": "46.72",
+      "stop": "44.01",
+      "alvo": "53.73",
+      "rsi": 30.9,
+      "score": 55,
+      "porque": "RSI em 30.9 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 46.72."
+    }
+  ]
+}
