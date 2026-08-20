@@ -2,8 +2,8 @@
   "data": "20/08/2026",
   "data_iso": "2026-08-20",
   "dia_semana": "Quinta-feira",
-  "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 167.907 (+0.05%). Destaques: INTB3, CMIG4, BBAS3. Semáforo: VERDE.",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 167.907 (+0.05%). Destaques: INTB3, CMIG4, BBAS3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "15.05",
       "rsi": 39.4,
       "score": 75,
-      "porque": "RSI em 39.4 — zona de sobrevenda técnica. Score 75/100 indica pressão compradora se acumulando. Stop em R$ 12.07 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 39.4 e score de 75 pontos. Entrada em R$ 13.09 com alvo R$ 15.05."
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@
       "alvo": "11.38",
       "rsi": 24.0,
       "score": 65,
-      "porque": "RSI em 24.0 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 9.39 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 24.0 e score de 65 pontos. Entrada em R$ 9.9 com alvo R$ 11.38."
     },
     {
       "rank": 3,
@@ -40,7 +40,7 @@
       "alvo": "20.79",
       "rsi": 30.7,
       "score": 60,
-      "porque": "Análise técnica aponta reversão com RSI 30.7 e score de 60 pontos. Entrada em R$ 18.08 com alvo R$ 20.79."
+      "porque": "RSI em 30.7 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 17.07 limita risco."
     },
     {
       "rank": 4,
@@ -52,7 +52,7 @@
       "alvo": "2.86",
       "rsi": 26.5,
       "score": 60,
-      "porque": "RSI em 26.5 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 2.21 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 26.5 e score de 60 pontos. Entrada em R$ 2.49 com alvo R$ 2.86."
     },
     {
       "rank": 5,
@@ -64,7 +64,7 @@
       "alvo": "20.92",
       "rsi": 30.9,
       "score": 60,
-      "porque": "RSI em 30.9 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 17.03 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 30.9 e score de 60 pontos. Entrada em R$ 18.19 com alvo R$ 20.92."
     },
     {
       "rank": 6,
