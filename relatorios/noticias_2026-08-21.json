@@ -1,55 +1,24 @@
 {
-  "coletado_em": "21/08/2026 12:30",
+  "coletado_em": "21/08/2026 14:13",
   "total": 30,
-  "urgentes": 1,
+  "urgentes": 0,
   "destaque": {
-    "titulo": "China faz maior recall de carros da história por risco com maçanetas embutidas",
-    "descricao": "Montadoras estimam aumento de carros importados do México e China A China iniciou nesta sexta-feira (21) a maior campanha de recall automotivo já realizada no país, envolvendo 11 montadoras e veículos elétricos de diferentes marcas. A medida está relacionada a preocupações de segurança com os sistemas de abertura de portas em situações de emergência. 🔍O recall anunciado pela China vale para veícul",
-    "link": "https://g1.globo.com/carros/noticia/2026/08/21/china-faz-maior-recall-de-carros-da-historia-por-risco-com-macanetas-de-emergencia.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
-    "urgencia": "alta",
-    "score_relevancia": 2,
-    "pub_date": "Fri, 21 Aug 2026 12:50:20 -0000",
+    "titulo": "Ibovespa tem dia de vaivém e fecha estável; Petrobras e Vale sobem",
+    "descricao": "Índice brasileiro ignora queda em NY com ajuda de commodities, mas setor bancário pesa; dólar comercial avança e ultrapassa a marca de R$ 5,19",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/08/7484191-ibovespa-tem-dia-de-vaivem-e-fecha-estavel-petrobras-e-vale-sobem.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
+    "urgencia": "media",
+    "score_relevancia": 6,
+    "pub_date": "Thu, 20 Aug 2026 18:49:00 -0300",
     "setores": [
+      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
       "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-      "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-      "Telecom (VIVT3, TIMS3)"
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
-    {
-      "titulo": "China faz maior recall de carros da história por risco com maçanetas embutidas",
-      "descricao": "Montadoras estimam aumento de carros importados do México e China A China iniciou nesta sexta-feira (21) a maior campanha de recall automotivo já realizada no país, envolvendo 11 montadoras e veículos elétricos de diferentes marcas. A medida está relacionada a preocupações de segurança com os sistemas de abertura de portas em situações de emergência. 🔍O recall anunciado pela China vale para veícul",
-      "link": "https://g1.globo.com/carros/noticia/2026/08/21/china-faz-maior-recall-de-carros-da-historia-por-risco-com-macanetas-de-emergencia.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "alta",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 21 Aug 2026 12:50:20 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Dólar opera em queda, de olho em guerra econômica de Trump no Irã e eleições no Brasil; Ibovespa sobe",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta sexta-feira (21), com um recuo de 0,29% perto das 10h30, cotado a R$ 5,1778. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 0,71% no mesmo horário, aos 169.123 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ A guerra econômica anunciada pelo presidente americano, Donald Trump, ao Irã,",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Fri, 21 Aug 2026 12:00:28 -0000",
-      "setores": [
-        "Câmbio / Exportadores",
-        "Todos os ativos"
-      ]
-    },
     {
       "titulo": "Ibovespa tem dia de vaivém e fecha estável; Petrobras e Vale sobem",
       "descricao": "Índice brasileiro ignora queda em NY com ajuda de commodities, mas setor bancário pesa; dólar comercial avança e ultrapassa a marca de R$ 5,19",
@@ -67,6 +36,22 @@
       ]
     },
     {
+      "titulo": "Ibovespa sobe mais de 2% e se aproxima dos 172 mil pontos, com Vale e bancos",
+      "descricao": "A performance na bolsa paulista encontrava respaldo no viés positivo em Wall Street, onde o S&#038;P 500 subia 0,32% The post Ibovespa sobe mais de 2% e se aproxima dos 172 mil pontos, com Vale e bancos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-21082026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 21 Aug 2026 16:29:20 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
       "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 2% com exterior e volta aos 171 mil pontos",
       "descricao": "Bolsas dos EUA avançam juntas, mas continuam a caminho de queda semanal The post Ibovespa Hoje Ao Vivo: Bolsa sobe 2% com exterior e volta aos 171 mil pontos appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21082026/",
@@ -75,15 +60,15 @@
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Fri, 21 Aug 2026 14:34:07 +0000",
+      "pub_date": "Fri, 21 Aug 2026 16:23:59 +0000",
       "setores": [
         "Telecom (VIVT3, TIMS3)",
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "'Quem são os candidatos': g1 lança ferramenta com dados oficiais de candidaturas e campanhas",
-      "descricao": "O g1 lança nesta sexta-feira (21) a ferramenta \"Quem são os candidatos\". A plataforma usa dados fornecidos diretamente pelo Tribunal Superior Eleitoral (TSE) e permite ao eleitor encontrar todos os candidatos aos cargos de presidente da República, governador, senador, deputado federal, deputado estadual e deputado distrital nas eleições de 2026. CLIQUE AQUI PARA ACESSAR O \"QUEM SÃO OS CANDIDATOS\".",
+      "titulo": "'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos",
+      "descricao": "O g1 lança a ferramenta \"Quem são os candidatos\". A plataforma usa dados fornecidos diretamente pelo Tribunal Superior Eleitoral (TSE) e permite ao eleitor encontrar todos os candidatos aos cargos de presidente da República, governador, senador, deputado federal, deputado estadual e deputado distrital nas eleições de 2026. CLIQUE AQUI PARA ACESSAR O \"QUEM SÃO OS CANDIDATOS\". Também é possível faze",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -110,20 +95,6 @@
       ]
     },
     {
-      "titulo": "Eleições 2026: número de candidaturas a deputado federal cai 28% em relação a 2022",
-      "descricao": "Plenário da Câmara dos Deputados Kayo Magalhães / Câmara dos Deputados As candidaturas para o cargo de deputado federal caíram 28%, de 10,6 mil em 2022 para 7,6 mil em 2026, segundo dados do Tribunal Superior Eleitoral (TSE) até esta sexta-feira (21). A redução reflete reformas eleitorais recentes, que buscam diminuir o número de partidos e estimular fusão de siglas. 🔎 Apesar de já ter terminado o",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/eleicoes-2026-numero-de-candidaturas-a-deputado-federal-cai.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 21 Aug 2026 03:01:02 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
       "titulo": "SP: Enel apresenta alegações finais contra caducidade da concessão",
       "descricao": "A Eletropaulo Metropolitana Eletricidade de São Paulo (Enel SP), concessionária de distribuição de energia elétrica de São Paulo, apresentou as alegações finais no processo de recomendação de caducidade (extinção) do contrato de concessão. O processo foi iniciado, em abril, pela Agência Nacional de Energia Elétrica, Aneel. Segundo o órgão regulador, a Enel SP não regularizou em definitivo as falha",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/sp-enel-apresenta-alegacoes-finais-contra-caducidade-da-concessao",
@@ -138,32 +109,46 @@
       ]
     },
     {
-      "titulo": "Dólar hoje cai no Brasil com exterior e eleições no radar",
-      "descricao": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,31%, aos R$ 5,1937 The post Dólar hoje cai no Brasil com exterior e eleições no radar appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21082026/",
+      "titulo": "Lula liga para Trump, contesta tarifaço e acerta retomada de negociações com os EUA",
+      "descricao": "Presidentes conversaram por 1h20 sobre comércio, crime organizado e guerras; equipes dos dois países deverão voltar à mesa de negociação The post Lula liga para Trump, contesta tarifaço e acerta retomada de negociações com os EUA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/lula-liga-para-trump-contesta-tarifaco-e-acerta-retomada-de-negociacoes-com-os-eua/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Fri, 21 Aug 2026 14:28:13 +0000",
+      "pub_date": "Fri, 21 Aug 2026 16:37:44 +0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     },
     {
-      "titulo": "‘Operação salva-hambúrguer’: Trump libera limite extra para importar carne e tentar baixar preços nos EUA",
-      "descricao": "Trump se irrita com preço de carne e manda investigar frigoríficos nos EUA O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (21) que vai flexibilizar, por 90 dias, as regras para importação de carne bovina usada principalmente na produção de carne moída. A medida busca aumentar a oferta do produto no mercado americano e ajudar a reduzir os preços. Até o momento, porém, não",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Em conversa por telefone, Lula diz a Trump que alegações dos EUA para tarifaço são 'infundadas'",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) conversou por telefone, na manhã desta sexta-feira (21), com o presidente dos Estados Unidos, Donald Trump. Ao longo de 1 hora e 20 minutos de diálogo, descrito pelo Palácio do Planalto como de tom \"amistoso e cordial\", Lula afirmou que as alegações norte-americanas para a recente imposição de tarifas contra produtos brasileiros são \"infundadas\". As nova",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/21/lula-conversa-com-trump.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Fri, 21 Aug 2026 12:04:25 -0000",
+      "pub_date": "Fri, 21 Aug 2026 16:07:57 -0000",
       "setores": [
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
-        "Câmbio / Exportadores"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Marina diz que redução da maioridade penal é proposta populista 'para lacrar' e não resolve violência juvenil",
+      "descricao": "A ministra Marina Silva durante participação em audiência da Comissão de Meio Ambiente da Câmara dos Deputados Bruno Spada/Câmara dos Deputados A candidata ao Senado por São Paulo Marina Silva (Rede) criticou propostas de redução da maioridade penal e afirmou que o tema costuma ser explorado de forma populista no debate público. Em entrevista à Jovem Pan, a ex-ministra do Meio Ambiente disse que a",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/marina-diz-que-reducao-da-maioridade-penal-e-proposta-populista-para-lacrar-e-nao-resolve-violencia-juvenil.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 21 Aug 2026 15:43:24 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -237,75 +222,45 @@
       ]
     },
     {
-      "titulo": "Mendonça determina investigação sobre ‘vazamento’ de informações no caso Lulinha",
-      "descricao": "Esse novo eixo de investigação vai integrar o inquérito já em andamento que apura os responsáveis pela divulgação de dados de alvos da Operação Sem Desconto The post Mendonça determina investigação sobre &#8216;vazamento&#8217; de informações no caso Lulinha appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/mendonca-determina-investigacao-sobre-vazamento-de-informacoes-no-caso-lulinha/",
+      "titulo": "Bolsas da Europa fecham em alta com PMIs e de olho em Oriente Médio",
+      "descricao": "PMI composto da zona do euro e do Reino Unido contrariaram previsões de queda The post Bolsas da Europa fecham em alta com PMIs e de olho em Oriente Médio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-com-pmis-e-de-olho-em-oriente-medio/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 21 Aug 2026 15:21:49 +0000",
+      "pub_date": "Fri, 21 Aug 2026 17:12:21 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Marçal, Arruda, Garotinho e Dallagnol: quem ainda pode ser barrado das eleições",
+      "descricao": "Marçal, Garotinho, Arruda, Dallagnol e Arthur Henrique têm registros questionados por motivos que vão de inelegibilidade a falhas na desincompatibilização The post Marçal, Arruda, Garotinho e Dallagnol: quem ainda pode ser barrado das eleições appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/marcal-arruda-garotinho-e-dallagnol-quem-ainda-pode-ser-barrado-das-eleicoes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 21 Aug 2026 17:02:58 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Localiza e Movida: BBI vê ações com descontos de até 59% e recomenda compra",
-      "descricao": "Banco avalia que cenário desafiador já está incorporado às estimativas The post Localiza e Movida: BBI vê ações com descontos de até 59% e recomenda compra appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/localiza-e-movida-bbi-ve-acoes-com-descontos-de-ate-59-e-recomenda-compra/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Lula diz a Trump que Brasil não precisa de 'classificação' para combater crime organizado",
+      "descricao": "Lula e Trump se encontraram pela última vez na Casa Branca em maio Ricardo Stuckert / PR O presidente Luiz Inácio Lula da Silva (PT) afirmou, em conversa com Donald Trump nesta sexta-feira (13), que o país não precisa de uma \"classificação\" internacional para combater lideranças do crime organizado em território brasileiro. ➡️Os Estados Unidos anunciaram em maio que classificaram o Comando Vermelh",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/21/lula-diz-a-trump-que-brasil-nao-precisa-de-classificacao-para-combater-crime-organizado.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 21 Aug 2026 14:51:45 +0000",
+      "pub_date": "Fri, 21 Aug 2026 16:12:04 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Leilão de estoque da Casas Bahia acende alerta para quem busca produtos mais baratos",
-      "descricao": "Consumidor deve verificar se leiloeiro, plataforma digital e de e-commerce são confiáveis. Em caso de mercadoria importada, preço pode subir com cobrança de taxas e impostos The post Leilão de estoque da Casas Bahia acende alerta para quem busca produtos mais baratos appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/leilao-de-estoque-da-casas-bahia-acende-alerta-para-quem-busca-produtos-mais-baratos/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 21 Aug 2026 14:47:24 +0000",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Famílias iranianas lutam para comprar o básico enquanto EUA intensificam guerra econômica",
-      "descricao": "Trump diz que não há perspectiva de negociações com o Irã Famílias iranianas estão lutando para comprar o básico em meio à intensificação da pressão econômica dos Estados Unidos ao Irã, segundo a agência de notícias Associated Press. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Apesar do governo de Teerã negar que a guerra econômica declarada pelos EUA vá afetar o país, relatos most",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 21 Aug 2026 09:34:42 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Ferrari Luce de R$ 200 milhões pode dar 'desconto' milionário no imposto de renda do comprador; entenda",
-      "descricao": "Ferrari Luce leiloada por US$ 40 milhões divulgação/RM Sotheby's A primeira Ferrari Luce, versão totalmente elétrica da marca, foi leiloada nesta semana por US$ 40 milhões, cerca de R$ 208 milhões. Apesar do valor estrondoso, há um detalhe: parte do que foi pago pode gerar desconto no imposto de renda do comprador nos Estados Unidos. Isso acontece porque todo o dinheiro arrecadado no leilão, reali",
-      "link": "https://g1.globo.com/carros/noticia/2026/08/21/ferrari-luce-desconto-milionario-no-imposto-de-renda-do-comprador.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 21 Aug 2026 06:00:42 -0000",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
@@ -338,7 +293,7 @@
     },
     {
       "titulo": "Mendonça manda PF investigar suspeita de novos vazamentos em caso de Lulinha",
-      "descricao": "Mendonça determina investigação sobre suspeita de novos vazamentos em caso de Lulinha O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (21) apuração pela Polícia Federal (PF) de suspeitas de novos vazamentos de dados sigilosos em caso envolvendo Fábio Luís Lula da Silva, o Lulinha, filho do presidente Luiz Inácio Lula da Silva (PT). A decisão diz respeito ",
+      "descricao": "Mendonça determina investigação sobre suspeita de novos vazamentos em caso de Lulinha O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (21) que a Polícia Federal (PF) apure suspeitas de novos vazamentos de dados sigilosos em caso envolvendo Fábio Luís Lula da Silva, o Lulinha, filho do presidente Luiz Inácio Lula da Silva (PT). A decisão diz respeito ao co",
       "link": "https://g1.globo.com/politica/noticia/2026/08/21/mendonca-determina-investigacao-sobre-suspeita-de-novos-vazamentos-em-investigacao-do-lulinha.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -379,7 +334,7 @@
       ]
     },
     {
-      "titulo": "“Game of Thrones” no STF, caso Lulinha e Master atravessam a eleição de 2026",
+      "titulo": "'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026",
       "descricao": "'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026 A extensão do caso Lulinha é hoje uma das grandes incógnitas para o governo — inclusive quando a pergunta é se o assunto pode ter reflexos entre eleitores do presidente Luiz Inácio Lula da Silva (PT) em 2026. O filho de Lula, Fábio Luís Lula da Silva, o Lulinha, é alvo de três inquéritos autorizados pelo Supremo a pedido ",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml",
       "fonte": "G1 Política",
@@ -448,6 +403,50 @@
       "pub_date": "Thu, 20 Aug 2026 18:25:00 -0300",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Aviação doméstica brasileira tem a maior movimentação em 26 anos",
+      "descricao": "De janeiro a julho de 2026, o Brasil alcançou a marca de 59 milhões de passageiros em voos domésticos. De acordo com dados da Agência Nacional de Aviação, é a maior movimentação para o período desde o início da série histórica, em 2000 . Feito pelo Ministério do Turismo, o levantamento mostra que o número representa crescimento de 4,04% em relação aos 57 milhões de viajantes registrados no mesmo p",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aviacao-domestica-brasileira-tem-maior-movimentacao-em-26-anos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 20 Aug 2026 16:10:00 -0300",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Oxfam Brasil: concentração de riqueza amplia desigualdade política",
+      "descricao": "A desigualdade de renda no Brasil é ampliada pela presença proporcionalmente maior de ricos na política. Uma vez no poder, aqueles que acumulam riqueza tendem a criar leis e regulações que não favoreçam a distribuição de recursos. A conclusão é do relatório Um Retrato das Desigualdades Brasileiras: Poder, Privilégio e a Captura da Democracia , publicado nesta quarta-feira (19) pela Oxfam Brasil. N",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oxfam-brasil-concentracao-de-riqueza-amplia-desigualdade-politica",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 20 Aug 2026 11:14:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Trump anuncia acordo para ampliar importação de carne moída por 90 dias",
+      "descricao": "Governo norte-americano prevê entrada de até 300 mil toneladas sem tarifas e fora da cota durante 90 dias",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7484443-trump-anuncia-acordo-para-ampliar-importacao-de-carne-moida-por-90-dias.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 21 Aug 2026 10:15:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
       ]
     }
   ]
