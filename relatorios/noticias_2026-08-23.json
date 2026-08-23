@@ -1,24 +1,36 @@
 {
-  "coletado_em": "23/08/2026 09:59",
-  "total": 24,
-  "urgentes": 0,
+  "coletado_em": "23/08/2026 13:24",
+  "total": 30,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Dólar cai a R$ 5,14 com alívio no mercado externo",
-    "descricao": "Em um dia de alívio no mercado doméstico e externo, o dólar fechou no menor valor em pouco mais de 10 dias. A bolsa subiu quase 2% e encerrou a semana no campo positivo. O movimento ocorreu em meio ao enfraquecimento da moeda estadunidense no exterior, à expectativa em torno do cenário eleitoral brasileiro e ao maior apetite por ativos de risco. No mercado de petróleo, o barril do tipo Brent encer",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-r-514-com-alivio-no-mercado-externo",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
-    "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 4,
-    "pub_date": "Fri, 21 Aug 2026 18:58:00 -0300",
+    "titulo": "Dona do Jack Daniel’s perde bilhões e abre crise entre herdeiros e conselho",
+    "descricao": "Herdeiros da Brown-Forman criticam gestão, bônus a executivos e negociações frustradas de venda após valor de mercado despencar de US$ 38 bilhões para até US$ 10,5 bilhões The post Dona do Jack Daniel’s perde bilhões e abre crise entre herdeiros e conselho appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/business/dona-do-jack-daniels-perde-bilhoes-e-abre-crise-entre-herdeiros-e-conselho/",
+    "fonte": "Infomoney",
+    "categoria": "Mercado",
+    "cor": "#4488ff",
+    "urgencia": "alta",
+    "score_relevancia": 1,
+    "pub_date": "Sun, 23 Aug 2026 15:06:11 +0000",
     "setores": [
-      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-      "Câmbio / Exportadores",
-      "Todos os ativos"
+      "Mercado geral"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Dona do Jack Daniel’s perde bilhões e abre crise entre herdeiros e conselho",
+      "descricao": "Herdeiros da Brown-Forman criticam gestão, bônus a executivos e negociações frustradas de venda após valor de mercado despencar de US$ 38 bilhões para até US$ 10,5 bilhões The post Dona do Jack Daniel’s perde bilhões e abre crise entre herdeiros e conselho appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/dona-do-jack-daniels-perde-bilhoes-e-abre-crise-entre-herdeiros-e-conselho/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 23 Aug 2026 15:06:11 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
     {
       "titulo": "Dólar cai a R$ 5,14 com alívio no mercado externo",
       "descricao": "Em um dia de alívio no mercado doméstico e externo, o dólar fechou no menor valor em pouco mais de 10 dias. A bolsa subiu quase 2% e encerrou a semana no campo positivo. O movimento ocorreu em meio ao enfraquecimento da moeda estadunidense no exterior, à expectativa em torno do cenário eleitoral brasileiro e ao maior apetite por ativos de risco. No mercado de petróleo, o barril do tipo Brent encer",
@@ -50,17 +62,59 @@
       ]
     },
     {
-      "titulo": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
-      "descricao": "Mais de um terço das 90 empresas ouvidas relatam que já tiveram a operação limitada pela infraestrutura disponível The post Falta de infraestrutura de IA limita crescimento de startups brasileiras appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
+      "titulo": "“Milei vai ser Milei”: presidente argentino resiste a mudar plano econômico",
+      "descricao": "Apuração do Clarín revela bastidores de um presidente resistente a ajustes enquanto atividade desacelera, inflação pressiona e cresce a preocupação com 2027 The post “Milei vai ser Milei”: presidente argentino resiste a mudar plano econômico appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/milei-vai-ser-milei-presidente-argentino-resiste-a-mudar-plano-economico/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sun, 23 Aug 2026 12:00:00 +0000",
+      "pub_date": "Sun, 23 Aug 2026 14:24:51 +0000",
       "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Como um acordo entre EUA e Canadá virou uma guerra de tarifas e ofensas em apenas 3 dias",
+      "descricao": "Presidente dos EUA, Donald Trump, durante discurso em 14 de agosto de 2026 Ken Cedeno/Reuters O governo de Donald Trump elevou neste domingo (23) o tom contra o Canadá após o fracasso das negociações comerciais entre os dois países e a retomada das tarifas de 50% sobre produtos canadenses. Washington afirmou que Ottawa seria \"insensato\" se acreditasse que poderia vencer uma guerra comercial contra",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/23/trump-diz-basta-em-reacao-as-tarifas-de-retaliacao-do-canada.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 23 Aug 2026 13:52:07 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido",
+      "descricao": "Governo Trump conclui que Pix é 'injusto': por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora? Marcello Casal Jr/Agência Brasil Clientes de bancos brasileirosrelataram neste domigno (23) instabilidade nas operações do PIX. A plataforma Downdetector, que monitora serviços on-line, registrava, às 08h30 deste domingo, 2.431 relatos de que o serviço não estava funcio",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 23 Aug 2026 11:35:51 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras e Pemex fazem acordo para explorar petróleo, mas especialistas veem risco de ‘letra morta’",
+      "descricao": "Petrobras e Pemex vão cooperar na exploração e produção de hidrocarbonetos e no refino e comercialização de biocombustíveis. Imago Duas das maiores petrolíferas estatais da América Latina surpreenderam com o anúncio de uma aliança: a Petrobras e a mexicana Pemex assinaram um memorando de entendimento, inicialmente válido por dois anos, para cooperar na exploração e produção de hidrocarbonetos. Ela",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/22/petrobras-e-pemex-fazem-acordo-para-explorar-petroleo-mas-especialistas-veem-risco-de-letra-morta.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 22 Aug 2026 08:00:40 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
     },
     {
@@ -78,17 +132,17 @@
       ]
     },
     {
-      "titulo": "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil",
-      "descricao": "O Programa Move Brasil, Táxi e Aplicativos ampliou o limite de financiamento para veículos novos e passou a incluir novas configurações de carros híbridos entre os modelos elegíveis. A mudança foi oficializada com a publicação de uma portaria conjunta dos Ministérios do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) e da Fazenda em edição extraordinária do Diário Oficial da União (DOU). No",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
+      "descricao": "Pesquisa mostra que limitação de processamento trava negócios e impulsiona busca por alternativas fora da nuvem",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7485411-falta-de-infraestrutura-de-ia-limita-startups-no-brasil.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Thu, 20 Aug 2026 15:33:00 -0300",
+      "pub_date": "Sun, 23 Aug 2026 09:20:56 -0300",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
@@ -148,74 +202,122 @@
       ]
     },
     {
-      "titulo": "Presidente do Irã: país precisa decidir sair de situação de ‘nem guerra, nem paz’",
-      "descricao": "Pezeshkian pediu unidade e coesão internas em discurso neste sábado (22) The post Presidente do Irã: país precisa decidir sair de situação de &#8216;nem guerra, nem paz&#8217; appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/presidente-do-ira-pais-precisa-decidir-sair-de-situacao-de-nem-guerra-nem-paz/",
+      "titulo": "Contribuição de aposentados para o INSS pode acabar? Tema volta a andar no Senado",
+      "descricao": "Comissão aprovou audiência pública sobre sugestão que pode virar projeto de lei; cobrança atinge aposentados e pensionistas do serviço público, não todos os beneficiários do INSS The post Contribuição de aposentados para o INSS pode acabar? Tema volta a andar no Senado appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/minhas-financas/contribuicao-de-aposentados-para-o-inss-pode-acabar-tema-volta-a-andar-no-senado/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 23 Aug 2026 12:25:58 +0000",
+      "pub_date": "Sun, 23 Aug 2026 16:03:20 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Zema defende nova reforma da Previdência com ajuste pela expectativa de vida",
-      "descricao": "Zema se reuniu com pessoas que tiveram descontos indevidos de aposentadorias e pensões do INSS The post Zema defende nova reforma da Previdência com ajuste pela expectativa de vida appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/zema-defende-nova-reforma-da-previdencia-com-ajuste-pela-expectativa-de-vida/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Bovinos influenciadores: conheça a vaca Leide e o touro Xerife",
+      "descricao": "Leide se tornou influenciadora e garota propaganda Reprodução / TV TEM Sem leilão ou competição, a Leide e o Xerife ganharam reconhecimento de um jeito fora do convencional. Mais do que gado, eles são influenciadores na região noroeste do estado de São Paulo; cada um com seu estilo de conteúdo. Leide, uma vaca do município de Guapiaçu (SP), se tornou influenciadora e garota propaganda. Ela compart",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/bovinos-influenciadores-conheca-a-vaca-leide-e-o-touro-xerife.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 23 Aug 2026 12:20:00 +0000",
+      "pub_date": "Sun, 23 Aug 2026 10:30:22 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Após acidente no RJ, especialistas dão recomendações para o turismo de aventura; veja",
-      "descricao": "A queda do helicóptero, que matou três colombianas e o piloto, acende o alerta para os cuidados que o viajante deve ter ao contratar esses serviços The post Após acidente no RJ, especialistas dão recomendações para o turismo de aventura; veja appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/brasil/apos-acidente-no-rj-especialistas-dao-recomendacoes-para-o-turismo-de-aventura-veja/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Variedade de uva italiana começa a ser produzida em São Roque",
+      "descricao": "Nebbiolo é uma variedade italiana que serve de base para inúmeros vinhos prestigiados ao redor do mundo. Reprodução / TV TEM O município de São Roque (SP) é um dos principais polos de produção de uva e vinho no estado de São Paulo, com tradição centenária e forte investimento em enoturismo. Nesta safra de inverno, a cidade apresenta uma novidade: a primeira colheita da uva nebbiolo, variedade ital",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 23 Aug 2026 12:15:00 +0000",
+      "pub_date": "Sun, 23 Aug 2026 10:30:18 -0000",
       "setores": [
-        "Mercado geral"
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Pix com instabilidades? Usuários relatam falhas neste domingo",
-      "descricao": "As reclamações vêm de diversas regiões e de clientes de diferentes bancos The post Pix com instabilidades? Usuários relatam falhas neste domingo appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/minhas-financas/pix-instabilidades-fora-do-ar-neste-domingo/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "El Niño pode encarecer alimentos em até 20%; economistas preveem impacto na inflação",
+      "descricao": "El Niño deve ser o mais intenso de que se tem memória Os alimentos podem ficar mais caros para os brasileiros e atingir um pico de preços em até seis meses após os choques climáticos provocados pelo El Niño. É o que aponta um modelo matemático desenvolvido pelo Rabobank com base no histórico do fenômeno no Brasil. Segundo o estudo, os alimentos in natura, como carnes e hortaliças, são os que tende",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/23/el-nino-pode-encarecer-alimentos-em-ate-20percent-economistas-preveem-impacto-na-inflacao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 23 Aug 2026 11:53:14 +0000",
+      "pub_date": "Sun, 23 Aug 2026 08:00:45 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
       ]
     },
     {
-      "titulo": "Novo ciclo de alta está surgindo no setor imobiliário dos EUA",
-      "descricao": "Após o impacto do aumento das taxas de juros americanas, o mercado imobiliário apresenta oportunidades para fundos bem capitalizados em diversos segmentos The post Novo ciclo de alta está surgindo no setor imobiliário dos EUA appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/novo-ciclo-de-alta-esta-surgindo-no-setor-imobiliario-dos-eua/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Por que europeus estão guardando mais dinheiro vivo mesmo usando cada vez menos notas?",
+      "descricao": "Mais de 31 milhões de notas de euro estão em circulação, em comparação com 24 milhões pouco antes da pandemia Frank Hoermann/SVEN SIMON/IMAGO via DW Dados do Banco Central Europeu (BCE) revelam que o número de cédulas de euro em circulação na União Europeia (UE) está aumentando, apesar da crescente disseminação de pagamentos eletrônicos entre os europeus. Especialistas associam o aumento do uso de",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/23/por-que-europeus-estao-guardando-mais-dinheiro-vivo-mesmo-usando-cada-vez-menos-notas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 23 Aug 2026 11:37:00 +0000",
+      "pub_date": "Sun, 23 Aug 2026 08:00:43 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Enter: o que faz a startup brasileira de IA que se tornou unicórnio e já vale US$ 1,2 bilhão",
+      "descricao": "Enter atingiu valor de mercado de US$ 1,2 bilhão em 2026. Divulgação/Enter Em maio, a startup brasileira Enter se tornou uma das empresas mais valiosas da América Latina ao atingir valor de mercado de US$ 1,2 bilhão após uma rodada de investimentos que triplicou sua avaliação, segundo o último comunicado divulgado pela empresa. A companhia captou mais de US$ 100 milhões com os fundos Sequoia e Fou",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/23/enter-o-que-faz-a-startup-brasileira-de-ia-que-se-tornou-unicornio-e-ja-vale-us-12-bilhao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 23 Aug 2026 07:01:29 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
+      "descricao": "Irã diz que Estreito de Ormuz só será reaberto com saída dos EUA A guerra no Irã está obrigando os grandes produtores de petróleo do Golfo Pérsico a reformular a forma como exportam o produto e reduzir a dependência do Estreito de Ormuz, principal rota de saída da região. Segundo o jornal \"The New York Times\", países como Arábia Saudita, Emirados Árabes Unidos, Kuwait e Iraque estão acelerando pro",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/22/guerra-no-ira-faz-paises-do-golfo-acelerarem-planos-para-driblar-estreito-de-ormuz.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 22 Aug 2026 08:00:42 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Pix enfrenta instabilidade na manhã deste domingo",
+      "descricao": "O sistema de pagamentos instantâneos Pix apresentou instabilidade na manhã deste domingo (23), provocando falhas em diversos bancos e gerando milhares de reclamações de usuários em todo o país. O problema afetou transferências e pagamentos em tempo real, com impacto imediato sobre consumidores e empresas. De acordo com o site DownDetector , que monitora interrupções em serviços digitais, o problem",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 23 Aug 2026 10:30:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -274,20 +376,6 @@
       "pub_date": "Thu, 20 Aug 2026 18:25:00 -0300",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "Aviação doméstica brasileira tem a maior movimentação em 26 anos",
-      "descricao": "De janeiro a julho de 2026, o Brasil alcançou a marca de 59 milhões de passageiros em voos domésticos. De acordo com dados da Agência Nacional de Aviação, é a maior movimentação para o período desde o início da série histórica, em 2000 . Feito pelo Ministério do Turismo, o levantamento mostra que o número representa crescimento de 4,04% em relação aos 57 milhões de viajantes registrados no mesmo p",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aviacao-domestica-brasileira-tem-maior-movimentacao-em-26-anos",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 20 Aug 2026 16:10:00 -0300",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
       ]
     },
     {
