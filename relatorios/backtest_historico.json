@@ -2121,11 +2121,11 @@
     "stop": 4.83,
     "alvo": 5.9,
     "score": 60,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 4.83,
+    "data_saida": "2026-08-11",
+    "resultado_pct": -5.85,
+    "motivo_saida": "stop",
     "preco_atual": 5.08,
     "resultado_pct_atual": -0.97
   },
@@ -2556,11 +2556,11 @@
     "stop": 4.83,
     "alvo": 5.9,
     "score": 60,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 4.83,
+    "data_saida": "2026-08-11",
+    "resultado_pct": -5.85,
+    "motivo_saida": "stop",
     "preco_atual": 5.08,
     "resultado_pct_atual": -0.97
   },
@@ -4496,8 +4496,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 0.06
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "TIMS3",
@@ -5051,8 +5051,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 1.41
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "PFRM3",
@@ -5681,8 +5681,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 1.41
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "PFRM3",
@@ -6371,8 +6371,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 1.11
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "MELK3",
@@ -6896,8 +6896,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 1.41
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "ITUB4",
@@ -7586,8 +7586,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 1.65
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "OBTC3",
@@ -7794,8 +7794,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 0.87
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "HBRE3",
@@ -9169,11 +9169,11 @@
     "stop": 3.36,
     "alvo": 4.07,
     "score": 55,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 3.36,
+    "data_saida": "2026-08-10",
+    "resultado_pct": -5.08,
+    "motivo_saida": "stop",
     "preco_atual": 3.59,
     "resultado_pct_atual": 1.41
   },
@@ -9469,11 +9469,11 @@
     "stop": 40.19,
     "alvo": 48.45,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 40.19,
+    "data_saida": "2026-08-10",
+    "resultado_pct": -4.6,
+    "motivo_saida": "stop",
     "preco_atual": 44.3,
     "resultado_pct_atual": 5.15
   },
@@ -9714,8 +9714,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.34,
-    "resultado_pct_atual": 7.17
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "GFSA3",
@@ -10264,11 +10264,11 @@
     "stop": 3.37,
     "alvo": 4.09,
     "score": 55,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 3.37,
+    "data_saida": "2026-08-10",
+    "resultado_pct": -5.34,
+    "motivo_saida": "stop",
     "preco_atual": 3.59,
     "resultado_pct_atual": 0.84
   },
@@ -10389,8 +10389,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 44.3,
-    "resultado_pct_atual": 8.39
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "ITUB4",
@@ -10419,8 +10419,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.34,
-    "resultado_pct_atual": 7.99
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "ITSA4",
@@ -11409,8 +11409,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.59,
-    "resultado_pct_atual": 4.36
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "GGPS3",
@@ -11494,11 +11494,11 @@
     "stop": 4.78,
     "alvo": 5.83,
     "score": 45,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 4.78,
+    "data_saida": "2026-08-13",
+    "resultado_pct": -5.72,
+    "motivo_saida": "stop",
     "preco_atual": 5.08,
     "resultado_pct_atual": 0.2
   },
@@ -12144,8 +12144,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.59,
-    "resultado_pct_atual": 4.66
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "GGPS3",
@@ -12894,8 +12894,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 5.08,
-    "resultado_pct_atual": 3.46
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "FIQE3",
@@ -13269,8 +13269,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 1.76
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "SYNE3",
@@ -13404,8 +13404,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.34,
-    "resultado_pct_atual": 6.52
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "TOTS3",
@@ -14287,8 +14287,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.3,
-    "resultado_pct_atual": 0.17
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "PNVL3",
@@ -15607,8 +15607,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 26.08,
-    "resultado_pct_atual": 2.52
+    "preco_atual": null,
+    "resultado_pct_atual": null
   },
   {
     "ticker": "AURE3",
@@ -17996,6 +17996,227 @@
   {
     "ticker": "ALPA4",
     "data_entrada": "2026-08-23",
+    "preco_entrada": 12.84,
+    "stop": 11.84,
+    "alvo": 14.77,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "SBSP3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 23.75,
+    "stop": 22.13,
+    "alvo": 27.31,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "CEAB3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 7.64,
+    "stop": 6.81,
+    "alvo": 8.79,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "CMIG4",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 10.04,
+    "stop": 9.54,
+    "alvo": 11.55,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "PSSA3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 46.57,
+    "stop": 43.96,
+    "alvo": 53.56,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "TFCO4",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 12.9,
+    "stop": 11.97,
+    "alvo": 14.83,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "LPSB3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 1.27,
+    "stop": 1.15,
+    "alvo": 1.46,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "HAPV3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 6.54,
+    "stop": 5.21,
+    "alvo": 7.52,
+    "score": 50,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "GGBR4",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 22.15,
+    "stop": 20.56,
+    "alvo": 25.47,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "RCSL4",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 0.7,
+    "stop": 0.59,
+    "alvo": 0.8,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "FESA4",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 5.03,
+    "stop": 4.67,
+    "alvo": 5.78,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "DIRR3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 10.48,
+    "stop": 9.64,
+    "alvo": 12.05,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "BHIA3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 0.43,
+    "stop": 0.29,
+    "alvo": 0.49,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "BRKM5",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 5.07,
+    "stop": 4.21,
+    "alvo": 5.83,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "TIMS3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 18.41,
+    "stop": 17.31,
+    "alvo": 21.17,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "SBFG3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 8.2,
+    "stop": 7.51,
+    "alvo": 9.43,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "KEPL3",
+    "data_entrada": "2026-08-24",
+    "preco_entrada": 6.13,
+    "stop": 5.74,
+    "alvo": 7.05,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "ALPA4",
+    "data_entrada": "2026-08-24",
     "preco_entrada": 12.84,
     "stop": 11.84,
     "alvo": 14.77,
