@@ -1,7 +1,458 @@
 {
-  "coletado_em": "13/08/2026 15:21",
-  "total": 0,
+  "coletado_em": "12/08/2026 13:08",
+  "total": 30,
   "urgentes": 0,
-  "destaque": null,
-  "noticias": []
+  "destaque": {
+    "titulo": "Ibovespa cai 2,26% com mercado de olho no IPCA e na ata do Copom",
+    "descricao": "Dólar sobe 1,16% e chega a R$ 5,17, enquanto investidores avaliam inflação de 4,44% em 12 meses e sinais do Banco Central sobre os juros",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477912-ibovespa-cai-226-com-mercado-de-olho-no-ipca-e-na-ata-do-copom.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
+    "urgencia": "media",
+    "score_relevancia": 8,
+    "pub_date": "Tue, 11 Aug 2026 15:10:00 -0300",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Câmbio / Exportadores",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Ibovespa cai 2,26% com mercado de olho no IPCA e na ata do Copom",
+      "descricao": "Dólar sobe 1,16% e chega a R$ 5,17, enquanto investidores avaliam inflação de 4,44% em 12 meses e sinais do Banco Central sobre os juros",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477912-ibovespa-cai-226-com-mercado-de-olho-no-ipca-e-na-ata-do-copom.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 8,
+      "pub_date": "Tue, 11 Aug 2026 15:10:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Sell-off na B3: comprar exportadoras ou apostar na queda dos juros? O que fazer agora",
+      "descricao": "Enquanto JPMorgan recomenda uma postura mais defensiva e focada em exportadoras, BBI vê oportunidade nas ações ligadas à queda da Selic; após roadshow na Ásia, Itaú BBA encontrou investidores construtivos com Brasil, mas ainda cautelosos The post Sell-off na B3: comprar exportadoras ou apostar na queda dos juros? O que fazer agora appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/sell-off-na-b3-comprar-acoes-exportadoras-ou-apostar-na-queda-dos-juros-o-que-fazer-agora/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos",
+      "descricao": "A ata da reunião em que o Comitê de Política Monetária (Copom) reduziu a taxa básica de juros (Selic) para 14% ao ano mostra que a decisão foi tomada em um ambiente de desaceleração da inflação, mas ainda marcado por incertezas. As expectativas inflacionárias , segundo o documento divulgado pelo Banco Central nesta terça-feira (11), permanecem elevadas em um cenário de riscos. Notícias relacionada",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-aponta-desaceleracao-da-inflacao-mas-mantem-alerta-sobre-riscos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 11 Aug 2026 11:16:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Lula recebe Alcolumbre no Alvorada para tentar destravar pautas no Senado; ministro fala em 'institucionalidade reconstruída'",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) recebeu nesta quarta-feira (12) o presidente do Senado, Davi Alcolumbre (União-AP), no Palácio da Alvorada para tentar destravar pautas do governo na Casa. O encontro durou cerca de duas horas e contou apenas com a participação de Lula, Alcolumbre, do ministro das Relações Institucionais, José Guimarães, e da líder do governo no Senado, Teresa Leitão (PT",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/lula-recebe-alcolumbre-no-alvorada-para-tentar-destravar-pautas-no-senado-ministro-fala-em-institucionalidade-reconstruida.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 14:02:56 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Chefe da campanha de Flávio Bolsonaro, Marinho pede a Fachin que STF julgue ações sobre a Lei da Dosimetria",
+      "descricao": "Campanha de Flávio pede julgamento da dosimetria no STF O senador Rogério Marinho (PL-RN), chefe da campanha de Flávio Bolsonaro à Presidência, pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, que coloque em julgamento quatro ações que questionam a constitucionalidade da chamada Lei da Dosimetria 🔎Aprovada em 2025, a Lei da Dosimetria permite a redução de penas de cond",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/12/chefe-da-campanha-de-flavio-bolsonaro-marinho-pede-a-fachin-que-stf-julgue-acoes-sobre-a-lei-da-dosimetria.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 12:47:42 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Petroleiros pedem Petrobras mais estatal e menor repasse a acionistas",
+      "descricao": "De olho nas eleições, a Federação Única dos Petroleiros (FUP) divulgou, nesta terça-feira (11), 50 propostas para o setor de óleo e gás no Brasil e para transição energética. A instituição pede o fortalecimento do papel da Petrobras, o aumento do controle estatal sobre a companhia, assim como a reestatização de refinarias e a redução de dividendos pagos aos acionistas da petroleira. Reunidos na FU",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petroleiros-pedem-petrobras-mais-estatal-e-menor-repasse-acionistas",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 11 Aug 2026 13:28:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Inflação recua para 0,07% em julho e volta para a meta do governo",
+      "descricao": "Os alimentos ficaram mais baratos no mês de julho e ajudaram a inflação oficial a perder força pelo quarto mês seguido e fechar em 0,07%. O resultado faz o Índice Nacional de Preços ao Consumidor Amplo (IPCA) acumular 4,44% em 12 meses, trazendo o indicador de volta para a meta do governo. O IPCA de julho veio em linha com a estimativa do mercado financeiro. O boletim Focus desta segunda-feira (10",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inflacao-recua-para-007-em-julho-e-volta-para-meta-do-governo",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 11 Aug 2026 09:48:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Recuperações judiciais no agronegócio avançam 21,9% no primeiro trimestre",
+      "descricao": "Alta ocorre em meio a crédito mais restrito, custos elevados e maior endividamento, apesar da expectativa de safra recorde",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478517-recuperacoes-judiciais-no-agronegocio-avancam-219-no-primeiro-trimestre.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 12 Aug 2026 11:23:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Taesa paga 100% do lucro em dividendos, mas ainda vale para renda passiva?",
+      "descricao": "A elétrica distribuiu todo o lucro regulatório do trimestre aos acionistas, mas conta conta divide os analistas sobre a sustentabilidade da tese no médio prazo The post Taesa paga 100% do lucro em dividendos, mas ainda vale para renda passiva? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/taesa-tese-dividendos-analise-2t2026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "CNJ e BC firmam parceria para criar sistema de rastreamento para compra e venda de precatórios",
+      "descricao": "O Conselho Nacional de Justiça (CNJ) e o Banco Central (BC) firmaram nesta quarta-feira (12) um convênio que cria um grupo de trabalho para desenvolver uma sistemática nacional de registro e rastreamento das transferências de créditos de precatórios (sentenças judiciais). O acordo foi formalizado por meio da assinatura de uma portaria conjunta pelo presidente do CNJ, ministro Luiz Edson Fachin, e ",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 14:25:40 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Na Câmara, Amorim diz que classificação de facções como terroristas ameaça soberania e não traz 'ganhos concretos'",
+      "descricao": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12), em audiência na Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados, que o governo brasileiro não tem \"qualquer complacência\" com organizações criminosas. Na ocasião, ele defendeu que o tema seja tratado dentro dos marcos da Constituição e do Estado Democrático d",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/na-camara-amorim-diz-que-governo-brasileiro-nao-tem-complacencia-com-faccoes-criminosas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 13:08:01 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "É #FAKE que eleições de 2026 terão novo modelo de urna eletrônica",
+      "descricao": "TSE não adotará nova urna para 2026 g1 Circulam nas redes sociais publicações afirmando que o Tribunal Superior Eleitoral (TSE) adotará um novo modelo de urna eletrônica nas eleições de 2026. É #FAKE. Selo Fake (Horizontal) g1 🔴 Como são os posts? Publicações que viralizaram no X, no Facebook e no Threads no final de julho exibem a seguinte legenda: \"O TSE anuncia novas urnas, auditoria do código-",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/12/e-fake-que-eleicoes-de-2026-terao-novo-modelo-de-urna-eletronica.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 08:02:17 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos",
+      "descricao": "Valores divulgados nesta terça-feira (11) pelo Banco Central (BC) mostram que há mais de R$ 5,12 bilhões esquecidos em instituições financeiras brasileiras. Desse total, R$ 3,76 bilhões pertencem a cerca de 22,66 milhões de pessoas físicas, e R$ 1,35 bilhão a 2 milhões de pessoas jurídicas, de acordo com informações do Sistema Valores a Receber (SVR) . Segundo o BC, dos mais de R$ 20,93 bilhões qu",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 11 Aug 2026 13:10:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Congresso começa a debater fim da \"taxa das blusinhas\"",
+      "descricao": "Instalação da comissão mista para tratar da MP que acaba com o imposto de importação para compras on-line de até US$ 50 busca evitar que a medida caduque. Até a edição da proposta, em maio, a Receita havia arrecadado R$ 1,85 bi com a tributação este ano",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478308-congresso-comeca-a-debater-fim-da-taxa-das-blusinhas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 05:00:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "IPCA desacelera para 0,07% em julho e fica em 4,44% nos 12 meses",
+      "descricao": "Energia elétrica puxa alta da habitação em julho, enquanto no grupo alimentação e bebidas os preços caem 0,67%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478259-ipca-desacelera-para-007-em-julho-e-fica-em-444-nos-12-meses.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 12 Aug 2026 05:00:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Lula diz que Brasil será \"dono do próprio nariz\" no mundo da IA",
+      "descricao": "A projeção de que o Brasil fomente invista em inteligência artificial, na avaliação de Lula, Alckmin e dos especialistas presentes na reunião, dependerá de ações voltadas à infraestrutura e energia",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478271-lula-diz-que-brasil-sera-dono-do-proprio-nariz-no-mundo-da-ia.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 11 Aug 2026 20:59:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Galípolo: Falta de controle em precatórios “premia comportamentos indesejados”",
+      "descricao": "Presidente do BC e CNJ criam grupo para propor melhorias no registro e rastreabilidade dos títulos. Fachin afirma que precatório não pode ser usado para \"enganar\" vulneráveis ou encobrir crimes The post Galípolo: Falta de controle em precatórios &#8220;premia comportamentos indesejados&#8221; appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/galipolo-falta-de-controle-em-precatorios-premia-comportamentos-indesejados/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 15:49:32 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Trump é processado por plano de vender acesso mais rápido a posts no Truth Social",
+      "descricao": "The Intercept e Freedom of the Press Foundation pedem à Justiça que bloqueie o Truth API, que cobra de US$ 60 mil a US$ 100 mil por mês por acesso antecipado a postagens do presidente The post Trump é processado por plano de vender acesso mais rápido a posts no Truth Social appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-e-processado-por-plano-de-vender-acesso-mais-rapido-a-posts-no-truth-social/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 15:44:29 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "'Graves violações de direitos de crianças': por que o Discord teve lives suspensas no Brasil",
+      "descricao": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil As transmissões ao vivo do Discord foram suspensas no Brasil após a Agência Nacional de Proteção de Dados (ANPD) identificar que a ferramenta vinha sendo usada de forma recorrente em casos de violência, assédio e indução à automutilação e ao suicídio envolvendo crianças e adolescentes. 📱Favorite o",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/por-que-o-discord-teve-lives-suspensas-no-brasil.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 14:38:20 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Amorim diz que EUA agiram de forma 'bizarra' e 'às pressas' ao indicar embaixador para o Brasil: 'Não foi por acaso'",
+      "descricao": "O assessor especial da Presidência para Assuntos Internacionais, Celso Amorim, afirmou nesta quarta-feira (12) que o governo dos Estados Unidos agiu de forma \"bizarra\" ao anunciar e dar andamento à indicação de Daniel Perez para a embaixada no Brasil antes da concessão do agrément, autorização formal necessária para que um embaixador seja aceito pelo país onde servirá. A declaração de Amorim foi d",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/amorim-diz-que-eua-agiram-de-forma-bizarra-e-as-pressas-ao-indicar-embaixador-para-o-brasil-nao-foi-por-acaso.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 13:50:41 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Equipe de Lula vê plano de Marco Rubio para impedir reeleição após vídeo dos EUA sobre domínio nas Américas",
+      "descricao": "A equipe do presidente Luiz Inácio Lula da Silva (PT) avalia que nunca ficou tão claro que o secretário de Estado dos Estados Unidos, Marco Rubio, quer evitar a reeleição do petista. A convicção foi reforçada depois que o departamento chefiado por Rubio divulgou vídeo dizendo que o domínio dos Estados Unidos em toda a América \"nunca mais será questionado\", citando intervenções do governo americano",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/12/equipe-de-lula-ve-plano-de-marco-rubio-para-impedir-reeleicao-apos-video-dos-eua-sobre-dominio-nas-americas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 12:42:06 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
+      "descricao": "O Plano Nacional de Logística (PNL) 2050 entra em vigor nesta quarta-feira (12), tendo, como objetivo, orientar o planejamento da infraestrutura de transportes no país até 2050. O documento servirá de referência para investimentos públicos e privados em rodovias, ferrovias, hidrovias, portos e aeroportos. Elaborado no âmbito do Planejamento Integrado de Transportes (PIT), o PNL foi estruturado a p",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/plano-nacional-de-logistica-preve-r-12-trilhao-em-investimentos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 12:48:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Setor de serviços fica estável em junho e sobe 2% no 1º semestre",
+      "descricao": "O setor de serviços terminou o primeiro semestre de 2026 com expansão de 2% em comparação com o mesmo período do ano passado. Em junho, o comportamento foi de estabilidade, ou seja, sem variação na comparação com maio. Na comparação com junho de 2025 houve crescimento de 2%. No acumulado de 12 meses, o setor avança 2,6%. O segundo trimestre de 2026 teve desempenho positivo de 0,4% na comparação co",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/setor-de-servicos-fica-estavel-em-junho-e-sobe-2-no-1o-semestre",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 10:02:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "ANP atualiza regras para comercialização de biometano",
+      "descricao": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) atualizou as regras para a comercialização de biometano no país. A Resolução n.° 1.006/2026 determina novos padrões de qualidade, transporte e comercialização do combustível renovável destinado aos setores veicular, residencial, comercial e industrial. O biometano é uma forma de combustível renovável produzido a partir do aproveit",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/anp-atualiza-regras-para-comercializacao-de-biometano",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 09:01:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "INPC registra deflação em julho e acumula alta de 4,10% em 12 meses",
+      "descricao": "O Índice Nacional de Preços ao Consumidor (INPC), utilizado para a correção anual de salários, fechou julho com deflação de 0,01%. No acumulado de 12 meses, o indicador está em 4,1%. Os dados foram divulgados nesta terça-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas: Inflação recua para 0,07% em julho e volta para a meta do governo. A última vez em q",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inpc-registra-deflacao-em-julho-e-acumula-alta-de-410-em-12-meses",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 11:02:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Procon Rio divulga cartilha com orientações sobre riscos das bets",
+      "descricao": "O Programa de Proteção e Defesa do Consumidor (Procon-RJ) lançou nesta segunda-feira (10), a cartilha Apostas Online: Bets e Jogos de Azar - Proteja Seu Dinheiro, Sua Saúde e Sua Família . O guia reúne orientações para conscientizar a população sobre os riscos das apostas esportivas e dos jogos de azar online e oferece informações para prevenção do superendividamento. O material mostra ainda como ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/procon-rio-divulga-cartilha-com-orientacoes-sobre-riscos-das-bets",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 10 Aug 2026 18:21:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Brasil registra quase 250 bilhões de ataques cibernéticos até julho",
+      "descricao": "De acordo com relatório da Fortinet, maioria das ações foram consideradas tentativas de negação de serviço; criminosos utilizam mais IA para furar barreiras",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7478570-brasil-registra-quase-250-bilhoes-de-ataques-ciberneticos-ate-julho.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 12 Aug 2026 12:30:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula e Vieira recebem secretária de negócios das Filipinas no Alvorada",
+      "descricao": "Estratégia do governo é diversificar mercados para exportações de produtos em meio ao tarifaço dos Estados Unidos",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477945-lula-e-vieira-recebem-secretaria-de-negocios-das-filipinas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 16:27:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Mais de R$ 5,1 bilhões estão esquecidos em bancos, aponta Banco Central",
+      "descricao": "Cerca de 24,6 milhões de pessoas e empresas ainda têm valores a receber. A maioria dos beneficiários tem até R$ 10 disponíveis para resgate",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477957-mais-de-rs-51-bilhoes-estao-esquecidos-em-bancos-aponta-bc.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 16:07:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Exportações do Brasil para os EUA caem 12,2% até julho",
+      "descricao": "Vendas brasileiras ao mercado norte-americano somaram US$ 20,95 bilhões no período, enquanto produtos submetidos a sobretaxas recuaram 14,4%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7477920-exportacoes-do-brasil-para-os-eua-caem-122-ate-julho.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 11 Aug 2026 15:37:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    }
+  ]
 }

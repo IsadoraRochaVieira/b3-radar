@@ -3,7 +3,128 @@
   "data_iso": "2026-08-13",
   "dia_semana": "Quinta-feira",
   "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa - (+0.00%). Destaques: nenhum acima do limiar. Semáforo: VERDE.",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 167.618 (-0.15%). Destaques: CXSE3, PSSA3, DIRR3. Semáforo: VERDE.",
   "semaforo": "verde",
-  "sugestoes": []
-}}
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "CXSE3",
+      "acao": "COMPRAR",
+      "preco": "18.42",
+      "entrada": "18.42",
+      "stop": "17.39",
+      "alvo": "21.18",
+      "rsi": 29.5,
+      "score": 70,
+      "porque": "RSI em 29.5 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 17.39 limita risco."
+    },
+    {
+      "rank": 2,
+      "ticker": "PSSA3",
+      "acao": "COMPRAR",
+      "preco": "48.41",
+      "entrada": "48.41",
+      "stop": "45.8",
+      "alvo": "55.67",
+      "rsi": 29.0,
+      "score": 70,
+      "porque": "Análise técnica aponta reversão com RSI 29.0 e score de 70 pontos. Entrada em R$ 48.41 com alvo R$ 55.67."
+    },
+    {
+      "rank": 3,
+      "ticker": "DIRR3",
+      "acao": "COMPRAR",
+      "preco": "10.52",
+      "entrada": "10.52",
+      "stop": "9.57",
+      "alvo": "12.1",
+      "rsi": 30.0,
+      "score": 65,
+      "porque": "RSI em 30.0 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 9.57 limita risco."
+    },
+    {
+      "rank": 4,
+      "ticker": "PASS3",
+      "acao": "COMPRAR",
+      "preco": "21.7",
+      "entrada": "21.7",
+      "stop": "20.14",
+      "alvo": "24.95",
+      "rsi": 26.4,
+      "score": 65,
+      "porque": "RSI em 26.4 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 20.14 limita risco."
+    },
+    {
+      "rank": 5,
+      "ticker": "UGPA3",
+      "acao": "COMPRAR",
+      "preco": "30.59",
+      "entrada": "30.59",
+      "stop": "28.82",
+      "alvo": "35.18",
+      "rsi": 46.0,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 46.0 e score de 65 pontos. Entrada em R$ 30.59 com alvo R$ 35.18."
+    },
+    {
+      "rank": 6,
+      "ticker": "VBBR3",
+      "acao": "COMPRAR",
+      "preco": "33.07",
+      "entrada": "33.07",
+      "stop": "31.15",
+      "alvo": "38.03",
+      "rsi": 44.6,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 44.6 e score de 60 pontos. Entrada em R$ 33.07 com alvo R$ 38.03."
+    },
+    {
+      "rank": 7,
+      "ticker": "ITUB3",
+      "acao": "COMPRAR",
+      "preco": "41.53",
+      "entrada": "41.53",
+      "stop": "39.45",
+      "alvo": "47.76",
+      "rsi": 31.5,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 31.5 e score de 60 pontos. Entrada em R$ 41.53 com alvo R$ 47.76."
+    },
+    {
+      "rank": 8,
+      "ticker": "CMIG4",
+      "acao": "OBSERVAR",
+      "preco": "10.37",
+      "entrada": "10.37",
+      "stop": "9.91",
+      "alvo": "11.93",
+      "rsi": 31.8,
+      "score": 55,
+      "porque": "RSI em 31.8 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 10.37."
+    },
+    {
+      "rank": 9,
+      "ticker": "GRND3",
+      "acao": "OBSERVAR",
+      "preco": "3.48",
+      "entrada": "3.48",
+      "stop": "3.29",
+      "alvo": "4.0",
+      "rsi": 32.3,
+      "score": 55,
+      "porque": "RSI em 32.3 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 3.48."
+    },
+    {
+      "rank": 10,
+      "ticker": "SHUL4",
+      "acao": "OBSERVAR",
+      "preco": "4.28",
+      "entrada": "4.28",
+      "stop": "4.07",
+      "alvo": "4.92",
+      "rsi": 34.4,
+      "score": 55,
+      "porque": "RSI em 34.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 4.28."
+    }
+  ]
+}
