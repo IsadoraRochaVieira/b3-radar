@@ -6,6 +6,7 @@ import Costura from '@/components/Costura'
 import NumeroContado from '@/components/NumeroContado'
 import CarrosselAcoes from '@/components/CarrosselAcoes'
 import CarrosselModulos from '@/components/CarrosselModulos'
+import DecisaoInterativa from '@/components/DecisaoInterativa'
 
 const heroAtivos = [
   { ticker: 'PETR4', nome: 'Petrobras', score: 92, acao: 'COMPRAR', preco: '38,50' },
@@ -240,16 +241,17 @@ export default function Landing() {
         </Revela>
       </section>
 
-      {/* QUEBRA DE SESSÃO GIGANTE - FLOR DO PEQUI */}
-      <section style={{ height: 280, position: 'relative', overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+      {/* A flor continua como transição, mas agora sustenta uma área de decisão útil. */}
+      <section style={{ position: 'relative', overflow: 'hidden' }}>
         <model-viewer
           src="/flor%20pequi.glb"
           auto-rotate
           rotation-per-second="2deg"
           disable-zoom
           interaction-prompt="none"
-          style={{ width: '100%', height: '800px', opacity: 0.12, pointerEvents: 'none', transform: 'scale(1.5)', '--poster-color': 'transparent' } as React.CSSProperties}
+          style={{ position: 'absolute', inset: '-220px 0 auto', width: '100%', height: '800px', opacity: 0.08, pointerEvents: 'none', transform: 'scale(1.5)', '--poster-color': 'transparent' } as React.CSSProperties}
         ></model-viewer>
+        <DecisaoInterativa />
       </section>
 
       {/* ── OS TRÊS PILARES ── */}
