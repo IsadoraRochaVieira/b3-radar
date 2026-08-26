@@ -1,36 +1,34 @@
 {
-  "coletado_em": "26/08/2026 14:42",
-  "total": 30,
-  "urgentes": 0,
+  "coletado_em": "26/08/2026 14:51",
+  "total": 27,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Dólar sobe com IPCA-15, dívida pública e indicadores dos EUA no radar; Ibovespa avança",
-    "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quarta-feira (26). Por volta das 13h33, a moeda americana avançava 0,35%, cotada a R$ 5,1579. No mesmo horário, o Ibovespa, principal índice da bolsa brasileira, subia 0,35%, aos 175.195 pontos. ▶️ Os investidores acompanham, nesta manhã, a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), consider",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/26/dolar-ibovespa.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 5,
-    "pub_date": "Wed, 26 Aug 2026 12:00:16 -0000",
+    "titulo": "Governo divulga telefones de emergência para brasileiros no Nepal e no Tibete após enchentes e deslizamentos",
+    "descricao": "O Ministério das Relações Exteriores (Itamaraty) divulgou nesta quarta-feira (26) telefones de emergência para atendimento a brasileiros que estejam no Nepal ou na Região Administrativa Autônoma do Tibete, na China, após os deslizamentos de terra e enchentes que atingiram as duas regiões. Em nota, o governo brasileiro afirmou ter recebido \"com consternação\" a notícia da tragédia, que ocorreu após ",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/26/governo-divulga-telefones-de-emergencia-para-brasileiros-no-nepal-e-no-tibete-apos-enchentes-e-deslizamentos.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
+    "urgencia": "alta",
+    "score_relevancia": 1,
+    "pub_date": "Wed, 26 Aug 2026 17:31:15 -0000",
     "setores": [
-      "Câmbio / Exportadores",
-      "Todos os ativos"
+      "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
     ]
   },
   "noticias": [
     {
-      "titulo": "Dólar sobe com IPCA-15, dívida pública e indicadores dos EUA no radar; Ibovespa avança",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quarta-feira (26). Por volta das 13h33, a moeda americana avançava 0,35%, cotada a R$ 5,1579. No mesmo horário, o Ibovespa, principal índice da bolsa brasileira, subia 0,35%, aos 175.195 pontos. ▶️ Os investidores acompanham, nesta manhã, a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), consider",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/26/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Wed, 26 Aug 2026 12:00:16 -0000",
+      "titulo": "Governo divulga telefones de emergência para brasileiros no Nepal e no Tibete após enchentes e deslizamentos",
+      "descricao": "O Ministério das Relações Exteriores (Itamaraty) divulgou nesta quarta-feira (26) telefones de emergência para atendimento a brasileiros que estejam no Nepal ou na Região Administrativa Autônoma do Tibete, na China, após os deslizamentos de terra e enchentes que atingiram as duas regiões. Em nota, o governo brasileiro afirmou ter recebido \"com consternação\" a notícia da tragédia, que ocorreu após ",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/26/governo-divulga-telefones-de-emergencia-para-brasileiros-no-nepal-e-no-tibete-apos-enchentes-e-deslizamentos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 17:31:15 -0000",
       "setores": [
-        "Câmbio / Exportadores",
-        "Todos os ativos"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     },
     {
@@ -119,36 +117,6 @@
       "pub_date": "Tue, 25 Aug 2026 15:04:00 -0300",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "IPCA-15: preços caem 0,40% em agosto, com conta de luz, gasolina e alimentos mais baratos",
-      "descricao": "TV Verdes Mares/Reprodução O IPCA-15, considerado uma prévia da inflação oficial do país, registrou queda de 0,40% nos preços em agosto. Os dados foram divulgados nesta quarta-feira (26) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 Com o resultado, o IPCA-15 acumula alta de 3,09% no ano e de 4,24% em 12 meses. Nesse último recor",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/26/ipca-15-previa-da-inflacao-agosto.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 26 Aug 2026 12:00:39 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "As duas frentes da guerra comercial de Trump - O Assunto #1791",
-      "descricao": "O presidente dos Estados Unidos afirmou que esta segunda-feira (24) seria o “Dia D” da guerra econômica que está promovendo contra o Irã. E o Departamento do Tesouro americano de fato anunciou sanções contra pessoas e organizações ligadas ao regime de Teerã e ameaçou fazer o mesmo com países que mantenham qualquer transação econômica com o Irã. O governo iraniano reagiu e afirmou que parceiros com",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/26/as-duas-frentes-da-guerra-comercial-de-trump-o-assunto-1791.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 26 Aug 2026 03:30:15 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -266,6 +234,20 @@
       ]
     },
     {
+      "titulo": "Enchente no Nepal pode ter sido provocada por ruptura de geleira, dizem cientistas",
+      "descricao": "Uma avaliação preliminar de imagens de satélite sugere que uma “avalanche de gelo” originada em uma geleira de alta altitude lançou uma enorme massa de água e gelo sobre o vale abaixo The post Enchente no Nepal pode ter sido provocada por ruptura de geleira, dizem cientistas appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/global/enchente-no-nepal-pode-ter-sido-provocada-por-ruptura-de-geleira-dizem-cientistas/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 17:47:14 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
       "titulo": "Putin prepara escalada na guerra contra Ucrânia após fracasso das negociações de paz",
       "descricao": "Kremlin avalia ampliar ataques com mísseis contra Kiev e outras cidades ucranianas diante do impasse diplomático com os EUA e a Ucrânia The post Putin prepara escalada na guerra contra Ucrânia após fracasso das negociações de paz appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mundo/putin-prepara-escalada-na-guerra-contra-ucrania-apos-fracasso-das-negociacoes-de-paz/",
@@ -297,87 +279,14 @@
       "titulo": "Governo prorroga subsídio à gasolina até 9 de setembro",
       "descricao": "O Ministério da Fazenda prorrogou a chamada \"subvenção\" à gasolina, ou seja, um tipo de subsídio, até 9 de setembro. Portaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 0,44 a subvenção para manter o preço do combustível mais baixo. 🔎Essa subvenção é uma ajuda financeira dada pelo governo para reduzir o preço de um produto ou serviço. No caso da gasolina, o governo fed",
       "link": "https://g1.globo.com/economia/noticia/2026/08/26/governo-prorroga-subsidio-a-gasolina-ate-9-de-setembro.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Wed, 26 Aug 2026 17:09:05 -0000",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "Governo libera R$ 2,75 bilhões para atrasados do INSS; veja quem tem direito e como receber",
-      "descricao": "A cobrança do INSS era indevida, o que justificou a indenização por danos morais Divulgação / INSS O Conselho da Justiça Federal (CJF) liberou R$ 3,31 bilhões para o pagamento de valores atrasados a pessoas que venceram ações contra órgãos do governo federal. Do total, R$ 2,75 bilhões são destinados a ações relacionadas ao INSS e a benefícios assistenciais, incluindo casos de revisão de aposentado",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/26/governo-libera-r-275-bilhoes-para-atrasados-do-inss-veja-quem-tem-direito-e-como-receber.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 16:45:24 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Meta vai pagar US$ 16 bilhões em acordo por alegações de vício de crianças em redes sociais nos EUA",
-      "descricao": "Logo da Meta. Daniel Cole/Reuters A Meta, dona de Instagram, Facebook e WhatsApp, concordou em pagar US$ 16,68 bilhões (cerca de R$ 86,7 bilhões) a estados americanos em um acordo judicial relacionado a um processo que acusa a empresa de incentivar a dependência de adolescentes das redes sociais. A empresa também concordou em adotar novas regras para adolescentes que usam Facebook e Instagram em t",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/meta-vai-pagar-us-bilhoes-em-acordo-por-alegacoes-de-vicio-de-criancas-em-redes-sociais-nos-eua.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 13:41:32 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Omar Aziz vai propor transição de até um ano para fim da escala 6x1",
-      "descricao": "O relator da proposta do fim da escala 6x1 no Senado, Omar Aziz (PSD-AM), irá propor uma transição de até um ano para a redução das horas semanais trabalhadas e quer exceções para setores específicos. Ao blog, o senador afirmou que entregará o relatório nesta quinta-feira (27), para que Comissão de Constituição e Justiça (CCJ) possa votar o texto na próxima semana. Segundo Aziz, há um acordo com o",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/26/omar-aziz-vai-propor-transicao-de-ate-um-ano-para-fim-da-escala-6x1.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 13:02:07 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Bill Gates alerta para perigos da IA e quer discutir regras com Xi Jinping, presidente da China",
-      "descricao": "Na China, seu rosto já pode ser alugado ou vendido para a IA Bill Gates, cofundador da Microsoft, pretende se encontrar com o presidente da China, Xi Jinping, ainda neste ano para discutir formas de reduzir os riscos provocados pelo avanço da inteligência artificial (IA). Em entrevista à agencia Reuters, Gates afirmou que acredita que a China poderia concordar em restringir o lançamento de modelos",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/bill-gates-alerta-para-perigos-da-ia-e-quer-discutir-regras-com-xi-jinping-presidente-da-china.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 12:36:28 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Golpistas avançam do roubo de senhas para o uso de IA para 'clonar' pessoas no Brasil, revela estudo",
-      "descricao": "Deepfake nas eleições: entenda o que é e por que pode enganar o eleitor Um dos golpes mais comuns na internet, o roubo de senhas, está dividindo espaço com uma nova estratégia no Brasil: a \"clonagem\" de pessoas para tentar enganar vítimas e obter dinheiro. É o que mostra um levantamento inédito da Nexus Pesquisa e Inteligência de Dados, que analisa menções nas redes sociais sobre diferentes temas,",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/golpistas-avancam-do-roubo-de-senhas-para-o-uso-de-ia-para-clonar-pessoas-no-brasil-revela-estudo.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 08:04:17 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
-        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -390,6 +299,20 @@
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Wed, 26 Aug 2026 17:02:18 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Omar Aziz vai propor transição de até um ano para fim da escala 6x1",
+      "descricao": "O relator da proposta do fim da escala 6x1 no Senado, Omar Aziz (PSD-AM), irá propor uma transição de até um ano para a redução das horas semanais trabalhadas e quer exceções para setores específicos. Ao blog, o senador afirmou que entregará o relatório nesta quinta-feira (27), para que Comissão de Constituição e Justiça (CCJ) possa votar o texto na próxima semana. Segundo Aziz, há um acordo com o",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/26/omar-aziz-vai-propor-transicao-de-ate-um-ano-para-fim-da-escala-6x1.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 13:02:07 -0000",
       "setores": [
         "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
@@ -450,6 +373,34 @@
       "pub_date": "Wed, 26 Aug 2026 04:21:00 -0300",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Regulação de investimento internacional pode alavancar terras raras",
+      "descricao": "País detém quase um quarto das reservas mundiais e reúne projetos bilionários em Minas, Goiás e Bahia. Domínio chinês no refino e carência de cadeia industrial interna desafiam o mercado externo",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487207-regulacao-de-investimento-internacional-pode-alavancar-terras-raras.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 25 Aug 2026 19:30:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Tarifaço: governo prorroga suspensão de tributos para empresas afetadas",
+      "descricao": "Medida assinada pelo presidente Lula permite que determinadas empresas permaneçam no regime de drawback por até um ano",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487180-tarifaco-governo-prorroga-suspensao-de-tributos-para-empresas-afetadas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 25 Aug 2026 19:26:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     }
   ]
