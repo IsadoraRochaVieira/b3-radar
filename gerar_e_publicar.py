@@ -354,7 +354,54 @@ if __name__ == "__main__":
     nome_arquivo = f"{hoje}_{TURNO}.json"
     salvar_json(relatorio, nome_arquivo)
 
-    # 7. Push
+    # 7b. Monta e salva relatório da CARIOTRADE
+    try:
+        import csv, glob
+        import ast
+        _csvs = sorted(glob.glob(str(ROOT / "b3_analise_*.csv")))
+        if _csvs:
+            candidatos_trader = []
+            with open(_csvs[-1], encoding="utf-8") as f:
+                reader = csv.DictReader(f, delimiter=";")
+                for r in reader:
+                    r["score_trader"] = int(r.get("score_trader", 0))
+                    # parse signs back to list
+                    sinais_str = r.get("sinais_trader", "[]")
+                    if sinais_str.startswith("["):
+                        try:
+                            r["sinais_trader"] = ast.literal_eval(sinais_str)
+                        except:
+                            r["sinais_trader"] = []
+                    candidatos_trader.append(r)
+            
+            candidatos_trader.sort(key=lambda x: x["score_trader"], reverse=True)
+            aprovados_trader = [c for c in candidatos_trader if c["score_trader"] >= 40 and c.get("classificacao_trader") != "EVITAR"]
+            
+            relatorio_trader = {
+                "data":              agora.strftime("%d/%m/%Y"),
+                "data_iso":          hoje,
+                "turno":             TURNO,
+                "turno_label":       LABEL_TURNO,
+                "hora_geracao":      hora_atual,
+                "semaforo":          semaforo,
+                "macro":             macro,
+                "tops":              [{"ticker": c["ticker"], "score_trader": c["score_trader"]} for c in candidatos_trader[:5]],
+                "candidatos":        candidatos_trader,          
+                "candidatos_top":    aprovados_trader,     
+            }
+            salvar_json(relatorio_trader, f"cariotrade_{hoje}_{TURNO}.json")
+            
+            # Também salva na pasta do frontend do Cariotrade para a Vercel ler facilmente
+            cariotrade_dir = ROOT.parent / "cariotrade" / "public" / "data"
+            cariotrade_dir.mkdir(parents=True, exist_ok=True)
+            destino_frontend = cariotrade_dir / f"cariotrade_{hoje}_{TURNO}.json"
+            destino_frontend.write_text(json.dumps(relatorio_trader, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"[OK] Salvo -> {destino_frontend}")
+
+    except Exception as e:
+        print(f"[ERRO] Falha ao gerar relatório Cariotrade: {e}")
+
+    # 8. Push
     git_push(f"relatorio: {hoje} {TURNO} | {semaforo} | {', '.join(tickers_top)}")
 
     print(f"\n[OK] Relatório {hoje} [{TURNO}] publicado!")

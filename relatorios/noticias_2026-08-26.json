@@ -1,10 +1,10 @@
 {
-  "coletado_em": "26/08/2026 14:51",
-  "total": 27,
-  "urgentes": 1,
+  "coletado_em": "26/08/2026 20:57",
+  "total": 30,
+  "urgentes": 3,
   "destaque": {
     "titulo": "Governo divulga telefones de emergência para brasileiros no Nepal e no Tibete após enchentes e deslizamentos",
-    "descricao": "O Ministério das Relações Exteriores (Itamaraty) divulgou nesta quarta-feira (26) telefones de emergência para atendimento a brasileiros que estejam no Nepal ou na Região Administrativa Autônoma do Tibete, na China, após os deslizamentos de terra e enchentes que atingiram as duas regiões. Em nota, o governo brasileiro afirmou ter recebido \"com consternação\" a notícia da tragédia, que ocorreu após ",
+    "descricao": "O Ministério das Relações Exteriores (Itamaraty) divulgou nesta quarta-feira (26) telefones de emergência para atendimento a brasileiros que estejam no Nepal ou na Região Administrativa Autônoma do Tibete, na China, após os deslizamentos de terra e enchentes que atingiram as duas regiões. Em nota, o governo brasileiro afirmou ter recebido \"com consternação\" a notícia da tragédi. Uma enchente repen",
     "link": "https://g1.globo.com/politica/noticia/2026/08/26/governo-divulga-telefones-de-emergencia-para-brasileiros-no-nepal-e-no-tibete-apos-enchentes-e-deslizamentos.ghtml",
     "fonte": "G1 Política",
     "categoria": "Política",
@@ -19,7 +19,7 @@
   "noticias": [
     {
       "titulo": "Governo divulga telefones de emergência para brasileiros no Nepal e no Tibete após enchentes e deslizamentos",
-      "descricao": "O Ministério das Relações Exteriores (Itamaraty) divulgou nesta quarta-feira (26) telefones de emergência para atendimento a brasileiros que estejam no Nepal ou na Região Administrativa Autônoma do Tibete, na China, após os deslizamentos de terra e enchentes que atingiram as duas regiões. Em nota, o governo brasileiro afirmou ter recebido \"com consternação\" a notícia da tragédia, que ocorreu após ",
+      "descricao": "O Ministério das Relações Exteriores (Itamaraty) divulgou nesta quarta-feira (26) telefones de emergência para atendimento a brasileiros que estejam no Nepal ou na Região Administrativa Autônoma do Tibete, na China, após os deslizamentos de terra e enchentes que atingiram as duas regiões. Em nota, o governo brasileiro afirmou ter recebido \"com consternação\" a notícia da tragédi. Uma enchente repen",
       "link": "https://g1.globo.com/politica/noticia/2026/08/26/governo-divulga-telefones-de-emergencia-para-brasileiros-no-nepal-e-no-tibete-apos-enchentes-e-deslizamentos.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -32,46 +32,60 @@
       ]
     },
     {
-      "titulo": "Lula reúne Motta e Alcolumbre para negociar fim da \"Taxa das Blusinhas\"",
-      "descricao": "De olho nas eleições, Lula recebe para almoço os presidentes da Câmara e do Senado para costurar a aprovação da MP que acaba com a cobrança sobre compras on-line",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487302-lula-reune-motta-e-alcolumbre-para-negociar-fim-da-taxa-das-blusinhas.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Wed, 26 Aug 2026 03:42:00 -0300",
+      "titulo": "Dona de Habib’s e Ragazzo entra em recuperação judicial",
+      "descricao": "Controlador das marcas Habib’s, Ragazzo e Tendall Grill, o Grupo Gennius entrou em recuperação judicial com uma dívida declarada de R$ 265,2 milhões. O pedido foi apresentado na segunda-feira (24) e aceito pela Justiça de São Paulo no dia seguinte (25). O juiz Jomar Juarez Amorim, da 1ª Vara de Falências e Recuperações Judiciais de São Paulo, nomeou a consultoria KPMG como administradora judicial.",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dona-de-habibs-e-ragazzo-entra-em-recuperacao-judicial",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 20:14:00 -0300",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central",
-      "descricao": "Disputas envolvendo diretores, o futuro de Jerome Powell e vagas em aberto podem abrir espaço para que o presidente amplie sua influência sobre a política de juros The post Após embates com o Fed, Trump vê até 4 chances de remodelar comando do banco central appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/apos-embates-com-o-fed-trump-ve-ate-4-chances-de-remodelar-comando-do-banco-central/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 26 Aug 2026 17:21:04 +0000",
+      "titulo": "Luiza Trajano associa crise no varejo a juros altos e avanço das bets",
+      "descricao": "Magazine Luiza registrou prejuízo de R$ 51,4 milhões no segundo trimestre deste ano",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487855-luiza-trajano-associa-crise-no-varejo-a-juros-altos-e-avanco-das-bets.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 17:41:00 -0300",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
-      "titulo": "Antes de reunião com Motta e Alcolumbre, Lula diz que Brasil 'está pronto' para fim da escala 6x1",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (26) que o Brasil \"está pronto\" para avançar com o fim da escala 6x1 e da taxa das blusinhas, e com as propostas que tratam de segurança pública e dos minerais críticos. O petista deu a declaração antes de uma reunião com os presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União Brasil-AP). O e",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/26/antes-de-reuniao-com-motta-e-alcolumbre-lula-diz-que-brasil-esta-pronto-para-fim-da-escala-6x1.ghtml",
+      "titulo": "Alcolumbre diz que Congresso votará MP da taxa das blusinhas na próxima semana, e CCJ do Senado analisará 6x1 e PEC da Segurança",
+      "descricao": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), afirmou nesta quarta-feira (26) que o Congresso votará na próxima semana a medida provisória que acabou com a chamada \"taxa das blusinhas\", que ainda precisa da confirmação do Legislativo. O texto, segundo o senador, será analisado na Câmara e no Senado antes de perder a validade. Alcolumbre também disse que a Comissão de Constituição e Ju",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/26/alcolumbre-diz-que-plenario-do-senado-votara-mp-da-taxa-das-blusinhas-na-proxima-semana-e-ccj-analisara-6x1-e-pec-da-seguranca.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 26 Aug 2026 14:40:17 -0000",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 26 Aug 2026 18:36:17 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Até 53% da Dívida Pública Federal poderá ser corrigida pela Selic",
+      "descricao": "O interesse dos investidores pelos títulos públicos vinculados aos juros fez o Tesouro Nacional elevar a proporção da Taxa Selic (juros básicos da economia) no endividamento do governo. A Dívida Pública Federal (DPF) poderá chegar a 2026 com 49% a 53% do valor corrigido pela Selic, que está em 14% ao ano . A nova meta consta da revisão do Plano Anual de Financiamento (PAF), divulgada nesta quarta-",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ate-53-da-divida-publica-federal-podera-ser-corrigida-pela-selic",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 26 Aug 2026 17:10:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -90,31 +104,102 @@
       ]
     },
     {
-      "titulo": "Empresas afetadas por tarifaço terão drawback estendido por um ano",
-      "descricao": "Empresas brasileiras que tiveram compromissos de exportação afetados pelas tarifas adicionais impostas pelos Estados Unidos poderão ganhar mais tempo para cumprir as obrigações previstas no regime de drawback suspensão. A possibilidade foi criada pela Medida Provisória (MP) 1.386 , editada pelo presidente Luiz Inácio Lula da Silva e publicada nesta terça-feira (25) no Diário Oficial da União (DOU)",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-afetadas-por-tarifaco-terao-drawback-estendido-por-um-ano",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Ibovespa perde fôlego e fecha quase estável após superar 176 mil pontos",
+      "descricao": "Na máxima do dia, o Ibovespa chegou a 176.296,49 pontos. Na mínima, marcou 174.208,48 pontos The post Ibovespa perde fôlego e fecha quase estável após superar 176 mil pontos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-apos-queda-do-ipca-15-e-com-sinal-de-estrangeiros-voltando-ao-mercado/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 20:57:43 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Hackers ligados à China atacaram NASA, Senado e órgãos dos EUA, diz Justiça americana",
+      "descricao": "Cybercrime; hacker; crimes digitais; crimes virtuais Kevin Horvart/Unplash Os Estados Unidos afirmaram nesta quarta-feira (26) que interromperam uma operação de hackers ligada à China. Segundo o Departamento de Justiça americano, o grupo invadiu ou tentou invadir sistemas da Justiça, da NASA, do Federal Reserve (banco central dos EUA), do Senado e de outras instituições importantes do governo. O D",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/hackers-ligados-a-china-atacaram-nasa-senado-e-orgaos-dos-eua-diz-justica-americana.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 25 Aug 2026 18:13:00 -0300",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 22:34:03 -0000",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Trump oficializa cota extra de importação de carne para baixar preços nos EUA",
+      "descricao": "Festival Recife Burger Gourmet Gustavo Steffen/Divulgação O presidente dos Estados Unidos, Donald Trump, assinou nesta quarta-feira (26) uma proclamação que amplia temporariamente a importação de carne bovina com imposto menor, informou a Casa Branca. A medida tem o objetivo de aumentar a oferta e tentar conter os preços da carne para os consumidores norte-americanos. 🗒️ Tem alguma sugestão de rep",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-oficializa-cota-extra-de-importacao-de-carne-para-baixar-precos-nos-eua.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 21:37:55 -0000",
+      "setores": [
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
-      "descricao": "Beneficiada pelo crescimento da economia e por aumentos recentes de tributos, arrecadação federal alcançou R$ 289,3 bilhões em julho de 2026, segundo dados divulgados pela Receita Federal nesta terça-feira (25). O resultado representa uma alta de 8,97% acima da inflação em relação ao mesmo mês de 2025, com recorde para o mês. No acumulado de janeiro a julho, o governo federal arrecadou R$ 1,876 tr",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Trump analisa regras da carne bovina enquanto produtores se opõem a tarifas; JBS e MBRF estão no setor",
+      "descricao": "Carne bovina não está incluída na nova tarifa de 25% Eraldo Peres/AP Photo/picture alliance via DW O presidente dos EUA, Donald Trump, afirmou nesta quarta-feira (26), no programa de Glenn Beck, que vai analisar se há regulamentações excessivas nas fábricas de processamento de carne bovina. A declaração ocorreu depois que Beck sugeriu que a redução das regras permitiria que agricultores e pecuaris",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-analisa-regras-da-carne-bovina-enquanto-produtores-se-opoem-a-tarifas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 25 Aug 2026 15:04:00 -0300",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 18:34:45 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+      ]
+    },
+    {
+      "titulo": "Dívida pública federal cresce 0,22% em julho e atinge R$ 9,28 trilhões",
+      "descricao": "A dívida pública federal cresceu 0,22% em julho e atingiu R$R$ 9,28 trilhões, informou nesta quarta-feira (26) a Secretaria do Tesouro Nacional. Em junho o endividamento estava em R$ R$ R$ 9,26 trilhões. A dívida pública federal é a contraída pelo Tesouro Nacional, órgão do Ministério da Fazenda, para financiar o déficit orçamentário do governo federal, ou seja, pagar as despesas do governo acima ",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/26/divida-publica-federal-cresce-022percent-em-julho-e-atinge-r-928-trilhoes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 18:09:44 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula diz que tem 'muita gente estrangeira' comprando minerais críticos do Brasil antes de país regulamentar setor",
+      "descricao": "Lula diz que tem 'muita gente estrangeira' comprando minerais críticos do Brasil O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (26) que \"tem muita gente estrangeira\" comprando minerais críticos sem o Brasil ter regulado os recursos naturais. O presidente deu a declaração ao defender a aprovação no Senado do projeto que cria a política nacional para minerais críticos após u",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/26/lula-diz-que-tem-muita-gente-estrangeira-comprando-minerais-criticos-do-brasil-sem-pais-ter-regulado-recurso.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 21:37:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula entra no TSE contra Renan Santos e Caiado por ofensa à honra após ataques em debate",
+      "descricao": "Lula, Ronaldo Caiado e Renan Santos arte/g1 A equipe jurídica do presidente Lula (PT) acionou o Tribunal Superior Eleitoral (TSE) solicitando a remoção de postagens dos candidatos à Presidência Ronaldo Caiado (PSD) e Renan Santos (Missão). As ações, protocoladas nesta quarta-feira (26), afirmam que os políticos ofenderam a honra do presidente durante o debate da Band, realizado no domingo (23). As",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/lula-tse-contra-renan-santos-e-caiado.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 19:39:41 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -149,45 +234,19 @@
       ]
     },
     {
-      "titulo": "Pesquisas reforçam aposta da campanha de Lula na aprovação das PECs do fim da escala 6x1 e da Segurança Pública",
-      "descricao": "Os resultados das novas pesquisas estaduais da Quaest divulgados nesta quarta-feira (26), que apontam um cenário de estabilização das intenções de voto do presidente Luiz Inácio Lula da Silva (PT) e uma oscilação positiva do senador Flávio Bolsonaro (PL-RJ), reforçaram a avaliação da campanha do petista de que será necessário criar novos fatos políticos com potencial de impacto eleitoral. A princi",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/26/pesquisas-reforcam-aposta-da-campanha-de-lula-na-aprovacao-das-pecs-do-fim-da-escala-6x1-e-da-seguranca-publica.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Receita arrecada R$ 3,1 bilhões com IR sobre dividendos",
+      "descricao": "Principal alternativa do governo para compensar a isenção do Imposto de Renda (IR) para quem ganha até R$ 5 mil, a tributação sobre lucros e dividendos continua a arrecadar menos que o previsto. De janeiro a julho, a Receita Federal recebeu R$ 3,145 bilhões com a medida, o equivalente a apenas 18,3% da previsão revisada de R$ 17,2 bilhões para todo o ano. A estimativa inicial do governo era arreca",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 26 Aug 2026 13:41:07 -0000",
+      "pub_date": "Wed, 26 Aug 2026 15:45:00 -0300",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "PEC da Segurança será analisada na CCJ do Senado na próxima quarta, diz presidente da comissão",
-      "descricao": "Uma das prioridades do governo do presidente Luiz Inácio Lula da Silva (PT), a chamada PEC da Segurança, será analisada pela Comissão de Constituição e Justiça (CCJ) do Senado na próxima quarta-feira (2). A informação foi confirmada à GloboNews pelo presidente do colegiado, senador Otto Alencar (PSD-BA). “Agora que o relatório está pronto, vamos pautar na reunião da próxima quarta”, afirmou Alenca",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/26/pec-da-seguranca-sera-analisada-na-ccj-do-senado-na-proxima-quarta-diz-presidente-da-comissao.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 26 Aug 2026 12:37:55 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Empate técnico nos maiores colégios eleitorais pode levar Lula e Flávio a intensificar agendas no Sudeste",
-      "descricao": "Empate técnico nos maiores colégios eleitorais pode levar Lula e Flávio a intensificar agendas no Sudeste O cenário de empate técnico entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) nos maiores colégios eleitorais do país deve levar as campanhas dos dois primeiros colocados a intensificar as agendas no Sudeste. A região reúne os três maiores eleitorados do Br",
-      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/08/26/empate-tecnico-nos-maiores-colegios-eleitorais-pode-levar-lula-e-flavio-a-intensificar-agendas-no-sudeste.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 26 Aug 2026 12:00:31 -0000",
-      "setores": [
-        "Mercado geral"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -202,6 +261,20 @@
       "pub_date": "Wed, 26 Aug 2026 10:01:00 -0300",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Itaú e Nubank lideram ranking das marcas mais valiosas do Brasil",
+      "descricao": "Estudo da Kantar mostra o domínio do setor financeiro; Nubank registra o maior crescimento e sobe para a segunda posição da cobiçada lista",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487990-itau-e-nubank-lideram-ranking-das-marcas-mais-valiosas-do-brasil.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 26 Aug 2026 18:21:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -234,54 +307,68 @@
       ]
     },
     {
-      "titulo": "Enchente no Nepal pode ter sido provocada por ruptura de geleira, dizem cientistas",
-      "descricao": "Uma avaliação preliminar de imagens de satélite sugere que uma “avalanche de gelo” originada em uma geleira de alta altitude lançou uma enorme massa de água e gelo sobre o vale abaixo The post Enchente no Nepal pode ter sido provocada por ruptura de geleira, dizem cientistas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/global/enchente-no-nepal-pode-ter-sido-provocada-por-ruptura-de-geleira-dizem-cientistas/",
+      "titulo": "Rússia suspende operações em aeroportos por horas em meio a ataques da Ucrânia",
+      "descricao": "Restrições temporárias foram aplicadas às chegadas e partidas de aeronaves nos aeroportos de Penza e Saratov The post Rússia suspende operações em aeroportos por horas em meio a ataques da Ucrânia appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/russia-suspende-operacoes-em-aeroportos-por-horas-em-meio-a-ataques-da-ucrania/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 17:47:14 +0000",
+      "pub_date": "Wed, 26 Aug 2026 23:46:17 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
       ]
     },
     {
-      "titulo": "Putin prepara escalada na guerra contra Ucrânia após fracasso das negociações de paz",
-      "descricao": "Kremlin avalia ampliar ataques com mísseis contra Kiev e outras cidades ucranianas diante do impasse diplomático com os EUA e a Ucrânia The post Putin prepara escalada na guerra contra Ucrânia após fracasso das negociações de paz appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/putin-prepara-escalada-na-guerra-contra-ucrania-apos-fracasso-das-negociacoes-de-paz/",
+      "titulo": "Salesforce projeta receita acima do esperado e amplia parceria com Anthropic",
+      "descricao": "Empresa prevê vendas de US$ 11,5 bilhões no trimestre, vê aceleração do crescimento na segunda metade do ano e reforça aposta em IA com integração ao Claude The post Salesforce projeta receita acima do esperado e amplia parceria com Anthropic appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/salesforce-preve-aceleracao-da-receita-e-reforca-aposta-em-ia-acoes-sobem-7/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 17:40:03 +0000",
+      "pub_date": "Wed, 26 Aug 2026 21:02:01 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Banco do Brasil começa a renegociar dívidas rurais via MP 1.376",
-      "descricao": "Renegociações ocorrem por meio do ‌programa de reestruturação de dívidas do setor rural lançado pelo governo federal no mês passado The post Banco do Brasil começa a renegociar dívidas rurais via MP 1.376 appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/brasil/banco-do-brasil-comeca-a-renegociar-dividas-rurais-via-mp-1-376/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Chinesa DFM chega ao Brasil com hatch e SUV elétricos para rivalizar com BYD e GWM",
+      "descricao": "A chinesa DongFeng anunciou, nesta quarta-feira (26), o início de suas operações no Brasil sob o nome DFM. Segundo representantes da marca, que anteciparam a informação ao g1, a fabricante chega ao país com uma rede de 60 lojas já autorizadas a operar em 22 estados e no Distrito Federal. A primeira concessionária da marca será inaugurada em Curitiba (PR). \"Estamos aqui para ficar, investir e cresc",
+      "link": "https://g1.globo.com/carros/noticia/2026/08/26/chinesa-dfm-chega-ao-brasil-com-hatch-e-suv-eletricos-para-rivalizar-com-byd-e-gwm.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 17:07:49 +0000",
+      "pub_date": "Wed, 26 Aug 2026 23:01:15 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Governo é contra a exploração de terras raras em Goiás por empresa americana e avalia como rever negócio",
+      "descricao": "Governo é contra a exploração de terras raras em Goiás por empresa americana e avalia como rever negócio O governo federal é contra a exploração de terras raras em Minaçu, norte de Goiás, por uma empresa americana. A USA Rare Earth firmou um acordo para adquirir participação na mineradora Serra Verde, responsável por uma mina no município. O negócio prevê a combinação das operações das duas compan",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/26/governo-e-contra-a-exploracao-de-terras-raras-em-goias-por-empresa-americana-e-avalia-como-rever-negocio.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 21:29:03 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
       "titulo": "Governo prorroga subsídio à gasolina até 9 de setembro",
-      "descricao": "O Ministério da Fazenda prorrogou a chamada \"subvenção\" à gasolina, ou seja, um tipo de subsídio, até 9 de setembro. Portaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 0,44 a subvenção para manter o preço do combustível mais baixo. 🔎Essa subvenção é uma ajuda financeira dada pelo governo para reduzir o preço de um produto ou serviço. No caso da gasolina, o governo fed",
+      "descricao": "Governo prorroga subsídio à gasolina até 9 de setembro O Ministério da Fazenda prorrogou a chamada \"subvenção\" à gasolina, ou seja, um tipo de subsídio, até 9 de setembro. Portaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 0,44 a subvenção para manter o preço do combustível mais baixo. 🔎Essa subvenção é uma ajuda financeira dada pelo governo para reduzir o preço de um",
       "link": "https://g1.globo.com/economia/noticia/2026/08/26/governo-prorroga-subsidio-a-gasolina-ate-9-de-setembro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Wed, 26 Aug 2026 17:09:05 -0000",
@@ -290,117 +377,74 @@
       ]
     },
     {
-      "titulo": "Reforma do Judiciário: STF recebe sugestões que pedem mandato de ministros, revisão de competência e transparência com IA",
-      "descricao": "O grupo criado pelo Supremo Tribunal Federal (STF) para discutir a reforma do Judiciário recebeu 87 propostas apresentadas por diversos órgãos e entidades da sociedade civil e que trazem pontos polêmicos, como adoção de mandato para ministros do STF, limitação de decisões individuais, além de novos mecanismos de controle e responsabilização. Entre as ideias estão: prestigiar o julgamento colegiado",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/26/reforma-do-judiciario-stf-recebe-sugestoes-que-pedem-revisao-de-competencia-da-corte-mandato-para-ministros-e-transparencia-com-ia.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 17:02:18 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Omar Aziz vai propor transição de até um ano para fim da escala 6x1",
-      "descricao": "O relator da proposta do fim da escala 6x1 no Senado, Omar Aziz (PSD-AM), irá propor uma transição de até um ano para a redução das horas semanais trabalhadas e quer exceções para setores específicos. Ao blog, o senador afirmou que entregará o relatório nesta quinta-feira (27), para que Comissão de Constituição e Justiça (CCJ) possa votar o texto na próxima semana. Segundo Aziz, há um acordo com o",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/26/omar-aziz-vai-propor-transicao-de-ate-um-ano-para-fim-da-escala-6x1.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 13:02:07 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7",
-      "descricao": "A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 7. Neste mês, 19,3 milhões de famílias serão beneficiadas , com o valor médio do benefício em R$ 678,35. Notícias relacionadas: Pé-de-Meia 2026: nascidos em março e abril recebem parcela nesta terça. Beneficiários com NIS de final 6 recebem Bol",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Justiça libera R$ 2,75 bilhões para atrasados do INSS; veja quem tem direito e como receber",
+      "descricao": "A cobrança do INSS era indevida, o que justificou a indenização por danos morais Divulgação / INSS O Conselho da Justiça Federal (CJF) liberou R$ 3,31 bilhões para o pagamento de valores atrasados a pessoas que venceram ações contra órgãos do governo federal. Do total, R$ 2,75 bilhões são destinados a ações relacionadas ao INSS e a benefícios assistenciais, incluindo casos de revisão de aposentado",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/26/governo-libera-r-275-bilhoes-para-atrasados-do-inss-veja-quem-tem-direito-e-como-receber.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 07:02:00 -0300",
-      "setores": [
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Beneficiários com NIS de final 6 recebem Bolsa Família de agosto",
-      "descricao": "A Caixa Econômica Federal paga nesta terça-feira (25) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 6. Neste mês, 19,3 milhões de famílias serão beneficiadas, com o valor médio do benefício em R$ 678,35. Os moradores de 186 municípios de sete estados receberam o crédito no último dia 18, independentemente do número final do NIS. O pagamento un",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-6-recebem-bolsa-familia-de-agosto",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 25 Aug 2026 07:02:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Confiança do comércio recua em agosto e atinge menor nível do ano, aponta CNC",
-      "descricao": "Indicador da CNC caiu 0,6% em relação a julho, para 101,3 pontos, e empresários demonstram maior insatisfação ao ampliar a intenção de investir em contratações, com alta de 0,6%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487536-confianca-do-comercio-recua-em-agosto-e-atinge-menor-nivel-do-ano-aponta-cnc.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 11:45:00 -0300",
+      "pub_date": "Wed, 26 Aug 2026 16:45:24 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "iFood aposta que STF afastará vínculo empregatício",
-      "descricao": "O Supremo Tribunal Federal inicia, nesta quinta-feira (27), o julgamento das ações que questionam a relação entre plataformas e motoristas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487182-ifood-aposta-que-stf-afastara-vinculo-empregaticio.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "Meta vai pagar US$ 16 bilhões em acordo por alegações de vício de crianças em redes sociais nos EUA",
+      "descricao": "Meta fecha acordo judicial de US$ 16,6 bilhões nos Estados Unidos A Meta, dona de Instagram, Facebook e WhatsApp, concordou em pagar US$ 16,68 bilhões (cerca de R$ 86,7 bilhões) a estados americanos em um acordo judicial relacionado a um processo que acusa a empresa de incentivar a dependência de adolescentes das redes sociais. A empresa também concordou em adotar novas regras para adolescentes qu",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/meta-vai-pagar-us-bilhoes-em-acordo-por-alegacoes-de-vicio-de-criancas-em-redes-sociais-nos-eua.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 26 Aug 2026 04:21:00 -0300",
+      "pub_date": "Wed, 26 Aug 2026 13:41:32 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Regulação de investimento internacional pode alavancar terras raras",
-      "descricao": "País detém quase um quarto das reservas mundiais e reúne projetos bilionários em Minas, Goiás e Bahia. Domínio chinês no refino e carência de cadeia industrial interna desafiam o mercado externo",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487207-regulacao-de-investimento-internacional-pode-alavancar-terras-raras.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "Vídeos: Tralli e Renata entrevistam Renan Santos, candidato a presidente pelo Missão",
+      "descricao": "",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-renan-santos-candidato-a-presidente-pelo-missao.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 25 Aug 2026 19:30:00 -0300",
+      "pub_date": "Wed, 26 Aug 2026 23:25:24 -0000",
       "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Renan Santos diz que Brasil precisa de armas nucleares para ser respeitado e quer usar R$ 6 bi para construir presídios",
+      "descricao": "Renan Santos, do Missão, candidato à Presidência Globo/ Manoella Mello O candidato do Missão à Presidência da República, Renan Santos, concede nesta quarta-feira (26) entrevista à Globo. Quem conduz a entrevista são os jornalistas Renata Vasconcellos e César Tralli. Veja os principais destaques da entrevista com Renan Santos: Bomba atômica Ao ser questionado sobre declarações anteriores em que afi",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-entrevista-globo.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 23:07:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Tralli e Renata entrevistam Renan Santos, candidato a presidente pelo Missão",
+      "descricao": "Tralli e Renata entrevistam Renan Santos, candidato a presidente pelo Missão Renata Vasconcellos e César Tralli entrevistam os candidatos à Presidência da República entre os dias 24 e 29 de agosto.. O programa será transmitido ao vivo, diretamente dos Estúdios Globo, no Rio de Janeiro, logo após o Jornal Nacional. . O g1 e a GloboNews também transmitem as entrevistas ao vivo. Após a exibição, os c",
+      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/renan-santos-entrevista-candidatos-presidente.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 26 Aug 2026 21:52:44 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
         "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Tarifaço: governo prorroga suspensão de tributos para empresas afetadas",
-      "descricao": "Medida assinada pelo presidente Lula permite que determinadas empresas permaneçam no regime de drawback por até um ano",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7487180-tarifaco-governo-prorroga-suspensao-de-tributos-para-empresas-afetadas.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 25 Aug 2026 19:26:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     }
   ]

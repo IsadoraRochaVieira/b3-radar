@@ -244,6 +244,47 @@ def calcular_indicadores(ticker: str) -> dict | None:
         else:
             clf = "EVITAR"
 
+        # ─────────────────────────────────
+        # SISTEMA DE PONTUAÇÃO (CARIOTRADE)
+        # ─────────────────────────────────
+        score_trader = 0
+        sinais_trader = []
+
+        if rsi_v < 35:
+            score_trader += 30
+            sinais_trader.append(f"RSI sobrevendido ({rsi_v:.0f})")
+        elif rsi_v > 70:
+            score_trader -= 20
+
+        if bb_pct_v < 0.2:
+            score_trader += 20
+            sinais_trader.append("Preço tocando banda inferior Bollinger")
+
+        if macd_h_v > 0 and macd_h_p < 0:
+            score_trader += 20
+            sinais_trader.append("MACD cruzou para positivo")
+
+        if atr_pct > 3.0:
+            score_trader += 15
+            sinais_trader.append(f"Volatilidade alta (ATR {atr_pct:.1f}%)")
+
+        if vol_ratio > 1.5:
+            score_trader += 15
+            sinais_trader.append(f"Volume alto ({vol_ratio:.1f}x)")
+
+        if 0 < LIQUIDEZ.get(ticker.replace(".SA", ""), 0) < VOLUME_LIQUIDA:
+            score_trader += 10
+            sinais_trader.append("Small Cap (potencial alto)")
+
+        if score_trader >= 60:
+            clf_trader = "FORTE OPORTUNIDADE"
+        elif score_trader >= 40:
+            clf_trader = "OBSERVAR"
+        elif score_trader >= 20:
+            clf_trader = "NEUTRO"
+        else:
+            clf_trader = "EVITAR"
+
         return {
             "ticker":      ticker.replace(".SA", ""),
             "preco":       round(preco_atual, 2),
@@ -264,6 +305,9 @@ def calcular_indicadores(ticker: str) -> dict | None:
             "score":       score,
             "classificacao": clf,
             "sinais":      sinais,
+            "score_trader": score_trader,
+            "classificacao_trader": clf_trader,
+            "sinais_trader": sinais_trader,
             "liquidez":    "alta" if LIQUIDEZ.get(ticker.replace(".SA", ""), 0) >= VOLUME_LIQUIDA else "baixa",
             "gema":        0 < LIQUIDEZ.get(ticker.replace(".SA", ""), 0) < VOLUME_LIQUIDA,
             "volume_dia":  LIQUIDEZ.get(ticker.replace(".SA", ""), 0),
