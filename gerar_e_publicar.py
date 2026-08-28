@@ -22,7 +22,15 @@ ANALISADOR = ROOT / "analisador_b3_4.py"
 RELATORIOS_DIR = ROOT / "relatorios"
 RELATORIOS_DIR.mkdir(exist_ok=True)
 
-agora = datetime.now()
+_agora_real = datetime.now()
+_data_referencia = os.environ.get("RADAR_DATA_REFERENCIA")
+agora = (
+    datetime.strptime(_data_referencia, "%Y-%m-%d").replace(
+        hour=_agora_real.hour, minute=_agora_real.minute, second=_agora_real.second
+    )
+    if _data_referencia
+    else _agora_real
+)
 hoje = agora.strftime("%Y-%m-%d")
 hora_atual = agora.strftime("%H:%M")
 hora_int = agora.hour
@@ -194,6 +202,9 @@ def gerar_debates_comite(tickers: list, empresas: dict | None = None):
 
 
 def git_push(mensagem: str):
+    if os.environ.get("RADAR_SKIP_GIT_PUSH") == "1":
+        print("[GIT] Push automático desativado nesta execução.")
+        return
     print("[GIT] Fazendo commit e push...")
     cmds = [
         ["git", "-C", str(ROOT), "add", "-A"],
