@@ -1,34 +1,148 @@
 {
-  "coletado_em": "28/08/2026 03:29",
-  "total": 25,
-  "urgentes": 1,
+  "coletado_em": "28/08/2026 17:08",
+  "total": 30,
+  "urgentes": 6,
   "destaque": {
-    "titulo": "Juros altos agravam crise e levam empresas à recuperação judicial",
-    "descricao": "Grupo Habib's declara R$ 265 milhões em dívidas e soma-se à lista de mais de 6,3 mil empresas que entraram com processo",
-    "link": "https://www.correiobraziliense.com.br/economia/2026/08/7488176-juros-altos-agravam-crise-e-levam-empresas-a-recuperacao-judicial.html",
-    "fonte": "Correio Braziliense Economia",
-    "categoria": "Brasília / DF",
-    "cor": "#ff4466",
+    "titulo": "Governo sanciona lei que permite reduzir tributos sobre combustíveis",
+    "descricao": "A presidência da República sancionou a Lei Complementar nº 235, de 27 de agosto de 2026 que estabelece regras para a redução de alíquotas de tributos federais sobre a importação, a produção e a comercialização dos principais combustíveis. O texto foi aprovado no início do mês pelo Senado, após ter passado pela Câmara dos Deputados. A concessão de renúncias de receita visa diminuir os impactos econ",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-sanciona-lei-que-permite-reduzir-tributos-sobre-combustiveis",
+    "fonte": "Agência Brasil",
+    "categoria": "Política Econômica",
+    "cor": "#009c3b",
     "urgencia": "alta",
-    "score_relevancia": 1,
-    "pub_date": "Thu, 27 Aug 2026 05:00:00 -0300",
+    "score_relevancia": 4,
+    "pub_date": "Fri, 28 Aug 2026 14:51:00 -0300",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
     {
-      "titulo": "Juros altos agravam crise e levam empresas à recuperação judicial",
-      "descricao": "Grupo Habib's declara R$ 265 milhões em dívidas e soma-se à lista de mais de 6,3 mil empresas que entraram com processo",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7488176-juros-altos-agravam-crise-e-levam-empresas-a-recuperacao-judicial.html",
+      "titulo": "Governo sanciona lei que permite reduzir tributos sobre combustíveis",
+      "descricao": "A presidência da República sancionou a Lei Complementar nº 235, de 27 de agosto de 2026 que estabelece regras para a redução de alíquotas de tributos federais sobre a importação, a produção e a comercialização dos principais combustíveis. O texto foi aprovado no início do mês pelo Senado, após ter passado pela Câmara dos Deputados. A concessão de renúncias de receita visa diminuir os impactos econ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-sanciona-lei-que-permite-reduzir-tributos-sobre-combustiveis",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 28 Aug 2026 14:51:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Mesmo com Desenrola 2.0, inadimplência bancária sobe e bate recorde em julho",
+      "descricao": "A taxa de inadimplência média total registrada pelos bancos nas operações de crédito subiu de 4,6% para 4,9% de junho para julho, informou nesta sexta-feira (28) o Banco Central (BC). O valor atingiu, assim, o maior desde o início da série histórica revisada pela autoridade monetária, em março de 2011. O indicador de inadimplência do Banco Central considera as operações com atraso superior a 90 di",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 13:44:00 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Itamaraty deve receber parlamentares argentinos em meio à crise entre Lula e Milei",
+      "descricao": "Dentro da estratégia de trabalhar pela normalização das relações entre Brasil e Argentina, a equipe do presidente Lula já recebeu contatos e vai marcar encontros com parlamentares do país vizinho na próxima semana. Integrantes do Ministério das Relações Exteriores e da Secretaria de Relações Institucionais vão receber em Brasília na um grupo de cerca de 10 deputados argentinos que fazem oposição a",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/28/itamaraty-deve-receber-parlamentares-argentinos-em-meio-a-crise-entre-lula-e-milei.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 12:40:54 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Iene supera 160 por dólar e ameaça apagar efeito de intervenção histórica",
+      "descricao": "Moeda japonesa volta a perder força apesar da ação conjunta de Japão e EUA; mercado já especula nova intervenção cambial The post Iene supera 160 por dólar e ameaça apagar efeito de intervenção histórica appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/iene-supera-160-por-dolar-e-ameaca-apagar-efeito-de-intervencao-historica/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 18:55:12 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Possível saída da Venezuela amplia crise de influência da Opep",
+      "descricao": "Após a saída dos Emirados Árabes Unidos, membro fundador avalia deixar o cartel, aumentando dúvidas sobre a capacidade do grupo de sustentar sua relevância no mercado de petróleo The post Possível saída da Venezuela amplia crise de influência da Opep appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/possivel-saida-da-venezuela-amplia-crise-de-influencia-da-opep/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 18:46:06 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Inadimplência do sistema financeiro sobe a 4,9% e atinge maior nível desde 2011",
+      "descricao": "Dados do Banco Central mostram avanço da inadimplência entre famílias e empresas, enquanto crédito ampliado ao setor não financeiro chega a R$ 21,9 trilhões",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7489130-inadimplencia-do-sistema-financeiro-sobe-a-49-e-atinge-maior-nivel-desde-2011.html",
       "fonte": "Correio Braziliense Economia",
       "categoria": "Brasília / DF",
       "cor": "#ff4466",
       "urgencia": "alta",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 05:00:00 -0300",
+      "pub_date": "Fri, 28 Aug 2026 09:59:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Dólar dispara 1% com sinais de juros altos nos EUA; Ibovespa recua",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar subia 1,02% por volta das 14h05 desta sexta-feira (28), cotado a R$ 5,2146. No mesmo horário, o Ibovespa, principal índice da bolsa brasileira, recuava 0,33%, aos 174.537 pontos. O discurso de Kevin Warsh no simpósio do Fed, em Jackson Hole, ficou no radar dos investidores ao sinalizar que os juros americanos podem permanecer elevados por ma",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Fri, 28 Aug 2026 12:00:05 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Presidente do Fed sugere que EUA podem aumentar taxas de juros para conter inflação",
+      "descricao": "Presidente do Federal Reserve, Kevin Warsh, em 22 de maio de 2026 Reuters/Evelyn Hockstein O presidente do Federal Reserve (Fed), Kevin Warsh, sugeriu nesta sexta-feira (28) que o banco central americano pode ter que aumentar as taxas de juros nos próximos meses para conter a inflação dos Estados Unidos. A declaração foi considerada um sinal mais claro em relação a comentários feitos anteriormente",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/presidente-do-fed-sugere-que-eua-podem-aumentar-taxas-de-juros-para-conter-inflacao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 28 Aug 2026 19:21:38 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Câmara deve votar na próxima segunda MP do fim da taxa das blusinhas; Congresso definiu aliada de Lula como relatora",
+      "descricao": "O Congresso Nacional definiu nesta sexta-feira (28) o deputado Reginaldo Lopes (PT-MG) como presidente da comissão que vai analisar a medida provisória (MP) do fim da taxa das blusinhas. A senadora Leila Barros (PDT-DF) foi escolhida como a relatora. Leila deve apresentar o parecer sobre a medida na segunda-feira (31) e a comissão vai votar o tema no mesmo dia, segundo Reginaldo Lopes. O deputado ",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/28/congresso-define-aliados-de-lula-como-presidente-e-relatora-de-comissao-da-mp-do-fim-da-taxa-das-blusinhas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 28 Aug 2026 13:22:25 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -47,130 +161,88 @@
       ]
     },
     {
-      "titulo": "Governo Central tem superávit de R$ 10,8 bilhões em julho",
-      "descricao": "As contas do Governo Central registraram superávit primário de R$ 10,8 bilhões em julho, segundo dados divulgados nesta quinta-feira (27) pelo Tesouro Nacional. O resultado, que desconsidera os gastos com juros da dívida pública, foi o melhor para o mês desde 2022. O Governo Central reúne Tesouro Nacional, Previdência Social e Banco Central. Em julho de 2025, as contas haviam registrado déficit pr",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-central-tem-superavit-de-r-108-bilhoes-em-julho",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Thu, 27 Aug 2026 16:41:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Lula diz que não está preocupado com dívida pública: ‘Quero crescimento’",
-      "descricao": "Presidente evita antecipar cortes em gastos obrigatórios e afirma que expansão da economia é o principal caminho para melhorar as contas públicas The post Lula diz que não está preocupado com dívida pública: ‘Quero crescimento’ appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-diz-que-nao-esta-preocupado-com-divida-publica-quero-crescimento/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 28 Aug 2026 00:54:04 +0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Equilíbrio fiscal: onde está o desafio e o que fazer para superá-lo? - O Assunto #1793",
-      "descricao": "Na largada da corrida eleitoral, os candidatos à Presidência colocam o Orçamento no topo da lista de pautas em debate até a chegada das urnas, em outubro. No centro desta questão está o endividamento do Estado brasileiro: a dívida pública do país disparou na última década, saltando de 66% do PIB em 2016 para 82% do PIB neste ano – e o Fundo Monetário Internacional (FMI) aponta o risco de que em br",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/28/equilibrio-fiscal-onde-esta-o-desafio-e-o-que-fazer-para-supera-lo-o-assunto-1793.ghtml",
+      "titulo": "Brasil cria 58,5 mil empregos formais em julho, queda de 56% na comparação com mesmo mês de 2025",
+      "descricao": "A economia brasileira gerou 58,mil empregos formais em julho deste ano, informou nesta sexta-feira (28) o Ministério do Trabalho e do Emprego. Ao todo, segundo o governo federal, foram registradas em julho: ➡️2,26 milhões de contratações; ➡️2,2 milhões de demissões. 📈 O resultado representa recuo de 56,3% em relação a julho de 2025 — quando foram criados cerca de 133,9 mil empregos com carteira as",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/brasil-cria-585-mil-empregos-formais-em-julho.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 28 Aug 2026 03:30:15 -0000",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 17:15:03 -0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "'Rei do Ovo', irmãos Batista e mais: veja quem são os bilionários do agro brasileiro em 2026",
+      "descricao": "Empresário Ricardo Castellar de Faria, presidente da Associação Catarinense de Avicultura (ACAV). Adilvan Nogueira/Governo do Tocantins/Divulgação O agronegócio brasileiro mantém forte presença entre as maiores fortunas do país, segundo o ranking de bilionários da Forbes de 2026, divulgado nesta quinta-feira (27). Ricardo Castellar de Faria, conhecido como o \"Rei do Ovo\", e os irmãos Joesley e Wes",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/veja-quem-sao-os-bilionarios-do-agro-brasileiro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 11:47:10 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "TSE deve se dividir sobre multa para Flávio Bolsonaro, mas vai manter proibição a deepfake na campanha",
+      "descricao": "Ministros do Tribunal Superior Eleitoral (TSE) devem se dividir sobre a aplicação de uma multa ao candidato do PL à Presidência da República, senador Flávio Bolsonaro (PL-RJ), pela exibição de um vídeo produzido com inteligência artificial que reproduzia a imagem e a voz do ex-presidente Jair Bolsonaro durante a convenção que confirmou sua candidatura. Por outro lado, integrantes da Corte avaliam ",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/28/tse-deve-se-dividir-sobre-multa-para-flavio-bolsonaro-mas-vai-manter-proibicao-a-deepfake-na-campanha.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 15:27:46 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Quem é Roberta Luchsinger, lobista investigada por tráfico de influência",
+      "descricao": "A empresária Roberta Luchsinger é alvo de três inquéritos Reprodução Roberta Luchsinger é alvo de três inquéritos da PF ao lado de Fábio Luís Lula da Silva, o Lulinha, filho do presidente Lula (PT). A suspeita é que eles tenham atuado para favorecer empresas junto a órgãos federais, crime conhecido como tráfico de influência. Até o momento, no entanto, as investigações não apontaram se algum contr",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/28/quem-e-roberta-luchsinger-lobista-investigada.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 14:24:21 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula rifa aliado e lobista, que petistas veem como 'fio desencapado'",
+      "descricao": "Lula rifa aliados, blinda filho e Wagner e acende alerta no PT com lobista vista como 'fio A estratégia adotada pelo presidente Luiz Inácio Lula da Silva durante entrevista à Globo para responder às investigações que rondam seu entorno provocou preocupação dentro do próprio PT e na campanha. A avaliação de dirigentes ouvidos é de que, ao rifar Marcola e a lobista Roberta Luchsinger, enquanto prote",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/28/lula-rifa-aliados-blinda-filho-e-wagner-e-acende-alerta-no-pt-com-lobista-vista-como-fio-desencapado.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 28 Aug 2026 14:11:33 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
       "titulo": "Do Habib's às Casas Bahia, por que tantas empresas estão quebrando no Brasil?",
-      "descricao": "O ministro da Fazenda, Dario Durigan, nega que razão para a alta de recuperações judiciais seja somente as taxas de juros EPA-Shutterstock Habib's, Casas Bahia, Marabraz, Braskem, Raízen, Oncoclínicas, Grupo Toki (Tok&Stok e Mobly), Grupo CVLB (Casa & Vídeo e Le Biscuit), St. Marché. A lista de grandes empresas no Brasil que entraram com pedido de recuperação judicial ou extrajudicial só este ano ",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/27/do-habib-s-as-casas-bahia-por-que-tantas-empresas-estao-quebrando-no-brasil.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Thu, 27 Aug 2026 19:32:15 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Justiça do DF suspende imposto de exportação de 12% sobre petróleo; arrecadação já chega a R$ 7,9 bilhões",
-      "descricao": "A Justiça Federal do Distrito Federal suspendeu, provisoriamente, nesta quinta-feira (27) a cobrança de 12% de Imposto de Exportação sobre óleo bruto de petróleo e minerais betuminosos. 🔎Minerais betuminosos são rochas e substâncias ricas em hidrocarbonetos, utilizadas na produção de combustíveis e derivados de petróleo. A decisão de suspensão é do juiz Diego Câmara, da 17ª Vara Federal do DF, e a",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/27/justica-federal-do-df-suspende-imposto-de-exportacao-de-12percent-sobre-petroleo.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Thu, 27 Aug 2026 18:58:37 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Lula defende Jaques Wagner sobre caso Master: ‘Tenho consciência que é honesto’",
-      "descricao": "Presidente diz que não pretende romper com aliado com base em suspeitas e afirma que senador deverá responder caso seja comprovada alguma irregularidade The post Lula defende Jaques Wagner sobre caso Master: ‘Tenho consciência que é honesto’ appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-defende-jaques-wagner-sobre-caso-master-tenho-consciencia-que-e-honesto/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "descricao": "Além das taxas de juros, erros de gestão, como expansão e cortes mal calculados são apontados como motivos da alta de recuperações empresariais, na Justiça ou fora dela.",
+      "link": "https://www.correiobraziliense.com.br/mundo/2026/08/7488705-do-habibs-as-casas-bahia-por-que-tantas-empresas-estao-quebrando-no-brasil.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Fri, 28 Aug 2026 00:46:54 +0000",
+      "pub_date": "Thu, 27 Aug 2026 16:20:00 -0300",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Flávio: 28% do IVA é algo muito preocupante; vamos tratar com muita atenção",
-      "descricao": "Senador tem centrado parte da campanha eleitoral em torno da promessa de suspensão da reforma tributária aprovada em 2023 The post Flávio: 28% do IVA é algo muito preocupante; vamos tratar com muita atenção appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/flavio-28-do-iva-e-algo-muito-preocupante-vamos-tratar-com-muita-atencao/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 27 Aug 2026 23:30:50 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Contas do governo registraram um superávit primário de R$ 10,8 bilhões em julho",
-      "descricao": "As contas do governo federal registraram um superávit primário de R$ 10,8 bilhões em julho, informou Tesouro Nacional nesta quinta-feira (27). O acumulado do ano é de déficit. (Veja mais detalhes) 🔎 O déficit primário ocorre quando as receitas com tributos e impostos ficam abaixo das despesas do governo. Se as receitas ficam acima as despesas, o resultado é um superávit primário. Esses valores não",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/27/contas-do-governo-registraram-um-superavit-primario-de-r-108-bilhoes-em-julho-informou-tesouro-nacional.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 27 Aug 2026 19:15:34 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Gestão Trump negocia com governo interino da Venezuela para assumir parte das reservas de petróleo do país, diz site",
-      "descricao": "Tanques com o logo da PDVSA em refinaria em Curaçao Andres Martinez Casares/Reuters A gestão Trump está conversando com o governo interino da Venezuela para assumir uma participação acionária nas enormes reservas de petróleo do país, segundo o site americano Axios. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O site diz ter ouvido dois altos funcionários da Casa Branca. A Venezuela ",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/27/gestao-trump-conversa-com-governo-interino-da-venezuela-para-assumir-parte-das-reservas-de-petroleo-do-pais-diz-site.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 27 Aug 2026 17:13:41 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -189,191 +261,186 @@
       ]
     },
     {
-      "titulo": "Fim da taxa das blusinhas ameaça 109 mil postos de trabalho, afirma CNI",
-      "descricao": "Com o retorno das discussões no Congresso, entidade também aponta que a extinção do Imposto de Importação no Programa Remessa Conforme coloca em risco R$ 21,8 bilhões em produção das empresas domésticas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7488493-fim-da-taxa-das-blusinhas-ameaca-109-mil-postos-de-trabalho-afirma-cni.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 27 Aug 2026 12:57:58 -0300",
-      "setores": [
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Lula diz acreditar que ex-assessor Marcola não recebeu empréstimo de lobista",
-      "descricao": "Em entrevista à TV Globo, presidente também criticou conduta de ex-assessor conhecido como Marcola e disse considerar “totalmente errado” que despesas tenham sido pagas por lobista The post Lula diz acreditar que ex-assessor Marcola não recebeu empréstimo de lobista appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-diz-acreditar-que-ex-assessor-marcola-nao-recebeu-emprestimo-de-lobista/",
+      "titulo": "Aposentadoria aos 67, BCP menor e MEI pagando mais: as propostas para a Previdência",
+      "descricao": "Objetivo é reduzir impacto do envelhecimento da população, que pode levar a despesa com benefícios a alcançar 17,4% do PIB The post Aposentadoria aos 67, BCP menor e MEI pagando mais: as propostas para a Previdência appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/aposentadoria-aos-67-bcp-menor-e-mei-pagando-mais-as-propostas-para-a-previdencia/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 28 Aug 2026 00:32:43 +0000",
+      "pub_date": "Fri, 28 Aug 2026 19:33:03 +0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Flávio Bolsonaro se encontrará com ministro de Bukele para discutir segurança",
-      "descricao": "El-Salvador tem sido constantemente citado pelo senador durante a campanha eleitoral como referência em segurança pública The post Flávio Bolsonaro se encontrará com ministro de Bukele para discutir segurança appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-se-encontrara-com-ministro-de-bukele-para-discutir-seguranca/",
+      "titulo": "Aécio Neves volta atrás e disputará vaga ao Senado por Minas Gerais",
+      "descricao": "Aécio assumirá a candidatura antes ocupada por Marcelo Heringer após acordo entre a federação PSDB-Cidadania e o PDT The post Aécio Neves volta atrás e disputará vaga ao Senado por Minas Gerais appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/aecio-neves-volta-atras-e-disputara-vaga-ao-senado-por-minas-gerais/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 23:37:59 +0000",
+      "pub_date": "Fri, 28 Aug 2026 19:09:10 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Guerra no Oriente Médio completa seis meses com impacto no petróleo, alimentos e mercados",
-      "descricao": "Prazo de 60 dias do Memorando de Entendimento para terminar guerra entre EUA e Irã se aproxima do fim com um impasse A guerra no Oriente Médio completa seis meses nesta sexta-feira (28), com efeitos que ultrapassaram as fronteiras da região e atingiram os mercados de energia, alimentos e investimentos em todo o mundo. O conflito começou em 28 de fevereiro, quando Estados Unidos e Israel atacaram o",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/28/guerra-no-oriente-medio-completa-seis-meses-com-impacto-no-petroleo-alimentos-e-mercados.ghtml",
+      "titulo": "Herança de Erasmo Carlos: entenda briga judicial entre viúva e filhos do artista",
+      "descricao": "Disputa envolve imóvel, bens pessoais e movimentações financeiras feitas na época da morte do cantor The post Herança de Erasmo Carlos: entenda briga judicial entre viúva e filhos do artista appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/minhas-financas/erasmo-carlos-disputa-heranca/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 18:57:19 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "InfoMoney avança à fase final do Prêmio iBest pelo 6º ano seguido; veja como votar",
+      "descricao": "InfoMoney concorre em duas categorias e o Stock Pickers volta a figurar entre os finalistas de Economia e Negócios The post InfoMoney avança à fase final do Prêmio iBest pelo 6º ano seguido; veja como votar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/infomoney-avanca-a-fase-final-do-premio-ibest-pelo-6o-ano-seguido-veja-como-votar/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 18:38:27 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Trump mira grandes frigoríficos em meio à alta de preços da carne nos EUA; JBS pode ser afetada",
+      "descricao": "Trump fala com a imprensa na Casa Branca após assinar ordem executiva renomeando o Lago Ontário como Lago América Evan Vucci/Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (28) que está preparando uma ordem para permitir que pecuaristas e agricultores tenham o direito de processar seus próprios alimentos. Sem citar nomes, Trump afirmou que quatro empresas fazem pr",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/trump-promete-ordem-judicial-processamento-alimentos.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 28 Aug 2026 03:01:26 -0000",
+      "pub_date": "Fri, 28 Aug 2026 16:14:08 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+      ]
+    },
+    {
+      "titulo": "Brasil tem 214,2 milhões de habitantes, diz IBGE",
+      "descricao": "Brasil tem 214,2 milhões de habitantes, diz IBGE. Luiz Franco/g1 A população do Brasil é estimada em 214.211.951 habitantes, informou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta sexta-feira (28). O dado representa um crescimento de 0,37% em relação a 2025. O levantamento considera uma contagem realizada até 1º de julho de 2026 e mostra a população total dos estados e municípios.",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/brasil-tem-2142-milhoes-de-habitantes-diz-ibge.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 14:32:45 -0000",
+      "setores": [
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Meta é denunciada após fazer ação publicitária sobre Instagram em frente a escolas",
-      "descricao": "Campanha da Meta sobre recurso do Instagram para adolescentes Reprodução A Meta foi denunciada nesta quinta-feira (27) ao Ministério Público de São Paulo depois de realizar ações publicitárias em frente a escolas da capital paulista. O objetivo da campanha era promover recursos do Instagram voltados para crianças e adolescentes. A denúncia foi feita por três organizações: Instituto Alana, de prote",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-denuncia-instagram-escolas.ghtml",
+      "titulo": "Quem são os cinco bilionários mais velhos do Brasil em 2026? Dois têm 97 anos",
+      "descricao": "Ivan Müller Botelho, ex-presidente da Energisa, em julho de 2015, em Palmas (TO). Divulgação/Assessoria do Governo de Tocantins Os empresários João Jacob Vontobel e Daniel Miguel Klabin, ambos com 97 anos, lideram o ranking dos bilionários mais velhos do Brasil em 2026, segundo a lista da Forbes divulgada nesta quinta-feira (27). Junto com os outros três nomes que completam a lista dos mais longev",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/quem-sao-os-cinco-bilionarios-mais-velhos-do-brasil-em-2026-dois-tem-97-anos.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 23:01:00 -0000",
+      "pub_date": "Fri, 28 Aug 2026 13:00:00 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Brasil assina acordo para ampliar comércio com a Índia enquanto aguarda retomada de negociação para reduzir tarifaço dos EUA",
-      "descricao": "A Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil) e a Confederação da Indústria Indiana assinaram nesta quinta-feira (27) um memorando de entendimento para aproximar os setores produtivos do Brasil e da Índia. A iniciativa faz parte da estratégia do governo federal de intensificar a diversificação de parceiros comerciais para diminuir os impactos das sobretaxas aplicadas",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/27/brasil-assina-acordo-para-ampliar-comercio-com-a-india-enquanto-aguarda-retomada-de-negociacao-para-reduzir-tarifaco-dos-eua.ghtml",
+      "titulo": "Luana Lopes Lara, da Kalshi, é a bilionária mais jovem a construir a própria fortuna; veja quem é",
+      "descricao": "Luana Lara, a brasileira que se tornou a bilionária mais jovem do mundo sem herança A brasileira Luana Lopes Lara, de 30 anos, cofundadora e diretora de operações da plataforma de previsões Kalshi, é a mulher mais jovem do Brasil a construir a própria fortuna e se tornar bilionária, segundo o ranking da Forbes divulgado nesta sexta-feira (28). Cofundadora e diretora de operações da Kalshi, ela tem",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/28/luana-lopes-lara-da-kalshi-e-a-bilionaria-mais-jovem-do-brasil-a-construir-a-propria-fortuna-veja-quem-e.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 16:48:40 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Conselho eleva limite de remuneração do Eco Invest Brasil",
-      "descricao": "O Conselho Monetário Nacional (CMN) elevou o limite de remuneração do quinto leilão do programa Eco Invest Brasil, o que pode incentivar as instituições financeiras que estruturam e operam os fundos de inovação do programa a financiarem mais projetos. Aprovada nesta quinta-feira (27) em reunião extraordinária, a mudança altera as regras do programa voltado ao financiamento de projetos ligados à tr",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-eleva-limite-de-remuneracao-do-eco-invest-brasil",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 20:46:00 -0300",
+      "pub_date": "Fri, 28 Aug 2026 11:21:09 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Limite de crédito a estados e municípios é ampliado em R$ 3 bilhões",
-      "descricao": "O Conselho Monetário Nacional (CMN) aprovou nesta quinta-feira (27) uma resolução que amplia os limites para contratação de operações de crédito por estados, Distrito Federal e municípios em 2026. A medida aumenta em R$ 3 bilhões o limite global anual para essas operações, que passa de R$ 23,625 bilhões para R$ 26,625 bilhões. Notícias relacionadas: CMN aprova crédito de R$ 10 bilhões para inovaçã",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/limite-de-credito-estados-e-municipios-e-ampliado-em-r-3-bilhoes",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "Daniel Vorcaro depõe à PF em investigação sobre suspeita de favorecimento ao Banco Master",
+      "descricao": "A Polícia Federal colheu nesta sexta-feira (28) o depoimento do ex-banqueiro Daniel Vorcaro no inquérito que investiga sua relação com dois servidores do Banco Central (BC) suspeitos de receber vantagens indevidas e de atuar em favor do Banco Master. A oitiva havia sido marcada inicialmente para quinta-feira (27), mas foi adiada por problemas técnicos. Segundo a defesa, o depoimento durou quatro h",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/28/daniel-vorcaro-depoe-a-pf-em-investigacao-sobre-relacao-com-servidores-do-banco-central.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 20:10:00 -0300",
+      "pub_date": "Fri, 28 Aug 2026 17:27:25 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
-      "titulo": "Brasil amplia comércio com Índia e retoma diálogo sobre tarifaço",
-      "descricao": "O Brasil avançou nesta quinta-feira (27) na estratégia de diversificação de parceiros comerciais ao assinar um memorando de entendimento com a Índia. O acordo entre a Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil) e a Confederação das Indústrias Indianas busca aproximar empresas, ampliar investimentos e criar oportunidades de negócios entre os dois países. A iniciativa ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-amplia-comercio-com-india-e-retoma-dialogo-sobre-tarifaco",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "Lula diz que foto com Roberta Luchsinger não indica relação pessoal e afirma nunca ter tido interlocução com ela",
+      "descricao": "Roberta Luchsinger e Luiz Inácio Lula da Silva Reprodução/ Instagram O presidente Luiz Inácio Lula da Silva afirmou, por meio de nota divulgada nesta sexta-feira (28), que não mantém qualquer relação com a empresária e lobista Roberta Luchsinger e que nunca teve interlocução com ela. A manifestação foi divulgada após questionamentos sobre fotografias nas redes sociais de Roberta em que os dois apa",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/28/lula-diz-que-foto-com-roberta-luchsinger-nao-indica-relacao-pessoal-e-afirma-nunca-ter-tido-interlocucao-com-ela.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 18:00:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "EBC destaca protagonismo da comunicação pública na TV 3.0",
-      "descricao": "A Empresa Brasil de Comunicação (EBC) esteve presente durante o Fórum RNP 2026, realizado nesta semana em Brasília. O encontro organizado pela Rede Nacional de Pesquisa (RNP) é um dos principais eventos de tecnologia na capital federal, voltado para empresas e órgãos públicos, além de instituições que atuam no segmento. A apresentação da EBC foi feita pelo diretor de Operações, Engenharia e Tecnol",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ebc-destaca-protagonismo-da-comunicacao-publica-na-tv-30",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 16:59:00 -0300",
-      "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Serviços ocuparam 15,9 milhões e pagaram média de 2,2 mínimos em 2024",
-      "descricao": "O setor de prestação de serviços não financeiros empregou 15,9 milhões de pessoas em 2024. Esses trabalhadores receberam, em média, 2,2 salários mínimos mensais. Há dois anos, o cenário era composto por 1,9 milhão de empresas ativas que pagaram, ao todo, R$ 644,2 bilhões em salários e outras remunerações, como férias e comissões. Notícias relacionadas: Até 53% da Dívida Pública Federal poderá ser ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/servicos-ocuparam-159-milhoes-e-pagaram-media-de-22-minimos-em-2024",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 10:02:00 -0300",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Uma nova proposta de reforma da Previdência",
-      "descricao": "Grupo de economistas liderados por Paulo Tafner e Armínio Fraga preparam uma proposta robusta e estrutural de mudanças no sistema previdenciário que prevê novas idades mínimas e sistema híbrido",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7489029-uma-nova-proposta-de-reforma-da-previdencia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 23:12:00 -0300",
+      "pub_date": "Fri, 28 Aug 2026 14:38:56 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Governo Central registra superavit de R$ 10,8 bilhões em julho",
-      "descricao": "Resultado fiscal ficou acima das expectativas do mercado e foi influenciado pelo aumento das receitas e pela redução das despesas no mês",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7488848-governo-central-registra-superavit-de-rs-108-bilhoes-em-julho.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "PF atua sem proteger nem perseguir investigados e 'livre de qualquer viés político', diz diretor",
+      "descricao": "Andrei: PF atua 'livre de qualquer viés político' O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou nesta sexta-feira (28) que, na sua gestão, a corporação investiga sem proteger nem perseguir ninguém e trabalha \"livre de qualquer viés político\". Andrei deu as declarações ao participar da formatura de novos agentes da Polícia Federal, em Brasília. Ele também disse que a atuação \"técnic",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/28/pf-atua-sem-proteger-nem-perseguir-investigados-e-livre-de-qualquer-vies-politico-diz-diretor-geral.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 27 Aug 2026 18:30:37 -0300",
+      "pub_date": "Fri, 28 Aug 2026 14:27:34 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos",
+      "descricao": "Lula responde sobre mensagem em que lobista diz que recebeu oferta de cargo O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (27), durante entrevista à TV Globo, que não conhece a empresária Roberta Luchsinger, investigada pela Polícia Federal (PF) no inquérito sobre descontos ilegais em aposentadorias e pensões do INSS. Ao ser questionado sobre a lobi",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 12:20:22 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Crescimento populacional caiu para 0,37% em 2026, estima IBGE",
+      "descricao": "A população estimada do Brasil atingiu 214,2 milhões de pessoas no dia 1º de julho deste ano, de acordo com o estudo Estimativas da População, divulgado nesta sexta-feira (28) pela editoria de Estatísticas Sociais do Instituto Brasileiro de Geografia e Estatística (IBGE). O ritmo de crescimento da população é cada vez menor, destaca o estudo . A expansão populacional do país foi de 0,37% em relaçã",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/crescimento-populacional-caiu-para-037-em-2026-estima-ibge",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 28 Aug 2026 16:38:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     }
   ]
