@@ -19439,5 +19439,70 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null
+  },
+  {
+    "ticker": "HYPE3",
+    "data_entrada": "2026-08-30",
+    "preco_entrada": 21.25,
+    "stop": 19.93,
+    "alvo": 24.44,
+    "score": 55,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "DESK3",
+    "data_entrada": "2026-08-30",
+    "preco_entrada": 18.46,
+    "stop": 17.83,
+    "alvo": 21.23,
+    "score": 50,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "BHIA3",
+    "data_entrada": "2026-08-30",
+    "preco_entrada": 0.34,
+    "stop": 0.22,
+    "alvo": 0.39,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "BBSE3",
+    "data_entrada": "2026-08-30",
+    "preco_entrada": 39.45,
+    "stop": 37.95,
+    "alvo": 45.37,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "ALPA4",
+    "data_entrada": "2026-08-30",
+    "preco_entrada": 14.32,
+    "stop": 13.23,
+    "alvo": 16.47,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
   }
 ]

@@ -1,7 +1,7 @@
 {
   "data_iso": "2026-08-30",
-  "gerado_em": "30/08/2026 08:55",
-  "total": 83,
+  "gerado_em": "30/08/2026 15:54",
+  "total": 187,
   "acoes": [
     {
       "ticker": "RCSL4",
@@ -15,6 +15,28 @@
       "volume": 15552300
     },
     {
+      "ticker": "HYPE3",
+      "preco": 21.25,
+      "var_1d": -3.45,
+      "var_20d": -1.85,
+      "rsi": 49.9,
+      "score": 55,
+      "classificacao": "OBSERVAR",
+      "setor": "Saúde",
+      "volume": 2578800
+    },
+    {
+      "ticker": "DESK3",
+      "preco": 18.46,
+      "var_1d": 0.05,
+      "var_20d": 0.6,
+      "rsi": 47.5,
+      "score": 50,
+      "classificacao": "OBSERVAR",
+      "setor": "Telecom",
+      "volume": 594800
+    },
+    {
       "ticker": "UNIP6",
       "preco": 55.19,
       "var_1d": -1.81,
@@ -24,6 +46,39 @@
       "classificacao": "OBSERVAR",
       "setor": "Indústria de Processo",
       "volume": 220400
+    },
+    {
+      "ticker": "BHIA3",
+      "preco": 0.34,
+      "var_1d": -5.56,
+      "var_20d": -56.96,
+      "rsi": 16.9,
+      "score": 40,
+      "classificacao": "OBSERVAR",
+      "setor": "Varejo",
+      "volume": 21659200
+    },
+    {
+      "ticker": "BBSE3",
+      "preco": 39.45,
+      "var_1d": 0.1,
+      "var_20d": 1.46,
+      "rsi": 61.8,
+      "score": 40,
+      "classificacao": "OBSERVAR",
+      "setor": "Financeiro",
+      "volume": 5095700
+    },
+    {
+      "ticker": "ALPA4",
+      "preco": 14.32,
+      "var_1d": 5.29,
+      "var_20d": 22.08,
+      "rsi": 70.6,
+      "score": 40,
+      "classificacao": "OBSERVAR",
+      "setor": "Consumo Básico",
+      "volume": 3501400
     },
     {
       "ticker": "MULT3",
@@ -70,6 +125,28 @@
       "volume": 11580500
     },
     {
+      "ticker": "VBBR3",
+      "preco": 33.35,
+      "var_1d": -0.77,
+      "var_20d": -6.4,
+      "rsi": 45.6,
+      "score": 35,
+      "classificacao": "NEUTRO",
+      "setor": "Varejo",
+      "volume": 5796400
+    },
+    {
+      "ticker": "VIVT3",
+      "preco": 29.39,
+      "var_1d": -1.87,
+      "var_20d": -9.6,
+      "rsi": 34.1,
+      "score": 35,
+      "classificacao": "NEUTRO",
+      "setor": "Telecom",
+      "volume": 3146300
+    },
+    {
       "ticker": "SEER3",
       "preco": 11.92,
       "var_1d": 0.93,
@@ -90,6 +167,17 @@
       "classificacao": "NEUTRO",
       "setor": "Bens de Capital",
       "volume": 916300
+    },
+    {
+      "ticker": "ALUP11",
+      "preco": 32.53,
+      "var_1d": -0.82,
+      "var_20d": 0.33,
+      "rsi": 55.0,
+      "score": 35,
+      "classificacao": "NEUTRO",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 354900
     },
     {
       "ticker": "TCSA3",
@@ -114,6 +202,50 @@
       "volume": 28781200
     },
     {
+      "ticker": "CMIG4",
+      "preco": 10.4,
+      "var_1d": -0.95,
+      "var_20d": -7.39,
+      "rsi": 44.1,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 9792100
+    },
+    {
+      "ticker": "BRKM5",
+      "preco": 4.22,
+      "var_1d": 19.89,
+      "var_20d": -28.84,
+      "rsi": 34.3,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Indústria de Processo",
+      "volume": 9300100
+    },
+    {
+      "ticker": "DIRR3",
+      "preco": 10.97,
+      "var_1d": -0.36,
+      "var_20d": -4.28,
+      "rsi": 45.8,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 9009500
+    },
+    {
+      "ticker": "UGPA3",
+      "preco": 33.17,
+      "var_1d": -0.87,
+      "var_20d": 3.75,
+      "rsi": 62.0,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Varejo",
+      "volume": 5276600
+    },
+    {
       "ticker": "RADL3",
       "preco": 19.4,
       "var_1d": 0.47,
@@ -134,6 +266,17 @@
       "classificacao": "NEUTRO",
       "setor": "Tecnologia",
       "volume": 2677600
+    },
+    {
+      "ticker": "GRND3",
+      "preco": 3.49,
+      "var_1d": 0.29,
+      "var_20d": -4.45,
+      "rsi": 44.4,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Consumo Básico",
+      "volume": 2565400
     },
     {
       "ticker": "QUAL3",
@@ -169,6 +312,28 @@
       "volume": 860800
     },
     {
+      "ticker": "FIQE3",
+      "preco": 4.65,
+      "var_1d": 0.22,
+      "var_20d": -13.57,
+      "rsi": 37.7,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Telecom",
+      "volume": 493200
+    },
+    {
+      "ticker": "INTB3",
+      "preco": 14.73,
+      "var_1d": 2.08,
+      "var_20d": 3.46,
+      "rsi": 58.1,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Tecnologia",
+      "volume": 479700
+    },
+    {
       "ticker": "MILS3",
       "preco": 15.7,
       "var_1d": 0.19,
@@ -189,6 +354,17 @@
       "classificacao": "NEUTRO",
       "setor": "Transporte e Logística",
       "volume": 427700
+    },
+    {
+      "ticker": "CSED3",
+      "preco": 4.8,
+      "var_1d": 4.35,
+      "var_20d": 9.59,
+      "rsi": 68.3,
+      "score": 30,
+      "classificacao": "NEUTRO",
+      "setor": "Serviços ao Consumidor",
+      "volume": 337200
     },
     {
       "ticker": "VITT3",
@@ -213,6 +389,17 @@
       "volume": 38718000
     },
     {
+      "ticker": "BBDC4",
+      "preco": 16.93,
+      "var_1d": -0.35,
+      "var_20d": -7.69,
+      "rsi": 47.0,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 30888800
+    },
+    {
       "ticker": "MOTV3",
       "preco": 15.08,
       "var_1d": -0.13,
@@ -222,6 +409,28 @@
       "classificacao": "NEUTRO",
       "setor": "Transporte e Logística",
       "volume": 9960300
+    },
+    {
+      "ticker": "HAPV3",
+      "preco": 6.55,
+      "var_1d": 2.66,
+      "var_20d": -40.51,
+      "rsi": 31.1,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Saúde",
+      "volume": 8711500
+    },
+    {
+      "ticker": "GMAT3",
+      "preco": 4.76,
+      "var_1d": 3.48,
+      "var_20d": 19.6,
+      "rsi": 75.8,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Varejo",
+      "volume": 7026400
     },
     {
       "ticker": "PRIO3",
@@ -268,6 +477,28 @@
       "volume": 3061100
     },
     {
+      "ticker": "BRAV3",
+      "preco": 17.5,
+      "var_1d": -1.24,
+      "var_20d": -14.17,
+      "rsi": 31.8,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Petróleo e Gás",
+      "volume": 3044000
+    },
+    {
+      "ticker": "VIVA3",
+      "preco": 22.6,
+      "var_1d": -0.44,
+      "var_20d": 1.99,
+      "rsi": 60.1,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Bens de Consumo",
+      "volume": 2758600
+    },
+    {
       "ticker": "SBFG3",
       "preco": 8.33,
       "var_1d": 0.24,
@@ -312,6 +543,28 @@
       "volume": 1010800
     },
     {
+      "ticker": "FESA4",
+      "preco": 5.27,
+      "var_1d": 1.35,
+      "var_20d": -12.31,
+      "rsi": 45.0,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Mineração",
+      "volume": 995100
+    },
+    {
+      "ticker": "DXCO3",
+      "preco": 5.24,
+      "var_1d": 2.14,
+      "var_20d": 2.75,
+      "rsi": 59.3,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Bens de Capital",
+      "volume": 882200
+    },
+    {
       "ticker": "RCSL3",
       "preco": 0.39,
       "var_1d": -2.5,
@@ -334,6 +587,50 @@
       "volume": 46135600
     },
     {
+      "ticker": "ITUB4",
+      "preco": 39.1,
+      "var_1d": -0.89,
+      "var_20d": -8.48,
+      "rsi": 43.3,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 20889700
+    },
+    {
+      "ticker": "ABEV3",
+      "preco": 15.12,
+      "var_1d": -0.79,
+      "var_20d": -5.26,
+      "rsi": 44.1,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Consumo Básico",
+      "volume": 16656800
+    },
+    {
+      "ticker": "ITSA4",
+      "preco": 12.84,
+      "var_1d": -0.47,
+      "var_20d": -6.96,
+      "rsi": 47.3,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 14850800
+    },
+    {
+      "ticker": "CEAB3",
+      "preco": 8.14,
+      "var_1d": 3.69,
+      "var_20d": -13.68,
+      "rsi": 43.4,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Varejo",
+      "volume": 12209800
+    },
+    {
       "ticker": "POMO4",
       "preco": 4.5,
       "var_1d": 2.04,
@@ -343,6 +640,39 @@
       "classificacao": "NEUTRO",
       "setor": "Bens de Capital",
       "volume": 9775700
+    },
+    {
+      "ticker": "BEEF3",
+      "preco": 3.97,
+      "var_1d": -3.17,
+      "var_20d": 10.58,
+      "rsi": 61.8,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Distribuição",
+      "volume": 8296900
+    },
+    {
+      "ticker": "AZEV4",
+      "preco": 1.84,
+      "var_1d": 3.95,
+      "var_20d": 2.22,
+      "rsi": 55.1,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Serviços Industriais",
+      "volume": 7179400
+    },
+    {
+      "ticker": "TIMS3",
+      "preco": 18.33,
+      "var_1d": -2.19,
+      "var_20d": -5.03,
+      "rsi": 35.8,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Telecom",
+      "volume": 6772600
     },
     {
       "ticker": "SUZB3",
@@ -367,6 +697,61 @@
       "volume": 5427500
     },
     {
+      "ticker": "ECOR3",
+      "preco": 6.96,
+      "var_1d": 0.14,
+      "var_20d": -1.0,
+      "rsi": 56.6,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Transporte e Logística",
+      "volume": 3972700
+    },
+    {
+      "ticker": "WEGE3",
+      "preco": 50.25,
+      "var_1d": -0.34,
+      "var_20d": 7.33,
+      "rsi": 68.1,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Bens de Capital",
+      "volume": 3841400
+    },
+    {
+      "ticker": "JHSF3",
+      "preco": 10.36,
+      "var_1d": -0.38,
+      "var_20d": -7.01,
+      "rsi": 46.5,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 2783000
+    },
+    {
+      "ticker": "HBRE3",
+      "preco": 2.75,
+      "var_1d": 6.18,
+      "var_20d": 33.5,
+      "rsi": 76.6,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 2677300
+    },
+    {
+      "ticker": "EGIE3",
+      "preco": 28.85,
+      "var_1d": 0.03,
+      "var_20d": -1.88,
+      "rsi": 50.5,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 2265600
+    },
+    {
       "ticker": "PGMN3",
       "preco": 3.43,
       "var_1d": -0.58,
@@ -376,6 +761,28 @@
       "classificacao": "NEUTRO",
       "setor": "Varejo",
       "volume": 2166300
+    },
+    {
+      "ticker": "AZTE3",
+      "preco": 1.54,
+      "var_1d": 3.36,
+      "var_20d": -3.14,
+      "rsi": 54.5,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Petróleo e Gás",
+      "volume": 2136800
+    },
+    {
+      "ticker": "ITUB3",
+      "preco": 42.32,
+      "var_1d": -0.66,
+      "var_20d": -6.62,
+      "rsi": 46.3,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 1858100
     },
     {
       "ticker": "POMO3",
@@ -433,6 +840,50 @@
       "volume": 453600
     },
     {
+      "ticker": "BRBI11",
+      "preco": 12.87,
+      "var_1d": -1.08,
+      "var_20d": -10.09,
+      "rsi": 47.7,
+      "score": 20,
+      "classificacao": "NEUTRO",
+      "setor": "Financeiro",
+      "volume": 233200
+    },
+    {
+      "ticker": "B3SA3",
+      "preco": 15.73,
+      "var_1d": -0.13,
+      "var_20d": 0.64,
+      "rsi": 59.6,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 25181700
+    },
+    {
+      "ticker": "BBAS3",
+      "preco": 19.97,
+      "var_1d": 2.31,
+      "var_20d": -5.76,
+      "rsi": 56.2,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 21651300
+    },
+    {
+      "ticker": "COGN3",
+      "preco": 2.23,
+      "var_1d": 0.0,
+      "var_20d": -3.46,
+      "rsi": 54.8,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Serviços Comerciais",
+      "volume": 17748000
+    },
+    {
       "ticker": "SMFT3",
       "preco": 17.03,
       "var_1d": -1.56,
@@ -466,6 +917,50 @@
       "volume": 9058000
     },
     {
+      "ticker": "ASAI3",
+      "preco": 8.2,
+      "var_1d": -2.03,
+      "var_20d": -2.5,
+      "rsi": 48.2,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Varejo",
+      "volume": 8259700
+    },
+    {
+      "ticker": "GFSA3",
+      "preco": 0.22,
+      "var_1d": 4.76,
+      "var_20d": -21.43,
+      "rsi": 28.1,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 5000800
+    },
+    {
+      "ticker": "KLBN11",
+      "preco": 18.79,
+      "var_1d": 0.43,
+      "var_20d": 4.1,
+      "rsi": 68.3,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 4968100
+    },
+    {
+      "ticker": "EMBJ3",
+      "preco": 97.61,
+      "var_1d": 0.39,
+      "var_20d": 13.32,
+      "rsi": 61.3,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Tecnologia",
+      "volume": 4866100
+    },
+    {
       "ticker": "RAIZ4",
       "preco": 0.23,
       "var_1d": 0.0,
@@ -475,6 +970,17 @@
       "classificacao": "EVITAR",
       "setor": "Varejo",
       "volume": 4676300
+    },
+    {
+      "ticker": "CURY3",
+      "preco": 32.85,
+      "var_1d": 2.69,
+      "var_20d": 10.2,
+      "rsi": 58.1,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 4385900
     },
     {
       "ticker": "RAIL3",
@@ -488,6 +994,17 @@
       "volume": 4076500
     },
     {
+      "ticker": "BBDC3",
+      "preco": 14.96,
+      "var_1d": 0.27,
+      "var_20d": -6.18,
+      "rsi": 49.3,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 3775700
+    },
+    {
       "ticker": "LWSA3",
       "preco": 4.33,
       "var_1d": 3.84,
@@ -497,6 +1014,39 @@
       "classificacao": "EVITAR",
       "setor": "Tecnologia",
       "volume": 2611100
+    },
+    {
+      "ticker": "AZZA3",
+      "preco": 14.79,
+      "var_1d": -0.67,
+      "var_20d": -6.75,
+      "rsi": 37.3,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Consumo Básico",
+      "volume": 2546900
+    },
+    {
+      "ticker": "AZEV3",
+      "preco": 8.21,
+      "var_1d": -43.07,
+      "var_20d": 110.51,
+      "rsi": 56.8,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Serviços Industriais",
+      "volume": 2439200
+    },
+    {
+      "ticker": "ALOS3",
+      "preco": 26.21,
+      "var_1d": -0.83,
+      "var_20d": -2.62,
+      "rsi": 49.9,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 2344500
     },
     {
       "ticker": "RDOR3",
@@ -510,6 +1060,50 @@
       "volume": 2244000
     },
     {
+      "ticker": "FLRY3",
+      "preco": 18.74,
+      "var_1d": 0.43,
+      "var_20d": 12.86,
+      "rsi": 71.0,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Saúde",
+      "volume": 2138800
+    },
+    {
+      "ticker": "CBAV3",
+      "preco": 11.21,
+      "var_1d": 0.09,
+      "var_20d": 1.72,
+      "rsi": 70.7,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 1814600
+    },
+    {
+      "ticker": "AMER3",
+      "preco": 4.92,
+      "var_1d": 2.5,
+      "var_20d": 8.61,
+      "rsi": 66.6,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Varejo",
+      "volume": 1763200
+    },
+    {
+      "ticker": "CASH3",
+      "preco": 5.91,
+      "var_1d": 3.14,
+      "var_20d": 32.81,
+      "rsi": 70.3,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Serviços Comerciais",
+      "volume": 1597000
+    },
+    {
       "ticker": "SMTO3",
       "preco": 18.87,
       "var_1d": 1.29,
@@ -521,6 +1115,28 @@
       "volume": 1434800
     },
     {
+      "ticker": "GGPS3",
+      "preco": 12.42,
+      "var_1d": -0.64,
+      "var_20d": 5.61,
+      "rsi": 61.8,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Serviços Comerciais",
+      "volume": 1427100
+    },
+    {
+      "ticker": "KEPL3",
+      "preco": 6.57,
+      "var_1d": 0.77,
+      "var_20d": 1.23,
+      "rsi": 64.8,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Bens de Capital",
+      "volume": 933100
+    },
+    {
       "ticker": "SAPR4",
       "preco": 6.57,
       "var_1d": 0.61,
@@ -530,6 +1146,17 @@
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
       "volume": 861900
+    },
+    {
+      "ticker": "JALL3",
+      "preco": 2.62,
+      "var_1d": 2.34,
+      "var_20d": 29.7,
+      "rsi": 73.2,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Indústria de Processo",
+      "volume": 813900
     },
     {
       "ticker": "VTRU3",
@@ -554,6 +1181,17 @@
       "volume": 664800
     },
     {
+      "ticker": "EVEN3",
+      "preco": 4.41,
+      "var_1d": -2.22,
+      "var_20d": -9.07,
+      "rsi": 42.9,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 658600
+    },
+    {
       "ticker": "MYPK3",
       "preco": 9.09,
       "var_1d": -0.11,
@@ -574,6 +1212,17 @@
       "classificacao": "EVITAR",
       "setor": "Tecnologia",
       "volume": 462200
+    },
+    {
+      "ticker": "BMOB3",
+      "preco": 24.37,
+      "var_1d": 0.83,
+      "var_20d": 3.44,
+      "rsi": 60.7,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Tecnologia",
+      "volume": 431500
     },
     {
       "ticker": "PRNR3",
@@ -609,6 +1258,17 @@
       "volume": 342500
     },
     {
+      "ticker": "ALLD3",
+      "preco": 5.14,
+      "var_1d": -1.15,
+      "var_20d": 13.47,
+      "rsi": 59.2,
+      "score": 15,
+      "classificacao": "EVITAR",
+      "setor": "Tecnologia",
+      "volume": 338100
+    },
+    {
       "ticker": "LOGG3",
       "preco": 24.02,
       "var_1d": 0.42,
@@ -642,6 +1302,127 @@
       "volume": 265900
     },
     {
+      "ticker": "CYRE3",
+      "preco": 23.8,
+      "var_1d": -1.2,
+      "var_20d": 10.54,
+      "rsi": 62.4,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 13043900
+    },
+    {
+      "ticker": "CVCB3",
+      "preco": 1.78,
+      "var_1d": 0.0,
+      "var_20d": 36.92,
+      "rsi": 71.6,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Serviços ao Consumidor",
+      "volume": 12963600
+    },
+    {
+      "ticker": "EQTL3",
+      "preco": 36.71,
+      "var_1d": -0.33,
+      "var_20d": -5.04,
+      "rsi": 48.6,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 11930100
+    },
+    {
+      "ticker": "ENEV3",
+      "preco": 26.15,
+      "var_1d": -0.87,
+      "var_20d": 0.0,
+      "rsi": 55.0,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 10765400
+    },
+    {
+      "ticker": "AMBP3",
+      "preco": 0.16,
+      "var_1d": -5.88,
+      "var_20d": 0.0,
+      "rsi": 51.6,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Serviços Comerciais",
+      "volume": 10727600
+    },
+    {
+      "ticker": "ANIM3",
+      "preco": 2.78,
+      "var_1d": 1.83,
+      "var_20d": 26.36,
+      "rsi": 68.2,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Serviços ao Consumidor",
+      "volume": 8916400
+    },
+    {
+      "ticker": "AXIA3",
+      "preco": 52.6,
+      "var_1d": -1.52,
+      "var_20d": -0.66,
+      "rsi": 53.9,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 6630100
+    },
+    {
+      "ticker": "CXSE3",
+      "preco": 19.31,
+      "var_1d": 0.52,
+      "var_20d": -2.25,
+      "rsi": 53.4,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 5248600
+    },
+    {
+      "ticker": "EZTC3",
+      "preco": 11.77,
+      "var_1d": 1.9,
+      "var_20d": 3.36,
+      "rsi": 57.6,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 3192000
+    },
+    {
+      "ticker": "CMIN3",
+      "preco": 6.01,
+      "var_1d": 0.33,
+      "var_20d": 5.07,
+      "rsi": 60.0,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 2662900
+    },
+    {
+      "ticker": "IGTI11",
+      "preco": 24.18,
+      "var_1d": -1.31,
+      "var_20d": -3.7,
+      "rsi": 49.7,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 2478700
+    },
+    {
       "ticker": "VULC3",
       "preco": 13.46,
       "var_1d": 0.67,
@@ -662,6 +1443,17 @@
       "classificacao": "EVITAR",
       "setor": "Varejo",
       "volume": 1191000
+    },
+    {
+      "ticker": "CPFE3",
+      "preco": 44.06,
+      "var_1d": -1.1,
+      "var_20d": -4.4,
+      "rsi": 50.6,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 1158100
     },
     {
       "ticker": "PLPL3",
@@ -686,6 +1478,17 @@
       "volume": 846000
     },
     {
+      "ticker": "KLBN3",
+      "preco": 3.86,
+      "var_1d": 1.31,
+      "var_20d": 4.89,
+      "rsi": 65.9,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 793300
+    },
+    {
       "ticker": "SAPR11",
       "preco": 33.36,
       "var_1d": 0.3,
@@ -695,6 +1498,28 @@
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
       "volume": 596900
+    },
+    {
+      "ticker": "AXIA7",
+      "preco": 52.13,
+      "var_1d": -1.64,
+      "var_20d": -0.15,
+      "rsi": 53.7,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 520200
+    },
+    {
+      "ticker": "CYRE4",
+      "preco": 22.5,
+      "var_1d": -1.53,
+      "var_20d": 10.57,
+      "rsi": 59.2,
+      "score": 10,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 505900
     },
     {
       "ticker": "LAVV3",
@@ -730,6 +1555,39 @@
       "volume": 336100
     },
     {
+      "ticker": "CPLE3",
+      "preco": 14.57,
+      "var_1d": -0.55,
+      "var_20d": -2.15,
+      "rsi": 53.9,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 15537600
+    },
+    {
+      "ticker": "VAMO3",
+      "preco": 3.03,
+      "var_1d": -0.66,
+      "var_20d": -11.4,
+      "rsi": 53.6,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 10629500
+    },
+    {
+      "ticker": "USIM5",
+      "preco": 7.17,
+      "var_1d": 0.56,
+      "var_20d": -5.03,
+      "rsi": 49.5,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 8594100
+    },
+    {
       "ticker": "PMAM3",
       "preco": 0.15,
       "var_1d": 7.14,
@@ -739,6 +1597,17 @@
       "classificacao": "EVITAR",
       "setor": "Mineração",
       "volume": 6382700
+    },
+    {
+      "ticker": "ENGI11",
+      "preco": 47.5,
+      "var_1d": -0.15,
+      "var_20d": -3.19,
+      "rsi": 55.7,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 3052000
     },
     {
       "ticker": "SIMH3",
@@ -763,6 +1632,17 @@
       "volume": 2353200
     },
     {
+      "ticker": "ISAE4",
+      "preco": 26.65,
+      "var_1d": -0.37,
+      "var_20d": -0.41,
+      "rsi": 52.5,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 2060500
+    },
+    {
       "ticker": "RAPT4",
       "preco": 4.82,
       "var_1d": 1.26,
@@ -772,6 +1652,17 @@
       "classificacao": "EVITAR",
       "setor": "Bens de Capital",
       "volume": 2048100
+    },
+    {
+      "ticker": "AURE3",
+      "preco": 10.86,
+      "var_1d": 0.09,
+      "var_20d": -3.04,
+      "rsi": 52.4,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 1830300
     },
     {
       "ticker": "TTEN3",
@@ -796,6 +1687,28 @@
       "volume": 778000
     },
     {
+      "ticker": "ENJU3",
+      "preco": 0.75,
+      "var_1d": 0.0,
+      "var_20d": 7.14,
+      "rsi": 44.9,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Varejo",
+      "volume": 517500
+    },
+    {
+      "ticker": "ABCB4",
+      "preco": 23.05,
+      "var_1d": 0.04,
+      "var_20d": -4.32,
+      "rsi": 48.5,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 434200
+    },
+    {
       "ticker": "SOJA3",
       "preco": 6.87,
       "var_1d": 2.54,
@@ -818,6 +1731,50 @@
       "volume": 287900
     },
     {
+      "ticker": "BRKM3",
+      "preco": 3.87,
+      "var_1d": 24.84,
+      "var_20d": -21.82,
+      "rsi": 38.4,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Indústria de Processo",
+      "volume": 241700
+    },
+    {
+      "ticker": "CSNA3",
+      "preco": 5.37,
+      "var_1d": 1.9,
+      "var_20d": 8.48,
+      "rsi": 62.0,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 13927400
+    },
+    {
+      "ticker": "VALE3",
+      "preco": 79.11,
+      "var_1d": 0.84,
+      "var_20d": 6.89,
+      "rsi": 68.8,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 13040900
+    },
+    {
+      "ticker": "GOAU4",
+      "preco": 10.45,
+      "var_1d": 5.13,
+      "var_20d": -3.63,
+      "rsi": 51.2,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 6250400
+    },
+    {
       "ticker": "MBRF3",
       "preco": 18.76,
       "var_1d": 1.08,
@@ -829,6 +1786,39 @@
       "volume": 5304900
     },
     {
+      "ticker": "GGBR4",
+      "preco": 23.97,
+      "var_1d": 4.76,
+      "var_20d": -3.07,
+      "rsi": 53.5,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 5141900
+    },
+    {
+      "ticker": "YDUQ3",
+      "preco": 8.86,
+      "var_1d": 2.78,
+      "var_20d": 6.24,
+      "rsi": 63.1,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Serviços Comerciais",
+      "volume": 3677600
+    },
+    {
+      "ticker": "KLBN4",
+      "preco": 3.71,
+      "var_1d": 0.0,
+      "var_20d": 3.06,
+      "rsi": 65.4,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Mineração",
+      "volume": 3585900
+    },
+    {
       "ticker": "NATU3",
       "preco": 8.91,
       "var_1d": -0.34,
@@ -838,6 +1828,28 @@
       "classificacao": "EVITAR",
       "setor": "Consumo Básico",
       "volume": 3008300
+    },
+    {
+      "ticker": "BRAP4",
+      "preco": 22.35,
+      "var_1d": 1.82,
+      "var_20d": 2.85,
+      "rsi": 63.3,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 2437200
+    },
+    {
+      "ticker": "AUAU3",
+      "preco": 3.3,
+      "var_1d": 0.61,
+      "var_20d": -2.65,
+      "rsi": 50.1,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Indústria de Processo",
+      "volume": 2352700
     },
     {
       "ticker": "ORVR3",
@@ -862,6 +1874,17 @@
       "volume": 932600
     },
     {
+      "ticker": "IRBR3",
+      "preco": 55.23,
+      "var_1d": 3.43,
+      "var_20d": 1.69,
+      "rsi": 61.4,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 635200
+    },
+    {
       "ticker": "MDNE3",
       "preco": 24.61,
       "var_1d": 0.04,
@@ -873,6 +1896,39 @@
       "volume": 586400
     },
     {
+      "ticker": "ARML3",
+      "preco": 3.68,
+      "var_1d": -0.54,
+      "var_20d": 8.24,
+      "rsi": 63.1,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 406200
+    },
+    {
+      "ticker": "CAML3",
+      "preco": 4.92,
+      "var_1d": 0.2,
+      "var_20d": 4.9,
+      "rsi": 58.2,
+      "score": 0,
+      "classificacao": "EVITAR",
+      "setor": "Indústria de Processo",
+      "volume": 362600
+    },
+    {
+      "ticker": "CSAN3",
+      "preco": 3.71,
+      "var_1d": 0.0,
+      "var_20d": -7.02,
+      "rsi": 53.2,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 27336000
+    },
+    {
       "ticker": "MGLU3",
       "preco": 4.84,
       "var_1d": 2.76,
@@ -882,6 +1938,28 @@
       "classificacao": "EVITAR",
       "setor": "Varejo",
       "volume": 23096000
+    },
+    {
+      "ticker": "BPAC11",
+      "preco": 53.74,
+      "var_1d": -0.61,
+      "var_20d": -3.7,
+      "rsi": 53.8,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 7241300
+    },
+    {
+      "ticker": "CSMG3",
+      "preco": 55.2,
+      "var_1d": 0.18,
+      "var_20d": -13.07,
+      "rsi": 37.8,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Energia Elétrica e Saneamento",
+      "volume": 3079600
     },
     {
       "ticker": "OIBR3",
@@ -906,6 +1984,61 @@
       "volume": 1389200
     },
     {
+      "ticker": "DASA3",
+      "preco": 2.65,
+      "var_1d": 1.53,
+      "var_20d": 0.38,
+      "rsi": 52.7,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Saúde",
+      "volume": 1140900
+    },
+    {
+      "ticker": "HBOR3",
+      "preco": 2.22,
+      "var_1d": 8.29,
+      "var_20d": 18.72,
+      "rsi": 68.2,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Bens de Consumo",
+      "volume": 1118700
+    },
+    {
+      "ticker": "BRSR6",
+      "preco": 13.8,
+      "var_1d": -0.36,
+      "var_20d": -2.13,
+      "rsi": 51.9,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 776700
+    },
+    {
+      "ticker": "JSLG3",
+      "preco": 5.37,
+      "var_1d": -0.74,
+      "var_20d": -4.96,
+      "rsi": 50.7,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Transporte e Logística",
+      "volume": 715200
+    },
+    {
+      "ticker": "BMGB4",
+      "preco": 5.11,
+      "var_1d": -1.35,
+      "var_20d": -1.09,
+      "rsi": 52.2,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Financeiro",
+      "volume": 590600
+    },
+    {
       "ticker": "MRVE3",
       "preco": 5.47,
       "var_1d": -0.73,
@@ -915,6 +2048,17 @@
       "classificacao": "EVITAR",
       "setor": "Bens de Consumo",
       "volume": 12108200
+    },
+    {
+      "ticker": "HBSA3",
+      "preco": 3.47,
+      "var_1d": -1.42,
+      "var_20d": 9.12,
+      "rsi": 59.5,
+      "score": -15,
+      "classificacao": "EVITAR",
+      "setor": "Transporte e Logística",
+      "volume": 834600
     }
   ]
 }
