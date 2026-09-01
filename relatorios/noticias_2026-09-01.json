@@ -1,36 +1,22 @@
 {
-  "coletado_em": "01/09/2026 01:37",
+  "coletado_em": "01/09/2026 10:01",
   "total": 30,
   "urgentes": 3,
   "destaque": {
-    "titulo": "Orçamento 2027: proposta do governo limita reajustes de servidores públicos seguindo 'gatilho' da regra fiscal",
-    "descricao": "A proposta de Orçamento de 2027 do governo federal limita os recursos disponíveis para reajustes de servidores públicos no próximo ano, o primeiro de um novo mandato presidencial. Isso está relacionado com um gatilho proposto pelo governo federal, e aprovado pelo Congresso Nacional, ou seja, uma regra que contém os gastos públicos no caso de déficit fiscal. A regra diz que a medida será adotada no",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-proposta-do-governo-limita-reajustes-de-servidores-publicos-seguindo-gatilho-da-regra-fiscal.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
+    "titulo": "Alckmin defende esforço fiscal para melhorar a relação dívida-PIB",
+    "descricao": "Em evento de banco privado em São Paulo, vice-presidente admite que governo precisa controlar despesas para conter aumento da dívida e ajudar a acelerar corte de juros, \"mas sem comprometer a atividade\"",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/08/7490965-alckmin-defende-esforco-fiscal-para-melhorar-a-relacao-divida-pib.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
     "urgencia": "alta",
     "score_relevancia": 4,
-    "pub_date": "Mon, 31 Aug 2026 20:38:11 -0000",
+    "pub_date": "Mon, 31 Aug 2026 16:27:00 -0300",
     "setores": [
-      "Mercado geral"
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
     ]
   },
   "noticias": [
-    {
-      "titulo": "Orçamento 2027: proposta do governo limita reajustes de servidores públicos seguindo 'gatilho' da regra fiscal",
-      "descricao": "A proposta de Orçamento de 2027 do governo federal limita os recursos disponíveis para reajustes de servidores públicos no próximo ano, o primeiro de um novo mandato presidencial. Isso está relacionado com um gatilho proposto pelo governo federal, e aprovado pelo Congresso Nacional, ou seja, uma regra que contém os gastos públicos no caso de déficit fiscal. A regra diz que a medida será adotada no",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-proposta-do-governo-limita-reajustes-de-servidores-publicos-seguindo-gatilho-da-regra-fiscal.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "alta",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 31 Aug 2026 20:38:11 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
     {
       "titulo": "Alckmin defende esforço fiscal para melhorar a relação dívida-PIB",
       "descricao": "Em evento de banco privado em São Paulo, vice-presidente admite que governo precisa controlar despesas para conter aumento da dívida e ajudar a acelerar corte de juros, \"mas sem comprometer a atividade\"",
@@ -46,15 +32,74 @@
       ]
     },
     {
+      "titulo": "Títulos dos EUA e Japão sofrem perdas generalizadas, com fiscal e inflação no radar",
+      "descricao": "Juros para papéis japoneses sobem ao maior patamar desde 1996. Índice global que mede taxas pagas por dívidas soberanas chega a 3,72%, maior patamar desde 2008, no auge da crise financeira global The post Títulos dos EUA e Japão sofrem perdas generalizadas, com fiscal e inflação no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/titulos-dos-eua-e-japao-sofrem-perdas-generalizadas-com-fiscal-e-inflacao-no-radar/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 01 Sep 2026 12:39:17 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
       "titulo": "Orçamento: governo estima arrecadar R$ 636 bilhões com a CBS em 2027, novo tributo da reforma tributária",
       "descricao": "A equipe econômica estima que a futura Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado no âmbito da reforma tributária, arrecadará R$ 636 bilhões em 2027. A informação constam na proposta de orçamento de 2027, enviada nesta segunda-feira (31) ao Congresso Nacional. 🔎A CBS, com seu início programado para 2027, substituirá o PIS, a Contribuição para Financiamento da Seguridade Social",
       "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-governo-estima-arrecadar-r-636-bilhoes-com-a-cbs-em-2027-novo-tributo-da-reforma-tributaria.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "alta",
       "score_relevancia": 3,
       "pub_date": "Mon, 31 Aug 2026 21:23:19 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+      "descricao": "Índices futuros dos EUA recuam com alta dos títulos globais The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 01 Sep 2026 12:47:42 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Dólar abre com foco na divulgação do PIB e na agenda econômica do governo",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar inicia esta terça-feira (1º) com os investidores à espera da divulgação do PIB do segundo trimestre, que será conhecido às 9h. Já o Ibovespa, principal índice da bolsa brasileira, abre às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ O IBGE divulga nesta terça, às 9h, o resultado do PIB do segundo trimestre. A expectativa do ",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 01 Sep 2026 12:00:15 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Líder do governo no Senado reconhece impacto eleitoral de votação do fim da escala 6x1",
+      "descricao": "PEC 6X1 tem efeitos eleitorais, diz líder do governo no Senado A senadora Teresa Leitão (PT-PE), líder do governo do presidente Luiz Inácio Lula da Silva (PT) no Senado, reconheceu, em entrevista ao g1, o peso da pauta de votações desta semana de esforço concentrado do Congresso Nacional, a última antes das eleições de outubro. O governo trabalha pela aprovação de duas Propostas de Emenda à Consti",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/01/lider-do-governo-no-senado-reconhece-impacto-eleitoral-de-votacao-do-fim-da-escala-6x1.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 01 Sep 2026 10:00:15 -0000",
       "setores": [
         "Telecom (VIVT3, TIMS3)"
       ]
@@ -88,34 +133,6 @@
       ]
     },
     {
-      "titulo": "Orçamento 2027: governo prevê Bolsa Família sem reajuste no próximo ano",
-      "descricao": "A equipe econômica do governo do presidente Luiz Inácio Lula da Silva (PT) informou que não está sendo proposto reajuste no valor pago nos benefícios do Bolsa Família no projeto de orçamento para 2027, encaminhado ao Congresso Nacional nesta segunda-feira (31). Desde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família não teve reajuste. Para o próximo ano, o governo federal es",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-preve-bolsa-familia-sem-reajuste-no-proximo-ano.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 31 Aug 2026 21:15:44 -0000",
-      "setores": [
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Comissão adia votação do fim da taxa das blusinhas para terça-feira",
-      "descricao": "A votação da medida provisória que acaba com a chamada taxa das blusinhas foi adiada nesta segunda-feira (31) depois de o deputado Reginaldo Lopes (PT-MG), presidente da comissão mista que analisa o texto, suspender a sessão. 🔎Em análise em uma comissão mista do Congresso, o texto precisa ser votado pelo colegiado antes de ir para os plenários da Câmara e do Senado. Segundo Lopres, antes de ser vo",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/31/comissao-adia-votacao-do-fim-da-taxa-das-blusinhas-para-terca-feira.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 31 Aug 2026 20:53:58 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "Mercado volta a reduzir projeção para o PIB e prevê inflação mais próxima a 5%",
       "descricao": "Na avaliação dos agentes consultados pelo relatório do Banco Central, a desaceleração da atividade econômica reforça tendência de crescimento menor em 2026",
       "link": "https://www.correiobraziliense.com.br/economia/2026/08/7490680-mercado-volta-a-reduzir-projecao-para-o-pib-e-preve-inflacao-mais-proxima-a-5.html",
@@ -130,32 +147,32 @@
       ]
     },
     {
-      "titulo": "Ações da Shein despencam 10% em estreia na Bolsa de Hong Kong",
-      "descricao": "Varejista enfrenta dúvidas sobre crescimento diante de tarifas mais altas, pressão regulatória e concorrência de Temu e Alibaba The post Ações da Shein despencam 10% em estreia na Bolsa de Hong Kong appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/acoes-da-shein-despencam-10-em-estreia-na-bolsa-de-hong-kong/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "VÍDEO: Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4?",
+      "descricao": "Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4? O mandato de um senador é tão longo que atravessa duas eleições presidenciais. Enquanto o presidente da República é eleito para ficar quatro anos no cargo, os senadores são escolhidos para mandatos de oito anos. E isso não é por acaso. (Entenda no vídeo acima.) 📍Em uma série de 50 vídeos, o g1 vai explicar os principais te",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/01/video-tempo-de-mandato-senador-deputado-presidente.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 01 Sep 2026 02:43:23 +0000",
+      "pub_date": "Tue, 01 Sep 2026 03:01:03 -0000",
       "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Todos os ativos"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto",
-      "descricao": "Governo Federal apresenta proposta de orçamento para o ano que vem A equipe econômica apresentou nesta segunda-feira (31) os principais pontos da proposta de orçamento para 2027, enviada pelo governo federal ao Congresso Nacional. Esse também será o primeiro ano de um novo mandato para presidente da República, governadores e prefeitos. O documento define como temas importantes do orçamento público",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE",
+      "descricao": "A economia brasileira cresceu 0,5% no segundo trimestre de 2026 na comparação com o primeiro trimestre. Em relação ao segundo trimestre de 2025, o Produto Interno Bruto (PIB), conjunto dos bens e serviços produzidos no país, apresenta alta de 2%. Notícias relacionadas: Boletim Focus: mercado prevê redução da inflação e do PIB de 2026 . No acumulado de quatro trimestres, o PIB teve expansão de 1,9%",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/economia-brasileira-cresce-05-no-segundo-trimestre-mostra-ibge",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 01 Sep 2026 03:00:15 -0000",
+      "pub_date": "Tue, 01 Sep 2026 09:13:00 -0300",
       "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -201,18 +218,45 @@
       ]
     },
     {
-      "titulo": "Empresa dos EUA assumirá campos de petróleo da China e da Rússia na Venezuela",
-      "descricao": "Acordo faz parte da estratégia de Trump para ampliar a influência americana sobre as reservas venezuelanas e redirecionar o petróleo do país para os EUA The post Empresa dos EUA assumirá campos de petróleo da China e da Rússia na Venezuela appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/empresa-dos-eua-assumira-campos-de-petroleo-da-china-e-da-russia-na-venezuela/",
+      "titulo": "Câmara aprova MP de empréstimo para compra de carro por motoristas de app e taxistas",
+      "descricao": "Texto agora vai para votação no plenário do Senado The post Câmara aprova MP de empréstimo para compra de carro por motoristas de app e taxistas appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/camara-aprova-mp-de-emprestimo-para-compra-de-carro-por-motoristas-de-app-e-taxistas/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 01:19:02 +0000",
+      "pub_date": "Tue, 01 Sep 2026 12:39:21 +0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "PIB desacelera, mas cresce 0,5% no 2º trimestre, puxado pela agropecuária, diz IBGE",
+      "descricao": "PIB do Brasil cresce 0,5% no 2º trimestre de 2026 O Produto Interno Bruto (PIB) do Brasil cresceu 0,5% no segundo trimestre de 2026, informou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta terça-feira (1º). Em valores correntes, a economia brasileira movimentou R$ 3,4 trilhões no período. 🤔 O PIB mede o tamanho da economia de um país. O indicador representa o valor de todos os bens",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/pib-do-brasil-cresce-05percent-no-2o-trimestre-de-2026-diz-ibge.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 12:00:23 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto",
+      "descricao": "Governo federal apresenta proposta de orçamento para o ano que vem A equipe econômica do governo federal apresentou nesta segunda-feira (31) os principais pontos da proposta de Orçamento para 2027, enviada ao Congresso Nacional. Esse também será o primeiro ano de uA equipe econômica do governo federal apresentou ao Congresso Nacional a proposta de Orçamento de 2027, primeiro ano de um novo mandato",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 03:00:15 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
       ]
     },
     {
@@ -246,17 +290,46 @@
       ]
     },
     {
-      "titulo": "Orçamento 2027: governo propõe R$ 44,8 bilhões para emendas parlamentares",
-      "descricao": "O governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares em 2027. O valor está no projeto de lei de orçamento para o próximo ano, enviado nesta segunda-feira (31) ao Congresso Nacional. O que representa um aumento de R$ 4 bilhões em relação ao proposto para 2026. (Veja mais detalhes) O valor não contempla, entretanto, as emendas de comissão, que o governo delegou decisão ao Con",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-propoe-r-448-bilhoes-para-emendas-parlamentares.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Decisão do TSE sobre deepfakes nas eleições pode afetar mais de 50 ações na Justiça Eleitoral",
+      "descricao": "A Justiça Eleitoral tem mais de 50 ações que podem ser impactadas pela decisão do Tribunal Superior Eleitoral (TSE) que deve fixar nesta terça-feira (1º) o entendimento sobre a proibição de deepfake nas campanhas. São casos de montagens indicando apoio político, divulgação de resultados de pesquisas que nem existiram e indicavam favoritismo de determinado candidato, diálogos de candidatos simulado",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/01/decisao-do-tse-sobre-deepfakes-nas-eleicoes-pode-afetar-mais-de-50-acoes-na-justica-eleitoral.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Mon, 31 Aug 2026 20:34:11 -0000",
+      "pub_date": "Tue, 01 Sep 2026 03:00:18 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Alcolumbre indica Rodrigo Pacheco para vaga no TCU após saída de Bruno Dantas",
+      "descricao": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), indicou nesta segunda-feira (31) o senador Rodrigo Pacheco (PSB-MG), para o Tribunal de Contas da União (TCU). A vaga foi aberta com a saída antecipada do ministro Bruno Dantas. Bruno Dantas decidiu formalizar sua saída do cargo, em ofício encaminhado nesta segunda-feira (31) ao presidente da Corte, Vital do Rêgo Filho. A indicação foi ass",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/31/alcolumbre-indica-pacheco-para-vaga-no-tcu-apos-saida-de-bruno-dantas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 01:33:51 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Câmara aprova MP com linhas de crédito para taxistas e motoristas de aplicativo adquirirem veículos novos e sustentáveis",
+      "descricao": "A Câmara dos Deputados aprovou nesta segunda-feira (31) uma medida provisória que destina até R$ 30 bilhões em linhas de crédito disponíveis para motoristas de aplicativo, de transporte escolar, taxistas e cooperativas de taxistas para aquisição de veículos novos que atendam a critérios de sustentabilidade. A MP foi editada pelo presidente Luiz Inácio Lula da Silva (PT) em junho deste ano como uma",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/31/camara-aprova-mp-com-linhas-de-credito-para-taxistas-e-motoristas-de-aplicativo-adquirirem-veiculos-novos-e-sustentaveis.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 00:25:51 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     },
     {
@@ -330,119 +403,46 @@
       ]
     },
     {
-      "titulo": "Anthropic fecha acordo de US$ 35 bilhões para ampliar capacidade de IA",
-      "descricao": "Contrato com a Lambda, provedora de nuvem apoiada pela Nvidia, faz parte da corrida da dona do Claude para expandir sua infraestrutura de computação The post Anthropic fecha acordo de US$ 35 bilhões para ampliar capacidade de IA appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/anthropic-fecha-acordo-de-us-35-bilhoes-para-ampliar-capacidade-de-ia/",
+      "titulo": "Kinea: Eleição está mais apertada do que as pesquisas sugerem",
+      "descricao": "Gestora avalia que o agregador de pesquisas subestima o peso da abstenção nas urnas, mas reconhece vantagem do presidente Lula e mantém cautela com ativos locais The post Kinea: Eleição está mais apertada do que as pesquisas sugerem appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/carta-kinea-agosto-2026-eleicoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 01:29:43 +0000",
+      "pub_date": "Tue, 01 Sep 2026 13:00:00 +0000",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Governo reserva R$ 44,8 bilhões para emendas parlamentares em 2027",
-      "descricao": "Valor que será usado pelos deputados e senadores, porém, tende a ser maior The post Governo reserva R$ 44,8 bilhões para emendas parlamentares em 2027 appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/governo-reserva-r-448-bilhoes-para-emendas-parlamentares-em-2027/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 00:18:10 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Petrolífera americana assumirá controle de campos de petróleo na Venezuela",
-      "descricao": "Bombas de extração abandonadas e danificadas ao longo do tempo em um campo da estatal de petróleo PDVSA no Lago de Maracaibo, em Cabimas, na Venezuela. Reuters A petrolífera americana North American Blue Energy Partners (NABEP) assumirá o controle de alguns campos de petróleo anteriormente detidos por diversas empresas chinesas e uma empresa russa, disseram dois funcionários americanos à Reuters n",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/01/petrolifera-americana-assumira-controle-de-campos-de-petroleo-na-venezuela.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 03:49:51 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "Bolsa Família 2026: veja calendário de pagamentos em setembro",
-      "descricao": "Bolsa Família 2026: confira o calendário completo deste ano. A Caixa Econômica Federal inicia os pagamentos de setembro do Bolsa Família no dia 17. Os primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1. (veja mais abaixo o calendário completo) 📱Baixe o app do g1 para ver notícias em tempo real e de graça O dinheiro será disponibilizado nos últimos 10 di",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/01/bolsa-familia-2026-calendario-setembro.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 03:01:10 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Leandro Vilain será novo presidente da Febraban",
-      "descricao": "O Conselho diretor da Federação Brasileira de Bancos (Febraban) indicou o advogado Leandro Vilain para assumir a presidência executiva da entidade a partir do fim de outubro. Leandro Vilain foi indicado para ser o próximo presidente da Febraban Reprodução/TV Globo O processo de transição do atual presidente, a Isaac Sidney, para Vilain, começa nesta semana. Isaac Sidney deixará o comando da Febrab",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/31/leandro-vilain-sera-novo-presidente-da-febraban.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 31 Aug 2026 22:03:49 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "IBGE divulga microdados do Censo com cuidados para preservar sigilo",
-      "descricao": "O Instituto Brasileiro de Geografia e Estatística (IBGE) lançou nesta segunda-feira (31) os microdados da amostra do Censo Demográfico 2022, que reúne informações detalhadas sobre características da população e dos domicílios brasileiros. A divulgação deste ano foi marcada por uma série de cuidados para evitar que o uso de novas tecnologias permita violar a confidencialidade dos dados . De acordo ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ibge-divulga-microdados-do-censo-com-cuidados-para-preservar-sigilo",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 31 Aug 2026 15:01:00 -0300",
-      "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Quase um terço dos usuários de internet relatam tentativas de golpe",
-      "descricao": "Cerca de 45 milhões de usuários de internet com 16 anos ou mais no Brasil ─ 32% do total ─ sofreram tentativas de golpe com o uso de seus dados pessoais. Além disso, 20% relataram que foram vítimas efetivas desse tipo de crime . Os dados inéditos são da terceira edição da pesquisa Privacidade e proteção de dados pessoais: perspectivas de indivíduos, empresas e organizações públicas no Brasil , apr",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/quase-um-terco-dos-usuarios-de-internet-relatam-tentativas-de-golpe",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 31 Aug 2026 14:02:00 -0300",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "UE suspende importações de carne brasileira a partir desta quinta",
-      "descricao": "As medidas da UE fazem parte da política para combater a resistência dos microrganismos aos medicamentos, evitando o uso desnecessário de antibióticos",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7491175-ue-suspende-importacoes-de-carne-brasileira-a-partir-de-5-feira.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "União Europeia vai suspender importações de carne brasileira a partir de quinta-feira",
+      "descricao": "UE reprova Brasil por não ter apresentado garantias suficientes contra uso abusivo de antibióticos na indústria pecuária The post União Europeia vai suspender importações de carne brasileira a partir de quinta-feira appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/uniao-europeia-vai-suspender-importacoes-de-carne-brasileira-a-partir-de-quinta-feira/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 31 Aug 2026 20:03:00 -0300",
+      "pub_date": "Tue, 01 Sep 2026 12:48:30 +0000",
       "setores": [
         "Frigoríficos (JBSS3, MRFG3, BEEF3)",
         "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Raízen (RAIZ4) conclui desinvestimento de operações na Argentina por R$ 7,38 bi",
+      "descricao": "Cifra inclui o pagamento de uma parcela em caixa e a assunção do endividamento da Raízen Argentina pelo comprador The post Raízen (RAIZ4) conclui desinvestimento de operações na Argentina por R$ 7,38 bi appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/raizen-conclui-desinvestimento-de-operacoes-na-argentina-por-r-738-bi/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 01 Sep 2026 12:41:37 +0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
       ]
     }
   ]
