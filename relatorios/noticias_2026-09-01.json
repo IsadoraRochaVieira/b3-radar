@@ -1,7 +1,7 @@
 {
-  "coletado_em": "01/09/2026 10:01",
+  "coletado_em": "01/09/2026 14:45",
   "total": 30,
-  "urgentes": 3,
+  "urgentes": 1,
   "destaque": {
     "titulo": "Alckmin defende esforço fiscal para melhorar a relação dívida-PIB",
     "descricao": "Em evento de banco privado em São Paulo, vice-presidente admite que governo precisa controlar despesas para conter aumento da dívida e ajudar a acelerar corte de juros, \"mas sem comprometer a atividade\"",
@@ -32,52 +32,8 @@
       ]
     },
     {
-      "titulo": "Títulos dos EUA e Japão sofrem perdas generalizadas, com fiscal e inflação no radar",
-      "descricao": "Juros para papéis japoneses sobem ao maior patamar desde 1996. Índice global que mede taxas pagas por dívidas soberanas chega a 3,72%, maior patamar desde 2008, no auge da crise financeira global The post Títulos dos EUA e Japão sofrem perdas generalizadas, com fiscal e inflação no radar appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/titulos-dos-eua-e-japao-sofrem-perdas-generalizadas-com-fiscal-e-inflacao-no-radar/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "alta",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 01 Sep 2026 12:39:17 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Orçamento: governo estima arrecadar R$ 636 bilhões com a CBS em 2027, novo tributo da reforma tributária",
-      "descricao": "A equipe econômica estima que a futura Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado no âmbito da reforma tributária, arrecadará R$ 636 bilhões em 2027. A informação constam na proposta de orçamento de 2027, enviada nesta segunda-feira (31) ao Congresso Nacional. 🔎A CBS, com seu início programado para 2027, substituirá o PIS, a Contribuição para Financiamento da Seguridade Social",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-governo-estima-arrecadar-r-636-bilhoes-com-a-cbs-em-2027-novo-tributo-da-reforma-tributaria.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "alta",
-      "score_relevancia": 3,
-      "pub_date": "Mon, 31 Aug 2026 21:23:19 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-      "descricao": "Índices futuros dos EUA recuam com alta dos títulos globais The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Tue, 01 Sep 2026 12:47:42 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Dólar abre com foco na divulgação do PIB e na agenda econômica do governo",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar inicia esta terça-feira (1º) com os investidores à espera da divulgação do PIB do segundo trimestre, que será conhecido às 9h. Já o Ibovespa, principal índice da bolsa brasileira, abre às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ O IBGE divulga nesta terça, às 9h, o resultado do PIB do segundo trimestre. A expectativa do ",
+      "titulo": "Dólar opera em baixa com PIB e agenda econômica no radar; Ibovespa avança",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera com queda nsta terça-feira (1º), recuando 0,75% por volta das 14h30, cotado a R$ 5,1409. Já o Ibovespa, principal índice da bolsa brasileira, subia 1,85% no mesmo horário, aos 180.702 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ O IBGE divulgou o resultado do PIB do segundo trimestre, que cresceu 0,5% entre abril e ",
       "link": "https://g1.globo.com/economia/noticia/2026/09/01/dolar-ibovespa.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -88,20 +44,6 @@
       "setores": [
         "Câmbio / Exportadores",
         "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Líder do governo no Senado reconhece impacto eleitoral de votação do fim da escala 6x1",
-      "descricao": "PEC 6X1 tem efeitos eleitorais, diz líder do governo no Senado A senadora Teresa Leitão (PT-PE), líder do governo do presidente Luiz Inácio Lula da Silva (PT) no Senado, reconheceu, em entrevista ao g1, o peso da pauta de votações desta semana de esforço concentrado do Congresso Nacional, a última antes das eleições de outubro. O governo trabalha pela aprovação de duas Propostas de Emenda à Consti",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/01/lider-do-governo-no-senado-reconhece-impacto-eleitoral-de-votacao-do-fim-da-escala-6x1.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Tue, 01 Sep 2026 10:00:15 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -147,23 +89,83 @@
       ]
     },
     {
-      "titulo": "VÍDEO: Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4?",
-      "descricao": "Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4? O mandato de um senador é tão longo que atravessa duas eleições presidenciais. Enquanto o presidente da República é eleito para ficar quatro anos no cargo, os senadores são escolhidos para mandatos de oito anos. E isso não é por acaso. (Entenda no vídeo acima.) 📍Em uma série de 50 vídeos, o g1 vai explicar os principais te",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/01/video-tempo-de-mandato-senador-deputado-presidente.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Maioria das Bolsas da Europa cai com temor inflacionário sob petróleo",
+      "descricao": "Alta da energia reforçou temores inflacionários e apostas em juros mais elevados The post Maioria das Bolsas da Europa cai com temor inflacionário sob petróleo appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/maioria-das-bolsas-da-europa-cai-com-temor-inflacionario-sob-petroleo/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 01 Sep 2026 03:01:03 -0000",
+      "pub_date": "Tue, 01 Sep 2026 17:34:21 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Shein tem estreia discreta na Bolsa de Hong Kong e arrecada US$ 1,7 bilhão",
+      "descricao": "Shein REUTERS/Sarah Meyssonnier A gigante do fast-fashion Shein teve uma estreia discreta na Bolsa de Hong Kong nesta terça-feira (1º), arrecadando 1,7 bilhão de dólares (R$ 8,8 bilhões) em sua oferta pública inicial (IPO). Os planos da empresa de listar suas ações em Nova York e Londres foram frustrados por questões regulatórias, mas em julho ela recebeu autorização das autoridades chinesas para ",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/shein-estreia-bolsa-hong-kong.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 01 Sep 2026 14:11:15 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Justiça derruba suspensão e libera cobrança de imposto de 12% sobre exportação de petróleo",
+      "descricao": "Carro abastece com gasolina. Marcelo Camargo/Agência Brasil Uma decisão do Tribunal Regional Federal da 1ª Região (TRF-1) derrubou nesta terça-feira (1º) a liminar que havia suspendido a cobrança do imposto de 12% sobre a exportação de petróleo. A decisão foi tomada após recurso do governo. As informações são da Reuters. Na semana passada, a Justiça Federal concedeu uma liminar suspendendo a cobra",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/justica-derruba-liminar-imposto-de-exportacao-de-petroleo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 01 Sep 2026 13:28:57 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
+      "descricao": "PIB do Brasil cresce 0,5% no 2º trimestre de 2026 A economia brasileira perdeu força no segundo trimestre, com uma alta de 0,5% em relação ao trimestre anterior, abaixo do avanço de 1,1% registrado no primeiro trimestre. O resultado veio ligeiramente acima das expectativas dos economistas, que era de uma alta de 0,4% no trimestre, segundo a mediana das projeções colhidas pelo jornal Valor Econômic",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/pib-perde-forca-no-2o-tri-os-3-desafios-para-o-proximo-presidente-na-economia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 01 Sep 2026 13:15:13 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
+      "titulo": "PIB brasileiro tem 5º maior crescimento no segundo trimestre",
+      "descricao": "O crescimento de 0,5% da economia brasileira na passagem do primeiro para o segundo trimestre de 2026 coloca o país como dono da quinta maior alta do Produto Interno Bruto (PIB, conjunto de bens e serviços produzidos no país) nessa comparação entre trimestres imediatamente seguidos, à frente de países como Estados Unidos e China. O ranqueamento foi divulgado pela agência classificadora de risco de",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-brasileiro-tem-5o-maior-crescimento-no-segundo-trimestre",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 01 Sep 2026 13:01:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
       "titulo": "PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE",
       "descricao": "A economia brasileira cresceu 0,5% no segundo trimestre de 2026 na comparação com o primeiro trimestre. Em relação ao segundo trimestre de 2025, o Produto Interno Bruto (PIB), conjunto dos bens e serviços produzidos no país, apresenta alta de 2%. Notícias relacionadas: Boletim Focus: mercado prevê redução da inflação e do PIB de 2026 . No acumulado de quatro trimestres, o PIB teve expansão de 1,9%",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/economia-brasileira-cresce-05-no-segundo-trimestre-mostra-ibge",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
       "cor": "#009c3b",
@@ -218,17 +220,76 @@
       ]
     },
     {
-      "titulo": "Câmara aprova MP de empréstimo para compra de carro por motoristas de app e taxistas",
-      "descricao": "Texto agora vai para votação no plenário do Senado The post Câmara aprova MP de empréstimo para compra de carro por motoristas de app e taxistas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/camara-aprova-mp-de-emprestimo-para-compra-de-carro-por-motoristas-de-app-e-taxistas/",
+      "titulo": "Petróleo Brent sobe mais de 3% acompanhando escalada de tensões no Oriente Médio",
+      "descricao": "Na segunda-feira, o Irã lançou um ataque contra duas bases americanas na Jordânia, em retaliação à ofensiva dos EUA contra a Ilha de Larak The post Petróleo Brent sobe mais de 3% acompanhando escalada de tensões no Oriente Médio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-01092026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 12:39:21 +0000",
+      "pub_date": "Tue, 01 Sep 2026 17:11:47 +0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Combustível de avião sobe 14% em setembro e dobra no ano; as passagens vão ficar mais caras?",
+      "descricao": "No Brasil, Petrobras anuncia aumento para o querosene de aviação Jornal Nacional/ Reprodução O preço do querosene de aviação (QAV) vendido pela Petrobras às distribuidoras vai subir 13,9% em setembro, o equivalente a R$ 0,68 por litro em relação ao mês anterior. O aumento pode pressionar o preço das passagens aéreas nos próximos meses, já que o combustível representa cerca de 30% dos custos das co",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/combustivel-de-aviao-sobe-14percent-em-setembro-e-dobra-no-ano.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 17:24:26 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Veja a posição do Brasil em ranking mundial de crescimento do PIB",
+      "descricao": "PIB desacelera, mas cresce 0,5% no 2º trimestre, puxado pela agropecuária, diz IBGE O Produto Interno Bruto (PIB) do Brasil cresceu no segundo trimestre de 2026, mas perdeu força em relação aos três primeiros meses do ano, segundo dados divulgados nesta terça-feira (1º) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Apesar da desaceleração, o país ficou na quinta posição no ranking m",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/ranking-mundial-do-pib.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 15:07:30 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "BNDES aumenta participação no Plano Brasil Soberano, que chega a R$ 22,6 bilhões",
+      "descricao": "Prédio do BNDES no Centro do Rio Reprodução/TV Globo O BNDES informou nesta terça-feira (1º) que vai quase dobrar sua participação no Plano Brasil Soberano 3 e, com isso, o orçamento do programa voltado para apoiar empresas afetadas pelas tarifas de importação dos Estados Unidos e por conflitos internacionais subirá para R$ 22,6 bilhões. O BNDES vai aderir ao plano com R$ 9,1 bilhões, ante R$ 5 bi",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/bndes-plano-brasil-soberano.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 14:46:14 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "PIB tem 'desaceleração importante' e consumo das famílias liga novo alerta, dizem economistas",
+      "descricao": "PIB mostra 'desaceleração importante' e acende alerta sobre consumo das famílias, dizem economistas A economia brasileira continua crescendo, mas perdeu força no segundo trimestre. Para especialistas ouvidos pelo g1, o resultado mostra sinais de enfraquecimento do consumo das famílias e de setores ligados ao mercado interno. O Produto Interno Bruto (PIB) cresceu 0,5% entre abril e junho, abaixo da",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/01/pib-mostra-desaceleracao-importante-da-economia-e-acende-alerta-sobre-consumo-das-familias-apontam-economistas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 13:27:46 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
@@ -246,90 +307,17 @@
       ]
     },
     {
-      "titulo": "Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto",
-      "descricao": "Governo federal apresenta proposta de orçamento para o ano que vem A equipe econômica do governo federal apresentou nesta segunda-feira (31) os principais pontos da proposta de Orçamento para 2027, enviada ao Congresso Nacional. Esse também será o primeiro ano de uA equipe econômica do governo federal apresentou ao Congresso Nacional a proposta de Orçamento de 2027, primeiro ano de um novo mandato",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 03:00:15 -0000",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
-      ]
-    },
-    {
-      "titulo": "Joesley Batista se reuniu com Trump e articulou redução de tarifa sobre carne do Brasil, diz jornal",
-      "descricao": "Joesley Batista dono da JBS Divulgação Joesley Batista, bilionário brasileiro e um dos controladores da JBS, fez lobby junto ao presidente dos Estados Unidos, Donald Trump, pela redução das tarifas sobre as importações de carne bovina do Brasil, segundo o jornal norte-americano The Wall Street Journal. A atuação do empresário teria como pano de fundo a alta dos preços da carne nos EUA. A JBS, maio",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/31/joesley-batista-trump-carne-bovina.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 00:23:30 -0000",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Bebidas alcoólicas, refrigerantes e cigarros: governo inclui 'imposto do pecado' no orçamento de 2027",
-      "descricao": "bebidas alcóolicas álcool garrafas bar drinks Pexels O governo incluiu o imposto seletivo, também conhecido como \"imposto do pecado\", no projeto da lei de orçamento para o ano de 2027 — documento que está sendo encaminhado nesta segunda-feira (31) ao Congresso Nacional. A expectativa da equipe econômica é de arrecadar R$ 41,9 bilhões com esse tributo no próximo ano. A lista de produtos taxados inc",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/31/para-taxar-cigarros-bebidas-alcoolicas-e-refrigerantes-governo-inclui-imposto-do-pecado-no-orcamento-de-2027.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 31 Aug 2026 21:24:26 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Decisão do TSE sobre deepfakes nas eleições pode afetar mais de 50 ações na Justiça Eleitoral",
-      "descricao": "A Justiça Eleitoral tem mais de 50 ações que podem ser impactadas pela decisão do Tribunal Superior Eleitoral (TSE) que deve fixar nesta terça-feira (1º) o entendimento sobre a proibição de deepfake nas campanhas. São casos de montagens indicando apoio político, divulgação de resultados de pesquisas que nem existiram e indicavam favoritismo de determinado candidato, diálogos de candidatos simulado",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/01/decisao-do-tse-sobre-deepfakes-nas-eleicoes-pode-afetar-mais-de-50-acoes-na-justica-eleitoral.ghtml",
+      "titulo": "Vorcaro diz que tem contatos dentro do BC e reforça preocupação com atuação de Galípolo contra o Master",
+      "descricao": "Relatório da Polícia Federal (PF) sobre trocas de mensagens obtidas no celular do banqueiro Daniel Vorcaro, alvo da Operação Compliance Zero, aponta que o banqueiro teria recebido informações de \"pessoas de dentro do Banco Central\" sobre os negócios do Master. Em 30 de outubro do ano passado, dias antes da Polícia Federal (PF) deflagrar a primeira fase da operação, Vorcaro afirmou em mensagem envi",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-diz-que-tem-contatos-dentro-do-bc-e-reforca-preocupacao-com-atuacao-de-galipolo-contra-o-master.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 03:00:18 -0000",
+      "pub_date": "Tue, 01 Sep 2026 17:02:13 -0000",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Alcolumbre indica Rodrigo Pacheco para vaga no TCU após saída de Bruno Dantas",
-      "descricao": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), indicou nesta segunda-feira (31) o senador Rodrigo Pacheco (PSB-MG), para o Tribunal de Contas da União (TCU). A vaga foi aberta com a saída antecipada do ministro Bruno Dantas. Bruno Dantas decidiu formalizar sua saída do cargo, em ofício encaminhado nesta segunda-feira (31) ao presidente da Corte, Vital do Rêgo Filho. A indicação foi ass",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/31/alcolumbre-indica-pacheco-para-vaga-no-tcu-apos-saida-de-bruno-dantas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 01:33:51 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Câmara aprova MP com linhas de crédito para taxistas e motoristas de aplicativo adquirirem veículos novos e sustentáveis",
-      "descricao": "A Câmara dos Deputados aprovou nesta segunda-feira (31) uma medida provisória que destina até R$ 30 bilhões em linhas de crédito disponíveis para motoristas de aplicativo, de transporte escolar, taxistas e cooperativas de taxistas para aquisição de veículos novos que atendam a critérios de sustentabilidade. A MP foi editada pelo presidente Luiz Inácio Lula da Silva (PT) em junho deste ano como uma",
-      "link": "https://g1.globo.com/politica/noticia/2026/08/31/camara-aprova-mp-com-linhas-de-credito-para-taxistas-e-motoristas-de-aplicativo-adquirirem-veiculos-novos-e-sustentaveis.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 01 Sep 2026 00:25:51 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -375,20 +363,6 @@
       ]
     },
     {
-      "titulo": "Orçamento de 2027 terá aporte de R$ 6 bilhões aos Correios",
-      "descricao": "O governo federal vai prever um aporte de R$ 6 bilhões no caixa dos Correios em 2027, como parte do acordo de financiamento firmado pela estatal no fim de 2025 e do plano de reestruturação da empresa. O valor será incluído no Projeto de Lei Orçamentária Anual (PLOA) de 2027, que será encaminhado ao Congresso Nacional nesta segunda-feira (31). A medida ocorre após a estatal registrar prejuízo líqui",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/orcamento-de-2027-tera-aporte-de-r-6-bilhoes-aos-correios",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 31 Aug 2026 15:57:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "Mercado Livre estima impacto de R$ 73,1 bi em operações no país",
       "descricao": "Conforme relatório do Mercado Livre, divulgado nesta segunda-feira (31/8), ecossistema gerou impacto direto na economia brasileira de R$ 30 bilhões. Outros R$ 43,1 bilhões foram indiretos. Segundo o estudo, o marketplace é o preferido por 60% das PMEs",
       "link": "https://www.correiobraziliense.com.br/economia/2026/08/7490810-mercado-livre-estima-impacto-de-rs-731-bi-em-operacoes-no-pais.html",
@@ -403,44 +377,72 @@
       ]
     },
     {
-      "titulo": "Kinea: Eleição está mais apertada do que as pesquisas sugerem",
-      "descricao": "Gestora avalia que o agregador de pesquisas subestima o peso da abstenção nas urnas, mas reconhece vantagem do presidente Lula e mantém cautela com ativos locais The post Kinea: Eleição está mais apertada do que as pesquisas sugerem appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/carta-kinea-agosto-2026-eleicoes/",
+      "titulo": "Preços de imóveis sobem acima da inflação mesmo com crédito caro, mostra FipeZap",
+      "descricao": "Índice avança 5,49% em 12 meses e mostra valorização nas 56 cidades pesquisadas; compactos lideram alta subindo 7,33% The post Preços de imóveis sobem acima da inflação mesmo com crédito caro, mostra FipeZap appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/minhas-financas/precos-de-imoveis-sobem-acima-da-inflacao-mesmo-com-credito-caro-mostra-fipezap/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 13:00:00 +0000",
+      "pub_date": "Tue, 01 Sep 2026 17:45:14 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
+      ]
+    },
+    {
+      "titulo": "Wall Street recua com alta de rendimentos e dos preços do petróleo",
+      "descricao": "A liquidação de Treasuries também elevou os rendimentos aos níveis mais altos em meses, reduzindo ainda mais o apetite por risco The post Wall Street recua com alta de rendimentos e dos preços do petróleo appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/wall-street-recua-com-alta-de-rendimentos-e-dos-precos-do-petroleo/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 01 Sep 2026 17:20:57 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Emergentes recuperam fluxo global, mas América Latina ainda fica para trás",
+      "descricao": "Ações de mercados emergentes voltaram a ganhar fluxo, enquanto América Latina segue bem abaixo da média The post Emergentes recuperam fluxo global, mas América Latina ainda fica para trás appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/emergentes-recuperam-fluxo-global-mas-america-latina-ainda-fica-para-tras/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 01 Sep 2026 17:14:50 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Esfaqueamento na Times Square: mulher que morreu após facada era vice-presidente do Bank of America",
+      "descricao": "Policiais atiram contra mulher que esfaqueou 2 na Times Square, em NY A vítima do esfaqueamento na segunda-feira (31) na Times Square, em Nova York, nos Estados Unidos, foi identificada como a vice-presidente do Bank of America Erin Piacenti. A vítima, de 32 anos, foi uma das duas pessoas esfaqueadas por uma mulher, que depois foi morta a tiros por policiais. ✅ Siga o canal de notícias internacion",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/01/esfaqueamento-na-times-square-vice-presidente-do-bank-of-america-morre-apos-facada.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 01 Sep 2026 16:21:20 -0000",
       "setores": [
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "União Europeia vai suspender importações de carne brasileira a partir de quinta-feira",
-      "descricao": "UE reprova Brasil por não ter apresentado garantias suficientes contra uso abusivo de antibióticos na indústria pecuária The post União Europeia vai suspender importações de carne brasileira a partir de quinta-feira appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/uniao-europeia-vai-suspender-importacoes-de-carne-brasileira-a-partir-de-quinta-feira/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Acidente na Flórida: entender os direitos pode ser essencial para vítimas de lesão corporal",
+      "descricao": "Todos os anos, milhares de brasileiros visitam, trabalham ou vivem na Flórida. Entre as situações inesperadas que podem acontecer estão acidentes de carro, moto, caminhão, atropelamentos, quedas em estabelecimentos comerciais e outros eventos que podem causar lesões físicas e impactos financeiros para as vítimas e suas famílias. Nos Estados Unidos, pessoas que sofrem acidentes causados pela neglig",
+      "link": "https://g1.globo.com/economia/especial-publicitario/first-choice-of-law-109/noticia/2026/09/01/acidente-na-florida-entender-os-direitos-pode-ser-essencial-para-vitimas-de-lesao-corporal.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 12:48:30 +0000",
-      "setores": [
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Raízen (RAIZ4) conclui desinvestimento de operações na Argentina por R$ 7,38 bi",
-      "descricao": "Cifra inclui o pagamento de uma parcela em caixa e a assunção do endividamento da Raízen Argentina pelo comprador The post Raízen (RAIZ4) conclui desinvestimento de operações na Argentina por R$ 7,38 bi appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/raizen-conclui-desinvestimento-de-operacoes-na-argentina-por-r-738-bi/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 12:41:37 +0000",
+      "pub_date": "Tue, 01 Sep 2026 16:14:56 -0000",
       "setores": [
         "Telecom (VIVT3, TIMS3)"
       ]

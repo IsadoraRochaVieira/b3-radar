@@ -15,7 +15,7 @@ function getRelatorios() {
   if (!fs.existsSync(dir)) return []
   return fs.readdirSync(dir)
     .filter(f => ARQUIVO_RELATORIO.test(f))
-    .sort((a, b) => b.localeCompare(a))
+    .sort((a, b) => fs.statSync(path.join(dir, b)).mtimeMs - fs.statSync(path.join(dir, a)).mtimeMs)
     .slice(0, 40)
     .map(f => {
       const data = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8'))

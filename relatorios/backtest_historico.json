@@ -156,11 +156,11 @@
     "stop": 9.04,
     "alvo": 11.09,
     "score": 55,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 11.09,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.04,
+    "motivo_saida": "alvo",
     "preco_atual": 10.89,
     "resultado_pct_atual": 12.97
   },
@@ -306,11 +306,11 @@
     "stop": 9.02,
     "alvo": 11.04,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 11.04,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.0,
+    "motivo_saida": "alvo",
     "preco_atual": 10.89,
     "resultado_pct_atual": 13.44
   },
@@ -326,8 +326,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 77.85,
-    "resultado_pct_atual": 7.08
+    "preco_atual": 78.62,
+    "resultado_pct_atual": 8.14
   },
   {
     "ticker": "ONCO3",
@@ -401,8 +401,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": 1.94
+    "preco_atual": 15.73,
+    "resultado_pct_atual": 1.88
   },
   {
     "ticker": "PSSA3",
@@ -566,8 +566,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": 1.94
+    "preco_atual": 15.73,
+    "resultado_pct_atual": 1.88
   },
   {
     "ticker": "PSSA3",
@@ -731,8 +731,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": 1.94
+    "preco_atual": 15.73,
+    "resultado_pct_atual": 1.88
   },
   {
     "ticker": "PSSA3",
@@ -1316,8 +1316,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 32.73,
-    "resultado_pct_atual": 3.09
+    "preco_atual": 32.5,
+    "resultado_pct_atual": 2.36
   },
   {
     "ticker": "LOGG3",
@@ -1736,8 +1736,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 32.73,
-    "resultado_pct_atual": 3.09
+    "preco_atual": 32.5,
+    "resultado_pct_atual": 2.36
   },
   {
     "ticker": "ABEV3",
@@ -2291,8 +2291,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 5.42
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 12.2
   },
   {
     "ticker": "TCSA3",
@@ -2726,8 +2726,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 5.42
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 12.2
   },
   {
     "ticker": "TCSA3",
@@ -3011,8 +3011,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": 2.61
+    "preco_atual": 15.73,
+    "resultado_pct_atual": 2.54
   },
   {
     "ticker": "ALLD3",
@@ -3206,8 +3206,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.15,
-    "resultado_pct_atual": -1.52
+    "preco_atual": 7.28,
+    "resultado_pct_atual": 0.28
   },
   {
     "ticker": "EGIE3",
@@ -3401,8 +3401,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 6.87
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 13.75
   },
   {
     "ticker": "CEAB3",
@@ -3461,8 +3461,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 4.06
+    "preco_atual": 22.63,
+    "resultado_pct_atual": 5.7
   },
   {
     "ticker": "GGPS3",
@@ -3536,8 +3536,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 32.73,
-    "resultado_pct_atual": 4.07
+    "preco_atual": 32.5,
+    "resultado_pct_atual": 3.34
   },
   {
     "ticker": "COGN3",
@@ -3581,8 +3581,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.18,
-    "resultado_pct_atual": 3.71
+    "preco_atual": 36.34,
+    "resultado_pct_atual": 7.13
   },
   {
     "ticker": "MRVE3",
@@ -3971,8 +3971,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 5.42
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 12.2
   },
   {
     "ticker": "ROMI3",
@@ -4016,8 +4016,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": 2.88
+    "preco_atual": 15.73,
+    "resultado_pct_atual": 2.81
   },
   {
     "ticker": "KEPL3",
@@ -4496,8 +4496,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": -0.06
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 0.93
   },
   {
     "ticker": "TIMS3",
@@ -4586,8 +4586,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 3.87
+    "preco_atual": 22.63,
+    "resultado_pct_atual": 5.5
   },
   {
     "ticker": "GGPS3",
@@ -5036,8 +5036,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 6.14
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 12.97
   },
   {
     "ticker": "MDIA3",
@@ -5051,8 +5051,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 1.29
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 2.29
   },
   {
     "ticker": "PFRM3",
@@ -5156,8 +5156,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 4.01
+    "preco_atual": 22.63,
+    "resultado_pct_atual": 5.65
   },
   {
     "ticker": "GGPS3",
@@ -5666,8 +5666,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 6.14
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 12.97
   },
   {
     "ticker": "MDIA3",
@@ -5681,8 +5681,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 1.29
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 2.29
   },
   {
     "ticker": "PFRM3",
@@ -5786,8 +5786,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 4.01
+    "preco_atual": 22.63,
+    "resultado_pct_atual": 5.65
   },
   {
     "ticker": "GGPS3",
@@ -6251,8 +6251,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 6.51
+    "preco_atual": 3.31,
+    "resultado_pct_atual": 13.36
   },
   {
     "ticker": "BLAU3",
@@ -6371,8 +6371,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 0.99
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 1.99
   },
   {
     "ticker": "MELK3",
@@ -6816,13 +6816,13 @@
     "stop": 2.7,
     "alvo": 3.31,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 3.11,
-    "resultado_pct_atual": 7.99
+    "status": "fechado",
+    "preco_saida": 3.31,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 14.93,
+    "motivo_saida": "alvo",
+    "preco_atual": 3.18,
+    "resultado_pct_atual": 10.42
   },
   {
     "ticker": "ITUB3",
@@ -6896,8 +6896,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 1.29
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 2.29
   },
   {
     "ticker": "ITUB4",
@@ -7241,8 +7241,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 1.38
+    "preco_atual": 28.54,
+    "resultado_pct_atual": 3.63
   },
   {
     "ticker": "ECOR3",
@@ -7586,8 +7586,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 1.53
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 2.53
   },
   {
     "ticker": "OBTC3",
@@ -7794,8 +7794,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 0.76
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 1.75
   },
   {
     "ticker": "HBRE3",
@@ -7854,8 +7854,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": -0.06
+    "preco_atual": 15.73,
+    "resultado_pct_atual": -0.13
   },
   {
     "ticker": "WIZC3",
@@ -7899,8 +7899,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": -2.53
+    "preco_atual": 14.09,
+    "resultado_pct_atual": -0.98
   },
   {
     "ticker": "TIMS3",
@@ -7914,8 +7914,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -1.17
+    "preco_atual": 18.67,
+    "resultado_pct_atual": -0.85
   },
   {
     "ticker": "GFSA3",
@@ -8124,8 +8124,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.46,
-    "resultado_pct_atual": -2.11
+    "preco_atual": 13.6,
+    "resultado_pct_atual": -1.09
   },
   {
     "ticker": "FIQE3",
@@ -8214,8 +8214,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.89,
-    "resultado_pct_atual": 6.24
+    "preco_atual": 11.31,
+    "resultado_pct_atual": 10.34
   },
   {
     "ticker": "USIM3",
@@ -8304,8 +8304,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -1.69
+    "preco_atual": 18.67,
+    "resultado_pct_atual": -1.37
   },
   {
     "ticker": "PSSA3",
@@ -8514,8 +8514,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.89,
-    "resultado_pct_atual": 7.4
+    "preco_atual": 11.31,
+    "resultado_pct_atual": 11.54
   },
   {
     "ticker": "SAUD3",
@@ -8604,8 +8604,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -0.48
+    "preco_atual": 18.67,
+    "resultado_pct_atual": -0.16
   },
   {
     "ticker": "POMO3",
@@ -8874,8 +8874,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.89,
-    "resultado_pct_atual": 7.72
+    "preco_atual": 11.31,
+    "resultado_pct_atual": 11.87
   },
   {
     "ticker": "TGMA3",
@@ -8889,8 +8889,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.11,
-    "resultado_pct_atual": 1.64
+    "preco_atual": 34.46,
+    "resultado_pct_atual": 2.68
   },
   {
     "ticker": "SMFT3",
@@ -8964,8 +8964,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.1,
-    "resultado_pct_atual": 3.48
+    "preco_atual": 10.26,
+    "resultado_pct_atual": 5.12
   },
   {
     "ticker": "KEPL3",
@@ -9159,8 +9159,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -1.53
+    "preco_atual": 18.67,
+    "resultado_pct_atual": -1.22
   },
   {
     "ticker": "GRND3",
@@ -9309,8 +9309,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.24,
-    "resultado_pct_atual": 1.46
+    "preco_atual": 15.5,
+    "resultado_pct_atual": 3.2
   },
   {
     "ticker": "POMO4",
@@ -9369,8 +9369,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": -2.19
+    "preco_atual": 14.09,
+    "resultado_pct_atual": -0.63
   },
   {
     "ticker": "MULT3",
@@ -9399,8 +9399,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.1,
-    "resultado_pct_atual": 3.38
+    "preco_atual": 10.26,
+    "resultado_pct_atual": 5.02
   },
   {
     "ticker": "POMO3",
@@ -9549,8 +9549,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.89,
-    "resultado_pct_atual": 8.14
+    "preco_atual": 11.31,
+    "resultado_pct_atual": 12.31
   },
   {
     "ticker": "PINE4",
@@ -9579,8 +9579,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.11,
-    "resultado_pct_atual": 2.46
+    "preco_atual": 34.46,
+    "resultado_pct_atual": 3.51
   },
   {
     "ticker": "EVEN3",
@@ -9714,8 +9714,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 50.29,
-    "resultado_pct_atual": 9.23
+    "preco_atual": 52.11,
+    "resultado_pct_atual": 13.18
   },
   {
     "ticker": "GFSA3",
@@ -9774,8 +9774,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 45.3,
-    "resultado_pct_atual": 10.0
+    "preco_atual": 45.9,
+    "resultado_pct_atual": 11.46
   },
   {
     "ticker": "CPFE3",
@@ -9844,13 +9844,13 @@
     "stop": 12.51,
     "alvo": 15.38,
     "score": 45,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 15.08,
-    "resultado_pct_atual": 12.79
+    "status": "fechado",
+    "preco_saida": 15.38,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.03,
+    "motivo_saida": "alvo",
+    "preco_atual": 15.19,
+    "resultado_pct_atual": 13.61
   },
   {
     "ticker": "CSMG3",
@@ -9879,8 +9879,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.12,
-    "resultado_pct_atual": -1.41
+    "preco_atual": 9.53,
+    "resultado_pct_atual": 3.03
   },
   {
     "ticker": "FIQE3",
@@ -9924,8 +9924,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 0.23,
-    "resultado_pct_atual": -8.0
+    "preco_atual": 0.26,
+    "resultado_pct_atual": 4.0
   },
   {
     "ticker": "UGPA3",
@@ -10029,8 +10029,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.81,
-    "resultado_pct_atual": -0.0
+    "preco_atual": 2.9,
+    "resultado_pct_atual": 3.2
   },
   {
     "ticker": "WIZC3",
@@ -10299,8 +10299,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -0.8
+    "preco_atual": 18.66,
+    "resultado_pct_atual": -0.53
   },
   {
     "ticker": "CSMG3",
@@ -10389,8 +10389,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 45.02,
-    "resultado_pct_atual": 10.15
+    "preco_atual": 46.76,
+    "resultado_pct_atual": 14.41
   },
   {
     "ticker": "ITUB4",
@@ -10419,8 +10419,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 50.29,
-    "resultado_pct_atual": 10.07
+    "preco_atual": 52.11,
+    "resultado_pct_atual": 14.05
   },
   {
     "ticker": "ITSA4",
@@ -10479,8 +10479,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 29.85,
-    "resultado_pct_atual": -2.39
+    "preco_atual": 30.08,
+    "resultado_pct_atual": -1.64
   },
   {
     "ticker": "CXSE3",
@@ -10554,8 +10554,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.75,
-    "resultado_pct_atual": -1.64
+    "preco_atual": 17.38,
+    "resultado_pct_atual": 2.06
   },
   {
     "ticker": "VITT3",
@@ -10674,8 +10674,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.24,
-    "resultado_pct_atual": 7.17
+    "preco_atual": 15.5,
+    "resultado_pct_atual": 9.0
   },
   {
     "ticker": "SAUD3",
@@ -10689,8 +10689,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": -2.26
+    "preco_atual": 14.09,
+    "resultado_pct_atual": -0.7
   },
   {
     "ticker": "MULT3",
@@ -10734,8 +10734,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.1,
-    "resultado_pct_atual": 6.99
+    "preco_atual": 10.26,
+    "resultado_pct_atual": 8.69
   },
   {
     "ticker": "RCSL3",
@@ -10959,8 +10959,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.81,
-    "resultado_pct_atual": -0.0
+    "preco_atual": 2.9,
+    "resultado_pct_atual": 3.2
   },
   {
     "ticker": "UGPA3",
@@ -10969,13 +10969,13 @@
     "stop": 29.18,
     "alvo": 35.63,
     "score": 65,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 34.82,
-    "resultado_pct_atual": 12.4
+    "status": "fechado",
+    "preco_saida": 35.63,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.01,
+    "motivo_saida": "alvo",
+    "preco_atual": 35.37,
+    "resultado_pct_atual": 14.17
   },
   {
     "ticker": "BBSE3",
@@ -11004,8 +11004,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 3.3
+    "preco_atual": 35.42,
+    "resultado_pct_atual": 6.3
   },
   {
     "ticker": "CXSE3",
@@ -11094,8 +11094,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -0.69
+    "preco_atual": 18.66,
+    "resultado_pct_atual": -0.43
   },
   {
     "ticker": "BBDC3",
@@ -11244,8 +11244,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 29.85,
-    "resultado_pct_atual": -2.0
+    "preco_atual": 30.08,
+    "resultado_pct_atual": -1.25
   },
   {
     "ticker": "SAPR4",
@@ -11454,8 +11454,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": -0.29
+    "preco_atual": 14.1,
+    "resultado_pct_atual": 1.37
   },
   {
     "ticker": "POMO3",
@@ -11589,8 +11589,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 0.23,
-    "resultado_pct_atual": -8.0
+    "preco_atual": 0.26,
+    "resultado_pct_atual": 4.0
   },
   {
     "ticker": "PMAM3",
@@ -11769,8 +11769,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 1.43
+    "preco_atual": 49.62,
+    "resultado_pct_atual": 2.54
   },
   {
     "ticker": "CMIG4",
@@ -11794,13 +11794,13 @@
     "stop": 29.19,
     "alvo": 35.64,
     "score": 65,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 34.82,
-    "resultado_pct_atual": 12.36
+    "status": "fechado",
+    "preco_saida": 35.64,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.0,
+    "motivo_saida": "alvo",
+    "preco_atual": 35.37,
+    "resultado_pct_atual": 14.13
   },
   {
     "ticker": "KEPL3",
@@ -11844,8 +11844,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.12,
-    "resultado_pct_atual": 3.17
+    "preco_atual": 9.53,
+    "resultado_pct_atual": 7.81
   },
   {
     "ticker": "RANI3",
@@ -11859,8 +11859,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.56,
-    "resultado_pct_atual": -4.3
+    "preco_atual": 7.7,
+    "resultado_pct_atual": -2.53
   },
   {
     "ticker": "WIZC3",
@@ -11889,8 +11889,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 19.6,
-    "resultado_pct_atual": 7.22
+    "preco_atual": 19.75,
+    "resultado_pct_atual": 8.04
   },
   {
     "ticker": "RENT3",
@@ -11934,8 +11934,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 3.58
+    "preco_atual": 35.43,
+    "resultado_pct_atual": 6.62
   },
   {
     "ticker": "CXSE3",
@@ -12009,8 +12009,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.52,
-    "resultado_pct_atual": 4.32
+    "preco_atual": 6.57,
+    "resultado_pct_atual": 5.12
   },
   {
     "ticker": "ITUB3",
@@ -12039,8 +12039,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.37,
-    "resultado_pct_atual": 7.43
+    "preco_atual": 7.39,
+    "resultado_pct_atual": 7.73
   },
   {
     "ticker": "VLID3",
@@ -12054,8 +12054,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.75,
-    "resultado_pct_atual": 1.64
+    "preco_atual": 17.38,
+    "resultado_pct_atual": 5.46
   },
   {
     "ticker": "ITUB4",
@@ -12099,8 +12099,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.46,
-    "resultado_pct_atual": 10.19
+    "preco_atual": 15.84,
+    "resultado_pct_atual": 12.9
   },
   {
     "ticker": "DIRR3",
@@ -12204,8 +12204,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 11.99,
-    "resultado_pct_atual": 5.36
+    "preco_atual": 12.24,
+    "resultado_pct_atual": 7.56
   },
   {
     "ticker": "LAVV3",
@@ -12249,8 +12249,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 23.0,
-    "resultado_pct_atual": 5.84
+    "preco_atual": 23.27,
+    "resultado_pct_atual": 7.09
   },
   {
     "ticker": "BRBI11",
@@ -12294,8 +12294,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.52,
-    "resultado_pct_atual": 6.86
+    "preco_atual": 4.51,
+    "resultado_pct_atual": 6.62
   },
   {
     "ticker": "TAEE4",
@@ -12429,8 +12429,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.81,
-    "resultado_pct_atual": -4.16
+    "preco_atual": 17.35,
+    "resultado_pct_atual": -1.08
   },
   {
     "ticker": "ANIM3",
@@ -12489,8 +12489,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.6,
-    "resultado_pct_atual": 7.32
+    "preco_atual": 6.83,
+    "resultado_pct_atual": 11.06
   },
   {
     "ticker": "ECOR3",
@@ -12519,8 +12519,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 29.85,
-    "resultado_pct_atual": -0.96
+    "preco_atual": 30.07,
+    "resultado_pct_atual": -0.23
   },
   {
     "ticker": "GFSA3",
@@ -12564,8 +12564,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 33.52,
-    "resultado_pct_atual": 6.24
+    "preco_atual": 33.5,
+    "resultado_pct_atual": 6.18
   },
   {
     "ticker": "EVEN3",
@@ -12729,8 +12729,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.18,
-    "resultado_pct_atual": 6.06
+    "preco_atual": 36.35,
+    "resultado_pct_atual": 9.59
   },
   {
     "ticker": "CEAB3",
@@ -12774,8 +12774,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": 1.24
+    "preco_atual": 14.1,
+    "resultado_pct_atual": 2.92
   },
   {
     "ticker": "VIVA3",
@@ -12789,8 +12789,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 6.65
+    "preco_atual": 22.62,
+    "resultado_pct_atual": 8.28
   },
   {
     "ticker": "MULT3",
@@ -12804,8 +12804,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 2.91
+    "preco_atual": 28.53,
+    "resultado_pct_atual": 5.16
   },
   {
     "ticker": "RAPT4",
@@ -12819,8 +12819,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.81,
-    "resultado_pct_atual": 3.0
+    "preco_atual": 5.02,
+    "resultado_pct_atual": 7.49
   },
   {
     "ticker": "POMO3",
@@ -12834,8 +12834,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.08,
-    "resultado_pct_atual": 0.99
+    "preco_atual": 4.23,
+    "resultado_pct_atual": 4.7
   },
   {
     "ticker": "PLPL3",
@@ -12864,8 +12864,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.3,
-    "resultado_pct_atual": 0.61
+    "preco_atual": 3.43,
+    "resultado_pct_atual": 4.57
   },
   {
     "ticker": "SOJA3",
@@ -12994,13 +12994,13 @@
     "stop": 5.89,
     "alvo": 7.61,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 7.47,
-    "resultado_pct_atual": 12.84
+    "status": "fechado",
+    "preco_saida": 7.61,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 14.95,
+    "motivo_saida": "alvo",
+    "preco_atual": 7.41,
+    "resultado_pct_atual": 11.93
   },
   {
     "ticker": "ENEV3",
@@ -13074,8 +13074,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": -0.64
+    "preco_atual": 18.68,
+    "resultado_pct_atual": -0.27
   },
   {
     "ticker": "PMAM3",
@@ -13239,8 +13239,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 24.6,
-    "resultado_pct_atual": 4.73
+    "preco_atual": 24.61,
+    "resultado_pct_atual": 4.77
   },
   {
     "ticker": "MELK3",
@@ -13254,8 +13254,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.81,
-    "resultado_pct_atual": 4.07
+    "preco_atual": 2.89,
+    "resultado_pct_atual": 7.04
   },
   {
     "ticker": "MDIA3",
@@ -13269,8 +13269,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 1.65
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 2.65
   },
   {
     "ticker": "SYNE3",
@@ -13314,8 +13314,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.97,
-    "resultado_pct_atual": 4.95
+    "preco_atual": 10.05,
+    "resultado_pct_atual": 5.79
   },
   {
     "ticker": "ARML3",
@@ -13359,8 +13359,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 11.01,
-    "resultado_pct_atual": 4.36
+    "preco_atual": 11.23,
+    "resultado_pct_atual": 6.45
   },
   {
     "ticker": "TFCO4",
@@ -13404,8 +13404,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 50.29,
-    "resultado_pct_atual": 8.57
+    "preco_atual": 52.11,
+    "resultado_pct_atual": 12.5
   },
   {
     "ticker": "TOTS3",
@@ -13464,8 +13464,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.26
+    "preco_atual": 25.59,
+    "resultado_pct_atual": 7.57
   },
   {
     "ticker": "CMIG4",
@@ -13494,8 +13494,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -3.84
+    "preco_atual": 13.33,
+    "resultado_pct_atual": 0.3
   },
   {
     "ticker": "BBAS3",
@@ -13549,13 +13549,13 @@
     "stop": 13.05,
     "alvo": 15.87,
     "score": 55,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 15.46,
-    "resultado_pct_atual": 12.03
+    "status": "fechado",
+    "preco_saida": 15.87,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.0,
+    "motivo_saida": "alvo",
+    "preco_atual": 15.48,
+    "resultado_pct_atual": 12.17
   },
   {
     "ticker": "DIRR3",
@@ -13629,8 +13629,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 1.9,
-    "resultado_pct_atual": 4.97
+    "preco_atual": 1.92,
+    "resultado_pct_atual": 6.08
   },
   {
     "ticker": "PASS3",
@@ -13644,8 +13644,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 23.0,
-    "resultado_pct_atual": 4.83
+    "preco_atual": 23.27,
+    "resultado_pct_atual": 6.06
   },
   {
     "ticker": "PSSA3",
@@ -13659,8 +13659,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 5.37
+    "preco_atual": 49.62,
+    "resultado_pct_atual": 6.53
   },
   {
     "ticker": "FIQE3",
@@ -13704,8 +13704,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.2,
-    "resultado_pct_atual": 4.1
+    "preco_atual": 13.35,
+    "resultado_pct_atual": 5.28
   },
   {
     "ticker": "WIZC3",
@@ -13734,8 +13734,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.96,
-    "resultado_pct_atual": 4.18
+    "preco_atual": 13.09,
+    "resultado_pct_atual": 5.23
   },
   {
     "ticker": "LREN3",
@@ -13749,8 +13749,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.9,
-    "resultado_pct_atual": -2.77
+    "preco_atual": 11.15,
+    "resultado_pct_atual": -0.54
   },
   {
     "ticker": "HAPV3",
@@ -13809,8 +13809,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.07,
-    "resultado_pct_atual": 4.66
+    "preco_atual": 34.9,
+    "resultado_pct_atual": 4.15
   },
   {
     "ticker": "TTEN3",
@@ -13869,8 +13869,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 29.85,
-    "resultado_pct_atual": 0.37
+    "preco_atual": 30.08,
+    "resultado_pct_atual": 1.14
   },
   {
     "ticker": "ENGI11",
@@ -13959,8 +13959,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.52,
-    "resultado_pct_atual": 2.03
+    "preco_atual": 6.57,
+    "resultado_pct_atual": 2.82
   },
   {
     "ticker": "SBFG3",
@@ -13974,8 +13974,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": -4.41
+    "preco_atual": 8.65,
+    "resultado_pct_atual": 0.46
   },
   {
     "ticker": "EVEN3",
@@ -14032,8 +14032,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.69,
-    "resultado_pct_atual": 0.54
+    "preco_atual": 3.64,
+    "resultado_pct_atual": -0.82
   },
   {
     "ticker": "PTBL3",
@@ -14077,8 +14077,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.6,
-    "resultado_pct_atual": 6.86
+    "preco_atual": 17.9,
+    "resultado_pct_atual": 8.68
   },
   {
     "ticker": "ITUB4",
@@ -14152,8 +14152,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.4,
-    "resultado_pct_atual": 7.06
+    "preco_atual": 4.49,
+    "resultado_pct_atual": 9.25
   },
   {
     "ticker": "CEAB3",
@@ -14227,8 +14227,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 6.76
+    "preco_atual": 22.62,
+    "resultado_pct_atual": 8.39
   },
   {
     "ticker": "MULT3",
@@ -14242,8 +14242,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 4.45
+    "preco_atual": 28.53,
+    "resultado_pct_atual": 6.73
   },
   {
     "ticker": "SAUD3",
@@ -14257,8 +14257,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": 0.73
+    "preco_atual": 14.1,
+    "resultado_pct_atual": 2.4
   },
   {
     "ticker": "POMO3",
@@ -14272,8 +14272,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.08,
-    "resultado_pct_atual": 4.35
+    "preco_atual": 4.23,
+    "resultado_pct_atual": 8.18
   },
   {
     "ticker": "MDIA3",
@@ -14287,8 +14287,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.28,
-    "resultado_pct_atual": 0.06
+    "preco_atual": 17.45,
+    "resultado_pct_atual": 1.04
   },
   {
     "ticker": "PNVL3",
@@ -14302,8 +14302,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 11.99,
-    "resultado_pct_atual": 6.58
+    "preco_atual": 12.24,
+    "resultado_pct_atual": 8.8
   },
   {
     "ticker": "BRBI11",
@@ -14387,11 +14387,11 @@
     "stop": 0.2,
     "alvo": 0.28,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 0.28,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 16.67,
+    "motivo_saida": "alvo",
     "preco_atual": 0.23,
     "resultado_pct_atual": -4.17
   },
@@ -14422,8 +14422,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.81,
-    "resultado_pct_atual": -1.81
+    "preco_atual": 17.36,
+    "resultado_pct_atual": 1.4
   },
   {
     "ticker": "TIMS3",
@@ -14437,8 +14437,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 2.7
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 3.09
   },
   {
     "ticker": "BBDC3",
@@ -14467,8 +14467,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.81,
-    "resultado_pct_atual": 6.18
+    "preco_atual": 5.02,
+    "resultado_pct_atual": 10.82
   },
   {
     "ticker": "ORVR3",
@@ -14482,8 +14482,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.56,
-    "resultado_pct_atual": 6.29
+    "preco_atual": 16.6,
+    "resultado_pct_atual": 6.55
   },
   {
     "ticker": "TOTS3",
@@ -14557,8 +14557,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.6,
-    "resultado_pct_atual": 7.14
+    "preco_atual": 6.83,
+    "resultado_pct_atual": 10.88
   },
   {
     "ticker": "KLBN4",
@@ -14617,8 +14617,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.74,
-    "resultado_pct_atual": 0.9
+    "preco_atual": 15.73,
+    "resultado_pct_atual": 0.83
   },
   {
     "ticker": "MYPK3",
@@ -14632,8 +14632,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 9.12,
-    "resultado_pct_atual": 1.9
+    "preco_atual": 9.53,
+    "resultado_pct_atual": 6.48
   },
   {
     "ticker": "RANI3",
@@ -14647,8 +14647,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.56,
-    "resultado_pct_atual": -2.2
+    "preco_atual": 7.7,
+    "resultado_pct_atual": -0.39
   },
   {
     "ticker": "LOGG3",
@@ -14662,8 +14662,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 24.6,
-    "resultado_pct_atual": 4.73
+    "preco_atual": 24.61,
+    "resultado_pct_atual": 4.77
   },
   {
     "ticker": "CSED3",
@@ -14707,8 +14707,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.75,
-    "resultado_pct_atual": 0.96
+    "preco_atual": 17.38,
+    "resultado_pct_atual": 4.76
   },
   {
     "ticker": "RADL3",
@@ -14717,13 +14717,13 @@
     "stop": 16.09,
     "alvo": 20.16,
     "score": 50,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 19.6,
-    "resultado_pct_atual": 11.81
+    "status": "fechado",
+    "preco_saida": 20.16,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 15.0,
+    "motivo_saida": "alvo",
+    "preco_atual": 19.65,
+    "resultado_pct_atual": 12.09
   },
   {
     "ticker": "CMIG4",
@@ -14752,8 +14752,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 23.0,
-    "resultado_pct_atual": 9.11
+    "preco_atual": 23.27,
+    "resultado_pct_atual": 10.39
   },
   {
     "ticker": "DXCO3",
@@ -14782,8 +14782,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.22
+    "preco_atual": 25.57,
+    "resultado_pct_atual": 7.44
   },
   {
     "ticker": "AUAU3",
@@ -14857,8 +14857,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 3.28
+    "preco_atual": 49.62,
+    "resultado_pct_atual": 4.42
   },
   {
     "ticker": "HYPE3",
@@ -14887,8 +14887,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -2.74
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 1.52
   },
   {
     "ticker": "WIZC3",
@@ -14992,8 +14992,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.9,
-    "resultado_pct_atual": -1.09
+    "preco_atual": 11.16,
+    "resultado_pct_atual": 1.27
   },
   {
     "ticker": "HAPV3",
@@ -15022,8 +15022,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.07,
-    "resultado_pct_atual": 4.91
+    "preco_atual": 34.89,
+    "resultado_pct_atual": 4.37
   },
   {
     "ticker": "MOVI3",
@@ -15082,8 +15082,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.6,
-    "resultado_pct_atual": 6.41
+    "preco_atual": 17.9,
+    "resultado_pct_atual": 8.22
   },
   {
     "ticker": "FESA4",
@@ -15127,8 +15127,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.69,
-    "resultado_pct_atual": 3.07
+    "preco_atual": 3.64,
+    "resultado_pct_atual": 1.68
   },
   {
     "ticker": "ABEV3",
@@ -15202,8 +15202,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.4,
-    "resultado_pct_atual": 7.32
+    "preco_atual": 4.49,
+    "resultado_pct_atual": 9.51
   },
   {
     "ticker": "MOTV3",
@@ -15212,13 +15212,13 @@
     "stop": 13.0,
     "alvo": 15.8,
     "score": 45,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 15.46,
-    "resultado_pct_atual": 12.52
+    "status": "fechado",
+    "preco_saida": 15.8,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 14.99,
+    "motivo_saida": "alvo",
+    "preco_atual": 15.48,
+    "resultado_pct_atual": 12.66
   },
   {
     "ticker": "CEAB3",
@@ -15247,8 +15247,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.87,
-    "resultado_pct_atual": 1.02
+    "preco_atual": 14.09,
+    "resultado_pct_atual": 2.62
   },
   {
     "ticker": "CSMG3",
@@ -15322,8 +15322,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 4.45
+    "preco_atual": 28.53,
+    "resultado_pct_atual": 6.73
   },
   {
     "ticker": "POMO3",
@@ -15337,8 +15337,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.08,
-    "resultado_pct_atual": 5.97
+    "preco_atual": 4.23,
+    "resultado_pct_atual": 9.87
   },
   {
     "ticker": "VIVA3",
@@ -15352,8 +15352,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 7.68
+    "preco_atual": 22.62,
+    "resultado_pct_atual": 9.33
   },
   {
     "ticker": "PINE4",
@@ -15367,8 +15367,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 11.01,
-    "resultado_pct_atual": 8.79
+    "preco_atual": 11.23,
+    "resultado_pct_atual": 10.97
   },
   {
     "ticker": "ITUB3",
@@ -15427,8 +15427,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 13.2,
-    "resultado_pct_atual": 5.6
+    "preco_atual": 13.35,
+    "resultado_pct_atual": 6.8
   },
   {
     "ticker": "CPLE3",
@@ -15467,11 +15467,11 @@
     "stop": 0.19,
     "alvo": 0.26,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 0.26,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 13.04,
+    "motivo_saida": "alvo",
     "preco_atual": 0.23,
     "resultado_pct_atual": 0.0
   },
@@ -15487,8 +15487,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 2.53
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 2.92
   },
   {
     "ticker": "VAMO3",
@@ -15517,8 +15517,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.81,
-    "resultado_pct_atual": -2.04
+    "preco_atual": 17.36,
+    "resultado_pct_atual": 1.17
   },
   {
     "ticker": "YDUQ3",
@@ -15592,8 +15592,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 11.51,
-    "resultado_pct_atual": 11.86
+    "preco_atual": 11.75,
+    "resultado_pct_atual": 14.19
   },
   {
     "ticker": "ALOS3",
@@ -15682,8 +15682,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.6,
-    "resultado_pct_atual": 8.2
+    "preco_atual": 6.83,
+    "resultado_pct_atual": 11.97
   },
   {
     "ticker": "GFSA3",
@@ -15727,8 +15727,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": -4.19
+    "preco_atual": 8.65,
+    "resultado_pct_atual": 0.7
   },
   {
     "ticker": "TASA4",
@@ -15742,8 +15742,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 5.52,
-    "resultado_pct_atual": 6.56
+    "preco_atual": 5.54,
+    "resultado_pct_atual": 6.95
   },
   {
     "ticker": "EVEN3",
@@ -15772,8 +15772,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.56,
-    "resultado_pct_atual": -0.79
+    "preco_atual": 7.7,
+    "resultado_pct_atual": 1.05
   },
   {
     "ticker": "TGMA3",
@@ -15787,8 +15787,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.11,
-    "resultado_pct_atual": 1.82
+    "preco_atual": 34.5,
+    "resultado_pct_atual": 2.99
   },
   {
     "ticker": "ROMI3",
@@ -15802,8 +15802,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 5.7,
-    "resultado_pct_atual": 0.71
+    "preco_atual": 5.73,
+    "resultado_pct_atual": 1.24
   },
   {
     "ticker": "AMAR3",
@@ -15877,8 +15877,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.4
+    "preco_atual": 25.59,
+    "resultado_pct_atual": 7.7
   },
   {
     "ticker": "EGIE3",
@@ -15922,8 +15922,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 6.52
+    "preco_atual": 28.55,
+    "resultado_pct_atual": 8.93
   },
   {
     "ticker": "PSSA3",
@@ -15937,8 +15937,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 4.49
+    "preco_atual": 49.65,
+    "resultado_pct_atual": 5.71
   },
   {
     "ticker": "PASS3",
@@ -15952,8 +15952,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 23.0,
-    "resultado_pct_atual": 9.0
+    "preco_atual": 23.27,
+    "resultado_pct_atual": 10.28
   },
   {
     "ticker": "KEPL3",
@@ -16012,8 +16012,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.9,
-    "resultado_pct_atual": 2.44
+    "preco_atual": 11.15,
+    "resultado_pct_atual": 4.79
   },
   {
     "ticker": "VAMO3",
@@ -16042,8 +16042,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.07,
-    "resultado_pct_atual": 8.07
+    "preco_atual": 34.92,
+    "resultado_pct_atual": 7.61
   },
   {
     "ticker": "GGBR4",
@@ -16087,8 +16087,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.3,
-    "resultado_pct_atual": 8.31
+    "preco_atual": 7.29,
+    "resultado_pct_atual": 8.16
   },
   {
     "ticker": "BBSE3",
@@ -16172,13 +16172,13 @@
     "stop": 13.09,
     "alvo": 15.88,
     "score": 45,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 15.46,
-    "resultado_pct_atual": 11.95
+    "status": "fechado",
+    "preco_saida": 15.88,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 14.99,
+    "motivo_saida": "alvo",
+    "preco_atual": 15.48,
+    "resultado_pct_atual": 12.09
   },
   {
     "ticker": "ITUB3",
@@ -16207,8 +16207,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 22.28,
-    "resultado_pct_atual": 8.21
+    "preco_atual": 22.64,
+    "resultado_pct_atual": 9.96
   },
   {
     "ticker": "FIQE3",
@@ -16237,8 +16237,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 4.08,
-    "resultado_pct_atual": 5.15
+    "preco_atual": 4.23,
+    "resultado_pct_atual": 9.02
   },
   {
     "ticker": "RIAA3",
@@ -16252,8 +16252,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.03,
-    "resultado_pct_atual": 7.49
+    "preco_atual": 7.27,
+    "resultado_pct_atual": 11.16
   },
   {
     "ticker": "BRBI11",
@@ -16312,8 +16312,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.81,
-    "resultado_pct_atual": 0.78
+    "preco_atual": 17.36,
+    "resultado_pct_atual": 4.08
   },
   {
     "ticker": "BHIA3",
@@ -16417,8 +16417,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.6,
-    "resultado_pct_atual": 9.45
+    "preco_atual": 6.83,
+    "resultado_pct_atual": 13.27
   },
   {
     "ticker": "TOTS3",
@@ -16432,8 +16432,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.45,
-    "resultado_pct_atual": 10.5
+    "preco_atual": 35.42,
+    "resultado_pct_atual": 10.41
   },
   {
     "ticker": "SAPR4",
@@ -16447,8 +16447,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 6.52,
-    "resultado_pct_atual": 5.16
+    "preco_atual": 6.57,
+    "resultado_pct_atual": 5.97
   },
   {
     "ticker": "AURE3",
@@ -16477,8 +16477,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": -0.96
+    "preco_atual": 8.65,
+    "resultado_pct_atual": 4.09
   },
   {
     "ticker": "SAPR11",
@@ -16492,8 +16492,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 33.52,
-    "resultado_pct_atual": 6.38
+    "preco_atual": 33.53,
+    "resultado_pct_atual": 6.41
   },
   {
     "ticker": "EVEN3",
@@ -16537,8 +16537,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.56,
-    "resultado_pct_atual": -1.95
+    "preco_atual": 7.69,
+    "resultado_pct_atual": -0.26
   },
   {
     "ticker": "LOGG3",
@@ -16552,8 +16552,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 24.6,
-    "resultado_pct_atual": 7.85
+    "preco_atual": 24.61,
+    "resultado_pct_atual": 7.89
   },
   {
     "ticker": "SYNE3",
@@ -16567,8 +16567,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.69,
-    "resultado_pct_atual": 4.24
+    "preco_atual": 3.64,
+    "resultado_pct_atual": 2.82
   },
   {
     "ticker": "LIGT3",
@@ -16657,8 +16657,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 2.31
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 2.69
   },
   {
     "ticker": "SBSP3",
@@ -16672,8 +16672,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 8.73
+    "preco_atual": 25.58,
+    "resultado_pct_atual": 10.02
   },
   {
     "ticker": "DIRR3",
@@ -16732,8 +16732,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 5.05
+    "preco_atual": 49.63,
+    "resultado_pct_atual": 6.23
   },
   {
     "ticker": "TFCO4",
@@ -16747,8 +16747,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": 0.31
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.71
   },
   {
     "ticker": "MGLU3",
@@ -16792,8 +16792,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.9,
-    "resultado_pct_atual": 3.12
+    "preco_atual": 11.15,
+    "resultado_pct_atual": 5.49
   },
   {
     "ticker": "HAPV3",
@@ -16822,8 +16822,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 35.07,
-    "resultado_pct_atual": 9.56
+    "preco_atual": 34.92,
+    "resultado_pct_atual": 9.09
   },
   {
     "ticker": "BBDC3",
@@ -16952,13 +16952,13 @@
     "stop": 13.11,
     "alvo": 15.9,
     "score": 45,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
-    "preco_atual": 15.46,
-    "resultado_pct_atual": 11.79
+    "status": "fechado",
+    "preco_saida": 15.9,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 14.97,
+    "motivo_saida": "alvo",
+    "preco_atual": 15.48,
+    "resultado_pct_atual": 11.93
   },
   {
     "ticker": "CURY3",
@@ -16987,8 +16987,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 6.0
+    "preco_atual": 28.53,
+    "resultado_pct_atual": 8.31
   },
   {
     "ticker": "FIQE3",
@@ -17017,8 +17017,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.03,
-    "resultado_pct_atual": 7.99
+    "preco_atual": 7.27,
+    "resultado_pct_atual": 11.67
   },
   {
     "ticker": "SEER3",
@@ -17092,8 +17092,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 16.81,
-    "resultado_pct_atual": 0.54
+    "preco_atual": 17.36,
+    "resultado_pct_atual": 3.83
   },
   {
     "ticker": "BHIA3",
@@ -17152,8 +17152,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": 3.39
+    "preco_atual": 8.65,
+    "resultado_pct_atual": 8.67
   },
   {
     "ticker": "AURE3",
@@ -17212,8 +17212,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.81,
-    "resultado_pct_atual": 2.93
+    "preco_atual": 2.89,
+    "resultado_pct_atual": 5.86
   },
   {
     "ticker": "LAVV3",
@@ -17227,8 +17227,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.1,
-    "resultado_pct_atual": 5.76
+    "preco_atual": 10.26,
+    "resultado_pct_atual": 7.43
   },
   {
     "ticker": "PRNR3",
@@ -17242,8 +17242,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 17.6,
-    "resultado_pct_atual": 9.45
+    "preco_atual": 17.9,
+    "resultado_pct_atual": 11.32
   },
   {
     "ticker": "LOGG3",
@@ -17257,8 +17257,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 24.6,
-    "resultado_pct_atual": 8.27
+    "preco_atual": 24.61,
+    "resultado_pct_atual": 8.32
   },
   {
     "ticker": "SYNE3",
@@ -17272,8 +17272,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 3.69,
-    "resultado_pct_atual": 4.24
+    "preco_atual": 3.64,
+    "resultado_pct_atual": 2.82
   },
   {
     "ticker": "SBSP3",
@@ -17287,8 +17287,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.62
+    "preco_atual": 25.59,
+    "resultado_pct_atual": 7.93
   },
   {
     "ticker": "CMIG4",
@@ -17317,8 +17317,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 10.9,
-    "resultado_pct_atual": 0.55
+    "preco_atual": 11.15,
+    "resultado_pct_atual": 2.86
   },
   {
     "ticker": "CEAB3",
@@ -17372,11 +17372,11 @@
     "stop": 0.19,
     "alvo": 0.26,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 0.26,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 13.04,
+    "motivo_saida": "alvo",
     "preco_atual": 0.23,
     "resultado_pct_atual": 0.0
   },
@@ -17407,8 +17407,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 1.53
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 1.91
   },
   {
     "ticker": "INTB3",
@@ -17437,8 +17437,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": 0.98
+    "preco_atual": 8.65,
+    "resultado_pct_atual": 6.13
   },
   {
     "ticker": "PSSA3",
@@ -17452,8 +17452,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 4.87
+    "preco_atual": 49.63,
+    "resultado_pct_atual": 6.05
   },
   {
     "ticker": "ALPA4",
@@ -17482,8 +17482,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -2.07
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 2.22
   },
   {
     "ticker": "DIRR3",
@@ -17542,8 +17542,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.44
+    "preco_atual": 25.59,
+    "resultado_pct_atual": 7.75
   },
   {
     "ticker": "CEAB3",
@@ -17587,8 +17587,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 5.39
+    "preco_atual": 49.63,
+    "resultado_pct_atual": 6.57
   },
   {
     "ticker": "TFCO4",
@@ -17737,8 +17737,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 1.09
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 1.47
   },
   {
     "ticker": "SBFG3",
@@ -17797,8 +17797,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.44
+    "preco_atual": 25.59,
+    "resultado_pct_atual": 7.75
   },
   {
     "ticker": "CEAB3",
@@ -17842,8 +17842,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 5.39
+    "preco_atual": 49.63,
+    "resultado_pct_atual": 6.57
   },
   {
     "ticker": "TFCO4",
@@ -17992,8 +17992,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 1.09
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 1.47
   },
   {
     "ticker": "SBFG3",
@@ -18052,8 +18052,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 6.44
+    "preco_atual": 25.59,
+    "resultado_pct_atual": 7.75
   },
   {
     "ticker": "CEAB3",
@@ -18097,8 +18097,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 5.39
+    "preco_atual": 49.63,
+    "resultado_pct_atual": 6.57
   },
   {
     "ticker": "TFCO4",
@@ -18112,8 +18112,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -0.93
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 3.41
   },
   {
     "ticker": "LPSB3",
@@ -18127,8 +18127,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 1.26,
-    "resultado_pct_atual": -0.79
+    "preco_atual": 1.27,
+    "resultado_pct_atual": -0.0
   },
   {
     "ticker": "HAPV3",
@@ -18247,8 +18247,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 1.09
+    "preco_atual": 18.68,
+    "resultado_pct_atual": 1.47
   },
   {
     "ticker": "SBFG3",
@@ -18262,8 +18262,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": 0.37
+    "preco_atual": 8.64,
+    "resultado_pct_atual": 5.37
   },
   {
     "ticker": "KEPL3",
@@ -18307,8 +18307,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.45,
-    "resultado_pct_atual": 4.05
+    "preco_atual": 7.58,
+    "resultado_pct_atual": 5.87
   },
   {
     "ticker": "VBBR3",
@@ -18322,8 +18322,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 1.83
+    "preco_atual": 35.45,
+    "resultado_pct_atual": 4.88
   },
   {
     "ticker": "AZZA3",
@@ -18382,8 +18382,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -0.93
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 3.41
   },
   {
     "ticker": "AERI3",
@@ -18397,8 +18397,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.08,
-    "resultado_pct_atual": -1.42
+    "preco_atual": 2.07,
+    "resultado_pct_atual": -1.9
   },
   {
     "ticker": "SBSP3",
@@ -18412,8 +18412,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 5.95
+    "preco_atual": 25.58,
+    "resultado_pct_atual": 7.21
   },
   {
     "ticker": "GGBR4",
@@ -18532,8 +18532,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 1.65
+    "preco_atual": 35.45,
+    "resultado_pct_atual": 4.7
   },
   {
     "ticker": "DIRR3",
@@ -18577,8 +18577,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 8.23,
-    "resultado_pct_atual": 0.37
+    "preco_atual": 8.64,
+    "resultado_pct_atual": 5.37
   },
   {
     "ticker": "INTB3",
@@ -18652,8 +18652,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 29.85,
-    "resultado_pct_atual": 0.3
+    "preco_atual": 30.1,
+    "resultado_pct_atual": 1.14
   },
   {
     "ticker": "MULT3",
@@ -18667,8 +18667,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 1.97
+    "preco_atual": 28.54,
+    "resultado_pct_atual": 4.24
   },
   {
     "ticker": "BRKM5",
@@ -18742,8 +18742,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 33.1,
-    "resultado_pct_atual": 1.32
+    "preco_atual": 33.51,
+    "resultado_pct_atual": 2.57
   },
   {
     "ticker": "UNIP6",
@@ -18757,8 +18757,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 55.98,
-    "resultado_pct_atual": -1.32
+    "preco_atual": 56.36,
+    "resultado_pct_atual": -0.65
   },
   {
     "ticker": "BBSE3",
@@ -18787,8 +18787,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -0.31
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.06
   },
   {
     "ticker": "BRKM3",
@@ -18832,8 +18832,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 0.88
+    "preco_atual": 25.58,
+    "resultado_pct_atual": 2.08
   },
   {
     "ticker": "PETR3",
@@ -18847,8 +18847,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 50.29,
-    "resultado_pct_atual": 9.49
+    "preco_atual": 52.12,
+    "resultado_pct_atual": 13.48
   },
   {
     "ticker": "VBBR3",
@@ -18862,8 +18862,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 2.41
+    "preco_atual": 35.45,
+    "resultado_pct_atual": 5.47
   },
   {
     "ticker": "PSSA3",
@@ -18877,8 +18877,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 1.11
+    "preco_atual": 49.67,
+    "resultado_pct_atual": 2.33
   },
   {
     "ticker": "BRKM5",
@@ -18937,8 +18937,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -0.31
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.06
   },
   {
     "ticker": "UNIP6",
@@ -18952,8 +18952,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 55.98,
-    "resultado_pct_atual": -0.41
+    "preco_atual": 56.36,
+    "resultado_pct_atual": 0.27
   },
   {
     "ticker": "BRKM3",
@@ -19012,8 +19012,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 0.88
+    "preco_atual": 25.6,
+    "resultado_pct_atual": 2.15
   },
   {
     "ticker": "CMIG4",
@@ -19042,8 +19042,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 2.41
+    "preco_atual": 35.45,
+    "resultado_pct_atual": 5.47
   },
   {
     "ticker": "PETR3",
@@ -19057,8 +19057,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 50.29,
-    "resultado_pct_atual": 9.49
+    "preco_atual": 52.09,
+    "resultado_pct_atual": 13.41
   },
   {
     "ticker": "BHIA3",
@@ -19087,8 +19087,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 1.11
+    "preco_atual": 49.67,
+    "resultado_pct_atual": 2.33
   },
   {
     "ticker": "BRKM5",
@@ -19147,8 +19147,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -0.31
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.06
   },
   {
     "ticker": "UNIP6",
@@ -19162,8 +19162,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 55.98,
-    "resultado_pct_atual": -0.41
+    "preco_atual": 56.36,
+    "resultado_pct_atual": 0.27
   },
   {
     "ticker": "BRKM3",
@@ -19192,8 +19192,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 0.63,
-    "resultado_pct_atual": 3.28
+    "preco_atual": 0.65,
+    "resultado_pct_atual": 6.56
   },
   {
     "ticker": "FESA4",
@@ -19222,8 +19222,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.28,
-    "resultado_pct_atual": 0.88
+    "preco_atual": 25.6,
+    "resultado_pct_atual": 2.15
   },
   {
     "ticker": "CMIG4",
@@ -19252,8 +19252,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.42,
-    "resultado_pct_atual": 2.41
+    "preco_atual": 35.45,
+    "resultado_pct_atual": 5.47
   },
   {
     "ticker": "PETR3",
@@ -19267,8 +19267,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 50.29,
-    "resultado_pct_atual": 9.49
+    "preco_atual": 52.11,
+    "resultado_pct_atual": 13.46
   },
   {
     "ticker": "BHIA3",
@@ -19297,8 +19297,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 49.08,
-    "resultado_pct_atual": 1.11
+    "preco_atual": 49.67,
+    "resultado_pct_atual": 2.33
   },
   {
     "ticker": "RCSL4",
@@ -19312,8 +19312,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 0.39,
-    "resultado_pct_atual": -7.14
+    "preco_atual": 0.42,
+    "resultado_pct_atual": -0.0
   },
   {
     "ticker": "PCAR3",
@@ -19327,8 +19327,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.73,
-    "resultado_pct_atual": 2.25
+    "preco_atual": 2.74,
+    "resultado_pct_atual": 2.62
   },
   {
     "ticker": "INTB3",
@@ -19357,8 +19357,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 14.99,
-    "resultado_pct_atual": 4.02
+    "preco_atual": 14.32,
+    "resultado_pct_atual": -0.62
   },
   {
     "ticker": "TEND3",
@@ -19372,8 +19372,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 33.1,
-    "resultado_pct_atual": 0.82
+    "preco_atual": 33.52,
+    "resultado_pct_atual": 2.1
   },
   {
     "ticker": "RCSL4",
@@ -19439,8 +19439,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": 0.24
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.63
   },
   {
     "ticker": "HYPE3",
@@ -19519,8 +19519,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 0.39,
-    "resultado_pct_atual": -20.41
+    "preco_atual": 0.42,
+    "resultado_pct_atual": -14.29
   },
   {
     "ticker": "HYPE3",
@@ -19534,8 +19534,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 21.7,
-    "resultado_pct_atual": 2.12
+    "preco_atual": 22.16,
+    "resultado_pct_atual": 4.28
   },
   {
     "ticker": "DESK3",
@@ -19549,8 +19549,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.9,
-    "resultado_pct_atual": 2.38
+    "preco_atual": 18.87,
+    "resultado_pct_atual": 2.22
   },
   {
     "ticker": "UNIP6",
@@ -19564,8 +19564,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 55.98,
-    "resultado_pct_atual": 1.43
+    "preco_atual": 56.36,
+    "resultado_pct_atual": 2.12
   },
   {
     "ticker": "BHIA3",
@@ -19574,11 +19574,11 @@
     "stop": 0.22,
     "alvo": 0.39,
     "score": 40,
-    "status": "aberto",
-    "preco_saida": null,
-    "data_saida": null,
-    "resultado_pct": null,
-    "motivo_saida": null,
+    "status": "fechado",
+    "preco_saida": 0.39,
+    "data_saida": "2026-09-01",
+    "resultado_pct": 14.71,
+    "motivo_saida": "alvo",
     "preco_atual": 0.66,
     "resultado_pct_atual": 94.12
   },
@@ -19594,8 +19594,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 40.4,
-    "resultado_pct_atual": 2.41
+    "preco_atual": 40.74,
+    "resultado_pct_atual": 3.27
   },
   {
     "ticker": "ALPA4",
@@ -19609,8 +19609,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 14.99,
-    "resultado_pct_atual": 4.68
+    "preco_atual": 14.33,
+    "resultado_pct_atual": 0.07
   },
   {
     "ticker": "MULT3",
@@ -19624,8 +19624,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 27.92,
-    "resultado_pct_atual": 1.82
+    "preco_atual": 28.55,
+    "resultado_pct_atual": 4.12
   },
   {
     "ticker": "TEND3",
@@ -19639,8 +19639,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 33.1,
-    "resultado_pct_atual": -0.87
+    "preco_atual": 33.52,
+    "resultado_pct_atual": 0.39
   },
   {
     "ticker": "TFCO4",
@@ -19654,8 +19654,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": 0.24
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.63
   },
   {
     "ticker": "RCSL4",
@@ -19804,8 +19804,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": 0.24
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.63
   },
   {
     "ticker": "PCAR3",
@@ -19819,8 +19819,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 2.73,
-    "resultado_pct_atual": 3.41
+    "preco_atual": 2.74,
+    "resultado_pct_atual": 3.79
   },
   {
     "ticker": "RCSL4",
@@ -19834,8 +19834,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 0.39,
-    "resultado_pct_atual": -4.88
+    "preco_atual": 0.42,
+    "resultado_pct_atual": 2.44
   },
   {
     "ticker": "INTB3",
@@ -19849,8 +19849,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 14.93,
-    "resultado_pct_atual": 1.7
+    "preco_atual": 14.95,
+    "resultado_pct_atual": 1.84
   },
   {
     "ticker": "CYRE3",
@@ -19864,8 +19864,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 24.29,
-    "resultado_pct_atual": 5.52
+    "preco_atual": 24.93,
+    "resultado_pct_atual": 8.3
   },
   {
     "ticker": "TEND3",
@@ -19879,8 +19879,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 33.1,
-    "resultado_pct_atual": 1.07
+    "preco_atual": 33.52,
+    "resultado_pct_atual": 2.35
   },
   {
     "ticker": "TFCO4",
@@ -19894,8 +19894,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 12.78,
-    "resultado_pct_atual": -0.0
+    "preco_atual": 13.34,
+    "resultado_pct_atual": 4.38
   },
   {
     "ticker": "MOTV3",
@@ -19909,8 +19909,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 15.46,
-    "resultado_pct_atual": 0.0
+    "preco_atual": 15.86,
+    "resultado_pct_atual": 2.59
   },
   {
     "ticker": "RANI3",
@@ -19924,8 +19924,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 7.56,
-    "resultado_pct_atual": -0.0
+    "preco_atual": 7.7,
+    "resultado_pct_atual": 1.85
   },
   {
     "ticker": "HYPE3",
@@ -19939,8 +19939,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 21.7,
-    "resultado_pct_atual": 0.0
+    "preco_atual": 22.16,
+    "resultado_pct_atual": 2.12
   },
   {
     "ticker": "TIMS3",
@@ -19954,8 +19954,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 18.61,
-    "resultado_pct_atual": 0.0
+    "preco_atual": 18.67,
+    "resultado_pct_atual": 0.32
   },
   {
     "ticker": "SEER3",
@@ -19969,8 +19969,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": null,
-    "resultado_pct_atual": null
+    "preco_atual": 13.0,
+    "resultado_pct_atual": 7.17
   },
   {
     "ticker": "BMOB3",
@@ -19984,8 +19984,8 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 25.47,
-    "resultado_pct_atual": -0.0
+    "preco_atual": 25.46,
+    "resultado_pct_atual": -0.04
   },
   {
     "ticker": "TGMA3",
@@ -19999,7 +19999,37 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null,
-    "preco_atual": 34.11,
+    "preco_atual": 34.5,
+    "resultado_pct_atual": 1.14
+  },
+  {
+    "ticker": "RCSL3",
+    "data_entrada": "2026-09-01",
+    "preco_entrada": 0.37,
+    "stop": 0.3,
+    "alvo": 0.43,
+    "score": 50,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 0.38,
+    "resultado_pct_atual": 2.7
+  },
+  {
+    "ticker": "OBTC3",
+    "data_entrada": "2026-09-01",
+    "preco_entrada": 6.44,
+    "stop": 5.63,
+    "alvo": 7.41,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 6.44,
     "resultado_pct_atual": 0.0
   }
 ]
