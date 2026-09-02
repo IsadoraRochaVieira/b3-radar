@@ -1,22 +1,64 @@
 {
-  "coletado_em": "02/09/2026 11:23",
+  "coletado_em": "02/09/2026 13:08",
   "total": 30,
-  "urgentes": 1,
+  "urgentes": 4,
   "destaque": {
-    "titulo": "Endividamento pressiona famílias e empresas e eleva riscos para o crédito, diz BC",
-    "descricao": "Selic em 14% ao ano aumenta custo das dívidas e contribui para a alta da inadimplência. Autoridade monetária prepara medidas para tornar a oferta de crédito mais sustentável",
-    "link": "https://www.correiobraziliense.com.br/economia/2026/09/7492206-endividamento-pressiona-familias-e-empresas-e-eleva-riscos-para-o-credito-diz-bc.html",
-    "fonte": "Correio Braziliense Economia",
-    "categoria": "Brasília / DF",
-    "cor": "#ff4466",
+    "titulo": "Câmara dos Deputados aprova indicação e Rodrigo Pacheco será ministro do TCU",
+    "descricao": "Câmara aprova indicação de Rodrigo Pacheco para o Tribunal de Contas da União A Câmara dos Deputados aprovou nesta quarta-feira (2) a indicação do senador Rodrigo Pacheco (PSB-MG), de 49 anos, para o cargo de ministro do Tribunal de Contas da União (TCU). Ele foi aprovado com o placar de 404 votos favoráveis a 61. Indicação será promulgada pelo Congresso. O nome de Pacheco havia sido aprovado tamb",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/02/camara-dos-deputados-aprova-indicacao-e-rodrigo-pacheco-sera-ministro-do-tcu.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
     "urgencia": "alta",
-    "score_relevancia": 1,
-    "pub_date": "Wed, 2 Sep 2026 10:09:00 -0300",
+    "score_relevancia": 3,
+    "pub_date": "Wed, 02 Sep 2026 15:04:26 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      "Mercado geral"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Câmara dos Deputados aprova indicação e Rodrigo Pacheco será ministro do TCU",
+      "descricao": "Câmara aprova indicação de Rodrigo Pacheco para o Tribunal de Contas da União A Câmara dos Deputados aprovou nesta quarta-feira (2) a indicação do senador Rodrigo Pacheco (PSB-MG), de 49 anos, para o cargo de ministro do Tribunal de Contas da União (TCU). Ele foi aprovado com o placar de 404 votos favoráveis a 61. Indicação será promulgada pelo Congresso. O nome de Pacheco havia sido aprovado tamb",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/camara-dos-deputados-aprova-indicacao-e-rodrigo-pacheco-sera-ministro-do-tcu.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 02 Sep 2026 15:04:26 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Iene dispara e mercado vê sinais de nova ofensiva do Japão para defender moeda",
+      "descricao": "Valorização repentina da moeda japonesa alimenta especulações sobre intervenção cambial e reforça apostas em alta de juros pelo Banco do Japão The post Iene dispara e mercado vê sinais de nova ofensiva do Japão para defender moeda appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/iene-dispara-e-mercado-ve-sinais-de-nova-ofensiva-do-japao-para-defender-moeda/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 02 Sep 2026 15:43:30 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Fim da escala 6x1: quem apoia, quem é contra e o que ainda pode mudar na proposta",
+      "descricao": "MP das Blusinhas, fim da escala 6x1 e PEC da Segurança avançam A proposta que acaba com a escala 6x1 será votada nesta quarta-feira (2) na Comissão de Constituição e Justiça (CCJ) do Senado. O texto já foi aprovado pela Câmara dos Deputados em dois turnos e, agora, precisa avançar entre os senadores. A PEC estabelece uma jornada máxima de 40 horas semanais, distribuídas em cinco dias de trabalho e",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/fim-da-escala-6x1-quem-apoia-quem-e-contra-e-o-que-ainda-pode-mudar-na-proposta.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 02 Sep 2026 03:00:52 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
     {
       "titulo": "Endividamento pressiona famílias e empresas e eleva riscos para o crédito, diz BC",
       "descricao": "Selic em 14% ao ano aumenta custo das dívidas e contribui para a alta da inadimplência. Autoridade monetária prepara medidas para tornar a oferta de crédito mais sustentável",
@@ -51,9 +93,9 @@
       "titulo": "BC diz que endividamento ainda pressiona empresas e famílias e prepara medidas",
       "descricao": "O Banco Central (BC) avaliou nesta quarta-feira (2) que, diante da alta taxa de juros no país, o \"endividamento continua pressionando a condição financeira de famílias e empresas\". Atualmente, a taxa básica de juros da economia está em 14% ao ano, patamar elevado, com o objetivo de conter a inflação. Analistas e o próprio BC apontam que estímulos do governo pressionam os preços no país. Na ata de ",
       "link": "https://g1.globo.com/economia/noticia/2026/09/02/bc-diz-que-endividamento-ainda-pressiona-empresas-e-familias-e-prepara-medidas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 4,
       "pub_date": "Wed, 02 Sep 2026 12:00:25 -0000",
@@ -62,30 +104,30 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa dispara aos 184 mil pontos com nova pesquisa eleitoral",
-      "descricao": "Bolsas dos EUA operam mistas com conflito tenso no Oriente Médio The post Ibovespa Hoje Ao Vivo: Bolsa dispara aos 184 mil pontos com nova pesquisa eleitoral appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02092026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Dólar recua com foco na política e em indicadores econômicos; Ibovespa avança",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em leve queda nesta quarta-feira (2). Por volta das 10h40, a moeda norte-americana era negociada a R$ 5,1403, com recuo de 0,30%. No mesmo horário, o Ibovespa, principal índice da bolsa brasileira, avançava 1,18%, aos 181.848 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ O mercado ainda repercute os desdobramentos po",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/02/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 02 Sep 2026 14:21:59 +0000",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 02 Sep 2026 12:00:15 -0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores",
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "Comissão da taxa das blusinhas analisa MP que prevê acabar com o imposto em compras internacionais",
-      "descricao": "A Comissão Mista para análise da MP do fim da taxa das blusinhas começou a analisar, nesta terça-feira (2), o parecer para acabar com o imposto em compras internacionais de até US$ 50. Depois de chegar perto de caducar, a MP da taxa das blusinhas foi destravada no Congresso por um acordo entre o presidente Luiz Inácio Lula da Silva (PT) e os presidentes da Câmara, Hugo Motta (Republicanos-PB), e d",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-taxa-das-blusinhas-comissao-comeca-analise-de-relatorio.ghtml",
+      "titulo": "Quaest: 60% não veem Flávio Bolsonaro como melhor candidato da direita; 46% não consideram Lula melhor nome da esquerda",
+      "descricao": "Lula (PT) e Flávio Bolsonaro (PL) Ricardo Stuckert e Vittor Sales Pesquisa Quaest divulgada nesta quarta-feira (2) mostra que a maioria dos eleitores, 60%, não vê o senador Flávio Bolsonaro (PL) como o melhor nome da direita para disputar as eleições presidenciais de 2026. Outros 33% disseram que Flávio é o melhor candidato desse campo político. Diante da mesma pergunta sobre o presidente Lula (PT",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-melhor-candidato-flavio-bolsonaro-lula-2-setembro.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Wed, 02 Sep 2026 13:10:58 -0000",
+      "pub_date": "Wed, 02 Sep 2026 14:57:21 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -162,17 +204,88 @@
       ]
     },
     {
-      "titulo": "B3 (B3SA3) sobe mais de 3% com decisão do Carf anular R$ 2,2 bi em atuações",
-      "descricao": "Carf cancelou definitivamente dois autos de infração da Receita Federal relacionados às vendas de ações do CME Group The post B3 (B3SA3) sobe mais de 3% com decisão do Carf anular R$ 2,2 bi em atuações appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/b3-b3sa3-sobe-mais-de-3-com-decisao-do-carf-anular-r-22-bi-em-atuacoes/",
+      "titulo": "R$ 9 bi em 15 anos: os pilares da estratégia de crescimento da Inove Investimentos",
+      "descricao": "Fundador do escritório fala sobre planejamento financeiro, incorporações e os desafios para preservar a qualidade enquanto a operação ganha escala The post R$ 9 bi em 15 anos: os pilares da estratégia de crescimento da Inove Investimentos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/advisor/r-9-bi-em-15-anos-os-pilares-da-estrategia-de-crescimento-da-inove-investimentos/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 02 Sep 2026 14:22:16 +0000",
+      "pub_date": "Wed, 02 Sep 2026 15:59:55 +0000",
       "setores": [
-        "Todos os ativos"
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras, Vibra e Ultrapar são preferidas do JPMorgan em cenário de oferta restrita",
+      "descricao": "As tensões geopolíticas, ataques a instalações russas, baixos estoques de combustíveis e restrições às exportações vêm reduzindo a oferta global de derivados The post Petrobras, Vibra e Ultrapar são preferidas do JPMorgan em cenário de oferta restrita appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-vibra-e-ultrapar-sao-preferidas-do-jpmorgan-em-cenario-de-oferta-restrita/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 02 Sep 2026 15:40:53 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Comissão aprova fim da 'taxa das blusinhas'; medida segue para votação no plenário da Câmara",
+      "descricao": "A Comissão Mista para análise da medida provisória do fim da \"taxa das blusinhas\" aprovou nesta quarta-feira (2) o parecer para acabar com o imposto em compras internacionais de até US$ 50. A votação foi simbólica, sem contagem de votos. O texto segue agora para o plenário da Câmara. O presidente da Casa, Hugo Motta (Republicanos-PB), já convocou, para as 14h desta quarta, uma sessão para votação ",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/comissao-aprova-fim-da-taxa-das-blusinhas-medida-segue-para-votacao-no-plenario-da-camara.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 02 Sep 2026 15:25:53 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
+      "descricao": "Como funcionam as principais escalas de trabalho no Brasil? A Comissão de Constituição e Justiça (CCJ) do Senado deve votar nesta quarta-feira (2) a proposta que prevê o fim da escala de trabalho 6x1 (seis dias de trabalho para um de folga), após ser destravada pelo presidente da Casa, Davi Alcolumbre (União Brasil-AP). O texto, relatado pelo senador Omar Aziz (PSD-AM), reduz a jornada semanal e g",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 02 Sep 2026 03:01:02 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho",
+      "descricao": "A Comissão de Constituição e Justiça (CCJ) do Senado pode votar nesta quarta-feira (2) a Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1. O texto prevê a redução da jornada de trabalho de 44 horas para 40 horas por semana em até 14 meses. A proposta será votada pela comissão, após ser destravada pelo presidente da Casa, Davi Alcolumbre (União Brasil-AP), que se reapr",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 02 Sep 2026 03:00:27 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que plenário do STF analise mensagens entre Moraes e Vorcaro",
+      "descricao": "Mesmo com o pedido da Procuradoria-Geral da República (PGR) para arquivamento, o relator do caso Master no Supremo Tribunal Federal (STF), ministro André Mendonça, vai insistir que o plenário da corte avalie as informações trazidas em relatório da Polícia Federal que citam o também ministro e vice-presidente da corte, Alexandre de Moraes, em conversas do banqueiro Daniel Vorcaro, do banco Master. ",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 01 Sep 2026 23:11:09 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -185,20 +298,6 @@
       "urgencia": "baixa",
       "score_relevancia": 2,
       "pub_date": "Wed, 02 Sep 2026 14:01:13 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%",
-      "descricao": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE Pesquisa Quaest divulgada nesta quarta-feira (2), encomendada pelo jornal O Globo e pela Globo, mostra cinco simulações de 2º turno. Veja os números da Quaest presidencial no 1º turno Pela primeira vez, o levantamento traz um cenário entre Lula (PT) e Augusto Cury (Avante). Nos demais, os nomes são Flávio Bolsonaro (PL), Ronaldo Caiad",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-2-turno-setembro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Wed, 02 Sep 2026 13:16:44 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -261,189 +360,88 @@
       ]
     },
     {
-      "titulo": "Dólar hoje cai após pesquisa mostrar acirramento na disputa presidencial",
-      "descricao": "Dólar à vista encerrou a sessão de terça-feira com queda de 0,54%, aos R$5,1533. The post Dólar hoje cai após pesquisa mostrar acirramento na disputa presidencial appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-02092026/",
+      "titulo": "Fachin conversa com ministros em meio à pressão para levar caso Moraes ao plenário",
+      "descricao": "Presidente da Corte tem ouvido colegas separadamente antes de decidir destino de pedido The post Fachin conversa com ministros em meio à pressão para levar caso Moraes ao plenário appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/fachin-conversa-com-ministros-em-meio-a-pressao-para-levar-caso-moraes-ao-plenario/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 02 Sep 2026 14:14:15 +0000",
+      "pub_date": "Wed, 02 Sep 2026 16:04:10 +0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Mensagem de Gonet para Vorcaro: ‘tomara que tenha charuto e Macallan’",
-      "descricao": "Informações constam no relatório produzido pela Polícia Federal a partir de provas obtidas no celular de Daniel Vorcaro The post Mensagem de Gonet para Vorcaro: &#8216;tomara que tenha charuto e Macallan&#8217; appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/mensagem-de-gonet-para-vorcaro-tomara-que-tenha-charuto-e-macallan/",
+      "titulo": "Por 404 votos a 61, Câmara aprova indicação de Rodrigo Pacheco para ministro do TCU",
+      "descricao": "Com isso, Pacheco assumirá a vaga aberta na Corte após a renúncia recente do ministro Bruno Dantas The post Por 404 votos a 61, Câmara aprova indicação de Rodrigo Pacheco para ministro do TCU appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/por-404-votos-a-61-camara-aprova-indicacao-de-rodrigo-pacheco-para-ministro-do-tcu/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 02 Sep 2026 13:59:02 +0000",
+      "pub_date": "Wed, 02 Sep 2026 16:00:39 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Planalto nesta quarta",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, vão receber nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto, segundo as agendas oficiais do petista e de sua esposa. O encontro está previsto para as 12h30 e, conforme a agenda de Janja, o ator estará acompanhado de representantes da Re:wild, uma organização ambiental global sem fi",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Tribunal do Cade aprova compra de participação na CRDC pela B3 sob condições",
+      "descricao": "A B3 anunciou em setembro passado acordo com a Associação Comercial ⁠de ‌São Paulo (ACSP) para compra da ⁠participação na CRDC por R$15 milhões The post Tribunal do Cade aprova compra de participação na CRDC pela B3 sob condições appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/tribunal-do-cade-aprova-compra-de-participacao-na-crdc-pela-b3-sob-condicoes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 02 Sep 2026 13:59:24 -0000",
+      "pub_date": "Wed, 02 Sep 2026 15:55:57 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Assessores de Trump buscam evitar escalada da guerra com Irã até eleições de novembro",
+      "descricao": "Assessores de Trump buscam evitar escalada da guerra com Irã até eleições de novembro The post Assessores de Trump buscam evitar escalada da guerra com Irã até eleições de novembro appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/assessores-de-trump-buscam-evitar-escalada-da-guerra-com-ira-ate-eleicoes-de-novembro/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 02 Sep 2026 15:48:35 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 2 de setembro",
-      "descricao": "Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema 🧶Veja o fio: 1. Nova pesquisa Quaest revela liderança de Lula (37%), estabilidade de Flávio Bolsonaro (30%) e ascensão de Cury (10%). Renan aparece com 3%. Caiado, Marçal e Zema ficam com 1% cada. Nesse cenário, a eleição tem pouca chance de ser concluída no primeiro turno. Pesquisa Quaest divulgada nesta qu",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/fio-do-professor-felipe-nunes-2-de-setembro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Após acordo, petrolífera dos EUA anuncia US$ 7 bilhões para ampliar produção na Venezuela; expectativa é mais que dobrar extração até 2030",
+      "descricao": "Casa Branca detalha plano para explorar petróleo na Venezuela A produção de petróleo da Venezuela deve mais que dobrar até 2030 e superar 2 milhões de barris por dia, afirmou nesta quarta-feira (2) o secretário de Energia dos Estados Unidos, Chris Wright. Segundo ele, o país já produz mais de 1,2 milhão de barris por dia. Wright também disse estar confiante de que o petróleo venezuelano poderá ser",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/02/apos-acordo-petrolifera-dos-eua-anuncia-us-7-bilhoes-para-ampliar-producao-na-venezuela-expectativa-e-mais-que-dobrar-extracao-ate-2030.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 02 Sep 2026 13:51:43 -0000",
+      "pub_date": "Wed, 02 Sep 2026 14:41:46 -0000",
       "setores": [
-        "Mercado geral"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
-      "titulo": "Presidente do STF diz que analisará fatos do caso Master e promete anunciar medidas nos próximos dias",
-      "descricao": "Presidente do STF diz que analisará fatos do caso Master e promete anunciar medidas nos próximos dias O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, afirmou nesta quarta-feira (2), durante um evento sobre resistência democrática no Supremo, que anunciará nos próximos dias medidas relacionadas a fatos que estão sob análise da Presidência da Corte. A declaração foi feita em m",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/presidente-do-stf-diz-que-analisara-fatos-do-caso-master-e-promete-anunciar-medidas-nos-proximos-dias.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
+      "descricao": "‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes A imprensa internacional repercutiu a notícia sobre as trocas de mensagens entre o banqueiro Daniel Vorcaro, do Banco Master, e um número atribuído ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp As mensagens revelam possíveis interações entre Vorcaro e o m",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 02 Sep 2026 12:35:58 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF",
-      "descricao": "PF identifica 52 notas de Vorcaro para Moraes Investigações feitas pela Polícia Federal (PF) indicam que o ex-banqueiro Daniel Vorcaro, dono do Banco Master, enviou pelo menos 28 mensagens a um número de telefone atribuído ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), na semana que antecedeu a prisão de Vorcaro, em 2025. Nelas, Vorcaro pediu dois encontros com Moraes, reclamo",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 02 Sep 2026 11:52:37 -0000",
+      "pub_date": "Wed, 02 Sep 2026 08:45:15 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Nova regra do Pix amplia prazo para contestar golpe",
-      "descricao": "Uma nova regra do Pix amplia, a partir desta terça-feira (1º), de 30 para 80 dias o prazo para contestar uma devolução realizada pelo Mecanismo Especial de Devolução (MED) quando houver suspeita de fraude. A mudança foi estabelecida pelo Banco Central e busca proteger principalmente comerciantes, prestadores de serviço e pequenos negócios vítimas de golpes que usam o próprio sistema de segurança d",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/nova-regra-do-pix-amplia-prazo-para-contestar-golpe",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 15:08:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Prazo para empresas optarem por Simples Nacional começa nesta terça",
-      "descricao": "As micro e pequenas empresas devem estar atentas. Começa nesta terça-feira (1º) o prazo de adesão ao Simples Nacional , regime simplificado de tributação para quem fatura até R$ 4,8 milhões por ano. Por causa da reforma tributária, o Comitê Gestor do Simples Nacional (CGSN) antecipou a escolha de regime tributário em quatro meses . As empresas que desejarem ingressar no regime em 2027 deverão faze",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/prazo-para-empresas-optarem-por-simples-nacional-comeca-nesta-terca",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 01 Sep 2026 08:02:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Peça orçamentária tem 32 mil novas vagas para 2027",
-      "descricao": "Do total de cargos novos autorizados no Ploa de 2027 para o Executivo federal, 19,4 mil estão destinados para a Educação. Contudo, segundo o MGI, \"isso não significa que esse contingente será preenchido ao longo do ano\". Pasta prevê R$ 9,1 bi para reajustes e R$ 1,3 bi para despesas com concursos e novas contratações",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7491868-peca-orcamentaria-tem-32-mil-novas-vagas-autorizadas-para-2027.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 1 Sep 2026 18:50:00 -0300",
-      "setores": [
-        "Educação (COGN3, YDUQ3)"
-      ]
-    },
-    {
-      "titulo": "Natura anuncia novo CEO para ciclo de expansão após década de sucesso",
-      "descricao": "João Paulo Ferreira deixa o cargo após 10 anos; Alessandro Carlucci, ex-CEO, retorna para liderar a nova fase de crescimento",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7491758-natura-anuncia-novo-ceo-para-ciclo-de-expansao-apos-decada-de-sucesso.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 1 Sep 2026 16:30:00 -0300",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Como é a nova regra do Pix que pode ajudar a inibir golpes",
-      "descricao": "Mudança do Banco Central amplia de 30 para 80 dias o prazo para contestar devoluções fraudulentas feitas pelo MED e busca proteger comerciantes de um golpe que os fazia perder dinheiro duas vezes.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/09/7491344-como-e-a-nova-regra-do-pix-que-pode-ajudar-a-inibir-golpes.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 1 Sep 2026 08:18:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
-      ]
-    },
-    {
-      "titulo": "Governo promete encerrar 2027 no azul com superavit de R$ 18,6 bi",
-      "descricao": "O projeto de lei do Orçamento para o próximo ano prevê superavit efetivo — sem considerar descontos — de R$ 18,6 bilhões",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7491254-governo-promete-encerrar-2027-no-azul-com-superavit-de-rs-186-bi.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 1 Sep 2026 05:00:00 -0300",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
-      ]
-    },
-    {
-      "titulo": "UE suspende importações de carne brasileira a partir desta quinta",
-      "descricao": "As medidas da UE fazem parte da política para combater a resistência dos microrganismos aos medicamentos, evitando o uso desnecessário de antibióticos",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/08/7491175-ue-suspende-importacoes-de-carne-brasileira-a-partir-de-5-feira.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 31 Aug 2026 20:03:00 -0300",
-      "setores": [
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
-        "Câmbio / Exportadores"
       ]
     }
   ]
