@@ -1,0 +1,19 @@
+{
+  "ticker": "MATD3",
+  "empresa": "HOSPITAL MATER DEI S/A",
+  "cd_cvm": "025690",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "03/09/2026",
+  "receita": 2175285000.0,
+  "receita_ant": 2226001000.0,
+  "receita_cresc": -2.3,
+  "lucro": 111916000.0,
+  "lucro_ant": -323904000.0,
+  "lucro_cresc": 134.6,
+  "margem_liquida": 5.1,
+  "ativo_total": 4312889000.0,
+  "patrimonio_liquido": 1477574000.0,
+  "roe": 7.6,
+  "leitura": null
+}

@@ -14,6 +14,7 @@ import json
 import os
 import sys
 import re
+import math
 from datetime import datetime
 from pathlib import Path
 
@@ -158,9 +159,19 @@ def calcular_semaforo(macro: dict) -> str:
     return "verde"
 
 
+def json_seguro(valor):
+    if isinstance(valor, float) and not math.isfinite(valor):
+        return None
+    if isinstance(valor, dict):
+        return {chave: json_seguro(item) for chave, item in valor.items()}
+    if isinstance(valor, list):
+        return [json_seguro(item) for item in valor]
+    return valor
+
+
 def salvar_json(dados: dict, nome_arquivo: str):
     destino = RELATORIOS_DIR / nome_arquivo
-    destino.write_text(json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8")
+    destino.write_text(json.dumps(json_seguro(dados), ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
     print(f"[OK] Salvo -> {destino.name}")
 
 
@@ -406,7 +417,7 @@ if __name__ == "__main__":
             cariotrade_dir = ROOT.parent / "cariotrade" / "public" / "data"
             cariotrade_dir.mkdir(parents=True, exist_ok=True)
             destino_frontend = cariotrade_dir / f"cariotrade_{hoje}_{TURNO}.json"
-            destino_frontend.write_text(json.dumps(relatorio_trader, ensure_ascii=False, indent=2), encoding="utf-8")
+            destino_frontend.write_text(json.dumps(json_seguro(relatorio_trader), ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
             print(f"[OK] Salvo -> {destino_frontend}")
 
     except Exception as e:
