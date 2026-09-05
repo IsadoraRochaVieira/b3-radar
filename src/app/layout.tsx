@@ -2,7 +2,6 @@ import type { Metadata } from 'next'
 import Script from 'next/script'
 import { Fraunces, IBM_Plex_Sans, IBM_Plex_Mono } from 'next/font/google'
 import './globals.css'
-import { AuthProvider } from '@/contexts/AuthContext'
 import FooterLinks from '@/components/FooterLinks'
 import BackgroundFX from '@/components/BackgroundFX'
 
@@ -29,6 +28,7 @@ export const metadata: Metadata = {
   title: 'Caryo Map · Radar de análise da B3',
   description: 'Descascamos o mercado, mapeamos o ouro e blindamos o investidor contra os espinhos. Análise técnica, fundamentalista e macro das ações da B3 — Caryo Map, por Pequi Estúdio.',
   icons: { icon: '/icone-pequi.png' },
+  robots: { index: false, follow: false, noarchive: true },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -38,9 +38,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <Script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js" strategy="lazyOnload" />
         <div className="grain"></div>
-        <AuthProvider>
-          <BackgroundFX />
-          {children}
+        <BackgroundFX />
+        {children}
 
           <footer style={{ background: '#0a0e14', borderTop: '1px solid #1c2538', padding: '4rem 1rem 2rem', marginTop: 'auto' }}>
             <div style={{ maxWidth: 1100, margin: '0 auto' }}>
@@ -74,7 +73,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </div>
             </div>
           </footer>
-        </AuthProvider>
       </body>
     </html>
   )

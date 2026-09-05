@@ -249,6 +249,11 @@ def calcular_indicadores(ticker: str) -> dict | None:
         # ─────────────────────────────────
         score_trader = 0
         sinais_trader = []
+        
+        # ── SPIKE PREDICTOR (Detecção de Anomalia Extrema) ──
+        alerta_spike = False
+        if vol_ratio >= 3.0 and bb_pct_v > 0.7 and macd_h_v > 0:
+            alerta_spike = True
 
         if rsi_v < 35:
             score_trader += 30
@@ -268,7 +273,10 @@ def calcular_indicadores(ticker: str) -> dict | None:
             score_trader += 15
             sinais_trader.append(f"Volatilidade alta (ATR {atr_pct:.1f}%)")
 
-        if vol_ratio > 1.5:
+        if alerta_spike:
+            score_trader += 40
+            sinais_trader.append(f"🔥 ALERTA SPIKE: Volume Anômalo ({vol_ratio:.1f}x) e Rompimento Iminente")
+        elif vol_ratio > 1.5:
             score_trader += 15
             sinais_trader.append(f"Volume alto ({vol_ratio:.1f}x)")
 
@@ -311,6 +319,7 @@ def calcular_indicadores(ticker: str) -> dict | None:
             "liquidez":    "alta" if LIQUIDEZ.get(ticker.replace(".SA", ""), 0) >= VOLUME_LIQUIDA else "baixa",
             "gema":        0 < LIQUIDEZ.get(ticker.replace(".SA", ""), 0) < VOLUME_LIQUIDA,
             "volume_dia":  LIQUIDEZ.get(ticker.replace(".SA", ""), 0),
+            "alerta_spike": alerta_spike,
         }
 
     except Exception as e:

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Natureza educacional do serviço, avisos de risco, uso de dados e limitação de responsabilidade do Caryo Map.',
 }
 
-const ATUALIZADO = '14 de julho de 2026'
+const ATUALIZADO = '5 de setembro de 2026'
 
 function Secao({ n, titulo, children }: { n: string; titulo: string; children: React.ReactNode }) {
   return (
@@ -102,16 +102,16 @@ export default function TermosPage() {
         </p>
       </Secao>
 
-      <Secao n="05" titulo="Conta, privacidade e dados pessoais (LGPD)">
+      <Secao n="05" titulo="Acesso temporário e dados pessoais (LGPD)">
         <p>
-          Para acessar áreas restritas, coletamos um <strong>nome de usuário</strong>, uma senha
-          (armazenada de forma criptografada pelo provedor de autenticação) e, opcionalmente, um valor
-          de capital para fins de exemplo. Não solicitamos CPF, dados bancários ou de cartão.
+          Durante a fase de desenvolvimento, o acesso utiliza uma senha compartilhada. Ela é validada
+          no servidor e cria apenas um cookie técnico, protegido contra leitura por scripts e com duração
+          limitada. Não há cadastro, versão gratuita, versão Pro ou cobrança ativa.
         </p>
         <p>
-          Os dados de conta são tratados conforme a Lei nº 13.709/2018 (LGPD), usados apenas para
-          operar o serviço e guardados junto ao nosso provedor de infraestrutura (Supabase). Você pode
-          solicitar a exclusão da sua conta e dos seus dados a qualquer momento pelo contato abaixo.
+          Nesta fase não solicitamos nome, CPF, carteira, dados bancários ou valor de patrimônio para
+          conceder acesso. Logs técnicos da infraestrutura podem existir para segurança e operação.
+          Este aviso deverá ser revisto antes de qualquer lançamento ou nova coleta de dados pessoais.
         </p>
       </Secao>
 

@@ -3,7 +3,6 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import Nav from '@/components/Nav'
-import HomeClient from '@/components/HomeClient'
 
 /** Só relatórios de dia: 2026-07-17_manha.json, 2026-07-17.json.
  *  A pasta também guarda comite_*, fundamentos_*, mapa_*, noticias_* e
@@ -196,9 +195,6 @@ export default function Home() {
           </Link>
         </div>
       )}
-
-      {/* ── PLANO PERSONALIZADO ── */}
-      <HomeClient />
 
       {/* ── HISTÓRICO ── */}
       <SectionTitle cor="var(--border2)">Histórico</SectionTitle>

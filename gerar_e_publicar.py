@@ -394,6 +394,7 @@ if __name__ == "__main__":
                             r["sinais_trader"] = ast.literal_eval(sinais_str)
                         except:
                             r["sinais_trader"] = []
+                    r["alerta_spike"] = str(r.get("alerta_spike")).strip() == "True"
                     candidatos_trader.append(r)
             
             candidatos_trader.sort(key=lambda x: x["score_trader"], reverse=True)

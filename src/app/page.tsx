@@ -143,7 +143,7 @@ export default function Landing() {
             </div>
             <span className="cm-display" style={{ fontWeight: 800, fontSize: 19, color: '#fff' }}>Caryo <span style={{ color: '#f0b429' }}>Map</span></span>
           </div>
-          <Link href="/login" className="cm-ghost" style={{ padding: '9px 20px', fontSize: 14 }}>Entrar</Link>
+          <Link href="/painel" className="cm-ghost" style={{ padding: '9px 20px', fontSize: 14 }}>Entrar</Link>
         </header>
 
         {/* conteúdo do hero */}
@@ -166,7 +166,7 @@ export default function Landing() {
               as maiores assimetrias do mercado financeiro em tempo real.
             </p>
             <div style={{ display: 'flex', gap: 12, marginTop: 34, flexWrap: 'wrap', marginBottom: '4rem' }}>
-              <Link href="/login" className="cm-cta">Acessar a Plataforma →</Link>
+              <Link href="/painel" className="cm-cta">Acessar a Plataforma →</Link>
               <Link href="/backtesting" className="cm-ghost">Verificar Performance</Link>
             </div>
           </div>
@@ -328,7 +328,7 @@ export default function Landing() {
               Relatórios diários quantitativos, recomendações e gerenciamento de risco em um único terminal.
             </p>
             <div style={{ marginTop: 30 }}>
-              <Link href="/login" className="cm-cta">Acessar a Plataforma →</Link>
+              <Link href="/painel" className="cm-cta">Acessar a Plataforma →</Link>
             </div>
             <p style={{ color: 'var(--muted)', fontSize: 12, marginTop: 26 }}>
               Ferramenta educacional quantitativa · Não configura recomendação de investimento

@@ -39,6 +39,9 @@
   --display: var(--font-display), Georgia, serif;          /* a voz da marca */
 }
 
+/* Acesso temporário e privado durante a revisão regulatória. */
+.private-access{min-height:100vh;display:grid;place-items:center;position:relative;overflow:hidden;padding:24px;background:radial-gradient(circle at 25% 15%,rgba(240,180,41,.12),transparent 32%),#080c12}.private-card{position:relative;z-index:2;width:min(430px,100%);padding:38px;border:1px solid #28354b;border-radius:22px;background:rgba(15,21,32,.92);box-shadow:0 30px 100px rgba(0,0,0,.55);backdrop-filter:blur(18px)}.private-kicker{color:#d4920a;font:700 10px var(--font-mono);letter-spacing:.13em}.private-card h1{margin:9px 0 12px;color:#e8edf5;font:800 40px var(--font-display);letter-spacing:-.04em}.private-card h1 em{color:#f0b429;font-style:normal}.private-card>p,.private-card small{color:#8a9bbf;font-size:13px;line-height:1.65}.private-card form{display:grid;gap:9px;margin:28px 0 20px}.private-card label{font-size:11px;font-weight:700;letter-spacing:.06em;color:#b3bed0}.private-card input{height:50px;padding:0 15px;border:1px solid #33435d;border-radius:10px;background:#090e16;color:#eef2f8;font-size:17px}.private-card button{height:50px;border:0;border-radius:10px;background:linear-gradient(135deg,#d4920a,#f0b429);color:#090e16;font-size:13px;font-weight:800;cursor:pointer}.private-error{margin:3px 0!important;color:#e5758a!important;font-size:12px!important}.private-pequi{position:absolute;right:-130px;top:-130px;width:500px;height:500px;border:1px solid rgba(240,180,41,.13);border-radius:50%;box-shadow:0 0 0 75px rgba(240,180,41,.05),0 0 0 150px rgba(240,180,41,.025);display:grid;place-items:center}.private-pequi span{color:rgba(240,180,41,.12);font-size:130px}@media(max-width:540px){.private-card{padding:28px 22px}.private-card h1{font-size:34px}}
+
 body {
   background: radial-gradient(120% 70% at 50% 0%, #0d1219 0%, #0a0e14 60%, #06090d 100%);
   color: var(--text);

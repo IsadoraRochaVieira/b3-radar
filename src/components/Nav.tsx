@@ -1,8 +1,6 @@
 'use client'
 import Link from 'next/link'
-import { useRouter, usePathname } from 'next/navigation'
 import { useState } from 'react'
-import { useAuth } from '@/contexts/AuthContext'
 
 type Aba = 'home' | 'macro' | 'backtest' | 'segunda' | 'geopolitica' | 'patrimonio' | 'noticias' | 'sugestoes' | 'comite' | 'mapa'
 
@@ -19,8 +17,6 @@ const links: { href: string; label: string; id: Aba }[] = [
 ]
 
 export default function Nav({ ativa }: { ativa: Aba }) {
-  const { user, logout, assinante } = useAuth()
-  const router = useRouter()
   const [menuAberto, setMenuAberto] = useState(false)
 
   return (
@@ -94,31 +90,7 @@ export default function Nav({ ativa }: { ativa: Aba }) {
             <span style={{ fontSize: 10, color: '#00a63c', fontWeight: 600, letterSpacing: '0.06em' }}>AO VIVO</span>
           </div>
 
-          {assinante ? (
-            <span title="Assinatura ativa" style={{ fontSize: 10, fontWeight: 700, color: '#f0b429', background: 'rgba(212,146,10,0.14)', border: '1px solid rgba(212,146,10,0.35)', borderRadius: 5, padding: '3px 8px', fontFamily: 'var(--mono)' }}>★ PRO</span>
-          ) : (
-            <Link href="/assinar" style={{ fontSize: 11, fontWeight: 700, color: '#0a0e14', background: 'linear-gradient(135deg,#d4920a,#f0b429)', borderRadius: 6, padding: '4px 11px', textDecoration: 'none' }}>Assinar ✨</Link>
-          )}
-
-          {user && (
-            <>
-              <span style={{ fontSize: 12, fontFamily: 'var(--mono)', color: '#d4920a', fontWeight: 600 }}>
-                R$ {user.capital.toLocaleString('pt-BR')}
-              </span>
-              <button
-                onClick={() => { logout(); router.push('/login') }}
-                style={{
-                  background: 'transparent',
-                  border: '1px solid #1c2538',
-                  borderRadius: 6,
-                  padding: '4px 10px',
-                  color: '#4d5f7a',
-                  fontSize: 11,
-                  cursor: 'pointer',
-                }}
-              >Sair</button>
-            </>
-          )}
+          <form method="post" action="/api/signout"><button type="submit" style={{ background: 'transparent', border: '1px solid #1c2538', borderRadius: 6, padding: '4px 10px', color: '#8a9bbf', fontSize: 11, cursor: 'pointer' }}>Sair</button></form>
 
           {/* Hamburger — só mobile */}
           <button
@@ -154,7 +126,7 @@ export default function Nav({ ativa }: { ativa: Aba }) {
           }} onClick={e => e.stopPropagation()}>
             <div style={{ padding: '0 16px 16px', borderBottom: '1px solid #1c2538', marginBottom: 8 }}>
               <div style={{ fontSize: 13, fontWeight: 700, color: '#e8edf5' }}>B3 Radar</div>
-              {user && <div style={{ fontSize: 12, color: '#d4920a', fontFamily: 'var(--mono)', marginTop: 4 }}>R$ {user.capital.toLocaleString('pt-BR')}</div>}
+              <div style={{ fontSize: 11, color: '#d4920a', fontFamily: 'var(--mono)', marginTop: 4 }}>AMBIENTE PRIVADO</div>
             </div>
             {links.map(l => (
               <Link key={l.id} href={l.href} onClick={() => setMenuAberto(false)} style={{
@@ -167,14 +139,7 @@ export default function Nav({ ativa }: { ativa: Aba }) {
                 {l.label}
               </Link>
             ))}
-            {user && (
-              <button onClick={() => { logout(); router.push('/login') }} style={{
-                display: 'block', width: '100%', textAlign: 'left',
-                padding: '11px 20px', marginTop: 8, borderTop: '1px solid #1c2538',
-                background: 'transparent', border: 'none',
-                fontSize: 14, color: '#e53555', cursor: 'pointer',
-              }}>Sair</button>
-            )}
+            <form method="post" action="/api/signout"><button type="submit" style={{ display: 'block', width: '100%', textAlign: 'left', padding: '11px 20px', marginTop: 8, borderTop: '1px solid #1c2538', background: 'transparent', border: 'none', fontSize: 14, color: '#e5758a', cursor: 'pointer' }}>Sair</button></form>
           </div>
         </div>
       )}
