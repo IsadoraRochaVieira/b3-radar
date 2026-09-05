@@ -3,7 +3,7 @@
   "data_iso": "2026-09-05",
   "turno": "manha",
   "turno_label": "Manhã (08:30)",
-  "hora_geracao": "07:53",
+  "hora_geracao": "08:30",
   "semaforo": "verde",
   "macro": {
     "ibovespa": "185.147",
@@ -14,7 +14,7 @@
     "brent_var": 0.8,
     "selic": "14.00",
     "ipca_12m": "4.44",
-    "atualizado_em": "05/09/2026 07:59"
+    "atualizado_em": "05/09/2026 08:36"
   },
   "tops": [
     {
@@ -720,7 +720,7 @@
       "pl": "-",
       "pvp": "0,94",
       "dy": "-",
-      "roe": "-0.7%",
+      "roe": "-4.3%",
       "score": "35",
       "classificacao": "NEUTRO",
       "score_trader": 25,
@@ -1377,7 +1377,7 @@
       "atr_pct": "3,42",
       "dist_min52": "25,8",
       "dist_max52": "21,7",
-      "pl": "25.6",
+      "pl": "25.2",
       "pvp": "2,16",
       "dy": "-",
       "roe": "12.2%",
@@ -5385,7 +5385,7 @@
       "atr_pct": "2,17",
       "dist_min52": "30,4",
       "dist_max52": "5,5",
-      "pl": "39.2",
+      "pl": "39.6",
       "pvp": "1,77",
       "dy": "-",
       "roe": "20.9%",
