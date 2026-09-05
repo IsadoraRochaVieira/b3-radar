@@ -1,32 +1,89 @@
 {
-  "coletado_em": "05/09/2026 08:36",
-  "total": 22,
-  "urgentes": 0,
+  "coletado_em": "05/09/2026 13:06",
+  "total": 29,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "PIB, calendário de dividendos e fim dos balanços nos EUA; veja destaques da semana",
-    "descricao": "Composição da atividade nacional mostra fraqueza, enquanto mercado americano se destaca e relatórios indicam oportunidades em dólar The post PIB, calendário de dividendos e fim dos balanços nos EUA; veja destaques da semana appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/onde-investir/pib-calendario-de-dividendos-e-fim-dos-balancos-nos-eua-veja-destaques-da-semana/",
+    "titulo": "Shein: fim da ‘taxa das blusinhas’ é vitória para consumidor brasileiro",
+    "descricao": "O texto foi aprovado pela Câmara e pelo Senado na quarta-feira, 2, e agora segue para sanção do presidente Luiz Inácio Lula da Silva The post Shein: fim da &#8216;taxa das blusinhas&#8217; é vitória para consumidor brasileiro appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/business/shein-fim-da-taxa-das-blusinhas-e-vitoria-para-consumidor-brasileiro/",
     "fonte": "Infomoney",
     "categoria": "Mercado",
     "cor": "#4488ff",
-    "urgencia": "media",
+    "urgencia": "alta",
     "score_relevancia": 3,
-    "pub_date": "Sat, 05 Sep 2026 11:00:00 +0000",
+    "pub_date": "Sat, 05 Sep 2026 15:22:07 +0000",
     "setores": [
-      "Câmbio / Exportadores"
+      "Mercado geral"
     ]
   },
   "noticias": [
     {
-      "titulo": "PIB, calendário de dividendos e fim dos balanços nos EUA; veja destaques da semana",
-      "descricao": "Composição da atividade nacional mostra fraqueza, enquanto mercado americano se destaca e relatórios indicam oportunidades em dólar The post PIB, calendário de dividendos e fim dos balanços nos EUA; veja destaques da semana appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/pib-calendario-de-dividendos-e-fim-dos-balancos-nos-eua-veja-destaques-da-semana/",
+      "titulo": "Shein: fim da ‘taxa das blusinhas’ é vitória para consumidor brasileiro",
+      "descricao": "O texto foi aprovado pela Câmara e pelo Senado na quarta-feira, 2, e agora segue para sanção do presidente Luiz Inácio Lula da Silva The post Shein: fim da &#8216;taxa das blusinhas&#8217; é vitória para consumidor brasileiro appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/shein-fim-da-taxa-das-blusinhas-e-vitoria-para-consumidor-brasileiro/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 3,
+      "pub_date": "Sat, 05 Sep 2026 15:22:07 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "EUA fecham acordo pelo petróleo da Venezuela: o que Trump ganha com o negócio?",
+      "descricao": "Empresa dos EUA vai explorar petróleo na Venezuela Os Estados Unidos anunciaram na última sexta-feira (28/08) um acordo com a Venezuela que pode garantir a Washington acesso a cerca de 20% das reservas comprovadas de petróleo do país sul-americano. Apresentada pelo presidente Donald Trump como o \"maior acordo petrolífero da história\", a iniciativa envolve 17 campos com potencial estimado em 65 bil",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/05/eua-fecham-acordo-pelo-petroleo-da-venezuela-o-que-trump-ganha-com-o-negocio.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Sat, 05 Sep 2026 11:00:00 +0000",
+      "pub_date": "Sat, 05 Sep 2026 08:00:00 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Citado por Lula, Defesa terá 6º maior orçamento em 2027; verba inclui submarino nuclear, caças Gripen e mísseis de longo alcance",
+      "descricao": "Exercício reúne militares para proteger a Amazônia, em Boa Vista Caíque Rodrigues/g1 RR Frequentemente mencionado pelo presidente Luiz Inácio Lula da Silva (PT) diante do aumento das tensões internacionais e dos atritos com os Estados Unidos, o Ministério da Defesa terá o sexto maior orçamento em 2027. A previsão consta na proposta de orçamento do próximo ano, encaminhada nesta semana ao Congresso",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/05/citado-por-lula-defesa-tera-6o-maior-orcamento-em-2027-verba-inclui-submarino-nuclear-cacas-gripen-e-misseis-de-longo-alcance.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Sat, 05 Sep 2026 03:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Alcolumbre sinaliza que Mendonça também será alvo em caso de abertura de impeachment contra Moraes",
+      "descricao": "Mendonça pode ser alvo caso de abertura de impeachment contra Moraes O presidente do Senado, Davi Alcolumbre (União-AP), fez circular entre os colegas no Congresso Nacional que, se a pressão para dar início ao processo de impeachment do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes se tornar insustentável, iria também autorizar o processo contra outro ministro da corte: André Mend",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 04 Sep 2026 19:14:41 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Balança comercial tem superávit de US$ 7,4 bilhões em agosto, maior saldo para o mês em 3 anos",
+      "descricao": "A balança comercial registrou superávit de US$ 7,4 bilhões em agosto, informou o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) nesta sexta-feira (4). 🔎 O resultado é de superávit quanto as exportações superam as importações. Quando acontece o contrário, o resultado é deficitário. O saldo positivo registrou alta de 23,8% em relação ao mesmo período ano passado, quando somou U",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/04/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 04 Sep 2026 18:00:00 -0000",
       "setores": [
         "Câmbio / Exportadores"
       ]
@@ -48,22 +105,6 @@
       ]
     },
     {
-      "titulo": "Balança comercial tem superávit de US$ 7,4 bilhões em agosto",
-      "descricao": "Com a ajuda do petróleo, da soja, do cobre e do café, a balança comercial brasileira registrou superávit de US$ 7,4 bilhões em agosto, resultado 23,8% superior ao do mesmo mês de 2025. Esse é o terceiro maior superávit comercial para meses de agosto, só perdendo para o recorde de agosto de 2023 (US$ 9,6 bilhões) e de 2021 (US$ 7,7 bilhões). Notícias relacionadas: UE suspende carnes do Brasil; ente",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 04 Sep 2026 16:09:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
-      ]
-    },
-    {
       "titulo": "Setor de informação e comunicação cresce 8,4% no 2º trimestre, diz IBGE",
       "descricao": "Segmento, que inclui telecomunicações, avançou 2,1% ante o trimestre anterior e teve um dos maiores crescimentos da economia no período",
       "link": "https://www.correiobraziliense.com.br/economia/2026/09/7493563-setor-de-informacao-e-comunicacao-cresce-84-no-2-trimestre-diz-ibge.html",
@@ -78,29 +119,31 @@
       ]
     },
     {
-      "titulo": "Alívio na inflação é pra valer? Três fatores ainda tiram o sono de economistas",
-      "descricao": "Recuo dos preços é pontual e tem data para ser revertido, dizem economistas, que veem processo demorado pela frente, apesar dos dados recentes mais animadores The post Alívio na inflação é pra valer? Três fatores ainda tiram o sono de economistas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/alivio-na-inflacao-e-pra-valer-tres-fatores-ainda-tiram-o-sono-de-economistas/",
+      "titulo": "UE barra carne do Brasil: o preço vai cair? Veja impacto no bolso e nos frigoríficos",
+      "descricao": "Medida temporária de Bruxelas gera contraofensiva do agronegócio nacional e põe em xeque o mercado de importação de azeites no país. The post UE barra carne do Brasil: o preço vai cair? Veja impacto no bolso e nos frigoríficos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/uniao-europeia-barra-carne-brasil-preco/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sat, 05 Sep 2026 08:00:00 +0000",
+      "pub_date": "Sat, 05 Sep 2026 14:44:00 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Em 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial",
-      "descricao": "Segundo apurou a reportagem, o presidente também fará uma defesa do livre comércio The post Em 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/em-7-de-setembro-lula-mandara-recado-aos-eua-e-citara-petroleo-na-margem-equatorial/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Ibama autoriza Petrobras a perfurar três novos poços na Foz do Amazonas",
+      "descricao": "Petróleo na Foz do Amazonas: previsão é que produção no local possa começar em até 7 anos O Ibama autorizou a Petrobras a perfurar mais três novos poços exploratórios na Bacia da Foz do Amazonas. Em comunicado enviado ao g1, a Petrobras confirmou que o Ibama \"emitiu a retificação da Licença de Operação nº 1684\" (que autoriza atividades de exploração de petróleo na região.) \"Após a autorização do ó",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/04/ibama-petrobras-amazonas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sat, 05 Sep 2026 00:54:00 +0000",
+      "pub_date": "Fri, 04 Sep 2026 14:25:03 -0000",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
@@ -177,6 +220,62 @@
       "pub_date": "Thu, 3 Sep 2026 17:21:37 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Vale-refeição entra em nova disputa após mudança nas regras do setor",
+      "descricao": "Nova regulação reduz barreiras, abre espaço para mais concorrentes e acirra a briga por um mercado de até R$ 200 bilhões por ano The post Vale-refeição entra em nova disputa após mudança nas regras do setor appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/vale-refeicao-entra-em-nova-disputa-apos-mudanca-nas-regras-do-setor/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 05 Sep 2026 13:07:06 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Enviado de Putin chega a aeroporto de Moscou para receber negociadores dos EUA",
+      "descricao": "Steve Witkoff e Jared Kushner viajam à Rússia em nova tentativa de avançar nas negociações para encerrar a guerra na Ucrânia The post Enviado de Putin chega a aeroporto de Moscou para receber negociadores dos EUA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/enviado-de-putin-chega-a-aeroporto-de-moscou-para-receber-negociadores-dos-eua/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 05 Sep 2026 12:55:07 +0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "E se a IA for consciente? A pergunta que começa a preocupar as gigantes da tecnologia",
+      "descricao": "Uso de IA pode ajudar na disseminação de informações falsas pela facilidade de produção e viralização desse tipo de conteúdo. Reprodução/TV Globo O avanço da inteligência artificial colocou uma antiga questão filosófica no centro do debate tecnológico: afinal, modelos como o ChatGPT e o Claude são apenas ferramentas sofisticadas ou podem ter algum tipo de consciência? Segundo reportagem da revista",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/05/e-se-a-ia-for-consciente-a-pergunta-que-comeca-a-preocupar-as-gigantes-da-tecnologia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 05 Sep 2026 07:00:00 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Quanto vão ganhar Tim Cook e John Ternus após a troca de comando na Apple",
+      "descricao": "Apple anuncia engenheiro John Ternus como novo presidente Com o fim da era de Tim Cook à frente da Apple no início da semana, a empresa disse quanto o executivo ganhará em sua nova função e qual será a remuneração do novo CEO, John Ternus. Na Apple desde 1998 e CEO desde 2011, Tim Cook assumiu como novo presidente-executivo do conselho administrativo. Ele ainda será responsável por conduzir certos",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/05/quanto-vao-ganhar-tim-cook-e-john-ternus-apos-a-troca-de-comando-na-apple.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 05 Sep 2026 07:00:00 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {

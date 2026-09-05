@@ -67,6 +67,28 @@ Register-ScheduledTask `
 
 Write-Host "[OK] Tarefa 'B3Radar_Tarde' criada — roda às 13:00 todo dia útil." -ForegroundColor Green
 
+# ── Tarefa 3: Gerador do Blog (18:00) ────────────────────
+$ScriptBlog = "$PSScriptRoot\gerador_blog.py"
+$acaoBlog = New-ScheduledTaskAction `
+    -Execute    $PythonExe `
+    -Argument   "`"$ScriptBlog`"" `
+    -WorkingDirectory (Split-Path $ScriptBlog)
+
+$gatilhoBlog = New-ScheduledTaskTrigger `
+    -Daily -At "18:00"
+
+Register-ScheduledTask `
+    -TaskName   "B3Radar_Blog" `
+    -TaskPath   "\B3Radar\" `
+    -Action     $acaoBlog `
+    -Trigger    $gatilhoBlog `
+    -Settings   $configuracoes `
+    -Description "B3 Radar — Gerador de Blog IA (18:00)" `
+    -RunLevel   Highest `
+    -Force | Out-Null
+
+Write-Host "[OK] Tarefa 'B3Radar_Blog' criada — roda às 18:00 todo dia útil." -ForegroundColor Green
+
 # ── Resumo ───────────────────────────────────────────────
 Write-Host ""
 Write-Host "=====================================================" -ForegroundColor Yellow
@@ -74,6 +96,7 @@ Write-Host "  Agendamento configurado com sucesso!" -ForegroundColor Yellow
 Write-Host "=====================================================" -ForegroundColor Yellow
 Write-Host "  Manhã: 08:30 → $Script manha"
 Write-Host "  Tarde: 13:00 → $Script tarde"
+Write-Host "  Blog:  18:00 → $ScriptBlog"
 Write-Host ""
 Write-Host "Para testar manualmente agora:"
 Write-Host "  python `"$Script`" manha"
