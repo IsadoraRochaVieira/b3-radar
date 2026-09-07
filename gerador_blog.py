@@ -17,7 +17,7 @@ def chamar_gemini(prompt: str) -> str | None:
     
     payload = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.8, "maxOutputTokens": 4000},
+        "generationConfig": {"temperature": 0.8, "maxOutputTokens": 8000},
     }).encode()
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={key}"
     
@@ -33,14 +33,10 @@ def chamar_gemini(prompt: str) -> str | None:
 def gerar_posts_blog():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Iniciando Geração do Blog...")
     
-    prompt = """Você é o Redator Principal do 'Caryo Blog', uma plataforma de ensino 'do zero a analista top' que mistura Mercado Financeiro, Programação (Python/TI), Dados e Inteligência Artificial.
-Sua missão de hoje é escrever 10 posts (artigos curtos de blog) em português, muito divertidos, ácidos, inteligentes e didáticos.
+    prompt = """Você é o Redator Principal do 'Caryo Blog', uma plataforma de ensino para quem quer conquistar certificações profissionais do mercado financeiro brasileiro.
+Sua missão de hoje é escrever exatamente 10 posts inéditos (artigos curtos de blog) em português, divertidos, inteligentes, didáticos e responsáveis.
 
-Gere exatamente 10 postagens cobrindo os seguintes temas (distribua aleatoriamente):
-- Finanças Básicas (entendo P/L, ROE, balanços da CVM, candlesticks)
-- Certificações (Dicas para CNPI-T, CPA, CEA)
-- Python para Traders (como usar Pandas, yfinance)
-- IA e Trading (Machine learning no mercado, Spike Predictor)
+Cubra de forma equilibrada CPA, C-Pro R, C-Pro I, CFG, CGA, CGE, CNPI, planejamento de estudos, simulados, ética, suitability e carreira. Não invente regras, datas, preços, aprovações ou requisitos que possam mudar; quando necessário, oriente o leitor a confirmar a informação no site oficial da entidade certificadora. Não prometa aprovação nem ganhos financeiros.
 
 Retorne EXCLUSIVAMENTE um JSON válido contendo um array de objetos. Não inclua Markdown, crases ou explicações fora do JSON.
 Formato exato:
@@ -65,7 +61,9 @@ Formato exato:
     resposta = re.sub(r"```$", "", resposta).strip()
     
     try:
-        posts = json.loads(resposta)
+        novos_posts = json.loads(resposta)
+        if not isinstance(novos_posts, list) or len(novos_posts) != 10:
+            raise ValueError("A IA não retornou exatamente 10 posts")
     except Exception as e:
         print(f"Erro ao parsear JSON retornado pela IA: {e}")
         print(f"Retorno foi: {resposta[:500]}...")
@@ -73,9 +71,22 @@ Formato exato:
         
     hoje = datetime.now().strftime("%Y-%m-%d")
     arquivo_saida = BLOG_DIR / f"posts_{hoje}.json"
+
+    posts_existentes = []
+    latest = BLOG_DIR / "latest.json"
+    if latest.exists():
+        try:
+            atual = json.loads(latest.read_text(encoding="utf-8"))
+            if atual.get("data") == hoje and isinstance(atual.get("posts"), list):
+                posts_existentes = atual["posts"]
+        except Exception as e:
+            print(f"Aviso: não foi possível reaproveitar os posts existentes: {e}")
+
+    posts = posts_existentes + novos_posts
     
     # Adicionar metadados de data aos posts
-    for post in posts:
+    for indice, post in enumerate(posts, start=1):
+        post["id"] = f"post-{indice}"
         post["data"] = hoje
         
     with open(arquivo_saida, "w", encoding="utf-8") as f:
@@ -83,7 +94,6 @@ Formato exato:
         
     print(f"[OK] 10 posts gerados e salvos em {arquivo_saida}")
     
-    latest = BLOG_DIR / "latest.json"
     with open(latest, "w", encoding="utf-8") as f:
         json.dump({"arquivo": f"posts_{hoje}.json", "data": hoje, "posts": posts}, f, ensure_ascii=False, indent=2)
     print(f"[OK] latest.json atualizado.")
@@ -91,9 +101,9 @@ Formato exato:
     import subprocess
     print("[GIT] Fazendo commit e push do Caryoblog...")
     for repo in [ROOT / "caryoblog"]:
-        if (repo / ".git").exists() or (ROOT / ".git").exists():
+        if (repo / ".git").exists():
             subprocess.run(["git", "-C", str(repo), "add", "-A"], check=False)
-            subprocess.run(["git", "-C", str(repo), "commit", "-m", f"blog: publicando 10 posts do dia {hoje}"], check=False)
+            subprocess.run(["git", "-C", str(repo), "commit", "-m", f"blog: adicionando 10 posts do dia {hoje}"], check=False)
             subprocess.run(["git", "-C", str(repo), "push"], check=False)
     print(f"[OK] Blog do dia {hoje} no ar!")
 
