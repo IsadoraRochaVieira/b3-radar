@@ -1,5 +1,5 @@
 {
-  "coletado_em": "07/09/2026 04:52",
+  "coletado_em": "07/09/2026 08:36",
   "total": 30,
   "urgentes": 1,
   "destaque": {
@@ -43,21 +43,6 @@
       "pub_date": "Sun, 06 Sep 2026 03:00:00 -0000",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "EUA fecham acordo pelo petróleo da Venezuela: o que Trump ganha com o negócio?",
-      "descricao": "Empresa dos EUA vai explorar petróleo na Venezuela Os Estados Unidos anunciaram na última sexta-feira (28/08) um acordo com a Venezuela que pode garantir a Washington acesso a cerca de 20% das reservas comprovadas de petróleo do país sul-americano. Apresentada pelo presidente Donald Trump como o \"maior acordo petrolífero da história\", a iniciativa envolve 17 campos com potencial estimado em 65 bil",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/05/eua-fecham-acordo-pelo-petroleo-da-venezuela-o-que-trump-ganha-com-o-negocio.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Sat, 05 Sep 2026 08:00:00 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
@@ -123,15 +108,30 @@
       ]
     },
     {
-      "titulo": "Caiado diz que STF vive “momento delicado” e precisa “dar satisfação à população”",
-      "descricao": "Caiado disse que, como presidente, cobraria a mesma postura de qualquer chefe de poder diante de situações semelhantes às que hoje afetam o Supremo The post Caiado diz que STF vive &#8220;momento delicado&#8221; e precisa &#8220;dar satisfação à população&#8221; appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/caiado-diz-que-stf-vive-momento-delicado-e-precisa-dar-satisfacao-a-populacao/",
+      "titulo": "Da Bolsa à renda fixa: veja os melhores ETFs para montar uma carteira vencedora",
+      "descricao": "O InfoMoney reuniu 20 ETFs negociados na B3 que aparecem nas carteiras recomendadas de setembro e os organizou pela função que cumprem na alocação The post Da Bolsa à renda fixa: veja os melhores ETFs para montar uma carteira vencedora appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/de-bolsa-a-renda-fixa-veja-os-melhores-etfs-para-montar-uma-carteira-vencedora/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sun, 06 Sep 2026 21:24:00 +0000",
+      "pub_date": "Mon, 07 Sep 2026 08:00:00 +0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Nota fiscal: 3 pontos que as empresas devem acompanhar com a contabilidade",
+      "descricao": "Com a reforma tributária, algumas mudanças exigem atenção das empresas e dos escritórios de contabilidade The post Nota fiscal: 3 pontos que as empresas devem acompanhar com a contabilidade appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-emissao-nota-fiscal-contador/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 07 Sep 2026 08:00:00 +0000",
       "setores": [
         "Mercado geral"
       ]
@@ -284,17 +284,31 @@
       ]
     },
     {
-      "titulo": "Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE",
-      "descricao": "Ao TSE, Cury declarou ter participações societárias de sete empresas, entre firmas sediadas no Brasil e no exterior The post Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/augusto-cury-omitiu-empresas-nos-estados-unidos-e-no-brasil-em-declaracao-ao-tse/",
+      "titulo": "Kremlin não descarta retomada das negociações de paz com Ucrânia e EUA",
+      "descricao": "O porta-voz do Kremlin, Dmitry Peskov, fez essas declarações ao ser questionado sobre a visita realizada ​no fim de semana a Moscou e a ​Kiev pelos enviados norte-americanos The post Kremlin não descarta retomada das negociações de paz com Ucrânia e EUA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/kremlin-nao-descarta-retomada-das-negociacoes-de-paz-com-ucrania-e-eua/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 06 Sep 2026 21:30:00 +0000",
+      "pub_date": "Mon, 07 Sep 2026 11:19:44 +0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Jaguar Land Rover anuncia corte de 4 mil vagas em plano para reduzir custos",
+      "descricao": "Preços de carros usados caem até 20% com enxurrada de novos modelos chineses A fabricante britânica de carros de luxo Jaguar Land Rover anunciou nesta segunda-feira (7) que vai cortar cerca de 4 mil empregos em todo o mundo nos próximos dois anos, como parte de um plano para reduzir custos e aumentar a competitividade. A empresa, que tem importantes instalações no centro da Inglaterra, afirmou que",
+      "link": "https://g1.globo.com/carros/noticia/2026/09/07/jaguar-land-rover-anuncia-corte-de-4-mil-vagas-em-plano-para-reduzir-custos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 07 Sep 2026 10:31:29 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
@@ -323,6 +337,20 @@
       "pub_date": "Sun, 06 Sep 2026 06:00:00 -0000",
       "setores": [
         "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Lula participa de 7 de setembro com Motta, Alcolumbre e Fachin; evento terá recados sobre soberania e violência contra a mulher",
+      "descricao": "Presidente Lula e Janja desfilam em carro aberto durante o 7 de Setembro em 2025 - imagem de arquivo TON MOLINA/FOTOARENA/ESTADÃO CONTEÚDO O presidente Luiz Inácio Lula da Silva (PT) participa na manhã desta segunda-feira (7) do desfile de 7 de Setembro na Esplanada dos Ministérios, em Brasília. Lula estará acompanhado da primeira-dama, Janja da Silva, do vice-presidente Geraldo Alckmin (PSB), alé",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 07 Sep 2026 10:29:38 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -398,20 +426,6 @@
       ]
     },
     {
-      "titulo": "Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministros do STF",
-      "descricao": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF) formalizou neste sábado (5) uma proposta para proibir que policiais e militares possam atuar nos gabinetes dos ministros, como servidores cedidos. Como mostrou o blog do jornalista Valdo Cruz, Mendes já havia apresentado ao presidente do STF, ministro Edson Fachin, a ideia de proibir delegados da Polícia Federal (PF) nestas funções. A mud",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/05/gilmar-propoe-a-fachin-proibir-delegados-da-pf-como-funcionarios-de-gabinetes-de-ministros-do-stf.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 05 Sep 2026 20:12:34 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "IBGE disponibiliza a partir de amanhã mapas-múndi inéditos",
       "descricao": "O Instituto Brasileiro de Geografia e Estatística (IBGE) irá liberar, a partir de amanhã (7), Dia da Independência do Brasil, no site de sua loja, o acesso aos mapas-múndi do Brasil lançados de 2024 a 2026. A versão mais recente foi aprovada globalmente, na última sexta-feira (4), na Assembleia Geral das Nações Unidas (ONU). A reunião é a oportunidade para que chefes de Estado e governo dos Estado",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ibge-disponibiliza-partir-de-amanha-mapas-mundi-ineditos",
@@ -437,21 +451,6 @@
       "pub_date": "Fri, 04 Sep 2026 10:02:00 -0300",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Caixa passa a oferecer modalidade de Pix parcelado",
-      "descricao": "A Caixa Econômica está oferecendo aos clientes pessoa física a possibilidade de parcelamento de transferências e pagamentos feitos por Pix. A nova funcionalidade, anunciada nesta quinta-feira (3), está disponível para as transações feitas diretamente no App CAIXA. A medida é realizada por meio de contratação de crédito, no momento da transação. A CAIXA já disponibiliza outras ferramentas como Agen",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-passa-oferecer-modalidade-de-pix-parcelado",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 03 Sep 2026 18:30:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     }

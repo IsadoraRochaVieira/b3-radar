@@ -3,18 +3,18 @@
   "data_iso": "2026-09-07",
   "turno": "manha",
   "turno_label": "Manhã (08:30)",
-  "hora_geracao": "04:46",
+  "hora_geracao": "08:30",
   "semaforo": "verde",
   "macro": {
     "ibovespa": "185.147",
     "ibovespa_var": -0.02,
     "dolar": "5,13",
-    "dolar_var": 0.49,
+    "dolar_var": 0.51,
     "brent": "96.28",
     "brent_var": 0.0,
     "selic": "14.00",
     "ipca_12m": "4.44",
-    "atualizado_em": "07/09/2026 04:52"
+    "atualizado_em": "07/09/2026 08:36"
   },
   "tops": [
     {
@@ -718,7 +718,7 @@
       "dist_min52": "7,9",
       "dist_max52": "18,1",
       "pl": "-",
-      "pvp": "0,94",
+      "pvp": "0,95",
       "dy": "-",
       "roe": "-4.3%",
       "score": "35",
