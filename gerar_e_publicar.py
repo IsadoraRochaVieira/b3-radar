@@ -243,6 +243,12 @@ if __name__ == "__main__":
     output    = rodar_analisador()
     candidatos = parse_output(output)
     todos     = sorted(candidatos, key=lambda x: x["score"], reverse=True)
+    minimo_universo = int(os.environ.get("RADAR_MIN_UNIVERSO", "50"))
+    if len(todos) < minimo_universo:
+        raise RuntimeError(
+            f"Coleta inválida: apenas {len(todos)} ativos analisados; "
+            f"mínimo exigido={minimo_universo}. Nenhum relatório será publicado."
+        )
     aprovados = [c for c in todos if c["score"] >= 40 and c["acao"] != "EVITAR"]
     tops      = todos[:5]
     print(f"[OK] {len(todos)} ativos · {len(aprovados)} candidatos.")
@@ -261,7 +267,8 @@ if __name__ == "__main__":
 
     # 5. Plano + semáforo + pick
     plano    = montar_plano(aprovados)
-    semaforo = calcular_semaforo(macro)
+    macro_disponivel = macro.get("ibovespa") not in (None, "", "-") or macro.get("dolar") not in (None, "", "-")
+    semaforo = calcular_semaforo(macro) if macro_disponivel else "indisponivel"
     ibov_var = macro.get("ibovespa_var", 0) or 0
 
     compras     = [c for c in aprovados if c.get("acao") == "COMPRAR"]
