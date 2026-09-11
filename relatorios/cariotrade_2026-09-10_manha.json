@@ -5690,4 +5690,68 @@
       "gema": "False",
       "volume_dia": "5472800",
       "alerta_spike": true
-   
+    },
+    {
+      "ticker": "VSTE3",
+      "preco": "2,45",
+      "var_1d": "16,11",
+      "var_5d": "-13,43",
+      "var_20d": "-10,91",
+      "rsi": "45,5",
+      "macd_hist": "-0,002",
+      "bb_pct": "43,0",
+      "vol_ratio": "1,99",
+      "atr_pct": "8,05",
+      "dist_min52": "22,5",
+      "dist_max52": "127,2",
+      "pl": "6.0",
+      "pvp": "0,26",
+      "dy": "-",
+      "roe": "-",
+      "score": "15",
+      "classificacao": "EVITAR",
+      "score_trader": 40,
+      "classificacao_trader": "OBSERVAR",
+      "sinais_trader": [
+        "Volatilidade alta (ATR 8.0%)",
+        "Volume alto (2.0x)",
+        "Small Cap (potencial alto)"
+      ],
+      "liquidez": "baixa",
+      "gema": "True",
+      "volume_dia": "217900",
+      "alerta_spike": false
+    },
+    {
+      "ticker": "PDGR3",
+      "preco": "1,2",
+      "var_1d": "6,19",
+      "var_5d": "0,84",
+      "var_20d": "-6,98",
+      "rsi": "47,0",
+      "macd_hist": "-0,006",
+      "bb_pct": "40,4",
+      "vol_ratio": "3,31",
+      "atr_pct": "8,49",
+      "dist_min52": "60,0",
+      "dist_max52": "2900,0",
+      "pl": "-",
+      "pvp": "-0,0",
+      "dy": "-",
+      "roe": "-",
+      "score": "5",
+      "classificacao": "EVITAR",
+      "score_trader": 40,
+      "classificacao_trader": "OBSERVAR",
+      "sinais_trader": [
+        "Volatilidade alta (ATR 8.5%)",
+        "Volume alto (3.3x)",
+        "Small Cap (potencial alto)"
+      ],
+      "liquidez": "baixa",
+      "gema": "True",
+      "volume_dia": "227600",
+      "alerta_spike": false
+    }
+  ]
+}
