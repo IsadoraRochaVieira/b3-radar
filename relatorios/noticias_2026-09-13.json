@@ -1,36 +1,22 @@
 {
-  "coletado_em": "13/09/2026 03:21",
-  "total": 30,
-  "urgentes": 4,
+  "coletado_em": "13/09/2026 13:27",
+  "total": 27,
+  "urgentes": 3,
   "destaque": {
-    "titulo": "PF conclui que houve fraude em compras de R$ 17,5 bilhões em carteiras do Master pelo BRB",
-    "descricao": "Candidatos ao Senado do DF respondem sobre crise do BRB A Polícia Federal (PF) concluiu que houve gestão fraudulenta de ex-dirigentes do Banco Regional de Brasília (BRB) em operações de compra que somaram R$ 17,5 bilhões em carteiras do banco Master — liquidado pelo Banco Central (BC). A informação consta em laudo, cujo sigilo foi retirado na noite desta quinta-feira (10) pelo ministro André Mendo",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-conclui-que-houve-fraude-em-compras-de-r-175-bilhoes-em-carteiras-do-master-pelo-brb.ghtml",
+    "titulo": "Inflação cai, fábricas fecham: crise na indústria argentina elimina empregos e aumenta pressão sobre Milei",
+    "descricao": "O presidente da Argentina, Javier Milei, cumprimenta a guarda presidencial montada durante a cerimônia de abertura da 138ª exposição anual da Sociedade Rural, em Buenos Aires. Mariana Nedelcu / Reuters O galpão está às escuras, as máquinas estão desligadas e caixas de mercadorias encalhadas se acumulam. A fábrica de sapatos Kioshi, que tinha 120 funcionários em 2023, conta hoje com apenas 14. O ce",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/12/inflacao-cai-fabricas-fecham-crise-na-industria-argentina-elimina-empregos-e-aumenta-pressao-sobre-milei.ghtml",
     "fonte": "G1 Economia",
     "categoria": "Economia",
     "cor": "#009c3b",
     "urgencia": "alta",
-    "score_relevancia": 3,
-    "pub_date": "Fri, 11 Sep 2026 17:20:02 -0000",
+    "score_relevancia": 2,
+    "pub_date": "Sat, 12 Sep 2026 08:00:00 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
     ]
   },
   "noticias": [
-    {
-      "titulo": "PF conclui que houve fraude em compras de R$ 17,5 bilhões em carteiras do Master pelo BRB",
-      "descricao": "Candidatos ao Senado do DF respondem sobre crise do BRB A Polícia Federal (PF) concluiu que houve gestão fraudulenta de ex-dirigentes do Banco Regional de Brasília (BRB) em operações de compra que somaram R$ 17,5 bilhões em carteiras do banco Master — liquidado pelo Banco Central (BC). A informação consta em laudo, cujo sigilo foi retirado na noite desta quinta-feira (10) pelo ministro André Mendo",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-conclui-que-houve-fraude-em-compras-de-r-175-bilhoes-em-carteiras-do-master-pelo-brb.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "alta",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 11 Sep 2026 17:20:02 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
     {
       "titulo": "Inflação cai, fábricas fecham: crise na indústria argentina elimina empregos e aumenta pressão sobre Milei",
       "descricao": "O presidente da Argentina, Javier Milei, cumprimenta a guarda presidencial montada durante a cerimônia de abertura da 138ª exposição anual da Sociedade Rural, em Buenos Aires. Mariana Nedelcu / Reuters O galpão está às escuras, as máquinas estão desligadas e caixas de mercadorias encalhadas se acumulam. A fábrica de sapatos Kioshi, que tinha 120 funcionários em 2023, conta hoje com apenas 14. O ce",
@@ -46,15 +32,15 @@
       ]
     },
     {
-      "titulo": "Datafolha: mais de 80% dizem que crise no STF não alterou voto para presidente",
-      "descricao": "Na imagem, ministros do STF: Alexandre de Moraes (dir.) e André Mendonça Fotos de: Fabio Rodrigues-Pozzebom da Agência Brasil e Carlos Moura do STF Pesquisa Datafolha divulgada neste sábado (12) mediu o impacto da crise no Supremo Tribunal Federal (STF) na eleição do próximo presidente do Brasil. Segundo o levantamento, 85% disseram que não mudaram de voto após ficarem sabendo da troca de mensagen",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/datafolha-stf-voto.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Crise no STF não altera voto de mais de 80% dos eleitores, mostra Datafolha",
+      "descricao": "Troca de mensagens entre Moraes e Vorcaro levou 4% a mudar escolha para presidente The post Crise no STF não altera voto de mais de 80% dos eleitores, mostra Datafolha appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/crise-no-stf-nao-altera-voto-de-mais-de-80-dos-eleitores-mostra-datafolha/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "alta",
       "score_relevancia": 1,
-      "pub_date": "Sat, 12 Sep 2026 21:21:33 -0000",
+      "pub_date": "Sun, 13 Sep 2026 14:20:19 +0000",
       "setores": [
         "Mercado geral"
       ]
@@ -88,20 +74,6 @@
       ]
     },
     {
-      "titulo": "Eleições 2026: qual é a ordem de votação? Veja como montar sua colinha e treinar em uma urna virtual",
-      "descricao": "Simulador da Justiça Eleitoral permite escolher a eleição e o turno para treinar a votação Reprodução/TSE A 21 dias do primeiro turno das eleições de 2026, já dá para preparar a colinha: em 4 de outubro, o eleitor fará seis escolhas na urna eletrônica, começando por deputado federal e terminando com presidente da República. A sequência inclui dois votos para senador, um após o outro. Para não esqu",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/eleicoes-2026-ordem-votacao-colinha-eleitoral-simulador-urna.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Sun, 13 Sep 2026 03:00:02 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "Durigan diz que fim de taxa das blusinhas traz \"controle\" às importações",
       "descricao": "Ministro da Fazenda participou da cerimônia de sanção do projeto que oficializa o fim do imposto de importação de 20% sobre compras internacionais de até US$ 50",
       "link": "https://www.correiobraziliense.com.br/economia/2026/09/7497865-durigan-diz-que-fim-de-taxa-das-blusinhas-traz-controle-as-importacoes.html",
@@ -116,89 +88,18 @@
       ]
     },
     {
-      "titulo": "Ataques russos deixam 8 mortos e dezenas de feridos na Ucrânia",
-      "descricao": "Ação ocorreu depois do presidente da Rússia, Vladimir Putin, advertir que o envio de tropas europeias ao país equivaleria a conflito direto The post Ataques russos deixam 8 mortos e dezenas de feridos na Ucrânia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/ataques-russos-deixam-8-mortos-e-dezenas-de-feridos-na-ucrania/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 12 Sep 2026 22:52:03 +0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Medicamentos raros, reavaliação do impacto: veja como ficam as compras internacionais sem a taxa das blusinhas",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quinta-feira (10) o fim da chamada \"taxa das blusinhas\", imposto de importação para compras internacionais de até US$ 50. A medida está em vigor desde maio e se torna permanente com regras para a proteção do setor produtivo brasileiro. De acordo com o texto atual, as compras internacionais feitas por brasileiros para serem entregues no Br",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/12/medicamentos-raros-reavaliacao-do-impacto-veja-como-ficam-as-compras-internacionais-sem-a-taxa-das-blusinhas.ghtml",
+      "titulo": "Paralisação em oleoduto da Arábia Saudita ameaça perda de 4% da oferta global de petróleo",
+      "descricao": "A Arábia Saudita ficará sem estoques de petróleo para exportação se não reiniciar seu principal oleoduto para o Mar Vermelho dentro de alguns dias, levando a uma perda de até 4% do suprimento global, disseram compradores e negociantes de petróleo sauditas neste domingo (13). Uma nova queda nos fluxos sauditas piorará a escassez global de oferta, que já impulsionou os preços dos combustíveis no mun",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/13/paralisacao-em-oleoduto-da-arabia-saudita-ameaca-perda-de-4percent-da-oferta-global-de-petroleo.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sat, 12 Sep 2026 03:00:00 -0000",
+      "pub_date": "Sun, 13 Sep 2026 12:50:35 -0000",
       "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "PF vê indícios de irregularidades em R$ 7 bilhões em créditos cedidos ao Master em investigação que envolve operações com o BRB",
-      "descricao": "Vorcaro teve acesso a dados sigilosos do MPF A Polícia Federal (PF) identificou fortes indícios de irregularidades na transferência de R$ 7,15 bilhões em créditos da empresa Tirreno Consultoria Promotoria de Créditos e Participações ao Banco Master em 2024 e 2025. No laudo, a PF afirma que a Tirreno não tinha capacidade compatível para a originação dos créditos (geração ou concessão dos empréstimo",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/11/pf-ve-indicios-de-irregularidades-em-r-716-bilhoes-em-creditos-cedidos-ao-master-parte-dos-valores-foi-repassado-ao-brb.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 11 Sep 2026 14:37:06 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Prioridade para PT e PL, votação para o Senado tem mais votos brancos e nulos que para presidente e governador",
-      "descricao": "Guia do eleitor: saiba como votar para as duas vagas para o Senado e evitar erros A eleição para o Senado Federal, uma das prioridades para o PL e para o PT, enfrenta uma dificuldade natural: a não votação. A eleição de senador é a que registra os maiores percentuais de votos brancos e nulos entre as que precisam de voto direto no candidato. 🔎 A não votação ocorre quando o eleitor comparece às urn",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/prioridade-para-pt-e-pl-votacao-para-o-senado-tem-mais-votos-brancos-e-nulos-que-para-presidente-e-governador.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sun, 13 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Fachin assume relatoria da discussão sobre suposta relação entre Moraes e Vorcaro e remete à presidência do STF investigações sobre INSS e Master",
-      "descricao": "Fachin relatará mensagens entre Vorcaro e Moraes e pede dados de Master e INSS O presidente do Supremo Tribunal Federal (STF), Edson Fachin, assumiu a relatoria da discussão sobre a suposta relação entre o ministro Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro e determinou a remessa à Presidência da Corte dos processos relacionados às investigações sobre as fraudes do INSS e do banco Master.",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/fachin-assume-relatoria-de-discussao-sobre-suposta-relacao-entre-moraes-e-vorcaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 12 Sep 2026 23:23:55 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Fachin dá 24 horas para PF prestar informações sobre celular de Vorcaro",
-      "descricao": "Fachin dá prazo de 24 horas para a PF se manifestar sobre celular de Daniel Vorcaro O presidente do Supremo Tribunal Federal, ministro Luiz Edson Fachin, deu 24 horas para a Polícia Federal prestar informações sobre o celular do ex-banqueiro Daniel Vorcaro e as condições em que se encontra o material. A determinação de Fachin veio em resposta às manifestações dos ministros Gilmar Mendes, Cristiano",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/fachin-da-24-horas-para-pf-prestar-informacoes-sobre-celular-de-vorcaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 12 Sep 2026 21:23:59 -0000",
-      "setores": [
-        "Mercado geral"
       ]
     },
     {
@@ -245,59 +146,88 @@
       ]
     },
     {
-      "titulo": "Fachin assume relatoria de ação sobre conversas entre Moraes e Vorcaro",
-      "descricao": "Presidente do Supremo tirou André Mendonça da relatoria do processo neste sábado The post Fachin assume relatoria de ação sobre conversas entre Moraes e Vorcaro appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/fachin-assume-relatoria-de-acao-sobre-conversas-entre-moraes-e-vorcaro/",
+      "titulo": "Infraestrutura ainda é desafio para soberania digital",
+      "descricao": "Com orçamento de R$ 23 bilhões, Plano Brasileiro de Inteligência Artificial prevê a ampliação da infraestrutura tecnológica, formação de profissionais, transferência de tecnologia, pesquisa e desenvolvimento de sistemas nacionais",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7499264-infraestrutura-ainda-e-desafio-para-soberania-digital.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 12 Sep 2026 23:10:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Trump rebate alerta de CEOs sobre IA: “Somos o país mais sofisticado do mundo”",
+      "descricao": "Presidente diz que Estados Unidos lideram a corrida tecnológica e critica \"forças negativas\" após executivos de IA pedirem mais cautela no desenvolvimento de modelos avançados The post Trump rebate alerta de CEOs sobre IA: &#8220;Somos o país mais sofisticado do mundo&#8221; appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-rebate-alerta-de-ceos-sobre-ia-somos-o-pais-mais-sofisticado-do-mundo/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 13 Sep 2026 00:06:00 +0000",
+      "pub_date": "Sun, 13 Sep 2026 16:13:00 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Mendonça defende decisão de julgar Moraes no plenário e devolve processo a Fachin",
-      "descricao": "Decisão de devolução tinha sido tomada pelo próprio presidente da Corte, Luiz Edson Fachin The post Mendonça defende decisão de julgar Moraes no plenário e devolve processo a Fachin appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/mendonca-defende-decisao-de-julgar-moraes-no-plenario-e-devolve-processo-a-fachin/",
+      "titulo": "Dino: inquérito aponta desvio de emendas em SP e menciona ligação entre PCC e Frias",
+      "descricao": "Frias é roteirista e produtor-executivo do filme \"Dark Horse\", que conta a história do ex-presidente Jair Bolsonaro (PL) The post Dino: inquérito aponta desvio de emendas em SP e menciona ligação entre PCC e Frias appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/dino-inquerito-aponta-desvio-de-emendas-em-sp-e-menciona-ligacao-entre-pcc-e-frias/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 12 Sep 2026 22:55:00 +0000",
+      "pub_date": "Sun, 13 Sep 2026 15:05:20 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Tesla dá prévia de evento em 1º de outubro para apresentar o Roadster de nova geração",
-      "descricao": "Empresa anunciou data que deve provocar mais especulações sobre fusão com SpaceX: 'Pronto para lançamento' The post Tesla dá prévia de evento em 1º de outubro para apresentar o Roadster de nova geração appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/tesla-da-previa-de-evento-em-1o-de-outubro-para-apresentar-o-roadster-de-nova-geracao/",
+      "titulo": "PF diz a Fachin que pode compartilhar dados do celular de Vorcaro com ministros",
+      "descricao": "Zanin, Moraes e Gilmar pediram acesso ao material antes do julgamento previsto para terça-feira; decisão agora depende do presidente do STF The post PF diz a Fachin que pode compartilhar dados do celular de Vorcaro com ministros appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/pf-diz-a-fachin-que-pode-compartilhar-dados-do-celular-de-vorcaro-com-ministros/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 12 Sep 2026 22:15:00 +0000",
+      "pub_date": "Sun, 13 Sep 2026 15:02:33 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "SpaceX vai ganhar mais peso no Nasdaq 100 após rebalanceamento",
-      "descricao": "Mudança pode gerar bilhões de dólares em compras por parte de fundos passivos atrelados ao índice The post SpaceX vai ganhar mais peso no Nasdaq 100 após rebalanceamento appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/spacex-vai-ganhar-mais-peso-no-nasdaq-100-apos-rebalanceamento/",
+      "titulo": "PF aponta fraude de R$ 17 bilhões em operações entre Master e BRB",
+      "descricao": "O Master vendeu carteiras de crédito fictícias para o BRB, banco estatal do Distrito Federal The post PF aponta fraude de R$ 17 bilhões em operações entre Master e BRB appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/pf-aponta-fraude-de-r-17-bilhoes-em-operacoes-entre-master-e-brb/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 12 Sep 2026 21:30:00 +0000",
+      "pub_date": "Sun, 13 Sep 2026 14:36:13 +0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Cidades do noroeste paulista investem na experiência do campo para atrair visitantes",
+      "descricao": "Colheita de frutas é uma das atrações do turismo rural na região de Jales (SP) Reprodução / TV TEM O turismo rural cresce na região de Jales (SP) e atrai visitantes com colheita de frutas, culinária caipira e campos de girassóis. A proposta é oferecer experiências no campo, como colher uvas e morangos e aproveitar refeições típicas. Urânia (SP) foi pioneira no turismo rural da região. Desde 2014, ",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/13/cidades-do-noroeste-paulista-investem-na-experiencia-do-campo-para-atrair-visitantes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 13 Sep 2026 10:30:01 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -310,105 +240,6 @@
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Sun, 13 Sep 2026 03:00:01 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Banco Master e BRB: PF aponta pagamentos antecipados, compras fracionadas e falhas nos controles",
-      "descricao": "Entrada do BRB, Banco de Brasília, em 18 de novembro de 2025. Reuters/Mateus Bonomi A relação entre o Banco Master e o Banco de Brasília (BRB) ganhou novos contornos nesta semana, após o ministro André Mendonça, do Supremo Tribunal Federal (STF), levantar o sigilo das principais investigações sobre o caso. Nos documentos, a Polícia Federal (PF) apresenta novos elementos que sustentam a linha de in",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/11/banco-master-brb-laudo-policia-federal.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 11 Sep 2026 17:50:33 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "China e Irã estão entre países que utilizaram IA para espionagem, diz Anthropic",
-      "descricao": "Anthropic bloqueia uso de IA em pesquisa de armas biológicas A Anthropic anunciou nesta semana que encerrou várias operações de vigilância patrocinadas por Estados que utilizavam seus modelos de inteligência artificial (IA) e alertou que governos e atores alinhados a eles recorrem cada vez mais à IA para espionar minorias e dissidentes. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/11/china-e-ira-estao-entre-paises-que-utilizaram-ia-para-espionagem-diz-anthropic.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 11 Sep 2026 15:55:15 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Governadores do Brasil: quem governa cada estado e até quando vai o mandato",
-      "descricao": "Urna eletrônica Divulgação O Brasil tem 26 estados e o Distrito Federal, cada um com um governador à frente do Poder Executivo. Em 2026, os eleitores voltarão às urnas para escolher os governadores e vice-governadores das 27 unidades da Federação. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia O primeiro turno das eleições será em 4 de outubro de 2026. Se houver segundo turno, ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/governadores-do-brasil-quem-governa-cada-estado-e-ate-quando-vai-o-mandato.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 13 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "VÍDEO: como baixar e usar o e-Título",
-      "descricao": "Guia do Eleitor: Como baixar e usar o E-Título? O e-título é o aplicativo da Justiça Eleitoral que funciona como a via digital do seu título de eleitor. Para usá-lo, primeiramente, deve ser feito o download do app no celular ou tablet, nas plataformas iOS ou Android. O aplicativo pode substituir o título de eleitor impresso e o documento com foto nas eleições se você já tiver feito o cadastramento",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/13/video-como-baixar-e-usar-o-e-titulo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 13 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Renan Santos critica bolsonarismo em SC e defende pena de 30 anos para assalto à mão armada",
-      "descricao": "Renan Santos, candidato do Missão, à presidência cumpriu agenda em Santa Catarina TV Globo/Reprodução O candidato do Missão à presidência da República Renan Santos cumpriu agenda de campanha neste sábado (12) em Joinville, cidade mais populosa de Santa Catarina. Durante congresso promovido pelo partido, disse que busca combater o bolsonarismo no estado, e reforçou bandeiras como a revisão do pacto",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/renan-santos-agenda-joinville-santa-catarina.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 13 Sep 2026 00:33:35 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "PF pediu mansão de R$ 30 milhões de Vorcaro com spa e bares como base de trabalho; Mendonça negou",
-      "descricao": "A Polícia Federal pediu ao ministro André Mendonça, do Supremo Tribunal Federal, autorização para usar um imóvel de luxo do ex-banqueiro Daniel Vorcaro como base de trabalho. A demanda foi rejeitada pelo magistrado. As informações constam no relatório da Polícia Federal tornado público a partir da quebra de sigilo das investigações relacionadas com o caso Master determinada pelo ministro do Suprem",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/pf-pediu-mansao-de-r-30-milhoes-de-vorcaro-com-spa-e-bares-como-base-de-trabalho-mendonca-negou.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 12 Sep 2026 22:21:37 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
-      "descricao": "O inquérito da Polícia Federal sobre o filme Dark Horse, que apura suspeitas de irregularidades no financiamento da produção, que recebeu recursos de Daniel Vorcaro, traz novos detalhes sobre o orçamento do longa-metragem. O documento integra um dos inquéritos relacionados ao Banco Master tornados públicos na noite desta sexta-feira (11/9) por decisão do ministro André Mendonça, do Supremo Tribuna",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/os-numeros-milionarios-de-dark-horse-que-flavio-bolsonaro-prometeu-a-vorcaro-cache-de-oppenheimer-bilheteria-da-zendaya.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 12 Sep 2026 21:49:00 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
@@ -439,6 +270,136 @@
       "pub_date": "Fri, 11 Sep 2026 11:46:00 -0300",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Minha Casa, Minha Vida: conselho do FGTS aumenta subsídios para 2026",
+      "descricao": "O Conselho Curador do FGTS aprovou nesta quinta-feira (10) um aumento de R$ 500 milhões de subsídios para o programa Minha Casa, Minha Vida em 2026. O valor subiu de R$ 12,5 bilhões para R$ 13 bilhões. A alteração vale apenas para este ano. O plano plurianual de 2027 a 2029 será discutido na próxima reunião do conselho, prevista para o fim de outubro. Notícias relacionadas: Saiba quanto o trabalha",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/minha-casa-minha-vida-conselho-do-fgts-aumenta-subsidios-para-2026",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 15:36:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
+      ]
+    },
+    {
+      "titulo": "Caixa entra em greve nacional; BB tem paralisação parcial",
+      "descricao": "Funcionários da Caixa Econômica Federal iniciaram nesta quinta-feira (10) uma greve nacional por tempo indeterminado. No Banco do Brasil, a paralisação ocorre de forma parcial, nas bases sindicais que rejeitaram a proposta de acordo da categoria. As mobilizações ocorrem após meses de negociações entre bancos e representantes dos trabalhadores. Na quarta-feira (9), a Federação Nacional dos Bancos (",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-entra-em-greve-nacional-bb-tem-paralisacao-parcial",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 15:19:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Transpetro prorroga prazo de inscrição em concurso para 21 de setembro",
+      "descricao": "A Transpetro, subsidiária de logística da Petrobras, informou que o prazo para inscrição no concurso público da companhia, que terminaria na próxima terça-feira (15), foi prorrogado para 21 de setembro. A data da prova também foi alterada, de 29 de novembro para 6 de dezembro, um domingo. O novo cronograma foi publicado no Diário Oficial da União desta quinta-feira (10). A companhia não informou o",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/transpetro-prorroga-prazo-de-inscricao-em-concurso-para-21-de-setembro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 15:04:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Brasileiros retiram R$ 10,5 bilhões da poupança em agosto",
+      "descricao": "O saldo da aplicação na caderneta de poupança caiu em agosto deste ano, com registro de mais saques do que depósitos. As saídas superaram as entradas em R$ 10,5 bilhões, de acordo com relatório divulgado nesta quinta-feira (10) pelo Banco Central (BC). No mês passado, foram aplicados R$ 357,7 bilhões, contra saques de R$ 368,2 bilhões. Os rendimentos creditados nas contas de poupança somaram R$ 6,",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasileiros-retiram-r-105-bilhoes-da-poupanca-em-agosto",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 14:32:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Durigan: é preciso estabilizar regras fiscais e apontar caminho para desenvolvimento econômico",
+      "descricao": "Segundo Durigan, o debate está muito centrado na questão fiscal, que tem sua razão, mas seria preciso olhar para como o Brasil pode entrar no trilho do desenvolvimento mundial",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7498417-durigan-e-preciso-estabilizar-regras-fiscais-e-apontar-caminho-para-desenvolvimento-economico.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 11 Sep 2026 10:33:28 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Setor de serviços anda de lado no mês de julho e tem variação nula",
+      "descricao": "Conforme dados do IBGE, o volume de serviços em julho teve variação de 0%, na comparação com o mês anterior, quando o segmento teve variação positiva de 0,1%, confirmando o processo de desaceleração da economia",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7498088-setor-de-servicos-anda-de-lado-no-mes-de-julho.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 18:40:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula chama de \"falso\" discurso de que fim da taxa das blusinhas prejudica o varejo",
+      "descricao": "Declaração ocorreu em meio a críticas de entidades empresariais de que o fim do imposto de importação prejudicaria a indústria nacional",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7497809-lula-chama-de-falso-discurso-de-que-fim-da-taxa-das-blusinhas-prejudica-o-varejo.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 17:07:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Petrobras recua em reajuste da gasolina após governo aumentar subsídios",
+      "descricao": "Petrobras suspende reajuste de R$ 0,19 por litro da gasolina, após governo aumentar subvenção de R$ 0,44 para R$ 0,63 por litro, mas aguarda definições da nova medida provisória que aumentou o subsídio sobre o diesel em R$ 1 por litro",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7497936-petrobras-recua-em-reajuste-da-gasolina-apos-governo-aumentar-subsidios.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 15:55:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Opep mantém previsões para alta da oferta de petróleo fora da Opep+ em 2026 e 2027",
+      "descricao": "Cartel manteve a previsão de aumento da oferta da commodity entre os países fora da Opep+ em 2026 e para 2027 em 600 mil barris por dia (bpd), segundo relatório mensal",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7497825-opep-mantem-previsoes-para-alta-da-oferta-de-petroleo-fora-da-opep-em-2026-e-2027.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 10 Sep 2026 14:44:16 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
     }
   ]

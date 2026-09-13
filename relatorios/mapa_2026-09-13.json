@@ -1,7 +1,7 @@
 {
   "data_iso": "2026-09-13",
-  "gerado_em": "13/09/2026 03:22",
-  "total": 193,
+  "gerado_em": "13/09/2026 13:28",
+  "total": 191,
   "acoes": [
     {
       "ticker": "AGRO3",
@@ -13,17 +13,6 @@
       "classificacao": "OBSERVAR",
       "setor": "Financeiro",
       "volume": 324100
-    },
-    {
-      "ticker": "AGXY3",
-      "preco": 0.89,
-      "var_1d": -25.21,
-      "var_20d": -40.67,
-      "rsi": 8.9,
-      "score": 50,
-      "classificacao": "OBSERVAR",
-      "setor": "Distribuição",
-      "volume": 459800
     },
     {
       "ticker": "WIZC3",
@@ -552,17 +541,6 @@
       "classificacao": "NEUTRO",
       "setor": "Indústria de Processo",
       "volume": 1189300
-    },
-    {
-      "ticker": "VTRU3",
-      "preco": 14.65,
-      "var_1d": -2.33,
-      "var_20d": 11.32,
-      "rsi": 61.7,
-      "score": 25,
-      "classificacao": "NEUTRO",
-      "setor": "Serviços Comerciais",
-      "volume": 483200
     },
     {
       "ticker": "HBRE3",
