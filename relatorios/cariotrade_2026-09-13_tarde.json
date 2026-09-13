@@ -3,7 +3,7 @@
   "data_iso": "2026-09-13",
   "turno": "tarde",
   "turno_label": "Tarde (13:00)",
-  "hora_geracao": "03:16",
+  "hora_geracao": "13:21",
   "semaforo": "verde",
   "macro": {
     "ibovespa": "187.207",
@@ -14,13 +14,9 @@
     "brent_var": 0.0,
     "selic": "14.00",
     "ipca_12m": "4.22",
-    "atualizado_em": "13/09/2026 03:21"
+    "atualizado_em": "13/09/2026 13:27"
   },
   "tops": [
-    {
-      "ticker": "AGXY3",
-      "score_trader": 90
-    },
     {
       "ticker": "GFSA3",
       "score_trader": 55
@@ -36,42 +32,13 @@
     {
       "ticker": "EVEN3",
       "score_trader": 35
+    },
+    {
+      "ticker": "PCAR3",
+      "score_trader": 35
     }
   ],
   "candidatos": [
-    {
-      "ticker": "AGXY3",
-      "preco": "0,89",
-      "var_1d": "-25,21",
-      "var_5d": "-33,58",
-      "var_20d": "-40,67",
-      "rsi": "8,9",
-      "macd_hist": "-0,03",
-      "bb_pct": "-43,6",
-      "vol_ratio": "8,37",
-      "atr_pct": "10,17",
-      "dist_min52": "6,0",
-      "dist_max52": "582,0",
-      "pl": "-",
-      "pvp": "-0,08",
-      "dy": "-",
-      "roe": "-",
-      "score": "50",
-      "classificacao": "OBSERVAR",
-      "score_trader": 90,
-      "classificacao_trader": "FORTE OPORTUNIDADE",
-      "sinais_trader": [
-        "RSI sobrevendido (9)",
-        "Preço tocando banda inferior Bollinger",
-        "Volatilidade alta (ATR 10.2%)",
-        "Volume alto (8.4x)",
-        "Small Cap (potencial alto)"
-      ],
-      "liquidez": "baixa",
-      "gema": "True",
-      "volume_dia": "459800",
-      "alerta_spike": false
-    },
     {
       "ticker": "GFSA3",
       "preco": "0,3",
@@ -582,36 +549,6 @@
       "liquidez": "baixa",
       "gema": "True",
       "volume_dia": "235700",
-      "alerta_spike": false
-    },
-    {
-      "ticker": "VTRU3",
-      "preco": "14,65",
-      "var_1d": "-2,33",
-      "var_5d": "1,03",
-      "var_20d": "11,32",
-      "rsi": "61,7",
-      "macd_hist": "0,085",
-      "bb_pct": "77,2",
-      "vol_ratio": "0,65",
-      "atr_pct": "4,44",
-      "dist_min52": "47,8",
-      "dist_max52": "18,4",
-      "pl": "2.0",
-      "pvp": "0,53",
-      "dy": "17.0%",
-      "roe": "32.4%",
-      "score": "25",
-      "classificacao": "NEUTRO",
-      "score_trader": 25,
-      "classificacao_trader": "NEUTRO",
-      "sinais_trader": [
-        "Volatilidade alta (ATR 4.4%)",
-        "Small Cap (potencial alto)"
-      ],
-      "liquidez": "baixa",
-      "gema": "True",
-      "volume_dia": "483200",
       "alerta_spike": false
     },
     {
@@ -5600,39 +5537,6 @@
     }
   ],
   "candidatos_top": [
-    {
-      "ticker": "AGXY3",
-      "preco": "0,89",
-      "var_1d": "-25,21",
-      "var_5d": "-33,58",
-      "var_20d": "-40,67",
-      "rsi": "8,9",
-      "macd_hist": "-0,03",
-      "bb_pct": "-43,6",
-      "vol_ratio": "8,37",
-      "atr_pct": "10,17",
-      "dist_min52": "6,0",
-      "dist_max52": "582,0",
-      "pl": "-",
-      "pvp": "-0,08",
-      "dy": "-",
-      "roe": "-",
-      "score": "50",
-      "classificacao": "OBSERVAR",
-      "score_trader": 90,
-      "classificacao_trader": "FORTE OPORTUNIDADE",
-      "sinais_trader": [
-        "RSI sobrevendido (9)",
-        "Preço tocando banda inferior Bollinger",
-        "Volatilidade alta (ATR 10.2%)",
-        "Volume alto (8.4x)",
-        "Small Cap (potencial alto)"
-      ],
-      "liquidez": "baixa",
-      "gema": "True",
-      "volume_dia": "459800",
-      "alerta_spike": false
-    },
     {
       "ticker": "GFSA3",
       "preco": "0,3",
