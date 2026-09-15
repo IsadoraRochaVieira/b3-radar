@@ -252,7 +252,10 @@ def calcular_indicadores(ticker: str) -> dict | None:
         
         # ── SPIKE PREDICTOR (Detecção de Anomalia Extrema) ──
         alerta_spike = False
-        if vol_ratio >= 3.0 and bb_pct_v > 0.7 and macd_h_v > 0:
+        movimento_extremo = var_1d >= 15 or rsi_v >= 75 or bb_pct_v >= 1.25
+        # O alerta deve antecipar uma possível expansão, não premiar um preço que
+        # já disparou. Movimentos extremos são tratados como risco de perseguição.
+        if vol_ratio >= 3.0 and 0.7 < bb_pct_v < 1.25 and macd_h_v > 0 and var_1d < 15 and rsi_v < 75:
             alerta_spike = True
 
         if rsi_v < 35:
@@ -284,7 +287,13 @@ def calcular_indicadores(ticker: str) -> dict | None:
             score_trader += 10
             sinais_trader.append("Small Cap (potencial alto)")
 
-        if score_trader >= 60:
+        if movimento_extremo:
+            score_trader -= 50
+            sinais_trader.append("⚠️ Movimento extremo já realizado — risco de perseguir preço")
+
+        if movimento_extremo:
+            clf_trader = "EVITAR"
+        elif score_trader >= 60:
             clf_trader = "FORTE OPORTUNIDADE"
         elif score_trader >= 40:
             clf_trader = "OBSERVAR"
