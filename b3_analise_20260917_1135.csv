@@ -1,0 +1,141 @@
+ticker;preco;var_1d;var_5d;var_20d;rsi;macd_hist;bb_pct;vol_ratio;atr_pct;dist_min52;dist_max52;pl;pvp;dy;roe;score;classificacao;score_trader;classificacao_trader;sinais_trader;liquidez;gema;volume_dia;alerta_spike
+CURY3;29,18;-4,23;-9,88;-7,22;37,4;-0,378;-1,9;0,64;4,65;10,4;37,9;8.0;5,43;-;68.5%;60;FORTE OPORTUNIDADE;35;NEUTRO;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.6%)'];alta;False;1922200;False
+OPCT3;9,22;-11,77;-17,31;-3,56;32,8;-0,1;-3,6;1,06;5,67;27,5;27,0;11.0;1,78;-;17.2%;60;FORTE OPORTUNIDADE;75;OBSERVAR;['RSI sobrevendido (33)', 'Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 5.7%)', 'Small Cap (potencial alto)', '⚠️ Baixa liquidez — não elegível a oportunidade forte'];baixa;True;953400;False
+CMIN3;5,75;-5,43;-17,74;-2,71;41,7;-0,093;19,3;0,54;5,58;40,9;23,0;18.0;4,23;-;28.1%;55;OBSERVAR;35;NEUTRO;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 5.6%)'];alta;False;3987900;False
+DIRR3;9,94;-1,39;-9,14;-5,42;32,5;-0,09;4,1;0,38;4,43;1,9;73,6;6.1;2,22;-;41.9%;55;OBSERVAR;65;FORTE OPORTUNIDADE;['RSI sobrevendido (33)', 'Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.4%)'];alta;False;3502600;False
+CPFE3;44,53;-1,35;-4,11;5,3;47,0;-0,078;42,7;0,53;2,82;27,5;19,0;8.5;2,26;-;27.3%;50;OBSERVAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;906700;False
+KEPL3;6,43;0,31;-3,6;13,01;49,5;-0,019;42,9;0,68;2,45;15,4;63,3;7.9;1,4;-;18.3%;50;OBSERVAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;812800;False
+JALL3;2,29;-0,43;-12,93;3,15;43,8;-0,052;3,7;0,37;5,48;21,8;65,7;-;0,36;-;-2.6%;50;OBSERVAR;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 5.5%)', 'Small Cap (potencial alto)'];baixa;True;451700;False
+OBTC3;6,43;2,23;-12,28;-6,13;44,7;-0,086;17,3;0,14;7,31;12,6;77,0;-;1,8;-;-;45;OBSERVAR;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 7.3%)', 'Small Cap (potencial alto)'];baixa;True;254300;False
+SHUL4;4,32;-0,92;-4,0;-1,14;38,5;-0,015;5,5;0,54;2,2;9,1;28,8;5.9;0,99;-;16.9%;45;OBSERVAR;30;NEUTRO;['Preço tocando banda inferior Bollinger', 'Small Cap (potencial alto)'];baixa;True;237700;False
+RADL3;20,2;-0,15;2,23;14,0;59,6;0,006;74,3;0,22;3,47;25,5;34,3;23.8;4,84;-;20.0%;40;OBSERVAR;35;NEUTRO;['MACD cruzou para positivo', 'Volatilidade alta (ATR 3.5%)'];alta;False;1528700;False
+MDNE3;23,68;-4,82;-9,55;2,2;41,7;-0,077;19,5;0,48;4,59;16,5;44,8;4.0;1,07;-;28.0%;40;OBSERVAR;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.6%)', 'Small Cap (potencial alto)'];baixa;True;369300;False
+SAUD3;14,37;-1,84;-7,29;3,23;48,0;0,013;47,6;1,11;3,32;39,1;14,7;12.7;2,25;-;10.5%;35;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.3%)'];alta;False;7241200;False
+PRIO3;61,72;-1,37;-3,85;0,31;49,4;-0,103;37,3;0,78;3,27;80,6;18,2;12.9;1,75;-;14.2%;35;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.3%)'];alta;False;5974600;False
+VALE3;74,02;1,4;-5,38;2,62;42,2;-0,717;10,6;0,28;2,75;41,6;20,4;28.8;1,6;-;4.1%;35;NEUTRO;20;NEUTRO;['Preço tocando banda inferior Bollinger'];alta;False;5498700;False
+RCSL3;0,57;9,62;35,71;39,02;75,8;0,017;130,7;2,26;8,37;62,9;105,3;9.5;-5,28;-;-;35;NEUTRO;-40;EVITAR;['Volatilidade alta (ATR 8.4%)', 'Volume alto (2.3x)', '⚠️ Movimento extremo já realizado — risco de perseguir preço'];alta;False;1286300;False
+POMO3;4,12;-3,74;-3,29;9,02;44,2;0,021;36,4;0,71;3,43;11,0;58,5;4.3;1,21;-;28.3%;35;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.4%)'];alta;False;1169000;False
+TEND3;29,36;-4,61;-11,3;-8,39;35,7;-0,451;-4,0;0,4;5,25;43,0;26,8;6.2;2,34;-;40.6%;35;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 5.3%)', 'Small Cap (potencial alto)'];baixa;True;890100;False
+PLPL3;6,68;-2,48;-7,22;-3,05;43,0;-0,035;13,7;0,4;5,64;4,0;160,2;4.4;1,21;-;31.8%;35;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 5.6%)', 'Small Cap (potencial alto)'];baixa;True;717900;False
+LWSA3;3,93;-2,0;-2,96;2,08;44,2;-0,036;11,9;0,19;3,71;21,2;20,9;-;0,91;-;-7.8%;35;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 3.7%)', 'Small Cap (potencial alto)'];baixa;True;541000;False
+PASS3;22,84;-0,87;-4,48;7,99;45,2;0,04;43,2;0,18;3,19;11,7;24,1;14.2;2,7;-;17.4%;35;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 3.2%)', 'Small Cap (potencial alto)'];baixa;True;217600;False
+LAVV3;10,31;-3,73;-6,44;8,18;48,1;0,015;43,4;0,41;4,43;13,3;84,1;5.6;1,39;-;24.0%;35;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 4.4%)', 'Small Cap (potencial alto)'];baixa;True;204700;False
+CMIG4;11,12;-1,94;-2,97;9,34;53,3;0,032;61,7;0,6;2,59;16,8;19,9;6.9;1,09;-;15.9%;30;NEUTRO;0;EVITAR;[];alta;False;9494100;False
+ITUB4;42,46;-0,38;0,26;10,71;60,6;0,263;74,9;0,26;2,34;27,9;14,6;10.1;2,15;-;21.5%;30;NEUTRO;0;EVITAR;[];alta;False;6147600;False
+ITSA4;14,07;-0,92;-0,71;13,86;62,7;0,081;72,8;0,24;2,21;44,8;6,8;8.7;1,68;-;18.9%;30;NEUTRO;0;EVITAR;[];alta;False;4710200;False
+UGPA3;38,5;-1,1;-0,08;16,8;73,4;0,096;77,3;0,47;2,66;108,4;1,2;11.7;2,5;-;19.8%;30;NEUTRO;-20;EVITAR;[];alta;False;4528500;False
+BEEF3;4,0;0,0;0,5;12,04;57,9;-0,0;61,3;0,17;4,31;34,7;82,9;10.3;2,51;-;23.2%;30;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 4.3%)'];alta;False;3341700;False
+CVCB3;1,5;-1,96;-6,25;0,67;42,7;-0,042;11,3;0,19;6,96;41,5;86,0;50.0;2,42;-;-33.3%;30;NEUTRO;35;NEUTRO;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 7.0%)'];alta;False;2513500;False
+MOTV3;16,03;-1,23;-3,84;20,0;65,3;0,048;66,7;0,12;2,64;24,1;5,9;9.5;1,82;-;22.0%;30;NEUTRO;0;EVITAR;[];alta;False;1825600;False
+RDOR3;36,71;-1,53;-3,55;9,09;55,0;0,001;59,3;0,4;3,05;14,1;22,5;16.7;4,08;-;19.8%;30;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.1%)'];alta;False;1630000;False
+PETR3;53,48;-0,65;-2,12;14,21;60,9;0,117;67,3;0,15;2,76;88,0;5,9;5.3;1,43;-;30.3%;30;NEUTRO;0;EVITAR;[];alta;False;1506900;False
+SEER3;13,9;-1,07;-1,42;34,12;65,2;0,082;71,7;0,66;4,03;78,3;2,4;6.6;1,17;-;19.1%;30;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 4.0%)'];alta;False;1096200;False
+MULT3;29,54;-1,73;-2,8;11,51;55,9;0,093;62,9;0,27;2,7;15,3;19,4;10.6;2,15;-;21.9%;30;NEUTRO;0;EVITAR;[];alta;False;1057500;False
+VBBR3;38,36;-1,79;0,29;8,33;65,9;0,243;78,9;0,11;2,71;91,9;2,4;9.0;1,95;-;22.6%;30;NEUTRO;0;EVITAR;[];alta;False;1044500;False
+MBRF3;16,76;-1,47;-1,06;-3,18;42,9;-0,192;10,3;0,23;3,8;15,7;65,0;59.9;2,04;-;0.9%;30;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 3.8%)', 'Small Cap (potencial alto)'];baixa;True;993900;False
+NATU3;7,85;-0,88;-7,76;3,15;36,8;-0,12;13,5;0,12;4,32;10,1;42,0;-;0,86;-;-2.5%;30;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.3%)', 'Small Cap (potencial alto)'];baixa;True;830400;False
+BBSE3;40,23;-0,89;-2,35;9,74;53,2;-0,121;53,0;0,13;2,48;43,3;6,8;8.5;7,17;-;85.9%;30;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;736200;False
+SUZB3;47,1;0,86;-2,08;9,36;60,7;-0,087;65,0;0,1;2,18;20,2;26,6;7.2;1,33;-;17.6%;30;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;540500;False
+AZEV4;1,27;-0,78;-7,3;-3,79;40,9;-0,022;13,9;0,09;14,85;10,4;687,4;-;0,34;-;-111.2%;30;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 14.9%)', 'Small Cap (potencial alto)'];baixa;True;529100;False
+ALPA4;13,3;0,53;0,38;3,99;51,4;-0,11;42,2;0,23;3,94;69,8;22,0;13.4;2,5;-;18.1%;30;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 3.9%)', 'Small Cap (potencial alto)'];baixa;True;521700;False
+GGPS3;12,91;-1,0;-2,05;12,75;57,9;-0,006;63,0;0,1;3,21;18,9;52,2;10.2;2,16;-;22.3%;30;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 3.2%)', 'Small Cap (potencial alto)'];baixa;True;251700;False
+INTB3;15,08;0,6;-2,14;4,79;56,5;-0,028;65,5;0,25;3,05;52,2;3,8;8.2;1,49;-;18.6%;30;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 3.0%)', 'Small Cap (potencial alto)'];baixa;True;240200;False
+TTEN3;10,57;0,96;-10,35;-0,66;38,6;-0,027;12,0;0,16;4,18;10,0;69,3;-;1,06;-;12.1%;30;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.2%)', 'Small Cap (potencial alto)'];baixa;True;217000;False
+BBDC4;17,96;-1,37;-2,81;12,23;54,9;0,091;64,9;0,34;2,35;15,5;18,1;8.2;1,05;-;13.8%;25;NEUTRO;0;EVITAR;[];alta;False;12405900;False
+BBAS3;22,45;-1,14;-1,54;24,79;63,6;0,11;70,9;0,36;3,18;26,8;22,1;10.4;0,7;-;10.5%;25;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.2%)'];alta;False;11849000;False
+COGN3;2,31;-1,7;-2,94;12,14;51,5;-0,002;52,6;0,31;4,43;16,1;104,6;6.4;0,34;-;4.9%;25;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 4.4%)'];alta;False;7592200;False
+VAMO3;3,34;0,3;-2,91;23,25;57,1;0,01;66,1;0,3;5,4;35,8;47,9;11.9;1,37;-;10.7%;25;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 5.4%)'];alta;False;5538700;False
+CPLE3;16,01;-0,44;-0,81;15,85;69,0;0,063;73,8;0,15;2,15;51,9;5,4;15.0;2,11;-;12.8%;25;NEUTRO;0;EVITAR;[];alta;False;2505000;False
+BBDC3;15,87;-1,37;-2,28;12,36;57,3;0,079;66,2;0,31;2,25;19,4;14,5;7.2;0,93;-;13.8%;25;NEUTRO;0;EVITAR;[];alta;False;2108300;False
+AXIA3;54,6;-1,14;-1,97;7,48;54,5;-0,012;57,8;0,15;2,77;18,0;24,2;10.4;1,28;-;10.0%;25;NEUTRO;0;EVITAR;[];alta;False;1518200;False
+SANB11;30,34;1,88;1,4;5,71;57,9;-0,074;75,5;0,44;2,12;21,7;20,2;14.8;0,89;-;11.2%;25;NEUTRO;0;EVITAR;[];alta;False;1374100;False
+ANIM3;2,88;-1,71;-0,69;31,51;61,0;-0,005;61,3;0,16;4,82;50,0;83,6;7.0;0,45;-;9.6%;25;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 4.8%)'];alta;False;1075600;False
+GMAT3;4,94;0,82;2,28;25,7;70,4;-0,003;74,8;0,49;3,6;44,0;42,5;6.9;1,02;-;14.3%;25;NEUTRO;5;EVITAR;['Volatilidade alta (ATR 3.6%)', 'Small Cap (potencial alto)'];baixa;True;927000;False
+ECOR3;8,02;-2,43;-2,43;31,48;61,0;0,06;72,2;0,19;4,3;37,3;48,8;10.2;1,36;-;12.3%;25;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 4.3%)', 'Small Cap (potencial alto)'];baixa;True;925100;False
+ALOS3;28,07;-1,37;-3,44;10,59;54,9;0,026;59,4;0,2;2,49;33,3;15,5;14.8;1,09;-;7.6%;25;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;824700;False
+PGMN3;3,81;0,0;-0,52;15,45;58,6;0,017;70,7;0,22;4,04;23,3;100,0;7.6;0,8;-;10.6%;25;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 4.0%)', 'Small Cap (potencial alto)'];baixa;True;817400;False
+EZTC3;13,03;-2,4;-0,84;23,27;60,3;0,05;67,5;0,11;3,96;29,3;26,2;7.9;0,69;-;10.6%;25;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 4.0%)', 'Small Cap (potencial alto)'];baixa;True;401700;False
+TIMS3;19,49;-0,46;-0,26;5,87;55,2;0,163;78,5;0,07;2,27;9,2;45,5;10.8;1,91;-;17.3%;25;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;385600;False
+RECV3;11,07;0,27;-5,47;6,24;53,4;-0,037;51,9;0,15;3,17;24,6;24,6;6.5;0,73;-;11.3%;25;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 3.2%)', 'Small Cap (potencial alto)'];baixa;True;312900;False
+EGIE3;30,58;-0,23;-1,35;12,64;60,1;0,133;70,7;0,11;2,21;14,1;24,5;8.9;2,33;-;28.6%;25;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;294600;False
+GRND3;3,68;-0,54;-2,39;6,47;54,7;0,012;63,6;0,11;2,53;10,2;32,7;5.8;1,05;-;16.0%;25;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;288900;False
+POMO4;4,36;-3,75;-4,8;7,4;42,8;0,018;22,8;1,31;3,57;10,8;77,1;4.6;1,28;-;28.3%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.6%)'];alta;False;18191100;False
+RENT3;36,21;-0,63;-1,63;11,38;51,7;0,179;65,9;1,39;3,95;14,1;45,5;11.5;1,48;-;13.0%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 4.0%)'];alta;False;12790300;False
+PETR4;48,35;-0,62;-1,57;15,68;63,7;0,101;68,8;0,23;2,58;81,0;4,9;4.7;1,3;-;30.3%;20;NEUTRO;0;EVITAR;[];alta;False;10221800;False
+B3SA3;17,44;-0,8;-1,25;20,94;65,3;0,042;70,7;0,21;3,13;50,3;14,9;17.4;4,66;-;27.7%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.1%)'];alta;False;7163500;False
+CYRE3;26,4;-0,83;0,88;21,66;65,2;0,082;83,2;0,27;3,86;33,6;36,4;5.7;1,03;-;20.6%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.9%)'];alta;False;2207600;False
+ASAI3;10,11;0,1;2,54;25,12;71,2;0,126;91,2;0,27;4,08;46,3;4,8;14.0;2,13;-;16.2%;20;NEUTRO;-5;EVITAR;['Volatilidade alta (ATR 4.1%)'];alta;False;1925700;False
+VIVT3;30,59;-0,39;0,43;3,06;50,9;0,209;79,8;0,33;1,93;5,9;34,3;14.9;1,49;-;9.9%;20;NEUTRO;0;EVITAR;[];alta;False;1511700;False
+TFCO4;13,02;-1,21;-0,23;1,17;45,2;0,07;56,5;1,4;3,44;5,8;39,6;13.9;3,22;-;25.7%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.4%)'];alta;False;1096500;False
+JHSF3;11,5;-2,04;-4,01;15,55;56,0;0,044;64,1;0,35;4,14;110,4;22,2;3.7;1,02;-;29.3%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 4.1%)'];alta;False;1064000;False
+WEGE3;51,14;-0,27;-1,97;5,42;57,7;-0,149;60,5;0,14;2,41;50,3;6,2;34.3;12,32;-;30.8%;20;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;907400;False
+TOTS3;34,33;0,26;4,03;7,11;58,6;-0,115;63,4;0,24;3,55;28,3;38,9;22.6;3,61;-;17.0%;20;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 3.6%)', 'Small Cap (potencial alto)'];baixa;True;863800;False
+ONCO3;1,03;0,0;-5,5;-18,25;46,5;-0,048;24,6;0,03;17,92;94,3;279,4;-;68,67;-;-273.5%;20;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 17.9%)', 'Small Cap (potencial alto)'];baixa;True;826500;False
+CXSE3;20,41;-0,73;0,49;13,07;60,8;0,122;81,6;0,13;2,5;57,8;8,5;13.5;4,44;-;33.3%;20;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;660600;False
+LIGT3;3,58;-1,1;-4,53;16,23;55,4;-0,008;54,8;0,19;4,7;48,5;81,3;2.4;0,14;-;32.4%;20;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 4.7%)', 'Small Cap (potencial alto)'];baixa;True;544400;False
+BRAP4;21,09;1,15;-5,76;4,35;42,1;-0,166;18,7;0,2;2,83;41,7;21,5;15.1;1,03;-;7.0%;20;NEUTRO;30;NEUTRO;['Preço tocando banda inferior Bollinger', 'Small Cap (potencial alto)'];baixa;True;357100;False
+AZTE3;1,4;2,19;-15,15;16,67;46,8;-0,01;32,6;0,16;11,63;33,3;307,1;4.5;0,2;-;-;20;NEUTRO;25;NEUTRO;['Volatilidade alta (ATR 11.6%)', 'Small Cap (potencial alto)'];baixa;True;322800;False
+EVEN3;4,09;-2,15;-2,62;-3,31;38,4;0,01;17,4;0,26;4,34;3,8;108,6;3.3;0,42;-;11.1%;20;NEUTRO;45;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.3%)', 'Small Cap (potencial alto)'];baixa;True;268900;False
+SAPR4;6,66;0,3;-3,9;6,73;47,2;0,007;47,1;0,23;2,67;7,9;38,6;23.8;0,17;-;3.8%;20;NEUTRO;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;255700;False
+LREN3;11,21;-2,52;-2,1;4,47;44,4;0,109;57,9;0,87;3,89;7,0;47,3;7.5;1,04;-;14.5%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 3.9%)'];alta;False;14946700;False
+GOAU4;11,53;0,7;0,17;12,38;62,1;0,07;78,1;1,1;3,13;70,3;1,5;19.2;0,79;-;4.2%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 3.1%)'];alta;False;10954600;False
+CSNA3;6,23;-3,56;-13,35;40,63;56,8;0,007;61,0;0,44;6,51;48,7;81,7;-;0,68;-;-12.3%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 6.5%)'];alta;False;9647800;False
+PMAM3;0,41;-2,38;-54,44;156,25;53,3;0,013;60,8;0,31;33,16;355,6;298,3;-;-0,01;-;-;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 33.2%)'];alta;False;6218300;False
+MRVE3;5,51;-3,5;-3,67;12,91;54,0;-0,017;50,8;0,47;5,5;31,2;91,1;-;0,68;-;-10.0%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 5.5%)'];alta;False;5384600;False
+SBSP3;26,91;-0,66;-1,39;12,69;57,0;0,237;73,0;0,15;2,84;16,9;31,2;11.3;2,1;-;18.8%;15;EVITAR;0;EVITAR;[];alta;False;3057300;False
+CEAB3;8,87;-3,8;-5,24;19,22;48,9;0,074;56,8;0,37;4,87;23,4;103,8;4.8;0,7;-;15.5%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 4.9%)'];alta;False;3054200;False
+SBFG3;8,36;-2,79;-8,23;1,46;40,5;0,013;32,9;0,9;4,34;5,7;82,8;4.6;0,6;-;13.7%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 4.3%)'];alta;False;1932700;False
+SAPR11;33,94;-0,47;-5,22;5,86;46,6;0,02;42,5;1,16;2,93;9,0;43,5;42.0;0,85;-;3.8%;15;EVITAR;0;EVITAR;[];alta;False;1710600;False
+BPAC11;60,56;-0,44;0,18;19,9;66,9;0,366;75,8;0,16;2,84;37,9;6,6;98.6;3,63;-;24.4%;15;EVITAR;0;EVITAR;[];alta;False;1488500;False
+HAPV3;6,43;-0,92;-12,16;-1,98;35,3;0,099;30,3;0,14;6,88;7,0;514,9;-;0,06;-;-0.4%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 6.9%)'];alta;False;1238400;False
+EMBJ3;96,17;0,92;0,37;-4,87;55,5;-0,265;57,1;0,27;2,79;41,8;9,3;30.3;3,82;-;12.2%;15;EVITAR;0;EVITAR;[];alta;False;1217200;False
+AUAU3;4,19;1,95;3,97;28,92;69,7;0,039;84,3;0,26;4,1;49,9;3,1;-;1,13;-;9.1%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 4.1%)'];alta;False;1131100;False
+RAIL3;14,72;-0,88;-1,54;7,05;54,7;-0,027;54,8;0,13;3,07;21,1;17,7;22.3;1,89;-;8.8%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 3.1%)'];alta;False;1072600;False
+GGBR4;25,78;0,7;-0,88;13,52;59,2;0,107;74,0;0,11;3,28;63,0;1,8;22.4;0,95;-;4.2%;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.3%)', 'Small Cap (potencial alto)'];baixa;True;961400;False
+YDUQ3;10,17;0,69;0,79;37,25;71,3;0,077;78,2;0,18;3,92;44,9;50,3;24.2;0,89;-;3.8%;15;EVITAR;5;EVITAR;['Volatilidade alta (ATR 3.9%)', 'Small Cap (potencial alto)'];baixa;True;934800;False
+LOGG3;23,93;-0,21;-2,84;4,68;47,3;-0,002;45,5;2,09;3,43;47,7;19,1;5.6;0,59;-;10.5%;15;EVITAR;40;OBSERVAR;['Volatilidade alta (ATR 3.4%)', 'Volume alto (2.1x)', 'Small Cap (potencial alto)'];baixa;True;900700;False
+ENGI11;52,07;-0,27;0,5;17,57;67,4;0,278;75,9;0,31;2,64;25,0;12,5;37.7;1,02;-;9.4%;15;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;876500;False
+AZZA3;14,89;-0,93;-12,41;-3,19;40,3;-0,077;30,7;0,3;5,34;4,0;109,0;3.0;0,37;-;4.0%;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.3%)', 'Small Cap (potencial alto)'];baixa;True;867400;False
+RAPT4;5,0;-1,77;-2,34;7,07;53,3;0,011;61,7;0,26;3,8;19,6;40,4;-;0,58;-;-1.4%;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.8%)', 'Small Cap (potencial alto)'];baixa;True;619400;False
+PCAR3;3,29;0,0;13,45;22,3;71,0;0,051;102,5;0,18;4,91;135,0;39,8;-;3,95;-;-129.4%;15;EVITAR;5;EVITAR;['Volatilidade alta (ATR 4.9%)', 'Small Cap (potencial alto)'];baixa;True;466800;False
+DASA3;2,96;4,59;6,86;38,32;60,4;0,032;98,9;0,52;5,79;131,3;61,1;-;0,54;-;-12.1%;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.8%)', 'Small Cap (potencial alto)'];baixa;True;441400;False
+ARML3;3,88;0,78;0,78;22,01;59,7;-0,004;70,2;0,43;5,62;47,3;62,4;21.6;0,98;-;6.3%;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.6%)', 'Small Cap (potencial alto)'];baixa;True;416500;False
+AURE3;11,67;0,0;-3,55;15,54;57,4;0,031;64,7;0,16;2,97;17,3;25,6;-;1,06;-;-7.7%;15;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;404300;False
+KLBN11;19,24;-0,82;-1,69;8,33;59,3;-0,041;56,8;0,11;1,87;20,1;10,4;29.1;2,5;-;3.7%;15;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;398100;False
+CASH3;5,53;2,6;4,73;9,94;56,8;-0,041;58,0;0,33;4,68;72,3;8,5;-;1,46;-;-20.8%;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 4.7%)', 'Small Cap (potencial alto)'];baixa;True;361200;False
+AMER3;4,9;-2,2;-7,02;20,39;51,9;-0,048;42,8;0,22;5,92;45,4;80,0;3.2;0,24;-;-;15;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.9%)', 'Small Cap (potencial alto)'];baixa;True;324800;False
+HYPE3;23,42;-0,55;2,54;12,65;64,3;0,105;81,2;0,11;2,99;19,3;14,5;8.9;1,14;-;13.2%;15;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;282200;False
+AXIA7;54,65;-1,23;-2,17;8,07;55,7;-0,022;59,6;0,13;2,73;15,8;19,4;-;1,28;-;10.0%;15;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;260600;False
+SANB4;15,16;2,02;2,36;5,87;57,9;-0,016;85,2;1,02;2,16;18,0;21,9;8.6;0,45;-;11.2%;15;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;217200;False
+MGLU3;5,77;-2,86;-2,86;42,47;60,9;0,062;73,6;0,37;6,18;53,5;98,3;52.5;0,4;-;0.8%;10;EVITAR;15;EVITAR;['Volatilidade alta (ATR 6.2%)'];alta;False;10053500;False
+FESA4;5,72;0,18;-2,22;17,45;55,8;0,044;68,8;1,25;3,13;20,4;55,6;14.0;0,59;-;4.4%;10;EVITAR;15;EVITAR;['Volatilidade alta (ATR 3.1%)'];alta;False;2188600;False
+EQTL3;39,29;-0,68;-2,02;12,81;59,9;0,207;71,1;0,2;2,65;17,9;17,9;70.2;1,89;-;5.0%;10;EVITAR;0;EVITAR;[];alta;False;1713000;False
+MOVI3;7,86;-1,75;-2,96;16,96;53,0;0,066;66,3;0,31;5,24;22,0;90,5;6.5;0,81;-;13.2%;10;EVITAR;15;EVITAR;['Volatilidade alta (ATR 5.2%)'];alta;False;1629500;False
+ENEV3;26,8;-0,74;-3,18;6,77;52,6;-0,039;51,5;0,1;2,68;69,1;5,0;53.6;2,52;-;7.1%;10;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;970600;False
+TASA4;7,36;0,82;25,81;44,31;91,0;0,171;109,9;1,38;4,44;81,3;4,9;43.3;0,86;4.0%;2.1%;10;EVITAR;-45;EVITAR;['Volatilidade alta (ATR 4.4%)', 'Small Cap (potencial alto)', '⚠️ Movimento extremo já realizado — risco de perseguir preço'];baixa;True;712700;False
+KLBN4;3,8;-0,52;-1,04;7,65;59,0;-0,007;57,0;0,24;1,8;18,5;10,8;126.7;0,49;-;3.7%;10;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;689800;False
+QUAL3;1,62;-1,82;8,72;0,0;54,7;0,012;73,4;0,16;5,13;18,2;73,2;23.1;0,34;-;2.1%;10;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.1%)', 'Small Cap (potencial alto)'];baixa;True;594600;False
+VULC3;13,62;-2,37;2,79;0,15;52,8;0,084;75,0;0,21;3,02;7,1;48,5;4.5;1,71;-;37.1%;10;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.0%)', 'Small Cap (potencial alto)'];baixa;True;545800;False
+PRNR3;17,72;-0,45;-2,58;7,07;48,3;0,031;53,3;0,98;3,24;22,8;24,7;25.0;2,11;-;12.2%;10;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.2%)', 'Small Cap (potencial alto)'];baixa;True;465700;False
+ISAE4;27,13;-0,8;-3,38;6,27;50,5;0,015;52,4;0,16;2,21;24,2;18,1;6.4;0,81;-;13.2%;10;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;441600;False
+RIAA3;6,96;-1,83;-4,92;5,61;43,8;0,022;38,2;0,18;4,48;13,3;55,7;2.3;0,65;-;28.0%;10;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 4.5%)', 'Small Cap (potencial alto)'];baixa;True;276600;False
+IGTI11;25,57;-1,12;-3,62;10,93;53,3;0,024;58,6;0,13;2,77;15,7;19,0;156.9;1,54;-;13.5%;10;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;276500;False
+ABEV3;15,54;-0,58;-1,27;5,14;50,9;0,034;58,2;0,18;1,98;40,8;9,3;15.1;2,72;-;18.4%;5;EVITAR;0;EVITAR;[];alta;False;4536000;False
+USIM5;6,96;-1,0;-9,02;12,62;42,1;-0,02;32,7;0,31;5,04;65,3;75,0;-;0,41;-;-8.1%;5;EVITAR;15;EVITAR;['Volatilidade alta (ATR 5.0%)'];alta;False;3281000;False
+AMBP3;0,15;0,0;7,14;0,0;49,3;-0,0;45,5;0,3;5,13;7,1;9433,3;-;0,23;-;-1.3%;5;EVITAR;15;EVITAR;['Volatilidade alta (ATR 5.1%)'];alta;False;1001400;False
+SMFT3;16,93;-1,11;-4,83;1,45;39,0;0,026;26,2;0,09;3,48;3,3;55,4;15.4;1,72;-;11.7%;5;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.5%)', 'Small Cap (potencial alto)'];baixa;True;696500;False
+FLRY3;21,19;-0,75;1,1;15,92;72,8;0,063;80,0;0,17;2,71;64,2;2,1;18.3;2,31;-;12.6%;5;EVITAR;-10;EVITAR;['Small Cap (potencial alto)'];baixa;True;541900;False
+LJQQ3;1,36;-0,73;2,26;29,52;65,1;0,017;84,1;0,29;5,3;44,7;111,0;-;0,96;-;-50.6%;5;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.3%)', 'Small Cap (potencial alto)'];baixa;True;475600;False
+ORVR3;16,97;0,35;-3,74;8,23;49,7;0,077;59,5;0,27;2,84;29,5;25,1;99.8;0,65;-;2.4%;5;EVITAR;10;EVITAR;['Small Cap (potencial alto)'];baixa;True;433200;False
+RCSL4;0,4;2,56;0,0;-33,33;39,1;-0,005;33,7;0,05;12,84;55,3;593,1;6.7;-3,42;-;-;5;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 12.8%)', 'Small Cap (potencial alto)'];baixa;True;269600;False
+GFSA3;0,29;20,83;45,0;38,1;55,5;0,018;104,9;0,91;13,5;45,0;4134,5;-;0,0;-;-34.7%;0;EVITAR;-35;EVITAR;['Volatilidade alta (ATR 13.5%)', '⚠️ Movimento extremo já realizado — risco de perseguir preço'];alta;False;4332100;False
+BHIA3;0,8;6,67;9,59;90,48;58,5;0,032;76,7;0,3;11,95;175,9;535,0;-;-0,09;-;-;0;EVITAR;15;EVITAR;['Volatilidade alta (ATR 11.9%)'];alta;False;3920900;False
+RAIZ4;0,27;-3,57;-3,57;22,73;52,5;0,004;67,0;0,14;7,72;28,6;400,0;-;-0,25;-;-839.8%;0;EVITAR;15;EVITAR;['Volatilidade alta (ATR 7.7%)'];alta;False;1661600;False
+SEQL3;0,08;14,29;14,29;33,33;61,0;0,001;108,8;0,74;15,06;60,0;19275,0;-;-2,0;-;-;0;EVITAR;15;EVITAR;['Volatilidade alta (ATR 15.1%)'];alta;False;1375700;False
+SIMH3;7,53;-1,31;-4,56;26,55;55,1;0,061;65,5;0,22;5,56;34,7;94,0;-;0,76;-;-0.2%;0;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 5.6%)', 'Small Cap (potencial alto)'];baixa;True;648600;False
+HBSA3;3,34;1,21;-2,05;-0,3;48,5;-0,019;27,0;0,14;3,17;14,8;31,4;167.0;2,17;-;2.2%;0;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.2%)', 'Small Cap (potencial alto)'];baixa;True;202600;False
+CSAN3;3,63;-0,55;-5,71;7,08;47,3;-0,018;34,3;0,2;4,87;17,5;121,2;-;2,88;-;-27.2%;-5;EVITAR;15;EVITAR;['Volatilidade alta (ATR 4.9%)'];alta;False;6868700;False
+BRKM5;4,48;-1,1;-15,63;-12,33;41,3;0,056;37,5;0,14;9,24;27,3;207,6;-;-0,28;-;-;-5;EVITAR;15;EVITAR;['Volatilidade alta (ATR 9.2%)'];alta;False;1238700;False
+CSMG3;56,03;-1,18;-1,15;2,36;45,7;0,313;56,7;0,15;3,02;79,8;21,0;16.4;2,4;-;15.0%;-5;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.0%)', 'Small Cap (potencial alto)'];baixa;True;528900;False
+ENJU3;0,77;2,67;0,0;-3,75;50,4;0,001;63,9;0,35;4,75;22,2;38,9;-;0,76;-;-16.9%;-5;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 4.7%)', 'Small Cap (potencial alto)'];baixa;True;213900;False
+BRAV3;17,65;-0,45;-6,17;-5,11;42,7;-0,0;30,2;0,11;3,5;33,6;25,5;176.5;0,67;-;0.4%;-10;EVITAR;25;NEUTRO;['Volatilidade alta (ATR 3.5%)', 'Small Cap (potencial alto)'];baixa;True;377400;False

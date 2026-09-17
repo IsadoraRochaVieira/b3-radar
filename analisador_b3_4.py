@@ -283,7 +283,8 @@ def calcular_indicadores(ticker: str) -> dict | None:
             score_trader += 15
             sinais_trader.append(f"Volume alto ({vol_ratio:.1f}x)")
 
-        if 0 < LIQUIDEZ.get(ticker.replace(".SA", ""), 0) < VOLUME_LIQUIDA:
+        liquidez_baixa = 0 < LIQUIDEZ.get(ticker.replace(".SA", ""), 0) < VOLUME_LIQUIDA
+        if liquidez_baixa:
             score_trader += 10
             sinais_trader.append("Small Cap (potencial alto)")
 
@@ -293,6 +294,11 @@ def calcular_indicadores(ticker: str) -> dict | None:
 
         if movimento_extremo:
             clf_trader = "EVITAR"
+        elif liquidez_baixa and score_trader >= 60:
+            # Score alto sem capacidade de entrada/saída não deve receber o
+            # selo mais forte. Mantemos como observação especulativa.
+            clf_trader = "OBSERVAR"
+            sinais_trader.append("⚠️ Baixa liquidez — não elegível a oportunidade forte")
         elif score_trader >= 60:
             clf_trader = "FORTE OPORTUNIDADE"
         elif score_trader >= 40:

@@ -1,0 +1,4358 @@
+{
+  "data": "17/09/2026",
+  "data_iso": "2026-09-17",
+  "turno": "tarde",
+  "turno_label": "Tarde (13:00)",
+  "hora_geracao": "17:03",
+  "resumo": "[Tarde (13:00)] Ibovespa 186.105 (+0.30%). Destaques: CURY3, OPCT3, CMIN3. Semáforo: VERDE.",
+  "resumo_curto": "CURY3, OPCT3, CMIN3",
+  "resumo_executivo": "",
+  "semaforo": "verde",
+  "pick_semana": {
+    "ticker": "CURY3",
+    "nome": "CURY3",
+    "score": 70,
+    "acao": "COMPRAR",
+    "preco": "28.83",
+    "rsi": 36.2,
+    "pl": 7.9,
+    "atr": 4.8,
+    "pontos": [
+      "RSI neutro-baixo (36)",
+      "Preço tocando banda inferior de Bollinger",
+      "Volume 2.4x acima da média",
+      "9.1% acima da mínima de 52 sem — assimetria alta",
+      "Estocástico sobrevendido (7)",
+      "P/L atrativo (7.9x)",
+      "ROE sólido (68.5%)"
+    ],
+    "tese": null,
+    "risco": null,
+    "entrada": "28.83",
+    "stop": "26.06",
+    "alvo": "33.15"
+  },
+  "macro": {
+    "ibovespa": "186.105",
+    "ibovespa_var": 0.3,
+    "dolar": "5,13",
+    "dolar_var": -0.16,
+    "brent": "104.15",
+    "brent_var": -1.59,
+    "selic": "13.75",
+    "ipca_12m": "4.22",
+    "atualizado_em": "17/09/2026 17:11"
+  },
+  "tops": [
+    {
+      "ticker": "CURY3",
+      "score": 70
+    },
+    {
+      "ticker": "OPCT3",
+      "score": 70
+    },
+    {
+      "ticker": "CMIN3",
+      "score": 65
+    },
+    {
+      "ticker": "DIRR3",
+      "score": 55
+    },
+    {
+      "ticker": "MILS3",
+      "score": 50
+    }
+  ],
+  "candidatos": [
+    {
+      "ticker": "CURY3",
+      "nome": "CURY3",
+      "score": 70,
+      "acao": "COMPRAR",
+      "preco": "28.83",
+      "rsi": 36.2,
+      "pl": 7.9,
+      "atr": 4.8,
+      "pontos": [
+        "RSI neutro-baixo (36)",
+        "Preço tocando banda inferior de Bollinger",
+        "Volume 2.4x acima da média",
+        "9.1% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (7)",
+        "P/L atrativo (7.9x)",
+        "ROE sólido (68.5%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "28.83",
+      "stop": "26.06",
+      "alvo": "33.15"
+    },
+    {
+      "ticker": "OPCT3",
+      "nome": "OPCT3",
+      "score": 70,
+      "acao": "COMPRAR",
+      "preco": "9.14",
+      "rsi": 32.2,
+      "pl": 10.9,
+      "atr": 5.8,
+      "pontos": [
+        "RSI sobrevendido (32) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Volume 3.5x acima da média",
+        "Estocástico sobrevendido (7)",
+        "P/L atrativo (10.9x)",
+        "ROE sólido (17.2%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "9.14",
+      "stop": "8.08",
+      "alvo": "10.51"
+    },
+    {
+      "ticker": "CMIN3",
+      "nome": "CMIN3",
+      "score": 65,
+      "acao": "COMPRAR",
+      "preco": "5.7",
+      "rsi": 40.8,
+      "pl": 17.8,
+      "atr": 5.7,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 1.5x acima da média",
+        "Estocástico sobrevendido (5)",
+        "ROE sólido (28.1%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.7",
+      "stop": "5.05",
+      "alvo": "6.55"
+    },
+    {
+      "ticker": "DIRR3",
+      "nome": "DIRR3",
+      "score": 55,
+      "acao": "OBSERVAR",
+      "preco": "10.01",
+      "rsi": 33.3,
+      "pl": 6.1,
+      "atr": 4.4,
+      "pontos": [
+        "RSI sobrevendido (33) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "2.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (12)",
+        "P/L atrativo (6.1x)",
+        "ROE sólido (41.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.01",
+      "stop": "9.13",
+      "alvo": "11.51"
+    },
+    {
+      "ticker": "MILS3",
+      "nome": "MILS3",
+      "score": 50,
+      "acao": "OBSERVAR",
+      "preco": "15.89",
+      "rsi": 65.4,
+      "pl": 8.5,
+      "atr": 0.7,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 5.2x acima da média",
+        "P/L atrativo (8.5x)",
+        "ROE sólido (26.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.89",
+      "stop": "15.67",
+      "alvo": "18.27"
+    },
+    {
+      "ticker": "KEPL3",
+      "nome": "KEPL3",
+      "score": 50,
+      "acao": "OBSERVAR",
+      "preco": "6.43",
+      "rsi": 49.5,
+      "pl": 7.9,
+      "atr": 2.5,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Estocástico sobrevendido (18)",
+        "P/L atrativo (7.9x)",
+        "ROE sólido (18.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.43",
+      "stop": "6.11",
+      "alvo": "7.39"
+    },
+    {
+      "ticker": "VIVA3",
+      "nome": "VIVA3",
+      "score": 50,
+      "acao": "OBSERVAR",
+      "preco": "22.37",
+      "rsi": 50.5,
+      "pl": 9.0,
+      "atr": 3.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "11.6% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (16)",
+        "P/L atrativo (9.0x)",
+        "ROE sólido (19.7%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "22.37",
+      "stop": "20.8",
+      "alvo": "25.73"
+    },
+    {
+      "ticker": "POMO4",
+      "nome": "POMO4",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "4.31",
+      "rsi": 41.0,
+      "pl": 4.5,
+      "atr": 3.6,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 2.4x acima da média",
+        "9.6% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (5)",
+        "ROE sólido (28.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.31",
+      "stop": "4.0",
+      "alvo": "4.96"
+    },
+    {
+      "ticker": "TEND3",
+      "nome": "TEND3",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "29.13",
+      "rsi": 35.0,
+      "pl": 6.2,
+      "atr": 5.4,
+      "pontos": [
+        "RSI neutro-baixo (35)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 1.8x acima da média",
+        "Estocástico sobrevendido (8)",
+        "P/L atrativo (6.2x)",
+        "ROE sólido (40.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "29.13",
+      "stop": "25.98",
+      "alvo": "33.5"
+    },
+    {
+      "ticker": "OBTC3",
+      "nome": "OBTC3",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "6.46",
+      "rsi": 45.1,
+      "pl": null,
+      "atr": 7.7,
+      "pontos": [
+        "RSI neutro-baixo (45)",
+        "Preço tocando banda inferior de Bollinger",
+        "Volume 2.3x acima da média",
+        "13.1% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.46",
+      "stop": "5.47",
+      "alvo": "7.43"
+    },
+    {
+      "ticker": "SHUL4",
+      "nome": "SHUL4",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "4.32",
+      "rsi": 38.5,
+      "pl": 5.9,
+      "atr": 2.2,
+      "pontos": [
+        "RSI neutro-baixo (38)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "9.1% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (13)",
+        "P/L atrativo (5.9x)",
+        "ROE sólido (16.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.32",
+      "stop": "4.13",
+      "alvo": "4.97"
+    },
+    {
+      "ticker": "BEEF3",
+      "nome": "BEEF3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "3.84",
+      "rsi": 49.8,
+      "pl": 9.8,
+      "atr": 4.9,
+      "pontos": [
+        "RSI neutro-baixo (50)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (9.8x)",
+        "ROE sólido (23.2%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.84",
+      "stop": "3.46",
+      "alvo": "4.42"
+    },
+    {
+      "ticker": "RADL3",
+      "nome": "RADL3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "20.32",
+      "rsi": 60.7,
+      "pl": 23.9,
+      "atr": 3.4,
+      "pontos": [
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (20.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "20.32",
+      "stop": "18.94",
+      "alvo": "23.37"
+    },
+    {
+      "ticker": "SBFG3",
+      "nome": "SBFG3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "8.12",
+      "rsi": 36.7,
+      "pl": 4.5,
+      "atr": 4.5,
+      "pontos": [
+        "RSI neutro-baixo (37)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 2.2x acima da média",
+        "2.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (0)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "8.12",
+      "stop": "7.39",
+      "alvo": "9.34"
+    },
+    {
+      "ticker": "MBRF3",
+      "nome": "MBRF3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "16.56",
+      "rsi": 41.1,
+      "pl": 59.1,
+      "atr": 3.9,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "14.3% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (1)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.56",
+      "stop": "15.27",
+      "alvo": "19.04"
+    },
+    {
+      "ticker": "TFCO4",
+      "nome": "TFCO4",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "13.17",
+      "rsi": 48.1,
+      "pl": 14.0,
+      "atr": 3.4,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "Volume 1.8x acima da média",
+        "7.0% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (14.0x)",
+        "ROE sólido (25.7%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "13.17",
+      "stop": "12.27",
+      "alvo": "15.15"
+    },
+    {
+      "ticker": "AGXY3",
+      "nome": "AGXY3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "0.67",
+      "rsi": 12.1,
+      "pl": null,
+      "atr": 16.4,
+      "pontos": [
+        "RSI sobrevendido (12) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 6.5x acima da média",
+        "Estocástico sobrevendido (11)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.67",
+      "stop": "0.45",
+      "alvo": "0.77"
+    },
+    {
+      "ticker": "ALUP11",
+      "nome": "ALUP11",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "33.35",
+      "rsi": 55.1,
+      "pl": 8.0,
+      "atr": 2.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "13.9% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (8.0x)",
+        "ROE sólido (15.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "33.35",
+      "stop": "32.02",
+      "alvo": "38.35"
+    },
+    {
+      "ticker": "ALPA4",
+      "nome": "ALPA4",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "12.86",
+      "rsi": 45.8,
+      "pl": 13.0,
+      "atr": 4.3,
+      "pontos": [
+        "RSI neutro-baixo (46)",
+        "Estocástico sobrevendido (13)",
+        "P/L atrativo (13.0x)",
+        "ROE sólido (18.1%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "12.86",
+      "stop": "11.75",
+      "alvo": "14.79"
+    },
+    {
+      "ticker": "PLPL3",
+      "nome": "PLPL3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "6.49",
+      "rsi": 40.4,
+      "pl": 4.3,
+      "atr": 5.9,
+      "pontos": [
+        "RSI neutro-baixo (40)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "1.1% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (2)",
+        "ROE sólido (31.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.49",
+      "stop": "5.72",
+      "alvo": "7.46"
+    },
+    {
+      "ticker": "LWSA3",
+      "nome": "LWSA3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "3.96",
+      "rsi": 45.8,
+      "pl": null,
+      "atr": 3.7,
+      "pontos": [
+        "RSI neutro-baixo (46)",
+        "Preço tocando banda inferior de Bollinger",
+        "Estocástico sobrevendido (13)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.96",
+      "stop": "3.67",
+      "alvo": "4.55"
+    },
+    {
+      "ticker": "MDNE3",
+      "nome": "MDNE3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "23.56",
+      "rsi": 41.1,
+      "pl": 4.0,
+      "atr": 4.7,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 1.7x acima da média",
+        "Estocástico sobrevendido (5)",
+        "ROE sólido (28.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "23.56",
+      "stop": "21.35",
+      "alvo": "27.09"
+    },
+    {
+      "ticker": "JALL3",
+      "nome": "JALL3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "2.24",
+      "rsi": 41.6,
+      "pl": null,
+      "atr": 5.7,
+      "pontos": [
+        "RSI neutro-baixo (42)",
+        "Preço tocando banda inferior de Bollinger",
+        "Estocástico sobrevendido (0)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.24",
+      "stop": "1.98",
+      "alvo": "2.58"
+    },
+    {
+      "ticker": "ARML3",
+      "nome": "ARML3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "3.97",
+      "rsi": 62.3,
+      "pl": 22.1,
+      "atr": 5.5,
+      "pontos": [
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.97",
+      "stop": "3.53",
+      "alvo": "4.57"
+    },
+    {
+      "ticker": "LOGG3",
+      "nome": "LOGG3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "24.07",
+      "rsi": 48.6,
+      "pl": 5.6,
+      "atr": 3.4,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de baixa",
+        "Volume 2.6x acima da média",
+        "P/L atrativo (5.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "24.07",
+      "stop": "22.43",
+      "alvo": "27.68"
+    },
+    {
+      "ticker": "MYPK3",
+      "nome": "MYPK3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "9.41",
+      "rsi": 47.9,
+      "pl": 15.4,
+      "atr": 3.0,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "9.5% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "9.41",
+      "stop": "8.85",
+      "alvo": "10.82"
+    },
+    {
+      "ticker": "PASS3",
+      "nome": "PASS3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "22.91",
+      "rsi": 45.8,
+      "pl": 14.2,
+      "atr": 3.2,
+      "pontos": [
+        "RSI neutro-baixo (46)",
+        "12.1% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (14.2x)",
+        "ROE sólido (17.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "22.91",
+      "stop": "21.44",
+      "alvo": "26.35"
+    },
+    {
+      "ticker": "LAVV3",
+      "nome": "LAVV3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "10.28",
+      "rsi": 47.7,
+      "pl": 5.6,
+      "atr": 4.5,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "13.0% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (5.6x)",
+        "ROE sólido (24.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.28",
+      "stop": "9.35",
+      "alvo": "11.82"
+    },
+    {
+      "ticker": "RENT3",
+      "nome": "RENT3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "36.8",
+      "rsi": 55.1,
+      "pl": 11.7,
+      "atr": 3.9,
+      "pontos": [
+        "MACD positivo e acelerando",
+        "Volume 1.9x acima da média",
+        "P/L atrativo (11.7x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "36.8",
+      "stop": "33.93",
+      "alvo": "42.32"
+    },
+    {
+      "ticker": "ITUB4",
+      "nome": "ITUB4",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "42.74",
+      "rsi": 62.9,
+      "pl": 10.2,
+      "atr": 2.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.2x)",
+        "ROE sólido (21.5%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "42.74",
+      "stop": "40.77",
+      "alvo": "49.15"
+    },
+    {
+      "ticker": "CMIG4",
+      "nome": "CMIG4",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "11.24",
+      "rsi": 56.3,
+      "pl": 6.9,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.9x)",
+        "ROE sólido (15.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.24",
+      "stop": "10.66",
+      "alvo": "12.93"
+    },
+    {
+      "ticker": "ITSA4",
+      "nome": "ITSA4",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "14.21",
+      "rsi": 66.9,
+      "pl": 8.8,
+      "atr": 2.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.8x)",
+        "ROE sólido (18.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.21",
+      "stop": "13.58",
+      "alvo": "16.34"
+    },
+    {
+      "ticker": "CVCB3",
+      "nome": "CVCB3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "1.43",
+      "rsi": 39.1,
+      "pl": 48.0,
+      "atr": 7.6,
+      "pontos": [
+        "RSI neutro-baixo (39)",
+        "Preço tocando banda inferior de Bollinger",
+        "Estocástico sobrevendido (0)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.43",
+      "stop": "1.21",
+      "alvo": "1.64"
+    },
+    {
+      "ticker": "CYRE3",
+      "nome": "CYRE3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "25.73",
+      "rsi": 59.5,
+      "pl": 5.5,
+      "atr": 4.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (5.5x)",
+        "ROE sólido (20.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "25.73",
+      "stop": "23.67",
+      "alvo": "29.59"
+    },
+    {
+      "ticker": "ENEV3",
+      "nome": "ENEV3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "27.47",
+      "rsi": 60.1,
+      "pl": 54.9,
+      "atr": 2.7,
+      "pontos": [
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "27.47",
+      "stop": "25.99",
+      "alvo": "31.59"
+    },
+    {
+      "ticker": "UGPA3",
+      "nome": "UGPA3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "38.74",
+      "rsi": 76.1,
+      "pl": 11.8,
+      "atr": 2.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (11.8x)",
+        "ROE sólido (19.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "38.74",
+      "stop": "36.65",
+      "alvo": "44.55"
+    },
+    {
+      "ticker": "ASAI3",
+      "nome": "ASAI3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "10.18",
+      "rsi": 71.9,
+      "pl": 14.1,
+      "atr": 4.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (14.1x)",
+        "ROE sólido (16.2%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.18",
+      "stop": "9.37",
+      "alvo": "11.71"
+    },
+    {
+      "ticker": "MOTV3",
+      "nome": "MOTV3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "16.11",
+      "rsi": 67.3,
+      "pl": 9.6,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (9.6x)",
+        "ROE sólido (22.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.11",
+      "stop": "15.27",
+      "alvo": "18.53"
+    },
+    {
+      "ticker": "PETR3",
+      "nome": "PETR3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "53.96",
+      "rsi": 62.9,
+      "pl": 5.3,
+      "atr": 2.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (5.3x)",
+        "ROE sólido (30.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "53.96",
+      "stop": "50.94",
+      "alvo": "62.05"
+    },
+    {
+      "ticker": "POMO3",
+      "nome": "POMO3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "4.07",
+      "rsi": 42.1,
+      "pl": 4.2,
+      "atr": 3.5,
+      "pontos": [
+        "RSI neutro-baixo (42)",
+        "Tendência de baixa",
+        "Volume 2.3x acima da média",
+        "9.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (5)",
+        "ROE sólido (28.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.07",
+      "stop": "3.79",
+      "alvo": "4.68"
+    },
+    {
+      "ticker": "NATU3",
+      "nome": "NATU3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "7.91",
+      "rsi": 37.8,
+      "pl": null,
+      "atr": 4.3,
+      "pontos": [
+        "RSI neutro-baixo (38)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "10.9% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (8)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.91",
+      "stop": "7.23",
+      "alvo": "9.1"
+    },
+    {
+      "ticker": "BBSE3",
+      "nome": "BBSE3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "40.58",
+      "rsi": 55.8,
+      "pl": 8.6,
+      "atr": 2.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.6x)",
+        "ROE sólido (85.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "40.58",
+      "stop": "38.55",
+      "alvo": "46.67"
+    },
+    {
+      "ticker": "MULT3",
+      "nome": "MULT3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "29.64",
+      "rsi": 57.0,
+      "pl": 10.6,
+      "atr": 2.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.6x)",
+        "ROE sólido (21.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "29.64",
+      "stop": "28.04",
+      "alvo": "34.09"
+    },
+    {
+      "ticker": "SUZB3",
+      "nome": "SUZB3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "47.51",
+      "rsi": 62.8,
+      "pl": 7.2,
+      "atr": 2.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (7.2x)",
+        "ROE sólido (17.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "47.51",
+      "stop": "45.42",
+      "alvo": "54.64"
+    },
+    {
+      "ticker": "CPFE3",
+      "nome": "CPFE3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "45.18",
+      "rsi": 51.1,
+      "pl": 8.7,
+      "atr": 2.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.7x)",
+        "ROE sólido (27.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "45.18",
+      "stop": "42.65",
+      "alvo": "51.96"
+    },
+    {
+      "ticker": "AZEV4",
+      "nome": "AZEV4",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "1.28",
+      "rsi": 41.2,
+      "pl": null,
+      "atr": 15.1,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "11.3% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (7)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.28",
+      "stop": "0.89",
+      "alvo": "1.47"
+    },
+    {
+      "ticker": "SEER3",
+      "nome": "SEER3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "13.96",
+      "rsi": 66.2,
+      "pl": 6.6,
+      "atr": 4.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.6x)",
+        "ROE sólido (19.1%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "13.96",
+      "stop": "12.84",
+      "alvo": "16.05"
+    },
+    {
+      "ticker": "TTEN3",
+      "nome": "TTEN3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "10.38",
+      "rsi": 36.1,
+      "pl": null,
+      "atr": 4.4,
+      "pontos": [
+        "RSI neutro-baixo (36)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "8.0% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (6)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.38",
+      "stop": "9.47",
+      "alvo": "11.94"
+    },
+    {
+      "ticker": "GGPS3",
+      "nome": "GGPS3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "12.93",
+      "rsi": 58.4,
+      "pl": 10.3,
+      "atr": 3.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.3x)",
+        "ROE sólido (22.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "12.93",
+      "stop": "12.1",
+      "alvo": "14.87"
+    },
+    {
+      "ticker": "INTB3",
+      "nome": "INTB3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "14.75",
+      "rsi": 51.4,
+      "pl": 8.1,
+      "atr": 3.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.1x)",
+        "ROE sólido (18.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.75",
+      "stop": "13.81",
+      "alvo": "16.96"
+    },
+    {
+      "ticker": "CSED3",
+      "nome": "CSED3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "5.38",
+      "rsi": 64.1,
+      "pl": 6.3,
+      "atr": 4.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.3x)",
+        "ROE sólido (19.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.38",
+      "stop": "4.94",
+      "alvo": "6.19"
+    },
+    {
+      "ticker": "ALLD3",
+      "nome": "ALLD3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "5.05",
+      "rsi": 50.1,
+      "pl": 1.4,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "14.3% acima da mínima de 52 sem — assimetria alta",
+        "ROE sólido (23.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.05",
+      "stop": "4.79",
+      "alvo": "5.81"
+    },
+    {
+      "ticker": "MELK3",
+      "nome": "MELK3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "2.9",
+      "rsi": 49.5,
+      "pl": 5.2,
+      "atr": 2.6,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "8.2% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (5.2x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.9",
+      "stop": "2.75",
+      "alvo": "3.33"
+    },
+    {
+      "ticker": "LEVE3",
+      "nome": "LEVE3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "32.94",
+      "rsi": 54.9,
+      "pl": 6.4,
+      "atr": 2.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.4x)",
+        "ROE sólido (81.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "32.94",
+      "stop": "31.56",
+      "alvo": "37.88"
+    },
+    {
+      "ticker": "TGMA3",
+      "nome": "TGMA3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "36.14",
+      "rsi": 69.3,
+      "pl": 9.4,
+      "atr": 2.6,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (9.4x)",
+        "ROE sólido (25.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "36.14",
+      "stop": "34.26",
+      "alvo": "41.56"
+    },
+    {
+      "ticker": "BBDC4",
+      "nome": "BBDC4",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "18.13",
+      "rsi": 58.1,
+      "pl": 8.3,
+      "atr": 2.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.3x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "18.13",
+      "stop": "17.3",
+      "alvo": "20.85"
+    },
+    {
+      "ticker": "LREN3",
+      "nome": "LREN3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "11.16",
+      "rsi": 43.7,
+      "pl": 7.4,
+      "atr": 3.9,
+      "pontos": [
+        "RSI neutro-baixo (44)",
+        "Tendência de baixa",
+        "Volume 1.6x acima da média",
+        "6.5% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (7.4x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.16",
+      "stop": "10.29",
+      "alvo": "12.83"
+    },
+    {
+      "ticker": "BBAS3",
+      "nome": "BBAS3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "22.85",
+      "rsi": 68.1,
+      "pl": 10.6,
+      "atr": 3.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "22.85",
+      "stop": "21.39",
+      "alvo": "26.28"
+    },
+    {
+      "ticker": "COGN3",
+      "nome": "COGN3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "2.3",
+      "rsi": 50.6,
+      "pl": 6.4,
+      "atr": 4.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.4x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.3",
+      "stop": "2.09",
+      "alvo": "2.64"
+    },
+    {
+      "ticker": "VALE3",
+      "nome": "VALE3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "74.49",
+      "rsi": 44.0,
+      "pl": 29.0,
+      "atr": 2.8,
+      "pontos": [
+        "RSI neutro-baixo (44)",
+        "Preço tocando banda inferior de Bollinger"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "74.49",
+      "stop": "70.32",
+      "alvo": "85.66"
+    },
+    {
+      "ticker": "VAMO3",
+      "nome": "VAMO3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "3.34",
+      "rsi": 57.1,
+      "pl": 11.9,
+      "atr": 5.4,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (11.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.34",
+      "stop": "2.98",
+      "alvo": "3.84"
+    },
+    {
+      "ticker": "CPLE3",
+      "nome": "CPLE3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "16.04",
+      "rsi": 70.0,
+      "pl": 15.0,
+      "atr": 2.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (15.0x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.04",
+      "stop": "15.37",
+      "alvo": "18.45"
+    },
+    {
+      "ticker": "SAUD3",
+      "nome": "SAUD3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "14.62",
+      "rsi": 51.4,
+      "pl": 12.9,
+      "atr": 3.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (12.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.62",
+      "stop": "13.66",
+      "alvo": "16.81"
+    },
+    {
+      "ticker": "PRIO3",
+      "nome": "PRIO3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "63.27",
+      "rsi": 54.1,
+      "pl": 13.3,
+      "atr": 3.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (13.3x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "63.27",
+      "stop": "59.09",
+      "alvo": "72.76"
+    },
+    {
+      "ticker": "PCAR3",
+      "nome": "PCAR3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "3.37",
+      "rsi": 73.1,
+      "pl": null,
+      "atr": 5.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 1.6x acima da média"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.37",
+      "stop": "3.03",
+      "alvo": "3.88"
+    },
+    {
+      "ticker": "AXIA3",
+      "nome": "AXIA3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "55.32",
+      "rsi": 59.3,
+      "pl": 10.6,
+      "atr": 2.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "55.32",
+      "stop": "52.33",
+      "alvo": "63.62"
+    },
+    {
+      "ticker": "ECOR3",
+      "nome": "ECOR3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "8.13",
+      "rsi": 63.5,
+      "pl": 10.3,
+      "atr": 4.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.3x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "8.13",
+      "stop": "7.45",
+      "alvo": "9.35"
+    },
+    {
+      "ticker": "ALOS3",
+      "nome": "ALOS3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "28.26",
+      "rsi": 57.1,
+      "pl": 14.9,
+      "atr": 2.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (14.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "28.26",
+      "stop": "26.85",
+      "alvo": "32.5"
+    },
+    {
+      "ticker": "GMAT3",
+      "nome": "GMAT3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "4.88",
+      "rsi": 67.7,
+      "pl": 6.8,
+      "atr": 3.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.8x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.88",
+      "stop": "4.53",
+      "alvo": "5.61"
+    },
+    {
+      "ticker": "BBDC3",
+      "nome": "BBDC3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "15.98",
+      "rsi": 60.2,
+      "pl": 7.3,
+      "atr": 2.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (7.3x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.98",
+      "stop": "15.28",
+      "alvo": "18.38"
+    },
+    {
+      "ticker": "ANIM3",
+      "nome": "ANIM3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "2.88",
+      "rsi": 61.0,
+      "pl": 7.0,
+      "atr": 4.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (7.0x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.88",
+      "stop": "2.6",
+      "alvo": "3.31"
+    },
+    {
+      "ticker": "PGMN3",
+      "nome": "PGMN3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "3.77",
+      "rsi": 56.4,
+      "pl": 7.5,
+      "atr": 4.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (7.5x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.77",
+      "stop": "3.46",
+      "alvo": "4.34"
+    },
+    {
+      "ticker": "RCSL3",
+      "nome": "RCSL3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "0.47",
+      "rsi": 58.2,
+      "pl": 7.8,
+      "atr": 11.5,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 5.0x acima da média",
+        "P/L atrativo (7.8x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.47",
+      "stop": "0.36",
+      "alvo": "0.54"
+    },
+    {
+      "ticker": "TIMS3",
+      "nome": "TIMS3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "19.51",
+      "rsi": 55.7,
+      "pl": 10.8,
+      "atr": 2.3,
+      "pontos": [
+        "9.3% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (10.8x)",
+        "ROE sólido (17.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "19.51",
+      "stop": "18.61",
+      "alvo": "22.44"
+    },
+    {
+      "ticker": "SAPR11",
+      "nome": "SAPR11",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "34.12",
+      "rsi": 47.7,
+      "pl": 42.2,
+      "atr": 2.9,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "Volume 1.5x acima da média",
+        "9.6% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "34.12",
+      "stop": "32.14",
+      "alvo": "39.24"
+    },
+    {
+      "ticker": "ISAE4",
+      "nome": "ISAE4",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "27.37",
+      "rsi": 54.2,
+      "pl": 6.4,
+      "atr": 2.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.4x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "27.37",
+      "stop": "26.17",
+      "alvo": "31.48"
+    },
+    {
+      "ticker": "GRND3",
+      "nome": "GRND3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "3.67",
+      "rsi": 53.6,
+      "pl": 5.7,
+      "atr": 2.5,
+      "pontos": [
+        "9.9% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (5.7x)",
+        "ROE sólido (16.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.67",
+      "stop": "3.49",
+      "alvo": "4.22"
+    },
+    {
+      "ticker": "PSSA3",
+      "nome": "PSSA3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "49.52",
+      "rsi": 45.8,
+      "pl": 8.7,
+      "atr": 2.4,
+      "pontos": [
+        "RSI neutro-baixo (46)",
+        "P/L atrativo (8.7x)",
+        "ROE sólido (24.2%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "49.52",
+      "stop": "47.14",
+      "alvo": "56.95"
+    },
+    {
+      "ticker": "SMTO3",
+      "nome": "SMTO3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "19.68",
+      "rsi": 56.6,
+      "pl": 8.0,
+      "atr": 4.4,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.0x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "19.68",
+      "stop": "17.95",
+      "alvo": "22.63"
+    },
+    {
+      "ticker": "EZTC3",
+      "nome": "EZTC3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "12.97",
+      "rsi": 59.3,
+      "pl": 7.9,
+      "atr": 4.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (7.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "12.97",
+      "stop": "11.93",
+      "alvo": "14.92"
+    },
+    {
+      "ticker": "RECV3",
+      "nome": "RECV3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "11.16",
+      "rsi": 55.0,
+      "pl": 6.6,
+      "atr": 3.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (6.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.16",
+      "stop": "10.45",
+      "alvo": "12.83"
+    },
+    {
+      "ticker": "CBAV3",
+      "nome": "CBAV3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "11.23",
+      "rsi": 57.7,
+      "pl": 12.2,
+      "atr": 0.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (12.2x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.23",
+      "stop": "11.1",
+      "alvo": "12.91"
+    },
+    {
+      "ticker": "HBRE3",
+      "nome": "HBRE3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "2.68",
+      "rsi": 58.9,
+      "pl": 7.7,
+      "atr": 4.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (7.7x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.68",
+      "stop": "2.43",
+      "alvo": "3.08"
+    },
+    {
+      "ticker": "SANB4",
+      "nome": "SANB4",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "15.17",
+      "rsi": 58.0,
+      "pl": 8.6,
+      "atr": 2.2,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 1.8x acima da média",
+        "P/L atrativo (8.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.17",
+      "stop": "14.5",
+      "alvo": "17.45"
+    },
+    {
+      "ticker": "BLAU3",
+      "nome": "BLAU3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "10.73",
+      "rsi": 73.1,
+      "pl": 10.6,
+      "atr": 3.2,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.73",
+      "stop": "10.04",
+      "alvo": "12.34"
+    },
+    {
+      "ticker": "VTRU3",
+      "nome": "VTRU3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "14.66",
+      "rsi": 60.6,
+      "pl": 2.0,
+      "atr": 4.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Dividend yield de 17.0%",
+        "ROE sólido (32.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.66",
+      "stop": "13.46",
+      "alvo": "16.86"
+    },
+    {
+      "ticker": "MTRE3",
+      "nome": "MTRE3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "3.33",
+      "rsi": 58.0,
+      "pl": 5.4,
+      "atr": 3.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (5.4x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.33",
+      "stop": "3.1",
+      "alvo": "3.83"
+    },
+    {
+      "ticker": "MDIA3",
+      "nome": "MDIA3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "17.03",
+      "rsi": 44.4,
+      "pl": 8.9,
+      "atr": 2.4,
+      "pontos": [
+        "RSI neutro-baixo (44)",
+        "Tendência de baixa",
+        "1.9% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (18)",
+        "P/L atrativo (8.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "17.03",
+      "stop": "16.21",
+      "alvo": "19.58"
+    },
+    {
+      "ticker": "PETR4",
+      "nome": "PETR4",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "48.83",
+      "rsi": 66.2,
+      "pl": 4.8,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (30.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "48.83",
+      "stop": "46.29",
+      "alvo": "56.15"
+    },
+    {
+      "ticker": "VBBR3",
+      "nome": "VBBR3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "39.29",
+      "rsi": 73.7,
+      "pl": 9.2,
+      "atr": 2.6,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (9.2x)",
+        "ROE sólido (22.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "39.29",
+      "stop": "37.25",
+      "alvo": "45.18"
+    },
+    {
+      "ticker": "RDOR3",
+      "nome": "RDOR3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "37.06",
+      "rsi": 57.8,
+      "pl": 16.8,
+      "atr": 3.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (19.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "37.06",
+      "stop": "34.84",
+      "alvo": "42.62"
+    },
+    {
+      "ticker": "WEGE3",
+      "nome": "WEGE3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "51.24",
+      "rsi": 58.5,
+      "pl": 34.4,
+      "atr": 2.4,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (30.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "51.24",
+      "stop": "48.78",
+      "alvo": "58.93"
+    },
+    {
+      "ticker": "ONCO3",
+      "nome": "ONCO3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "1.04",
+      "rsi": 46.9,
+      "pl": null,
+      "atr": 17.9,
+      "pontos": [
+        "RSI neutro-baixo (47)",
+        "Estocástico sobrevendido (19)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.04",
+      "stop": "0.67",
+      "alvo": "1.2"
+    },
+    {
+      "ticker": "TOTS3",
+      "nome": "TOTS3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "34.76",
+      "rsi": 60.8,
+      "pl": 22.9,
+      "atr": 3.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (17.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "34.76",
+      "stop": "32.33",
+      "alvo": "39.97"
+    },
+    {
+      "ticker": "JHSF3",
+      "nome": "JHSF3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "11.4",
+      "rsi": 54.2,
+      "pl": 3.7,
+      "atr": 4.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (29.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.4",
+      "stop": "10.42",
+      "alvo": "13.11"
+    },
+    {
+      "ticker": "BRAP4",
+      "nome": "BRAP4",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "21.26",
+      "rsi": 44.1,
+      "pl": 15.2,
+      "atr": 2.9,
+      "pontos": [
+        "RSI neutro-baixo (44)",
+        "Estocástico sobrevendido (17)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "21.26",
+      "stop": "20.03",
+      "alvo": "24.45"
+    },
+    {
+      "ticker": "FESA4",
+      "nome": "FESA4",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "5.73",
+      "rsi": 56.2,
+      "pl": 14.0,
+      "atr": 3.2,
+      "pontos": [
+        "Volume 1.6x acima da média",
+        "P/L atrativo (14.0x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.73",
+      "stop": "5.36",
+      "alvo": "6.59"
+    },
+    {
+      "ticker": "CXSE3",
+      "nome": "CXSE3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "20.52",
+      "rsi": 62.7,
+      "pl": 13.6,
+      "atr": 2.5,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (13.6x)",
+        "ROE sólido (33.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "20.52",
+      "stop": "19.49",
+      "alvo": "23.6"
+    },
+    {
+      "ticker": "LIGT3",
+      "nome": "LIGT3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "3.56",
+      "rsi": 54.1,
+      "pl": 2.4,
+      "atr": 4.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (32.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.56",
+      "stop": "3.23",
+      "alvo": "4.09"
+    },
+    {
+      "ticker": "TASA4",
+      "nome": "TASA4",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "7.52",
+      "rsi": 91.7,
+      "pl": 44.2,
+      "atr": 4.3,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 2.4x acima da média"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.52",
+      "stop": "6.87",
+      "alvo": "8.65"
+    },
+    {
+      "ticker": "ITUB3",
+      "nome": "ITUB3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "46.96",
+      "rsi": 67.7,
+      "pl": 11.2,
+      "atr": 2.3,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (11.2x)",
+        "ROE sólido (21.5%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "46.96",
+      "stop": "44.8",
+      "alvo": "54.0"
+    },
+    {
+      "ticker": "RIAA3",
+      "nome": "RIAA3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "6.83",
+      "rsi": 41.2,
+      "pl": 2.2,
+      "atr": 4.6,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Tendência de baixa",
+        "11.2% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (8)",
+        "ROE sólido (28.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.83",
+      "stop": "6.2",
+      "alvo": "7.85"
+    },
+    {
+      "ticker": "EVEN3",
+      "nome": "EVEN3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "4.1",
+      "rsi": 38.8,
+      "pl": 3.3,
+      "atr": 4.3,
+      "pontos": [
+        "RSI neutro-baixo (39)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "4.1% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.1",
+      "stop": "3.75",
+      "alvo": "4.71"
+    },
+    {
+      "ticker": "TAEE11",
+      "nome": "TAEE11",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "41.44",
+      "rsi": 63.7,
+      "pl": 39.9,
+      "atr": 2.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (20.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "41.44",
+      "stop": "39.78",
+      "alvo": "47.66"
+    },
+    {
+      "ticker": "SAPR4",
+      "nome": "SAPR4",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "6.71",
+      "rsi": 49.2,
+      "pl": 24.0,
+      "atr": 2.7,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "8.8% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.71",
+      "stop": "6.35",
+      "alvo": "7.72"
+    },
+    {
+      "ticker": "USIM3",
+      "nome": "USIM3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "6.59",
+      "rsi": 46.6,
+      "pl": null,
+      "atr": 5.1,
+      "pontos": [
+        "RSI neutro-baixo (47)",
+        "Estocástico sobrevendido (18)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.59",
+      "stop": "5.92",
+      "alvo": "7.58"
+    },
+    {
+      "ticker": "RANI3",
+      "nome": "RANI3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "8.05",
+      "rsi": 60.4,
+      "pl": 14.1,
+      "atr": 2.1,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "7.1% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (14.1x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "8.05",
+      "stop": "7.71",
+      "alvo": "9.26"
+    },
+    {
+      "ticker": "BMOB3",
+      "nome": "BMOB3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "27.68",
+      "rsi": 72.1,
+      "pl": 14.6,
+      "atr": 3.1,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (14.6x)",
+        "ROE sólido (16.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "27.68",
+      "stop": "25.96",
+      "alvo": "31.83"
+    },
+    {
+      "ticker": "CYRE4",
+      "nome": "CYRE4",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "24.49",
+      "rsi": 60.2,
+      "pl": null,
+      "atr": 4.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (20.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "24.49",
+      "stop": "22.48",
+      "alvo": "28.16"
+    },
+    {
+      "ticker": "POSI3",
+      "nome": "POSI3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "3.42",
+      "rsi": 47.0,
+      "pl": 38.0,
+      "atr": 3.4,
+      "pontos": [
+        "RSI neutro-baixo (47)",
+        "7.5% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.42",
+      "stop": "3.19",
+      "alvo": "3.93"
+    },
+    {
+      "ticker": "CSNA3",
+      "nome": "CSNA3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "6.22",
+      "rsi": 56.6,
+      "pl": null,
+      "atr": 6.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.22",
+      "stop": "5.41",
+      "alvo": "7.15"
+    },
+    {
+      "ticker": "MRVE3",
+      "nome": "MRVE3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "5.41",
+      "rsi": 51.2,
+      "pl": null,
+      "atr": 5.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.41",
+      "stop": "4.79",
+      "alvo": "6.22"
+    },
+    {
+      "ticker": "GOAU4",
+      "nome": "GOAU4",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "11.68",
+      "rsi": 64.2,
+      "pl": 19.5,
+      "atr": 3.2,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 1.7x acima da média"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.68",
+      "stop": "10.93",
+      "alvo": "13.43"
+    },
+    {
+      "ticker": "PMAM3",
+      "nome": "PMAM3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "0.4",
+      "rsi": 52.8,
+      "pl": null,
+      "atr": 34.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.4",
+      "stop": "0.13",
+      "alvo": "0.46"
+    },
+    {
+      "ticker": "SBSP3",
+      "nome": "SBSP3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "27.09",
+      "rsi": 59.4,
+      "pl": 11.4,
+      "atr": 2.8,
+      "pontos": [
+        "P/L atrativo (11.4x)",
+        "ROE sólido (18.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "27.09",
+      "stop": "25.57",
+      "alvo": "31.15"
+    },
+    {
+      "ticker": "CEAB3",
+      "nome": "CEAB3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "8.82",
+      "rsi": 48.1,
+      "pl": 4.7,
+      "atr": 4.9,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "ROE sólido (15.5%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "8.82",
+      "stop": "7.96",
+      "alvo": "10.14"
+    },
+    {
+      "ticker": "YDUQ3",
+      "nome": "YDUQ3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "10.45",
+      "rsi": 74.3,
+      "pl": 24.9,
+      "atr": 3.9,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 1.5x acima da média"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.45",
+      "stop": "9.63",
+      "alvo": "12.02"
+    },
+    {
+      "ticker": "HAPV3",
+      "nome": "HAPV3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "6.42",
+      "rsi": 35.2,
+      "pl": null,
+      "atr": 6.9,
+      "pontos": [
+        "RSI neutro-baixo (35)",
+        "Tendência de baixa",
+        "6.8% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (10)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.42",
+      "stop": "5.53",
+      "alvo": "7.38"
+    },
+    {
+      "ticker": "BPAC11",
+      "nome": "BPAC11",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "60.89",
+      "rsi": 68.8,
+      "pl": 99.2,
+      "atr": 2.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (24.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "60.89",
+      "stop": "57.48",
+      "alvo": "70.02"
+    },
+    {
+      "ticker": "RAIL3",
+      "nome": "RAIL3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "14.85",
+      "rsi": 57.3,
+      "pl": 22.5,
+      "atr": 3.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.85",
+      "stop": "13.96",
+      "alvo": "17.08"
+    },
+    {
+      "ticker": "GGBR4",
+      "nome": "GGBR4",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "26.04",
+      "rsi": 60.9,
+      "pl": 22.7,
+      "atr": 3.4,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "26.04",
+      "stop": "24.27",
+      "alvo": "29.95"
+    },
+    {
+      "ticker": "ENGI11",
+      "nome": "ENGI11",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "52.19",
+      "rsi": 68.4,
+      "pl": 37.8,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "52.19",
+      "stop": "49.48",
+      "alvo": "60.02"
+    },
+    {
+      "ticker": "KLBN11",
+      "nome": "KLBN11",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "19.55",
+      "rsi": 67.2,
+      "pl": 29.6,
+      "atr": 2.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "19.55",
+      "stop": "18.77",
+      "alvo": "22.48"
+    },
+    {
+      "ticker": "EMBJ3",
+      "nome": "EMBJ3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "95.57",
+      "rsi": 53.7,
+      "pl": 30.1,
+      "atr": 2.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "95.57",
+      "stop": "90.22",
+      "alvo": "109.91"
+    },
+    {
+      "ticker": "SANB11",
+      "nome": "SANB11",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "30.49",
+      "rsi": 59.2,
+      "pl": 14.9,
+      "atr": 2.2,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (14.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "30.49",
+      "stop": "29.15",
+      "alvo": "35.06"
+    },
+    {
+      "ticker": "CASH3",
+      "nome": "CASH3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "5.54",
+      "rsi": 57.0,
+      "pl": null,
+      "atr": 4.9,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.54",
+      "stop": "5.0",
+      "alvo": "6.37"
+    },
+    {
+      "ticker": "AZZA3",
+      "nome": "AZZA3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "14.9",
+      "rsi": 40.4,
+      "pl": 3.0,
+      "atr": 5.3,
+      "pontos": [
+        "RSI neutro-baixo (40)",
+        "Tendência de baixa",
+        "4.1% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (15)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.9",
+      "stop": "13.32",
+      "alvo": "17.13"
+    },
+    {
+      "ticker": "RAPT4",
+      "nome": "RAPT4",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "5.02",
+      "rsi": 54.2,
+      "pl": null,
+      "atr": 3.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.02",
+      "stop": "4.64",
+      "alvo": "5.77"
+    },
+    {
+      "ticker": "AURE3",
+      "nome": "AURE3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "11.9",
+      "rsi": 61.4,
+      "pl": null,
+      "atr": 3.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.9",
+      "stop": "11.19",
+      "alvo": "13.68"
+    },
+    {
+      "ticker": "LJQQ3",
+      "nome": "LJQQ3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "1.32",
+      "rsi": 59.8,
+      "pl": null,
+      "atr": 5.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.32",
+      "stop": "1.17",
+      "alvo": "1.52"
+    },
+    {
+      "ticker": "RCSL4",
+      "nome": "RCSL4",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "0.38",
+      "rsi": 36.4,
+      "pl": 6.3,
+      "atr": 13.9,
+      "pontos": [
+        "RSI neutro-baixo (36)",
+        "Tendência de baixa",
+        "Estocástico sobrevendido (18)",
+        "P/L atrativo (6.3x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.38",
+      "stop": "0.27",
+      "alvo": "0.44"
+    },
+    {
+      "ticker": "MLAS3",
+      "nome": "MLAS3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "1.84",
+      "rsi": 52.3,
+      "pl": 5.0,
+      "atr": 4.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.84",
+      "stop": "1.69",
+      "alvo": "2.12"
+    },
+    {
+      "ticker": "EGIE3",
+      "nome": "EGIE3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "30.88",
+      "rsi": 63.2,
+      "pl": 9.0,
+      "atr": 2.2,
+      "pontos": [
+        "P/L atrativo (9.0x)",
+        "ROE sólido (28.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "30.88",
+      "stop": "29.52",
+      "alvo": "35.51"
+    },
+    {
+      "ticker": "HYPE3",
+      "nome": "HYPE3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "23.52",
+      "rsi": 65.9,
+      "pl": 8.9,
+      "atr": 3.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (8.9x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "23.52",
+      "stop": "22.11",
+      "alvo": "27.05"
+    },
+    {
+      "ticker": "DASA3",
+      "nome": "DASA3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "2.89",
+      "rsi": 58.3,
+      "pl": null,
+      "atr": 6.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.89",
+      "stop": "2.54",
+      "alvo": "3.32"
+    },
+    {
+      "ticker": "AXIA7",
+      "nome": "AXIA7",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "55.42",
+      "rsi": 60.8,
+      "pl": null,
+      "atr": 2.7,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "55.42",
+      "stop": "52.43",
+      "alvo": "63.73"
+    },
+    {
+      "ticker": "AZEV3",
+      "nome": "AZEV3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "7.85",
+      "rsi": 53.6,
+      "pl": null,
+      "atr": 21.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.85",
+      "stop": "4.51",
+      "alvo": "9.03"
+    },
+    {
+      "ticker": "AMER3",
+      "nome": "AMER3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "4.97",
+      "rsi": 53.9,
+      "pl": 3.2,
+      "atr": 5.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.97",
+      "stop": "4.39",
+      "alvo": "5.72"
+    },
+    {
+      "ticker": "DXCO3",
+      "nome": "DXCO3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "5.52",
+      "rsi": 57.7,
+      "pl": null,
+      "atr": 3.4,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.52",
+      "stop": "5.14",
+      "alvo": "6.35"
+    },
+    {
+      "ticker": "JSLG3",
+      "nome": "JSLG3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "6.13",
+      "rsi": 63.4,
+      "pl": null,
+      "atr": 4.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.13",
+      "stop": "5.6",
+      "alvo": "7.05"
+    },
+    {
+      "ticker": "BRSR6",
+      "nome": "BRSR6",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "15.13",
+      "rsi": 68.6,
+      "pl": 3.8,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.13",
+      "stop": "14.34",
+      "alvo": "17.4"
+    },
+    {
+      "ticker": "BMGB4",
+      "nome": "BMGB4",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "6.03",
+      "rsi": 67.7,
+      "pl": 4.6,
+      "atr": 3.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.03",
+      "stop": "5.67",
+      "alvo": "6.93"
+    },
+    {
+      "ticker": "IRBR3",
+      "nome": "IRBR3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "60.89",
+      "rsi": 65.6,
+      "pl": 20.7,
+      "atr": 2.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "60.89",
+      "stop": "57.48",
+      "alvo": "70.02"
+    },
+    {
+      "ticker": "CAML3",
+      "nome": "CAML3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "5.1",
+      "rsi": 56.8,
+      "pl": 17.0,
+      "atr": 3.4,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.1",
+      "stop": "4.75",
+      "alvo": "5.86"
+    },
+    {
+      "ticker": "SOJA3",
+      "nome": "SOJA3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "7.61",
+      "rsi": 62.3,
+      "pl": 26.2,
+      "atr": 4.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.61",
+      "stop": "6.99",
+      "alvo": "8.75"
+    },
+    {
+      "ticker": "ABCB4",
+      "nome": "ABCB4",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "24.96",
+      "rsi": 66.4,
+      "pl": 4.5,
+      "atr": 2.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "24.96",
+      "stop": "23.96",
+      "alvo": "28.7"
+    },
+    {
+      "ticker": "TUPY3",
+      "nome": "TUPY3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "15.84",
+      "rsi": 56.3,
+      "pl": null,
+      "atr": 3.1,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.84",
+      "stop": "14.86",
+      "alvo": "18.22"
+    },
+    {
+      "ticker": "FIQE3",
+      "nome": "FIQE3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "5.1",
+      "rsi": 53.4,
+      "pl": 8.4,
+      "atr": 3.2,
+      "pontos": [
+        "P/L atrativo (8.4x)",
+        "ROE sólido (18.1%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.1",
+      "stop": "4.77",
+      "alvo": "5.86"
+    },
+    {
+      "ticker": "TRIS3",
+      "nome": "TRIS3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "4.87",
+      "rsi": 56.9,
+      "pl": 4.7,
+      "atr": 3.9,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.87",
+      "stop": "4.49",
+      "alvo": "5.6"
+    },
+    {
+      "ticker": "MEAL3",
+      "nome": "MEAL3",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "0.93",
+      "rsi": 77.5,
+      "pl": null,
+      "atr": 5.7,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.93",
+      "stop": "0.82",
+      "alvo": "1.07"
+    },
+    {
+      "ticker": "MGLU3",
+      "nome": "MGLU3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "5.78",
+      "rsi": 61.1,
+      "pl": 52.6,
+      "atr": 6.2,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.78",
+      "stop": "5.06",
+      "alvo": "6.65"
+    },
+    {
+      "ticker": "EQTL3",
+      "nome": "EQTL3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "39.35",
+      "rsi": 60.6,
+      "pl": 70.3,
+      "atr": 2.6,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "39.35",
+      "stop": "37.3",
+      "alvo": "45.25"
+    },
+    {
+      "ticker": "MOVI3",
+      "nome": "MOVI3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "7.97",
+      "rsi": 55.1,
+      "pl": 6.6,
+      "atr": 5.2,
+      "pontos": [
+        "P/L atrativo (6.6x)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.97",
+      "stop": "7.14",
+      "alvo": "9.17"
+    },
+    {
+      "ticker": "KLBN4",
+      "nome": "KLBN4",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "3.87",
+      "rsi": 67.1,
+      "pl": 129.0,
+      "atr": 1.9,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.87",
+      "stop": "3.72",
+      "alvo": "4.45"
+    },
+    {
+      "ticker": "SEQL3",
+      "nome": "SEQL3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "0.07",
+      "rsi": 52.4,
+      "pl": null,
+      "atr": 18.2,
+      "pontos": [
+        "Volume 1.8x acima da média"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.07",
+      "stop": "0.04",
+      "alvo": "0.08"
+    },
+    {
+      "ticker": "VULC3",
+      "nome": "VULC3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "13.4",
+      "rsi": 48.2,
+      "pl": 4.4,
+      "atr": 3.2,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "Tendência de baixa",
+        "5.3% acima da mínima de 52 sem — assimetria alta",
+        "ROE sólido (37.1%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "13.4",
+      "stop": "12.54",
+      "alvo": "15.41"
+    },
+    {
+      "ticker": "IGTI11",
+      "nome": "IGTI11",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "25.64",
+      "rsi": 54.1,
+      "pl": 157.3,
+      "atr": 2.8,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "25.64",
+      "stop": "24.2",
+      "alvo": "29.49"
+    },
+    {
+      "ticker": "KLBN3",
+      "nome": "KLBN3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "4.07",
+      "rsi": 63.4,
+      "pl": 135.7,
+      "atr": 2.3,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.07",
+      "stop": "3.88",
+      "alvo": "4.68"
+    },
+    {
+      "ticker": "AZTE3",
+      "nome": "AZTE3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "1.41",
+      "rsi": 47.2,
+      "pl": 4.5,
+      "atr": 11.7,
+      "pontos": [
+        "RSI neutro-baixo (47)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.41",
+      "stop": "1.08",
+      "alvo": "1.62"
+    },
+    {
+      "ticker": "PRNR3",
+      "nome": "PRNR3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "17.75",
+      "rsi": 48.8,
+      "pl": 25.0,
+      "atr": 3.2,
+      "pontos": [
+        "RSI neutro-baixo (49)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "17.75",
+      "stop": "16.61",
+      "alvo": "20.41"
+    },
+    {
+      "ticker": "HBOR3",
+      "nome": "HBOR3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "2.25",
+      "rsi": 61.8,
+      "pl": 75.0,
+      "atr": 5.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.25",
+      "stop": "2.02",
+      "alvo": "2.59"
+    },
+    {
+      "ticker": "PTBL3",
+      "nome": "PTBL3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "1.67",
+      "rsi": 55.8,
+      "pl": null,
+      "atr": 6.5,
+      "pontos": [
+        "MACD positivo e acelerando"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.67",
+      "stop": "1.45",
+      "alvo": "1.92"
+    },
+    {
+      "ticker": "ABEV3",
+      "nome": "ABEV3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "15.58",
+      "rsi": 51.9,
+      "pl": 15.1,
+      "atr": 2.0,
+      "pontos": [
+        "ROE sólido (18.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.58",
+      "stop": "14.96",
+      "alvo": "17.92"
+    },
+    {
+      "ticker": "USIM5",
+      "nome": "USIM5",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "7.05",
+      "rsi": 43.8,
+      "pl": null,
+      "atr": 5.0,
+      "pontos": [
+        "RSI neutro-baixo (44)",
+        "Tendência de baixa",
+        "Estocástico sobrevendido (17)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.05",
+      "stop": "6.34",
+      "alvo": "8.11"
+    },
+    {
+      "ticker": "AUAU3",
+      "nome": "AUAU3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "4.14",
+      "rsi": 68.5,
+      "pl": null,
+      "atr": 4.2,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.14",
+      "stop": "3.79",
+      "alvo": "4.76"
+    },
+    {
+      "ticker": "SMFT3",
+      "nome": "SMFT3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "16.96",
+      "rsi": 39.4,
+      "pl": 15.4,
+      "atr": 3.5,
+      "pontos": [
+        "RSI neutro-baixo (39)",
+        "Tendência de baixa",
+        "3.5% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.96",
+      "stop": "15.77",
+      "alvo": "19.5"
+    },
+    {
+      "ticker": "FLRY3",
+      "nome": "FLRY3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "21.41",
+      "rsi": 76.4,
+      "pl": 18.5,
+      "atr": 2.7,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "21.41",
+      "stop": "20.25",
+      "alvo": "24.62"
+    },
+    {
+      "ticker": "ORVR3",
+      "nome": "ORVR3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "16.96",
+      "rsi": 49.6,
+      "pl": 99.8,
+      "atr": 2.9,
+      "pontos": [
+        "RSI neutro-baixo (50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.96",
+      "stop": "15.98",
+      "alvo": "19.5"
+    },
+    {
+      "ticker": "SLCE3",
+      "nome": "SLCE3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "17.88",
+      "rsi": 68.3,
+      "pl": 28.8,
+      "atr": 3.2,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "17.88",
+      "stop": "16.74",
+      "alvo": "20.56"
+    },
+    {
+      "ticker": "AMBP3",
+      "nome": "AMBP3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "0.15",
+      "rsi": 49.3,
+      "pl": null,
+      "atr": 5.1,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "Tendência de baixa",
+        "7.1% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.15",
+      "stop": "0.13",
+      "alvo": "0.17"
+    },
+    {
+      "ticker": "PINE4",
+      "nome": "PINE4",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "11.52",
+      "rsi": 51.1,
+      "pl": 4.7,
+      "atr": 4.6,
+      "pontos": [
+        "ROE sólido (40.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "11.52",
+      "stop": "10.46",
+      "alvo": "13.25"
+    },
+    {
+      "ticker": "BRBI11",
+      "nome": "BRBI11",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "14.24",
+      "rsi": 59.8,
+      "pl": 32.4,
+      "atr": 2.8,
+      "pontos": [
+        "ROE sólido (19.7%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.24",
+      "stop": "13.44",
+      "alvo": "16.38"
+    },
+    {
+      "ticker": "BHIA3",
+      "nome": "BHIA3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "0.82",
+      "rsi": 59.7,
+      "pl": null,
+      "atr": 11.8,
+      "pontos": [],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.82",
+      "stop": "0.63",
+      "alvo": "0.94"
+    },
+    {
+      "ticker": "GFSA3",
+      "nome": "GFSA3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "0.27",
+      "rsi": 51.9,
+      "pl": null,
+      "atr": 15.3,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Volume 2.2x acima da média"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.27",
+      "stop": "0.19",
+      "alvo": "0.31"
+    },
+    {
+      "ticker": "RAIZ4",
+      "nome": "RAIZ4",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "0.27",
+      "rsi": 52.5,
+      "pl": null,
+      "atr": 8.0,
+      "pontos": [],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.27",
+      "stop": "0.23",
+      "alvo": "0.31"
+    },
+    {
+      "ticker": "VIVT3",
+      "nome": "VIVT3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "30.86",
+      "rsi": 54.9,
+      "pl": 15.1,
+      "atr": 2.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "6.8% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "30.86",
+      "stop": "29.63",
+      "alvo": "35.49"
+    },
+    {
+      "ticker": "SIMH3",
+      "nome": "SIMH3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "7.41",
+      "rsi": 53.0,
+      "pl": null,
+      "atr": 5.7,
+      "pontos": [],
+      "tese": null,
+      "risco": null,
+      "entrada": "7.41",
+      "stop": "6.57",
+      "alvo": "8.52"
+    },
+    {
+      "ticker": "QUAL3",
+      "nome": "QUAL3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "1.69",
+      "rsi": 60.3,
+      "pl": 24.1,
+      "atr": 5.0,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "1.69",
+      "stop": "1.52",
+      "alvo": "1.94"
+    },
+    {
+      "ticker": "HBSA3",
+      "nome": "HBSA3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "3.34",
+      "rsi": 48.5,
+      "pl": 166.5,
+      "atr": 3.2,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "Tendência de baixa",
+        "14.8% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.34",
+      "stop": "3.13",
+      "alvo": "3.84"
+    },
+    {
+      "ticker": "VVEO3",
+      "nome": "VVEO3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "0.84",
+      "rsi": 65.5,
+      "pl": 4.7,
+      "atr": 6.3,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.84",
+      "stop": "0.73",
+      "alvo": "0.97"
+    },
+    {
+      "ticker": "CSAN3",
+      "nome": "CSAN3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "3.66",
+      "rsi": 48.4,
+      "pl": null,
+      "atr": 4.9,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.66",
+      "stop": "3.3",
+      "alvo": "4.21"
+    },
+    {
+      "ticker": "BRKM5",
+      "nome": "BRKM5",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "4.52",
+      "rsi": 41.8,
+      "pl": null,
+      "atr": 9.3,
+      "pontos": [
+        "RSI neutro-baixo (42)",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.52",
+      "stop": "3.68",
+      "alvo": "5.2"
+    },
+    {
+      "ticker": "CSMG3",
+      "nome": "CSMG3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "56.09",
+      "rsi": 46.0,
+      "pl": 16.4,
+      "atr": 3.0,
+      "pontos": [
+        "RSI neutro-baixo (46)",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "56.09",
+      "stop": "52.72",
+      "alvo": "64.5"
+    },
+    {
+      "ticker": "ENJU3",
+      "nome": "ENJU3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "0.78",
+      "rsi": 52.3,
+      "pl": null,
+      "atr": 4.9,
+      "pontos": [
+        "MACD positivo e acelerando",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.78",
+      "stop": "0.7",
+      "alvo": "0.9"
+    },
+    {
+      "ticker": "BRAV3",
+      "nome": "BRAV3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "17.65",
+      "rsi": 42.7,
+      "pl": 176.5,
+      "atr": 3.5,
+      "pontos": [
+        "RSI neutro-baixo (43)",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "17.65",
+      "stop": "16.41",
+      "alvo": "20.3"
+    }
+  ],
+  "candidatos_top": [
+    {
+      "ticker": "CURY3",
+      "nome": "CURY3",
+      "score": 70,
+      "acao": "COMPRAR",
+      "preco": "28.83",
+      "rsi": 36.2,
+      "pl": 7.9,
+      "atr": 4.8,
+      "pontos": [
+        "RSI neutro-baixo (36)",
+        "Preço tocando banda inferior de Bollinger",
+        "Volume 2.4x acima da média",
+        "9.1% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (7)",
+        "P/L atrativo (7.9x)",
+        "ROE sólido (68.5%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "28.83",
+      "stop": "26.06",
+      "alvo": "33.15"
+    },
+    {
+      "ticker": "OPCT3",
+      "nome": "OPCT3",
+      "score": 70,
+      "acao": "COMPRAR",
+      "preco": "9.14",
+      "rsi": 32.2,
+      "pl": 10.9,
+      "atr": 5.8,
+      "pontos": [
+        "RSI sobrevendido (32) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Volume 3.5x acima da média",
+        "Estocástico sobrevendido (7)",
+        "P/L atrativo (10.9x)",
+        "ROE sólido (17.2%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "9.14",
+      "stop": "8.08",
+      "alvo": "10.51"
+    },
+    {
+      "ticker": "CMIN3",
+      "nome": "CMIN3",
+      "score": 65,
+      "acao": "COMPRAR",
+      "preco": "5.7",
+      "rsi": 40.8,
+      "pl": 17.8,
+      "atr": 5.7,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 1.5x acima da média",
+        "Estocástico sobrevendido (5)",
+        "ROE sólido (28.1%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "5.7",
+      "stop": "5.05",
+      "alvo": "6.55"
+    },
+    {
+      "ticker": "DIRR3",
+      "nome": "DIRR3",
+      "score": 55,
+      "acao": "OBSERVAR",
+      "preco": "10.01",
+      "rsi": 33.3,
+      "pl": 6.1,
+      "atr": 4.4,
+      "pontos": [
+        "RSI sobrevendido (33) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "2.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (12)",
+        "P/L atrativo (6.1x)",
+        "ROE sólido (41.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "10.01",
+      "stop": "9.13",
+      "alvo": "11.51"
+    },
+    {
+      "ticker": "MILS3",
+      "nome": "MILS3",
+      "score": 50,
+      "acao": "OBSERVAR",
+      "preco": "15.89",
+      "rsi": 65.4,
+      "pl": 8.5,
+      "atr": 0.7,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Volume 5.2x acima da média",
+        "P/L atrativo (8.5x)",
+        "ROE sólido (26.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "15.89",
+      "stop": "15.67",
+      "alvo": "18.27"
+    },
+    {
+      "ticker": "KEPL3",
+      "nome": "KEPL3",
+      "score": 50,
+      "acao": "OBSERVAR",
+      "preco": "6.43",
+      "rsi": 49.5,
+      "pl": 7.9,
+      "atr": 2.5,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Estocástico sobrevendido (18)",
+        "P/L atrativo (7.9x)",
+        "ROE sólido (18.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.43",
+      "stop": "6.11",
+      "alvo": "7.39"
+    },
+    {
+      "ticker": "VIVA3",
+      "nome": "VIVA3",
+      "score": 50,
+      "acao": "OBSERVAR",
+      "preco": "22.37",
+      "rsi": 50.5,
+      "pl": 9.0,
+      "atr": 3.5,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "11.6% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (16)",
+        "P/L atrativo (9.0x)",
+        "ROE sólido (19.7%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "22.37",
+      "stop": "20.8",
+      "alvo": "25.73"
+    },
+    {
+      "ticker": "POMO4",
+      "nome": "POMO4",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "4.31",
+      "rsi": 41.0,
+      "pl": 4.5,
+      "atr": 3.6,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 2.4x acima da média",
+        "9.6% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (5)",
+        "ROE sólido (28.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.31",
+      "stop": "4.0",
+      "alvo": "4.96"
+    },
+    {
+      "ticker": "TEND3",
+      "nome": "TEND3",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "29.13",
+      "rsi": 35.0,
+      "pl": 6.2,
+      "atr": 5.4,
+      "pontos": [
+        "RSI neutro-baixo (35)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 1.8x acima da média",
+        "Estocástico sobrevendido (8)",
+        "P/L atrativo (6.2x)",
+        "ROE sólido (40.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "29.13",
+      "stop": "25.98",
+      "alvo": "33.5"
+    },
+    {
+      "ticker": "OBTC3",
+      "nome": "OBTC3",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "6.46",
+      "rsi": 45.1,
+      "pl": null,
+      "atr": 7.7,
+      "pontos": [
+        "RSI neutro-baixo (45)",
+        "Preço tocando banda inferior de Bollinger",
+        "Volume 2.3x acima da média",
+        "13.1% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "6.46",
+      "stop": "5.47",
+      "alvo": "7.43"
+    },
+    {
+      "ticker": "SHUL4",
+      "nome": "SHUL4",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "4.32",
+      "rsi": 38.5,
+      "pl": 5.9,
+      "atr": 2.2,
+      "pontos": [
+        "RSI neutro-baixo (38)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "9.1% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (13)",
+        "P/L atrativo (5.9x)",
+        "ROE sólido (16.9%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.32",
+      "stop": "4.13",
+      "alvo": "4.97"
+    },
+    {
+      "ticker": "BEEF3",
+      "nome": "BEEF3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "3.84",
+      "rsi": 49.8,
+      "pl": 9.8,
+      "atr": 4.9,
+      "pontos": [
+        "RSI neutro-baixo (50)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (9.8x)",
+        "ROE sólido (23.2%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.84",
+      "stop": "3.46",
+      "alvo": "4.42"
+    },
+    {
+      "ticker": "RADL3",
+      "nome": "RADL3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "20.32",
+      "rsi": 60.7,
+      "pl": 23.9,
+      "atr": 3.4,
+      "pontos": [
+        "MACD cruzou para positivo (sinal de compra)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (20.0%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "20.32",
+      "stop": "18.94",
+      "alvo": "23.37"
+    },
+    {
+      "ticker": "SBFG3",
+      "nome": "SBFG3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "8.12",
+      "rsi": 36.7,
+      "pl": 4.5,
+      "atr": 4.5,
+      "pontos": [
+        "RSI neutro-baixo (37)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 2.2x acima da média",
+        "2.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (0)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "8.12",
+      "stop": "7.39",
+      "alvo": "9.34"
+    },
+    {
+      "ticker": "MBRF3",
+      "nome": "MBRF3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "16.56",
+      "rsi": 41.1,
+      "pl": 59.1,
+      "atr": 3.9,
+      "pontos": [
+        "RSI neutro-baixo (41)",
+        "Preço tocando banda inferior de Bollinger",
+        "14.3% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (1)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.56",
+      "stop": "15.27",
+      "alvo": "19.04"
+    },
+    {
+      "ticker": "TFCO4",
+      "nome": "TFCO4",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "13.17",
+      "rsi": 48.1,
+      "pl": 14.0,
+      "atr": 3.4,
+      "pontos": [
+        "RSI neutro-baixo (48)",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "Volume 1.8x acima da média",
+        "7.0% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (14.0x)",
+        "ROE sólido (25.7%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "13.17",
+      "stop": "12.27",
+      "alvo": "15.15"
+    },
+    {
+      "ticker": "AGXY3",
+      "nome": "AGXY3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "0.67",
+      "rsi": 12.1,
+      "pl": null,
+      "atr": 16.4,
+      "pontos": [
+        "RSI sobrevendido (12) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "Volume 6.5x acima da média",
+        "Estocástico sobrevendido (11)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "0.67",
+      "stop": "0.45",
+      "alvo": "0.77"
+    },
+    {
+      "ticker": "ALUP11",
+      "nome": "ALUP11",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "33.35",
+      "rsi": 55.1,
+      "pl": 8.0,
+      "atr": 2.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "13.9% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (8.0x)",
+        "ROE sólido (15.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "33.35",
+      "stop": "32.02",
+      "alvo": "38.35"
+    }
+  ],
+  "plano": [
+    {
+      "ativo": "CURY3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 28.83",
+      "stop": "R$ 26.06",
+      "alvo": "R$ 33.15"
+    },
+    {
+      "ativo": "OPCT3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 9.14",
+      "stop": "R$ 8.08",
+      "alvo": "R$ 10.51"
+    },
+    {
+      "ativo": "CMIN3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 5.7",
+      "stop": "R$ 5.05",
+      "alvo": "R$ 6.55"
+    },
+    {
+      "ativo": "DIRR3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 10.01",
+      "stop": "R$ 9.13",
+      "alvo": "R$ 11.51"
+    },
+    {
+      "ativo": "MILS3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 15.89",
+      "stop": "R$ 15.67",
+      "alvo": "R$ 18.27"
+    },
+    {
+      "ativo": "KEPL3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 6.43",
+      "stop": "R$ 6.11",
+      "alvo": "R$ 7.39"
+    },
+    {
+      "ativo": "VIVA3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 22.37",
+      "stop": "R$ 20.8",
+      "alvo": "R$ 25.73"
+    },
+    {
+      "ativo": "POMO4",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 4.31",
+      "stop": "R$ 4.0",
+      "alvo": "R$ 4.96"
+    },
+    {
+      "ativo": "TEND3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 29.13",
+      "stop": "R$ 25.98",
+      "alvo": "R$ 33.5"
+    },
+    {
+      "ativo": "OBTC3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 6.46",
+      "stop": "R$ 5.47",
+      "alvo": "R$ 7.43"
+    },
+    {
+      "ativo": "SHUL4",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 4.32",
+      "stop": "R$ 4.13",
+      "alvo": "R$ 4.97"
+    },
+    {
+      "ativo": "BEEF3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 3.84",
+      "stop": "R$ 3.46",
+      "alvo": "R$ 4.42"
+    },
+    {
+      "ativo": "RADL3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 20.32",
+      "stop": "R$ 18.94",
+      "alvo": "R$ 23.37"
+    },
+    {
+      "ativo": "SBFG3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 8.12",
+      "stop": "R$ 7.39",
+      "alvo": "R$ 9.34"
+    },
+    {
+      "ativo": "MBRF3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 16.56",
+      "stop": "R$ 15.27",
+      "alvo": "R$ 19.04"
+    },
+    {
+      "ativo": "TFCO4",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 13.17",
+      "stop": "R$ 12.27",
+      "alvo": "R$ 15.15"
+    },
+    {
+      "ativo": "AGXY3",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 0.67",
+      "stop": "R$ 0.45",
+      "alvo": "R$ 0.77"
+    },
+    {
+      "ativo": "ALUP11",
+      "acao": "COMPRAR",
+      "valor": "R$ 472,22",
+      "entrada": "R$ 33.35",
+      "stop": "R$ 32.02",
+      "alvo": "R$ 38.35"
+    }
+  ],
+  "backtesting": {
+    "total_operacoes": 1458,
+    "fechadas": 1190,
+    "abertas": 268,
+    "ganhos": 338,
+    "perdas": 852,
+    "taxa_acerto": 28.4,
+    "retorno_medio_pct": -1.75,
+    "maior_ganho_pct": 16.67,
+    "maior_perda_pct": -56.0,
+    "retorno_total_pct": -2077.05,
+    "ultimas_operacoes": [
+      {
+        "ticker": "SBSP3",
+        "data_entrada": "2026-08-16",
+        "preco_entrada": 23.79,
+        "stop": 21.98,
+        "alvo": 27.36,
+        "score": 65,
+        "status": "fechado",
+        "preco_saida": 27.36,
+        "data_saida": "2026-09-17",
+        "resultado_pct": 15.01,
+        "motivo_saida": "alvo",
+        "preco_atual": 27.1,
+        "resultado_pct_atual": 13.91
+      },
+      {
+        "ticker": "SBSP3",
+        "data_entrada": "2026-08-18",
+        "preco_entrada": 23.8,
+        "stop": 22.04,
+        "alvo": 27.37,
+        "score": 55,
+        "status": "fechado",
+        "preco_saida": 27.37,
+        "data_saida": "2026-09-17",
+        "resultado_pct": 15.0,
+        "motivo_saida": "alvo",
+        "preco_atual": 27.12,
+        "resultado_pct_atual": 13.95
+      },
+      {
+        "ticker": "SBSP3",
+        "data_entrada": "2026-08-25",
+        "preco_entrada": 23.86,
+        "stop": 22.24,
+        "alvo": 27.44,
+        "score": 50,
+        "status": "fechado",
+        "preco_saida": 27.44,
+        "data_saida": "2026-09-17",
+        "resultado_pct": 15.0,
+        "motivo_saida": "alvo",
+        "preco_atual": 27.09,
+        "resultado_pct_atual": 13.54
+      },
+      {
+        "ticker": "TEND3",
+        "data_entrada": "2026-08-26",
+        "preco_entrada": 32.67,
+        "stop": 29.8,
+        "alvo": 37.57,
+        "score": 40,
+        "status": "fechado",
+        "preco_saida": 29.8,
+        "data_saida": "2026-09-17",
+        "resultado_pct": -8.78,
+        "motivo_saida": "stop",
+        "preco_atual": 30.53,
+        "resultado_pct_atual": -6.55
+      },
+      {
+        "ticker": "TEND3",
+        "data_entrada": "2026-08-28",
+        "preco_entrada": 32.83,
+        "stop": 29.68,
+        "alvo": 37.75,
+        "score": 40,
+        "status": "fechado",
+        "preco_saida": 29.68,
+        "data_saida": "2026-09-17",
+        "resultado_pct": -9.59,
+        "motivo_saida": "stop",
+        "preco_atual": 30.53,
+        "resultado_pct_atual": -7.01
+      }
+    ]
+  },
+  "output_raw": "Universo B3: 186 acoes (137 liquidas + 49 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  17/09/2026 17:03\n════════════════════════════════════════════════════════════\nAnalisando 186 ativos...\n\n  [1/186] BBDC4.SA...        \n  [2/186] POMO4.SA...        \n  [3/186] LREN3.SA...        \n  [4/186] BBAS3.SA...        \n  [5/186] PETR4.SA...        \n  [6/186] B3SA3.SA...        \n  [7/186] MGLU3.SA...        \n  [8/186] BEEF3.SA...        \n  [9/186] CSNA3.SA...        \n  [10/186] CSAN3.SA...        \n  [11/186] COGN3.SA...        \n  [12/186] MRVE3.SA...        \n  [13/186] RENT3.SA...        \n  [14/186] ITUB4.SA...        \n  [15/186] GOAU4.SA...        \n  [16/186] PMAM3.SA...        \n  [17/186] CMIG4.SA...        \n  [18/186] VBBR3.SA...        \n  [19/186] ITSA4.SA...        \n  [20/186] VALE3.SA...        \n  [21/186] ABEV3.SA...        \n  [22/186] VAMO3.SA...        \n  [23/186] BHIA3.SA...        \n  [24/186] DIRR3.SA...        \n  [25/186] SBSP3.SA...        \n  [26/186] CMIN3.SA...        \n  [27/186] CVCB3.SA...        \n  [28/186] GFSA3.SA...        \n  [29/186] RAIZ4.SA...        \n  [30/186] CEAB3.SA...        \n  [31/186] CPLE3.SA...        \n  [32/186] SAUD3.SA...        \n  [33/186] USIM5.SA...        \n  [34/186] CYRE3.SA...        \n  [35/186] PRIO3.SA...        \n  [36/186] ENEV3.SA...        \n  [37/186] PCAR3.SA...        \n  [38/186] YDUQ3.SA...        \n  [39/186] UGPA3.SA...        \n  [40/186] ASAI3.SA...        \n  [41/186] HAPV3.SA...        \n  [42/186] CURY3.SA...        \n  [43/186] RDOR3.SA...        \n  [44/186] AXIA3.SA...        \n  [45/186] BPAC11.SA...        \n  [46/186] ECOR3.SA...        \n  [47/186] RAIL3.SA...        \n  [48/186] MOTV3.SA...        \n  [49/186] GGBR4.SA...        \n  [50/186] RADL3.SA...        \n  [51/186] SBFG3.SA...        \n  [52/186] ALOS3.SA...        \n  [53/186] TEND3.SA...        \n  [54/186] WEGE3.SA...        \n  [55/186] EQTL3.SA...        \n  [56/186] PETR3.SA...        \n  [57/186] MOVI3.SA...        \n  [58/186] GMAT3.SA...        \n  [59/186] ENGI11.SA...        \n  [60/186] OBTC3.SA...        \n  [61/186] BBDC3.SA...        \n  [62/186] POMO3.SA...        \n  [63/186] KLBN4.SA...        \n  [64/186] NATU3.SA...        \n  [65/186] ANIM3.SA...        \n  [66/186] ONCO3.SA...        \n  [67/186] OPCT3.SA...        \n  [68/186] BBSE3.SA...        \n  [69/186] PGMN3.SA...        \n  [70/186] TOTS3.SA...        \n  [71/186] AUAU3.SA...        \n  [72/186] JHSF3.SA...        \n  [73/186] MBRF3.SA...        \n  [74/186] KLBN11.SA...        \n  [75/186] BRKM5.SA...        \n  [76/186] SEQL3.SA...        \n  [77/186] VIVT3.SA...        \n  [78/186] EMBJ3.SA...        \n  [79/186] ALPA4.SA...        \n  [80/186] RCSL3.SA...        \n  [81/186] SMFT3.SA...        \n  [82/186] MULT3.SA...        \n  [83/186] MILS3.SA...        \n  [84/186] BRAP4.SA...        \n  [85/186] SANB11.SA...        \n  [86/186] FESA4.SA...        \n  [87/186] FLRY3.SA...        \n  [88/186] PLPL3.SA...        \n  [89/186"
+}
