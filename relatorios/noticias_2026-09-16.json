@@ -1,25 +1,43 @@
 {
-  "coletado_em": "16/09/2026 13:59",
+  "coletado_em": "16/09/2026 16:02",
   "total": 30,
-  "urgentes": 5,
+  "urgentes": 7,
   "destaque": {
-    "titulo": "Lula diz que Fachin tem 'responsabilidade' de evitar que crise no STF atrapalhe eleições de 2026",
-    "descricao": "Lula rebate críticas e defende direito à defesa de Moraes O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (16) que a sociedade brasileira não pode ficar \"assistindo denuncismo\" diariamente sem que haja conclusão das apurações envolvendo a crise no Supremo Tribunal Federal (STF). Lula defendeu a investigação das denúncias, disse que ninguém está acima da lei e avaliou que o d",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/16/crise-no-stf-lula-diz-que-a-sociedade-nao-pode-ficar-assistindo-denuncismo-e-diz-que-debate-como-desta-terca-nao-e-correto.ghtml",
-    "fonte": "G1 Política",
-    "categoria": "Política",
-    "cor": "#d4a017",
+    "titulo": "Ibovespa acelera queda após alta de juros pelo Fed e com queda de Petrobras",
+    "descricao": "Ontem, o principal indicador da B3 fechou em alta de 0,54%, aos 186.502,64 pontos, em meio ao avanço do petróleo The post Ibovespa acelera queda após alta de juros pelo Fed e com queda de Petrobras appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-petrobras-stf-federal-reserve-copom-160926/",
+    "fonte": "Infomoney",
+    "categoria": "Mercado",
+    "cor": "#4488ff",
     "urgencia": "alta",
-    "score_relevancia": 3,
-    "pub_date": "Wed, 16 Sep 2026 14:11:48 -0000",
+    "score_relevancia": 6,
+    "pub_date": "Wed, 16 Sep 2026 18:55:31 +0000",
     "setores": [
-      "Mercado geral"
+      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Todos os ativos"
     ]
   },
   "noticias": [
     {
+      "titulo": "Ibovespa acelera queda após alta de juros pelo Fed e com queda de Petrobras",
+      "descricao": "Ontem, o principal indicador da B3 fechou em alta de 0,54%, aos 186.502,64 pontos, em meio ao avanço do petróleo The post Ibovespa acelera queda após alta de juros pelo Fed e com queda de Petrobras appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-petrobras-stf-federal-reserve-copom-160926/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 6,
+      "pub_date": "Wed, 16 Sep 2026 18:55:31 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
       "titulo": "Lula diz que Fachin tem 'responsabilidade' de evitar que crise no STF atrapalhe eleições de 2026",
-      "descricao": "Lula rebate críticas e defende direito à defesa de Moraes O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (16) que a sociedade brasileira não pode ficar \"assistindo denuncismo\" diariamente sem que haja conclusão das apurações envolvendo a crise no Supremo Tribunal Federal (STF). Lula defendeu a investigação das denúncias, disse que ninguém está acima da lei e avaliou que o d",
+      "descricao": "Lula diz que Fachin tem 'responsabilidade' de evitar que crise no STF atrapalhe eleições O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (16) que a sociedade brasileira não pode ficar \"assistindo denuncismo\" diariamente sem que haja conclusão das apurações envolvendo a crise no Supremo Tribunal Federal (STF). Lula defendeu a investigação das denúncias, disse que ninguém está",
       "link": "https://g1.globo.com/politica/noticia/2026/09/16/crise-no-stf-lula-diz-que-a-sociedade-nao-pode-ficar-assistindo-denuncismo-e-diz-que-debate-como-desta-terca-nao-e-correto.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -32,8 +50,37 @@
       ]
     },
     {
+      "titulo": "Dólar tem leve alta após Fomc e com decisão do Copom no radar",
+      "descricao": "A crise Supremo Tribunal Federal (STF) também segue no radar The post Dólar tem leve alta após Fomc e com decisão do Copom no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16092026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 16 Sep 2026 18:57:25 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Crise mais aguda do STF ocorre um ano após Corte condenar Bolsonaro e aliados por tentativa de golpe",
+      "descricao": "Moraes e Mendonça voltam a se enfrentar durante julgamento no Supremo Classificada como \"vergonhosa\" pelos próprios ministros, a sessão do Supremo Tribunal Federal (STF) desta terça-feira (15) sobre acusações contra Alexandre de Moraes ocorreu um ano e quatro dias depois da data da condenação do ex-presidente Jair Bolsonaro e aliados por tentativa de golpe de Estado, em 11 de setembro de 2025. Um ",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/16/crise-mais-aguda-do-stf-ocorre-um-ano-apos-corte-condenar-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 16 Sep 2026 18:05:19 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
       "titulo": "Crise no STF: Lula diz que não é responsável por Moraes e que 'quem cometeu delito tem que pagar'",
-      "descricao": "Lula participa de entrevista a podcast 'Desce a Letra Show'. Reprodução/ TV Globo O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (16) que não pode ser responsabilizado pelas indicações dos ministros Alexandre de Moraes, Kássio Nunes Marques e André Mendonça ao Supremo Tribunal Federal (STF), já que não estava na Presidência da República quando eles foram nomeados. Ao coment",
+      "descricao": "Lula participa de entrevista a podcast 'Desce a Letra Show'. Reprodução/ TV Globo O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (16) que não pode ser responsabilizado pelas indicações dos ministros Alexandre de Moraes, Kassio Nunes Marques e André Mendonça ao Supremo Tribunal Federal (STF), já que não estava na Presidência da República quando eles foram nomeados. Ao coment",
       "link": "https://g1.globo.com/politica/noticia/2026/09/16/crise-no-stf-lula-diz-que-quem-cometeu-erro-tem-que-pagar.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -46,22 +93,8 @@
       ]
     },
     {
-      "titulo": "Lula, sobre crise no STF: “Estou indignado, a sociedade brasileira não merece isso”",
-      "descricao": "Presidente também afirmou que pretende realizar mudanças no Judiciário e na política brasileira caso seja reeleito The post Lula, sobre crise no STF: &#8220;Estou indignado, a sociedade brasileira não merece isso&#8221; appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-sobre-crise-no-stf-estou-indignado-a-sociedade-brasileira-nao-merece-isso/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "alta",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 16:32:33 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputa controle das investigações",
-      "descricao": "Sadi: Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputa controle das investigações A sessão de ontem do Supremo Tribunal Federal (STF) expôs uma estratégia que já vinha sendo desenhada nos bastidores: a ala mais próxima de Alexandre de Moraes tenta tirar a crise do foco do ministro e espalhá-la pelo tribunal, transformando o caso numa discussão sobre o tamanho do c",
+      "titulo": "Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputar controle das investigações",
+      "descricao": "Sadi: Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputa controle das investigações A sessão de ontem do Supremo Tribunal Federal (STF) expôs uma estratégia que já vinha sendo desenhada nos bastidores: a ala mais próxima de Alexandre de Moraes tenta tirar o ministro do foco da crise e espalhá-la pelo tribunal, transformando o caso numa discussão sobre o tamanho do c",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ala-de-moraes-se-articula-para-espalhar-crise-expor-cinturao-de-vorcaro-e-disputa-controle-das-investigacoes.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -86,6 +119,22 @@
       "setores": [
         "Tecnologia (TOTS3, LWSA3, POSI3)",
         "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Dólar e Ibovespa operam em queda, com foco em decisões de juros no Brasil e nos EUA",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta quarta-feira (16), com um recuo de 0,22% perto das 15h10, cotado a R$ 5,1428. O Ibovespa, principal índice da bolsa brasileira, caía 0,11% no mesmo horário, aos 186.305 pontos. O destaque da sessão fica com a Superquarta, dia em que os bancos centrais do Brasil e dos Estados Unidos decidem as taxas de juros de seus respe",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/16/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 16 Sep 2026 12:00:26 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
       ]
     },
     {
@@ -117,6 +166,36 @@
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa tem leve recuo em meio à SuperQuarta",
+      "descricao": "Bolsas dos EUA avançam com atenção à decisão do Fed The post Ibovespa Hoje Ao Vivo: Bolsa tem leve recuo em meio à SuperQuarta appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16092026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 16 Sep 2026 18:30:59 +0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Fed eleva juros dos EUA pela 1ª vez em mais de 3 anos, para a faixa de 3,75% a 4% ao ano",
+      "descricao": "Prédio do Federal Reserve dos EUA em Washington, EUA (maio/2020) Kevin Lamarque / Reuters O Federal Reserve (Fed), banco central dos Estados Unidos, elevou a taxa de juros do país em 0,25 ponto percentual, para a faixa de 3,75% a 4% ao ano. É a primeira alta desde julho de 2023. A decisão, anunciada nesta quarta-feira (16), foi unânime e veio em linha com as expectativas do mercado financeiro. O m",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/16/decisao-fed-eua-setembro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 16 Sep 2026 18:00:25 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Todos os ativos"
       ]
     },
@@ -165,18 +244,46 @@
       ]
     },
     {
+      "titulo": "Gleisi aciona TSE contra posts sobre fim do voto feminino e pede suspensão de perfis",
+      "descricao": "Candidata ao Senado, Gleisi afirmou que publicações não podem ser tratadas como mera liberdade de expressão The post Gleisi aciona TSE contra posts sobre fim do voto feminino e pede suspensão de perfis appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/gleisi-aciona-tse-contra-posts-sobre-fim-do-voto-feminino-e-pede-suspensao-de-perfis/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 16 Sep 2026 18:43:36 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "'Prévia do PIB' do Banco Central tem retração de 0,2% em julho",
       "descricao": "Agropecuária teve retração e puxou a atividade econômica para baixo em julho Arquivo AT O Índice de Atividade Econômica (IBC-Br), divulgado pelo Banco Central do Brasil (BC) nesta quarta-feira (16), mostrou recuo de 0,2% em julho, na comparação com o mês anterior. O cálculo é feito após ajuste sazonal — ou seja, uma forma de comparar períodos diferentes. O resultado representa melhora em relação a",
       "link": "https://g1.globo.com/economia/noticia/2026/09/16/previa-do-pib-do-banco-central-tem-retracao-de-02percent-em-julho.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
       "pub_date": "Wed, 16 Sep 2026 12:07:17 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Em encontro com pastores, Lula critica guerras e diz que levará defesa da paz à ONU",
+      "descricao": "A menos de uma semana de viajar a Nova York para participar da Assembleia Geral da Organização das Nações Unidas (ONU), o presidente Luiz Inácio Lula da Silva (PT) recebeu lideranças evangélicas, e disse que pretende levar para ONU uma cobrança pela paz. O encontro aconteceu nesta quarta-feira (16), no Palácio do Planalto. Participaram pastores brasileiros e americanos, além de uma pastora cubana.",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/16/em-encontro-com-pastores-lula-critica-guerras-e-diz-que-levara-defesa-da-paz-a-onu.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 16 Sep 2026 17:31:09 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -206,6 +313,20 @@
       "pub_date": "Tue, 15 Sep 2026 08:01:00 -0300",
       "setores": [
         "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Bitcoin lidera retorno entre aplicações no governo Lula 3, aponta levantamento",
+      "descricao": "Até 15 de setembro, a criptomoeda acumulou valorização de 342% desde o início do atual governo. No mesmo período, o dólar PTAX registrou queda de 1,32%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7501986-bitcoin-lidera-retorno-entre-aplicacoes-no-governo-lula-3-aponta-levantamento.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 16 Sep 2026 15:59:24 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
       ]
     },
     {
@@ -251,201 +372,90 @@
       ]
     },
     {
-      "titulo": "Lula defende acesso de ministros do STF a celular de Vorcaro",
-      "descricao": "Presidente também chamou ex-banqueiro de \"mafioso\" The post Lula defende acesso de ministros do STF a celular de Vorcaro appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-defende-acesso-de-ministros-do-stf-a-celular-de-vorcaro/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 16:48:19 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Lula: Brasil tem muita terra rara e não permitiremos nos tirarem para vender lá fora",
-      "descricao": "Presidente apresentou a exploração de terras raras e minerais críticos como prioridade para um eventual quarto mandato The post Lula: Brasil tem muita terra rara e não permitiremos nos tirarem para vender lá fora appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-brasil-tem-muita-terra-rara-e-nao-permitiremos-nos-tirarem-para-vender-la-fora/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 16:43:06 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Lula: governo já gastou R$ 47 bi para que não aumentem preço de combustíveis",
-      "descricao": "Presidente destacou que o valor poderia estar sendo investido no País caso não fosse o aumento dos preços promovido pela guerra no Irã The post Lula: governo já gastou R$ 47 bi para que não aumentem preço de combustíveis appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-governo-ja-gastou-r-47-bi-para-que-nao-aumentem-preco-de-combustiveis/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 16:10:19 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Miriam Leitão: falta de decisão do STF alimenta desconfiança na democracia e pode afetar eleições",
-      "descricao": "Miriam Leitão: Não decisão no STF impacta eleição A comentarista Miriam Leitão avaliou, no Bom Dia Brasil desta quarta-feira (16), os impactos da falta de decisões do Supremo Tribunal Federal (STF) sobre questões levantadas pelos ministros Flávio Dino e Gilmar Mendes. Segundo ela, a dificuldade da Corte em avançar nas discussões pode aumentar a desconfiança da população no processo democrático e i",
-      "link": "https://g1.globo.com/bom-dia-brasil/noticia/2026/09/16/miriam-leitao-falta-de-decisao-do-stf-pode-afetar-eleicoes.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 13:23:36 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Quaest: 49% não consideram Lula honesto; 42% dizem o mesmo sobre Flávio Bolsonaro",
-      "descricao": "Lula (PT) e Flávio Bolsonaro (PL) Ricardo Stuckert e Vittor Sales Dados de pesquisa Quaest divulgados nesta quarta-feira (16) mostram que 49% dos brasileiros não consideram o presidente Lula (PT) honesto, e 42% pensam o mesmo sobre Flávio Bolsonaro (PL). Para outros 28%, Lula é honesto. E 23% diz que Flávio é honesto. 🔎 A Quaest foi contratada pela Globo e por O Globo e entrevistou 2.004 pessoas d",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/16/quaest-honestidade-candidatos-presidencia.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 12:38:08 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Operação contra crime organizado prende mais de 100 pessoas em 19 estados",
-      "descricao": "As Forças Integradas de Combate ao Crime Organizado (FICCOs) deflagraram nesta quarta-feira (16) uma operação contra organizações criminosas em 19 estados. Ao todo, segundo os policiais, foram presas 137 pessoas, entre cumprimento de mandados e prisões em flagrante. As ações têm como alvo suspeitos de envolvimento com tráfico de drogas, tráfico de armas, lavagem de dinheiro, organizações criminosa",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/16/operacao-contra-crime-organizado-cumpre-106-mandados-de-prisao-em-19-estados.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 10:33:38 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "'Me respeite, Gilmar', 'assumam que estão ferrados': ministros do STF têm embate no celular antes de sessão",
-      "descricao": "Ministros Gilmar Mendes (à esq), Luiz Fux e Nunes Marqus (à dir) Rosinei Coutinho/STF Ministros do Supremo Tribunal Federal tiveram embates em sessão ao vivo para todo o Brasil nesta terça-feira (15), quando abordaram a suposta relação entre Alexandre de Moraes e Daniel Vorcaro, mas os conflitos tiveram início antes mesmo de o presidente Edson Fachin começar a sessão. O blog teve acesso a mensagen",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ministros-do-stf-tem-embate-no-celular-antes-de-sessao.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 09:45:16 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Impasse em sessão do STF sobre Moraes pode adiar análise sobre a condução de Mendonça do caso Master",
-      "descricao": "Ministros alinhados a André Mendonça defendem que seja adiada a discussão pelo plenário do Supremo Tribunal Federal (STF) sobre a possível abertura de uma investigação para apurar a condução dos inquéritos do Master e INSS pelo relator. O presidente do STF, Edson Fachin, havia determinado que o caso fosse incluído na sessão do dia 23 de setembro. A decisão foi uma resposta à pressão do grupo de Al",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/16/impasse-em-sessao-do-stf-sobre-moraes-pode-adiar-analise-sobre-a-conducao-de-mendonca-do-caso-master.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 07:00:01 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Vendas no comércio caem 0,8% em julho, com “ressaca” da Copa do Mundo",
-      "descricao": "O comércio varejista brasileiro recuou 0,8% na passagem de junho para julho, influenciado por uma espécie de “ressaca” da Copa do Mundo. O resultado faz com que o desempenho acumulado do setor no período de 12 meses desacelerasse para 1,6%. A média móvel trimestral, que suaviza oscilações pontuais e reflete a tendência recente, aponta variação negativa de 0,1%. Notícias relacionadas: Vendas no com",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/vendas-no-comercio-caem-08-em-julho-com-ressaca-da-copa-do-mundo",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "JBS e Viva unem operações e criam gigante com capacidade para processar mais de 20 milhões de couros por ano",
+      "descricao": "O legado dos mestres do couro A JBS está avançando ainda mais no mercado de couros, um dos negócios em que a companhia já tem forte presença global. A empresa fechou um acordo com a Viva Holding para criar a JBS Viva, uma nova companhia que vai reunir parte das operações de couro dos dois grupos e terá capacidade para processar mais de 20 milhões de couros por ano, segundo as empresas. A nova comp",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/16/jbs-e-viva-unem-operacoes-e-criam-gigante-com-capacidade-para-processar-mais-de-20-milhoes-de-couros-por-ano.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 15 Sep 2026 10:28:00 -0300",
+      "pub_date": "Wed, 16 Sep 2026 14:26:15 -0000",
+      "setores": [
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+      ]
+    },
+    {
+      "titulo": "Google anuncia projeto que usa 200 mil hectares de arroz no Brasil contra mudanças climáticas; entenda",
+      "descricao": "Emater confirma redução de área plantada de arroz no RS O Google fechou o maior acordo de remoção de carbono de sua história para apoiar um projeto em mais de 200 mil hectares de plantações de arroz no Rio Grande do Sul. A iniciativa, conduzida pela Terradot, empresa da qual o Google é investidor, pretende reduzir o metano liberado pelo cultivo e, ao mesmo tempo, retirar dióxido de carbono (CO₂) d",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/16/google-anuncia-projeto-que-usa-200-mil-hectares-de-arroz-no-brasil-contra-mudancas-climaticas-entenda.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 16 Sep 2026 12:28:45 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "iFood anuncia investimento de R$ 24 bilhões até março de 2027",
-      "descricao": "Valor previsto para o ano fiscal representa alta de 41% em relação ao ciclo anterior e será destinado a restaurantes, novas categorias, tecnologia e serviços financeiros",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7501529-ifood-anuncia-investimento-de-rs-24-bilhoes-ate-marco-de-2027.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "iFood anuncia investimento de R$ 24 bilhões até março de 2027, incluindo aceleração em IA",
+      "descricao": "Entregador cadastrado no iFood ifood/Divulgação O iFood divulgou nesta quarta-feira (16) que vai investir R$ 24 bilhões até o fim de março de 2027. O valor é 41% maior do que a quantia aplicada no período anterior. Desse total, os investimentos em tecnologia e inovação, inclusive IA, vão ultrapassar R$ 2 bilhões. As informações são da Reuters. \"Estamos vindo de um ano muito forte e de uma consolid",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/16/ifood-investimento-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 16 Sep 2026 10:49:00 -0300",
+      "pub_date": "Wed, 16 Sep 2026 11:01:36 -0000",
       "setores": [
         "Tecnologia (TOTS3, LWSA3, POSI3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Crime organizado ameaça mercado de gás e eleva risco de monopólios locais, alerta SindiGás",
-      "descricao": "Presidente do sindicato, Sergio Bandeira de Mello criticou a venda informal e alertou para possíveis brechas em mudanças na regulação do GLP",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7501079-crime-organizado-ameaca-mercado-de-gas-e-eleva-risco-de-monopolios-locais-alerta-sindigas.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "UE propõe proibição de redes sociais para menores de 13 anos",
+      "descricao": "Bandeiras de países da União Europeia na sede do Parlamento Europeu, em Estrasburgo, França Antoine Schibler/Unsplash A presidente da Comissão Europeia, Ursula von der Leyen, anunciou nesta quarta-feira (16) várias propostas para proteger crianças e adolescentes na internet. Entre elas estão a proibição das redes sociais para menores de 13 anos e a criação de contas limitadas para menores de 15. \"",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/16/ue-propoe-proibicao-de-redes-sociais-para-menores-de-13-anos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 15 Sep 2026 15:36:00 -0300",
+      "pub_date": "Wed, 16 Sep 2026 10:55:19 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Crime se infiltra na economia e amplia desafio ao Estado, avaliam especialistas",
-      "descricao": "Debate promovido pelo Correio Braziliense aponta que avanço criminoso em setores como combustíveis afeta concorrência e investimentos",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7500974-cb-talks-especialistas-alertam-para-o-crime-na-economia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "Mark Zuckerberg, CEO da Meta, rejeita apelos para desacelerar o desenvolvimento da IA",
+      "descricao": "Mark Zuckerberg, CEO da Meta ANDREW CABALLERO-REYNOLDS / AFP Na terça-feira (15), Mark Zuckerberg, CEO da Meta, rejeitou os pedidos para pausar ou desacelerar o avanço da inteligência artificial (IA). Para ele, as regras do próprio mercado e o risco de processos na Justiça são as melhores proteções contra os perigos dessa tecnologia. As informações são da agência AFP. O receio em relação à IA cres",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/16/mark-zuckerberg-rejeita-desacelerar-ia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 15 Sep 2026 15:20:23 -0300",
+      "pub_date": "Wed, 16 Sep 2026 10:38:28 -0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
-      "titulo": "Diretor da ANP diz que fraudes em combustíveis chegaram à saúde pública",
-      "descricao": "Pietro Adamo Sampaio Mendes destaca operações conjuntas e afirma que cooperação entre órgãos foi decisiva para identificar rotas de metanol e combater adulterações",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7500813-diretor-da-anp-diz-que-fraudes-em-combustiveis-chegaram-a-saude-publica.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "O que é a 'pobreza de luxo' e por que o consumo imediato ganha espaço entre a geração Z?",
+      "descricao": "Pobreza de luxo: por que o presente vale mais que o futuro? A expressão \"pobreza de luxo\" ganhou espaço nas redes sociais para definir um comportamento marcado pelo consumo de itens e experiências acessíveis por meio de parcelamentos e crédito, enquanto objetivos maiores, como a compra de um imóvel, parecem cada vez mais distantes. Embora não seja um conceito econômico formal, a ideia ajuda a ilus",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/09/16/o-que-e-a-pobreza-de-luxo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 15 Sep 2026 11:56:00 -0300",
+      "pub_date": "Wed, 16 Sep 2026 06:00:00 -0000",
       "setores": [
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Marivaldo defende reforço de agências contra crime organizado",
-      "descricao": "Para o ex-secretário de Reforma do Judiciário e de Assuntos Legislativos do Ministério da Justiça, o problema na segurança pública não pode ser enfrentado apenas pelo direito penal",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7500808-marivaldo-defende-reforco-de-agencias-contra-crime-organizado.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 15 Sep 2026 11:33:00 -0300",
-      "setores": [
-        "Mercado geral"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     }
   ]
