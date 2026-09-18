@@ -1,0 +1,130 @@
+{
+  "data": "18/09/2026",
+  "data_iso": "2026-09-18",
+  "dia_semana": "Sexta-feira",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 185.400 (-0.32%). Destaques: CURY3, OPCT3, ALLD3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "CURY3",
+      "acao": "COMPRAR",
+      "preco": "29.05",
+      "entrada": "29.05",
+      "stop": "26.38",
+      "alvo": "33.41",
+      "rsi": 37.0,
+      "score": 70,
+      "porque": "RSI em 37.0 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 26.38 limita risco."
+    },
+    {
+      "rank": 2,
+      "ticker": "OPCT3",
+      "acao": "COMPRAR",
+      "preco": "9.27",
+      "entrada": "9.27",
+      "stop": "8.25",
+      "alvo": "10.66",
+      "rsi": 33.2,
+      "score": 70,
+      "porque": "Análise técnica aponta reversão com RSI 33.2 e score de 70 pontos. Entrada em R$ 9.27 com alvo R$ 10.66."
+    },
+    {
+      "rank": 3,
+      "ticker": "ALLD3",
+      "acao": "COMPRAR",
+      "preco": "5.0",
+      "entrada": "5.0",
+      "stop": "4.72",
+      "alvo": "5.75",
+      "rsi": 47.3,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 47.3 e score de 65 pontos. Entrada em R$ 5.0 com alvo R$ 5.75."
+    },
+    {
+      "rank": 4,
+      "ticker": "DIRR3",
+      "acao": "OBSERVAR",
+      "preco": "9.98",
+      "entrada": "9.98",
+      "stop": "9.1",
+      "alvo": "11.48",
+      "rsi": 33.0,
+      "score": 55,
+      "porque": "RSI em 33.0 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 9.98."
+    },
+    {
+      "rank": 5,
+      "ticker": "CMIN3",
+      "acao": "OBSERVAR",
+      "preco": "5.53",
+      "entrada": "5.53",
+      "stop": "4.87",
+      "alvo": "6.36",
+      "rsi": 38.2,
+      "score": 55,
+      "porque": "RSI em 38.2 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.53."
+    },
+    {
+      "rank": 6,
+      "ticker": "SYNE3",
+      "acao": "OBSERVAR",
+      "preco": "3.52",
+      "entrada": "3.52",
+      "stop": "3.24",
+      "alvo": "4.05",
+      "rsi": 39.2,
+      "score": 50,
+      "porque": "RSI em 39.2 — zona neutra. Score 50/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 3.52."
+    },
+    {
+      "rank": 7,
+      "ticker": "JALL3",
+      "acao": "OBSERVAR",
+      "preco": "2.25",
+      "entrada": "2.25",
+      "stop": "2.0",
+      "alvo": "2.59",
+      "rsi": 42.0,
+      "score": 50,
+      "porque": "RSI em 42.0 — zona neutra. Score 50/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 2.25."
+    },
+    {
+      "rank": 8,
+      "ticker": "COGN3",
+      "acao": "OBSERVAR",
+      "preco": "2.27",
+      "entrada": "2.27",
+      "stop": "2.06",
+      "alvo": "2.61",
+      "rsi": 48.0,
+      "score": 45,
+      "porque": "RSI em 48.0 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 2.27."
+    },
+    {
+      "rank": 9,
+      "ticker": "AXIA3",
+      "acao": "OBSERVAR",
+      "preco": "53.72",
+      "entrada": "53.72",
+      "stop": "50.71",
+      "alvo": "61.78",
+      "rsi": 49.5,
+      "score": 45,
+      "porque": "RSI em 49.5 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 53.72."
+    },
+    {
+      "rank": 10,
+      "ticker": "TEND3",
+      "acao": "OBSERVAR",
+      "preco": "29.82",
+      "entrada": "29.82",
+      "stop": "26.66",
+      "alvo": "34.29",
+      "rsi": 37.3,
+      "score": 45,
+      "porque": "RSI em 37.3 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 29.82."
+    }
+  ]
+}
