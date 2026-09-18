@@ -1,10 +1,10 @@
 {
   "data": "18/09/2026",
   "data_iso": "2026-09-18",
-  "turno": "tarde",
-  "turno_label": "Tarde (13:00)",
+  "turno": "manha",
+  "turno_label": "Manhã (08:30)",
   "hora_geracao": "16:41",
-  "resumo": "[Tarde (13:00)] Ibovespa 185.414 (-0.31%). Destaques: CURY3, OPCT3, ALLD3. Semáforo: VERDE.",
+  "resumo": "[Manhã (08:30)] Ibovespa 185.414 (-0.31%). Destaques: CURY3, OPCT3, ALLD3. Semáforo: VERDE.",
   "resumo_curto": "CURY3, OPCT3, ALLD3",
   "resumo_executivo": "",
   "semaforo": "verde",
@@ -341,8 +341,8 @@
       "nome": "RADL3",
       "score": 40,
       "acao": "OBSERVAR",
-      "preco": "20.28",
-      "rsi": 60.4,
+      "preco": "20.27",
+      "rsi": 60.3,
       "pl": 23.9,
       "atr": 3.4,
       "pontos": [
@@ -352,9 +352,9 @@
       ],
       "tese": null,
       "risco": null,
-      "entrada": "20.28",
-      "stop": "18.9",
-      "alvo": "23.32"
+      "entrada": "20.27",
+      "stop": "18.89",
+      "alvo": "23.31"
     },
     {
       "ticker": "MBRF3",
@@ -469,8 +469,8 @@
       "nome": "ALUP11",
       "score": 40,
       "acao": "OBSERVAR",
-      "preco": "33.41",
-      "rsi": 55.7,
+      "preco": "33.39",
+      "rsi": 55.5,
       "pl": 8.0,
       "atr": 2.0,
       "pontos": [
@@ -481,9 +481,9 @@
       ],
       "tese": null,
       "risco": null,
-      "entrada": "33.41",
-      "stop": "32.07",
-      "alvo": "38.42"
+      "entrada": "33.39",
+      "stop": "32.05",
+      "alvo": "38.4"
     },
     {
       "ticker": "AGXY3",
@@ -719,23 +719,23 @@
       "nome": "POMO3",
       "score": 35,
       "acao": "NEUTRO",
-      "preco": "4.03",
-      "rsi": 40.6,
+      "preco": "4.04",
+      "rsi": 41.0,
       "pl": 4.2,
       "atr": 3.6,
       "pontos": [
         "RSI neutro-baixo (41)",
         "Preço tocando banda inferior de Bollinger",
         "Tendência de baixa",
-        "8.6% acima da mínima de 52 sem — assimetria alta",
-        "Estocástico sobrevendido (4)",
+        "8.9% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (7)",
         "ROE sólido (28.3%)"
       ],
       "tese": null,
       "risco": null,
-      "entrada": "4.03",
-      "stop": "3.74",
-      "alvo": "4.63"
+      "entrada": "4.04",
+      "stop": "3.75",
+      "alvo": "4.65"
     },
     {
       "ticker": "PSSA3",
@@ -1789,7 +1789,7 @@
       "acao": "NEUTRO",
       "preco": "4.07",
       "rsi": 64.8,
-      "pl": 22.6,
+      "pl": 22.7,
       "atr": 5.4,
       "pontos": [
         "Preço esticado (banda superior Bollinger)",
@@ -3227,7 +3227,7 @@
       "acao": "EVITAR",
       "preco": "15.08",
       "rsi": 60.5,
-      "pl": 22.8,
+      "pl": 22.9,
       "atr": 3.0,
       "pontos": [
         "Preço esticado (banda superior Bollinger)",
@@ -3898,8 +3898,8 @@
       "nome": "RADL3",
       "score": 40,
       "acao": "OBSERVAR",
-      "preco": "20.28",
-      "rsi": 60.4,
+      "preco": "20.27",
+      "rsi": 60.3,
       "pl": 23.9,
       "atr": 3.4,
       "pontos": [
@@ -3909,9 +3909,9 @@
       ],
       "tese": null,
       "risco": null,
-      "entrada": "20.28",
-      "stop": "18.9",
-      "alvo": "23.32"
+      "entrada": "20.27",
+      "stop": "18.89",
+      "alvo": "23.31"
     },
     {
       "ticker": "MBRF3",
@@ -4026,8 +4026,8 @@
       "nome": "ALUP11",
       "score": 40,
       "acao": "OBSERVAR",
-      "preco": "33.41",
-      "rsi": 55.7,
+      "preco": "33.39",
+      "rsi": 55.5,
       "pl": 8.0,
       "atr": 2.0,
       "pontos": [
@@ -4038,9 +4038,9 @@
       ],
       "tese": null,
       "risco": null,
-      "entrada": "33.41",
-      "stop": "32.07",
-      "alvo": "38.42"
+      "entrada": "33.39",
+      "stop": "32.05",
+      "alvo": "38.4"
     },
     {
       "ticker": "AGXY3",
@@ -4166,9 +4166,9 @@
       "ativo": "RADL3",
       "acao": "COMPRAR",
       "valor": "R$ 425,00",
-      "entrada": "R$ 20.28",
-      "stop": "R$ 18.9",
-      "alvo": "R$ 23.32"
+      "entrada": "R$ 20.27",
+      "stop": "R$ 18.89",
+      "alvo": "R$ 23.31"
     },
     {
       "ativo": "MBRF3",
@@ -4214,9 +4214,9 @@
       "ativo": "ALUP11",
       "acao": "COMPRAR",
       "valor": "R$ 425,00",
-      "entrada": "R$ 33.41",
-      "stop": "R$ 32.07",
-      "alvo": "R$ 38.42"
+      "entrada": "R$ 33.39",
+      "stop": "R$ 32.05",
+      "alvo": "R$ 38.4"
     },
     {
       "ativo": "AGXY3",

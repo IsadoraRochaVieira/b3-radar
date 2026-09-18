@@ -3,7 +3,7 @@
   "data_iso": "2026-09-18",
   "dia_semana": "Sexta-feira",
   "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 185.400 (-0.32%). Destaques: CURY3, OPCT3, ALLD3. Semáforo: VERDE.",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 185.414 (-0.31%). Destaques: CURY3, OPCT3, ALLD3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "33.41",
       "rsi": 37.0,
       "score": 70,
-      "porque": "RSI em 37.0 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 26.38 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 37.0 e score de 70 pontos. Entrada em R$ 29.05 com alvo R$ 33.41."
     },
     {
       "rank": 2,
@@ -58,13 +58,13 @@
       "rank": 5,
       "ticker": "CMIN3",
       "acao": "OBSERVAR",
-      "preco": "5.53",
-      "entrada": "5.53",
-      "stop": "4.87",
-      "alvo": "6.36",
-      "rsi": 38.2,
+      "preco": "5.54",
+      "entrada": "5.54",
+      "stop": "4.88",
+      "alvo": "6.37",
+      "rsi": 38.3,
       "score": 55,
-      "porque": "RSI em 38.2 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.53."
+      "porque": "RSI em 38.3 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 5.54."
     },
     {
       "rank": 6,
@@ -116,15 +116,15 @@
     },
     {
       "rank": 10,
-      "ticker": "TEND3",
+      "ticker": "SANB11",
       "acao": "OBSERVAR",
-      "preco": "29.82",
-      "entrada": "29.82",
-      "stop": "26.66",
-      "alvo": "34.29",
-      "rsi": 37.3,
+      "preco": "29.47",
+      "entrada": "29.47",
+      "stop": "28.11",
+      "alvo": "33.89",
+      "rsi": 48.8,
       "score": 45,
-      "porque": "RSI em 37.3 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 29.82."
+      "porque": "RSI em 48.8 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 29.47."
     }
   ]
 }
