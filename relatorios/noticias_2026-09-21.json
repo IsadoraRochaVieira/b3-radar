@@ -1,17 +1,17 @@
 {
-  "coletado_em": "21/09/2026 12:07",
-  "total": 30,
-  "urgentes": 1,
+  "coletado_em": "21/09/2026 13:04",
+  "total": 29,
+  "urgentes": 2,
   "destaque": {
-    "titulo": "Mercado reduz projeção da Selic para 13,50%",
-    "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-reduz-projecao-da-selic-para-1350",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
+    "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
+    "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. Ao mesmo tempo, os economistas das instituições financeiras também passaram a prever um novo corte de juros no decorrer deste ano. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (21) pelo Banco Central (BC), com base em pesquisa realizada na ú",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
     "cor": "#009c3b",
     "urgencia": "alta",
-    "score_relevancia": 5,
-    "pub_date": "Mon, 21 Sep 2026 11:36:00 -0300",
+    "score_relevancia": 7,
+    "pub_date": "Mon, 21 Sep 2026 11:31:27 -0000",
     "setores": [
       "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
       "Telecom (VIVT3, TIMS3)",
@@ -19,6 +19,22 @@
     ]
   },
   "noticias": [
+    {
+      "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
+      "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. Ao mesmo tempo, os economistas das instituições financeiras também passaram a prever um novo corte de juros no decorrer deste ano. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (21) pelo Banco Central (BC), com base em pesquisa realizada na ú",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 7,
+      "pub_date": "Mon, 21 Sep 2026 11:31:27 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
     {
       "titulo": "Mercado reduz projeção da Selic para 13,50%",
       "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
@@ -36,17 +52,34 @@
       ]
     },
     {
-      "titulo": "Ibovespa sobe com exterior e de olho em pesquisas, mas queda do petróleo limita",
-      "descricao": "No exterior, a atenção principal é a 81ª Assembleia Geral da ONU, com discursos dos presidentes Donald Trump (EUA), Luiz Inácio Lula da Silva (Brasil), entre outros The post Ibovespa sobe com exterior e de olho em pesquisas, mas queda do petróleo limita appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-de-olho-em-pesquisas-mas-queda-do-petroleo-limita/",
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e eleições em foco",
+      "descricao": "Bolsas dos EUA avançam com petróleo em queda The post Ibovespa Hoje Ao Vivo: Bolsa sobe com exterior e eleições em foco appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21092026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 21 Sep 2026 14:29:59 +0000",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 21 Sep 2026 15:10:25 +0000",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em queda, com foco em recuo do petróleo e reunião entre Trump e Xi Jinping; Ibovespa sobe",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta segunda-feira (21), com um recuo de 0,59% perto das 11h, cotado a R$ 5,1136. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 0,16% no mesmo horário, aos 185.522 pontos. Com uma agenda econômica recheada nesta semana, investidores aguardam novos dados econômicos da Europa, dos Estados Unidos e do Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/21/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 21 Sep 2026 12:00:34 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
         "Todos os ativos"
       ]
     },
@@ -66,17 +99,32 @@
       ]
     },
     {
-      "titulo": "Vale (VALE3) mira cobre enquanto minério perde força e dividendos ficam mais contidos",
-      "descricao": "Mineradora enfrenta um ambiente ainda desafiador, principalmente diante da fraqueza dos preços do minério de ferro e dos fretes elevados The post Vale (VALE3) mira cobre enquanto minério perde força e dividendos ficam mais contidos appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/vale-vale3-mira-cobre-enquanto-minerio-perde-forca-e-dividendos-ficam-mais-contidos/",
+      "titulo": "Vale faz investimento estratégico em minério em Carajás ao comprar 30% da Ligga",
+      "descricao": "A Ligga tem instalações de produção de minério de ferro da mina Ferro Sul, localizadas entre os municípios de Curionópolis e Parauapebas The post Vale faz investimento estratégico em minério em Carajás ao comprar 30% da Ligga appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/vale-faz-investimento-estrategico-em-minerio-em-carajas-ao-comprar-30-da-ligga/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Mon, 21 Sep 2026 14:00:00 +0000",
+      "pub_date": "Mon, 21 Sep 2026 15:38:57 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Petróleo de Morpho é de “altíssima qualidade”, diz diretora da Petrobras",
+      "descricao": "A ​campanha exploratória da Petrobras para ⁠poços adjacentes ​a Morpho, para delimitar a descoberta ​e obter mais informações, só ​deve ⁠começar no ano que ⁠vem The post Petróleo de Morpho é de &#8220;altíssima qualidade&#8221;, diz diretora da Petrobras appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-de-morpho-e-de-altissima-qualidade-diz-diretora-da-petrobras/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 21 Sep 2026 15:36:03 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
     },
     {
@@ -109,58 +157,15 @@
       ]
     },
     {
-      "titulo": "CEO: Petrobras terá que ampliar atuação em renováveis para manter relevância até 2050",
-      "descricao": "Durante a ⁠abertura do congresso ROG.e, a executiva reiterou que a companhia responde atualmente por um terço da energia primária do ​Brasil The post CEO: Petrobras terá que ampliar atuação em renováveis para manter relevância até 2050 appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ceo-petrobras-tera-que-ampliar-atuacao-em-renovaveis-para-manter-relevancia-ate-2050/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "AMD entra para grupo de fabricantes de chips avaliadas em US$ 1 trilhão",
+      "descricao": "Lisa Su, presidente e diretora executiva da AMD, em apresentação durante a CES 2019, em Las Vegas. REUTERS/Steve Marcus A Advanced Micro Devices (AMD) ultrapassou pela primeira vez a marca de US$ 1 trilhão (R$ 5,14 trilhões) em valor de mercado nesta segunda-feira (21), impulsionada pela expectativa de investidores sobre o crescimento da empresa no mercado de computação voltada à inteligência arti",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/amd-entra-para-grupo-de-fabricantes-de-chips-avaliadas-em-us-1-trilhao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Mon, 21 Sep 2026 14:33:41 +0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "Senado tem a chave do STF: quem entra e quem pode sair",
-      "descricao": "Miriam e Sadi: Senado decide se aprova ou afasta ministros do STF O Senado Federal costuma aparecer no noticiário como coadjuvante das grandes disputas de Brasília. Mas, quando o assunto é a relação entre o Congresso e o Supremo Tribunal Federal (STF), a Casa está longe de ocupar um papel secundário. É no Senado que passam algumas das principais ferramentas de controle sobre o Judiciário e é justa",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/21/senado-tem-a-chave-do-stf-quem-entra-e-quem-pode-sair.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 21 Sep 2026 14:10:14 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Datafolha: veja os segmentos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
-      "descricao": "Pesquisa Datafolha divulgada na quinta-feira (17) mostra novo empate técnico entre Lula (PT) e Flávio Bolsonaro (PL) em eventual disputa de 2º turno da eleição presidencial de outubro. A disputa também é apertada em grupos específicos do eleitorado. Segundo o Datafolha, o presidente tem 46% das intenções de voto, enquanto o senador aparece com 44% em eventual 2º turno. Como a margem de erro da pes",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/datafolha-17-set-segmentos.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 21 Sep 2026 13:47:39 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Após Bachelet desistir, Brasil fica sem indicação e reforça defesa de mulher latina à frente da ONU",
-      "descricao": "Lula e Michelle Bachelet em imagem de 2024 Ricardo Stuckert/Presidência da República O Ministério das Relações Exteriores (Itamaraty) divulgou uma nota na qual reforçou que a região tem mulheres “à altura” de assumir o comando da Organização das Nações Unidas (ONU). A nota foi divulgada após a ex-presidente do Chile Michelle Bachelet ter anunciado a retirada de sua candidatura, que contava com o a",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 21 Sep 2026 11:06:18 -0000",
+      "pub_date": "Mon, 21 Sep 2026 14:36:27 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -180,57 +185,71 @@
       ]
     },
     {
-      "titulo": "Agenda de visita do Papa ao Uruguai, Argentina e Peru prevê encontros com presidentes",
-      "descricao": "Papa Leão XIV terá maratona de missas, eventos e encontros entre os dias 6 e 16 de novembro; ele visitará oficialmente os presidentes Yamandú Orsi, Javier Milei e Keiko Fujimori The post Agenda de visita do Papa ao Uruguai, Argentina e Peru prevê encontros com presidentes appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/agenda-de-visita-do-papa-ao-uruguai-argentina-e-peru-preve-encontros-com-presidentes/",
+      "titulo": "Dólar hoje recua com fraqueza global e novo empate técnico entre Lula e Flávio",
+      "descricao": "Divisa acompanha o recuo da moeda norte-americana ante as demais divisas no exterior The post Dólar hoje recua com fraqueza global e novo empate técnico entre Lula e Flávio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21092026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 15:03:01 +0000",
+      "pub_date": "Mon, 21 Sep 2026 15:59:02 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Dez dias que mudaram o rumo da IA",
+      "descricao": "Em uma série de eventos em cascata ao longo ⁠de um período de 10 dias, os maiores laboratórios de IA viram-se abalados quando suas próprias criações ameaçaram destruir a própria humanidade The post Dez dias que mudaram o rumo da IA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/dez-dias-que-mudaram-o-rumo-da-ia/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 15:53:15 +0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "STF reiniciará no plenário análise de ações bilionárias decorrentes da tese do século",
+      "descricao": "O relator da ação, o ministro Kássio Nunes Marques, já havia negado a ação por entender que o pedido da AGU é abrangente e genérico The post STF reiniciará no plenário análise de ações bilionárias decorrentes da tese do século appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/stf-reiniciara-no-plenario-analise-de-acoes-bilionarias-decorrentes-da-tese-do-seculo/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 15:49:58 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Antes da ONU, Lula se reúne com Sanders e Mamdani, dois críticos de Trump",
-      "descricao": "Presidente também se reúne com Yamandú Orsi e concentra compromissos antes de abrir a Assembleia Geral nesta terça-feira The post Antes da ONU, Lula se reúne com Sanders e Mamdani, dois críticos de Trump appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/antes-da-onu-lula-se-reune-com-sanders-e-mamdani-dois-criticos-de-trump/",
+      "titulo": "Café brasileiro tem florada precoce e nova safra pode chegar mais cedo",
+      "descricao": "A fase do ciclo que define a carga de frutos ocorreu cerca de um mês antes do habitual, provavelmente devido à alta umidade; a anomalia foi atribuída ao fenômeno climático El Niño The post Café brasileiro tem florada precoce e nova safra pode chegar mais cedo appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/cafe-do-brasil-mostra-florada-precoce-e-nova-safra-pode-chegar-mais-cedo/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 14:45:04 +0000",
+      "pub_date": "Mon, 21 Sep 2026 15:44:10 +0000",
       "setores": [
-        "Mercado geral"
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
       ]
     },
     {
-      "titulo": "Petrobras anuncia hoje descobertas relevantes de gás a desenvolver na Colômbia",
-      "descricao": "\"Temos descobertas relevantes de gás a desenvolver na Colômbia. Estamos divulgando hoje as oportunidades na Colômbia, onde já temos inclusive contratos de gás a divulgar\", disse The post Petrobras anuncia hoje descobertas relevantes de gás a desenvolver na Colômbia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-anuncia-hoje-descobertas-relevantes-de-gas-a-desenvolver-na-colombia/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "TST julga nesta segunda greve dos Correios e reivindicações dos trabalhadores, em paralisação há 11 dias",
+      "descricao": "g1 em 1 Minuto: Greve dos Correios não tem previsão de encerramento O TST (Tribunal Superior do Trabalho) analisa, às 13h30 desta segunda-feira (21), os principais pontos da disputa entre os trabalhadores e os Correios. A categoria está em greve nacional desde o dia 10. A paralisação começou depois que a empresa e os trabalhadores não chegaram a um acordo nas negociações. O principal impasse é o p",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/correios-greve-tst.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 14:35:57 +0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "Quaest divulga nova pesquisa eleitoral para presidente nesta segunda (21)",
-      "descricao": "O que é margem de erro A Quaest divulga nesta segunda-feira (21) no início da noite, uma nova rodada de pesquisas eleitorais com os números da corrida presidencial. O levantamento foi contratado pela Globo e por O Globo. Esta é a primeira pesquisa presidencial do instituto após a sessão histórica do Supremo Tribunal Federal sobre o caso Master e o envolvimento do ministro Alexandre de Moraes. No ú",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 12:26:47 -0000",
+      "pub_date": "Mon, 21 Sep 2026 12:03:03 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -239,9 +258,9 @@
       "titulo": "Senacon abre processos contra 70 postos acusados de aumento abusivo no preço dos combustíveis",
       "descricao": "Preços de combustíveis Marcelo Camargo/Agência Brasil A Secretaria Nacional do Consumidor (Senacon), órgão federal de defesa do consumidor, instaurou nesta segunda-feira (21) 70 processos contra postos de combustíveis acusados de aumento abusivo de preços. Os estabelecimentos investigados podem ser multados em até R$ 14 milhões, conforme previsto no Código de Defesa do Consumidor (CDC). As fiscali",
       "link": "https://g1.globo.com/politica/noticia/2026/09/21/senacon-abre-processos-contra-70-postos-por-suspeita-de-aumento-abusivo-no-preco-dos-combustiveis.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Mon, 21 Sep 2026 10:29:32 -0000",
@@ -253,9 +272,9 @@
       "titulo": "Ameaças de demissão, promessas de benefícios e mais: o que é assédio eleitoral no trabalho e como denunciar",
       "descricao": "Entenda o que é assédio eleitoral no trabalho e como denunciar Thiago Gadelha/SVM O Ministério Público do Trabalho (MPT) recebeu, até o dia 20 de setembro, 472 denúncias de assédio eleitoral no ambiente de trabalho. Durante as eleições de 2022, foram mais de 3,3 mil denúncias — um aumento de 1.600% em comparação com 2018. Desde 2023, a Justiça do Trabalho registrou 738 processos relacionados a ass",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-assedio-eleitoral-no-trabalho-e-como-denunciar.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Mon, 21 Sep 2026 06:00:00 -0000",
@@ -264,45 +283,18 @@
       ]
     },
     {
-      "titulo": "Eleições 2026: Como consultar meu título de eleitor?",
-      "descricao": "Título de eleitor Foto: Agência Brasil/Divulgação Quem vai votar nas eleições de 2026 pode consultar o número do título de eleitor, verificar a situação da inscrição eleitoral e descobrir o local de votação pela internet – não é preciso ir a um cartório eleitoral. A consulta é feita pelos canais oficiais da Justiça Eleitoral: o Autoatendimento Eleitoral (Título Net), disponível no portal do Tribun",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-como-consultar-meu-titulo-de-eleitor.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Chefes de empresas de tecnologia pedem desaceleração da IA — mas o que a China pensa?",
+      "descricao": "Com o avanço acelerado da inteligência artificial (IA), líderes do setor alertam para os riscos da tecnologia Getty Images via BBC Com o avanço acelerado da inteligência artificial (IA), alguns dos principais nomes do setor têm feito alertas contundentes sobre os riscos que a tecnologia pode representar. Dario Amodei, presidente-executivo da Anthropic, defende que o desenvolvimento da IA seja desa",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/chefes-de-empresas-de-tecnologia-pedem-desaceleracao-da-ia-mas-o-que-a-china-pensa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 03:00:01 -0000",
+      "pub_date": "Mon, 21 Sep 2026 05:00:00 -0000",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Limite a supersalários e penduricalhos: veja o que propõem os candidatos para o funcionalismo público",
-      "descricao": "Imagem urna eletrônica Reprodução/TV Globo O limite para os salários do funcionalismo público é de R$ 46,4 mil. Porém, verbas indenizatórias, gratificações e outros benefícios podem fazer com que servidores recebam valores muito acima desse limite. SAIBA MAIS: Dos 'marajás' aos 'penduricalhos': discussão sobre a limitação da remuneração de agentes públicos já dura mais de 60 anos Os chamados “supe",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/propostas-funcionalismo-publico.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Caiado promete cortar 100% das emendas impositivas e limitar gastos do governo para reduzir juros",
-      "descricao": "O presidenciável Ronaldo Caiado (PSD) e o vice, Gilberto Kassab, durante agenda em SP Walace Lara/TV Globo O candidato à Presidência Ronaldo Caiado (PSD) afirmou em evento neste domingo (20) durante uma caminhada pela Avenida Paulista, que pretende cortar 100% das emendas parlamentares impositivas, rever incentivos fiscais e reduzir os gastos de todos os Poderes como parte de um plano para control",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/20/caiado-promete-cortar-100percent-das-emendas-impositivas-e-limitar-gastos-do-governo-para-reduzir-juros.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 20 Sep 2026 19:48:46 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
