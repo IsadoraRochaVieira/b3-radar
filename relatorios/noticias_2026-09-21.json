@@ -1,17 +1,17 @@
 {
-  "coletado_em": "21/09/2026 12:06",
+  "coletado_em": "21/09/2026 12:07",
   "total": 30,
-  "urgentes": 2,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
-    "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. Ao mesmo tempo, os economistas das instituições financeiras também passaram a prever um novo corte de juros no decorrer deste ano. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (21) pelo Banco Central (BC), com base em pesquisa realizada na ú",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
+    "titulo": "Mercado reduz projeção da Selic para 13,50%",
+    "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-reduz-projecao-da-selic-para-1350",
+    "fonte": "Agência Brasil",
+    "categoria": "Política Econômica",
     "cor": "#009c3b",
     "urgencia": "alta",
-    "score_relevancia": 7,
-    "pub_date": "Mon, 21 Sep 2026 11:31:27 -0000",
+    "score_relevancia": 5,
+    "pub_date": "Mon, 21 Sep 2026 11:36:00 -0300",
     "setores": [
       "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
       "Telecom (VIVT3, TIMS3)",
@@ -19,22 +19,6 @@
     ]
   },
   "noticias": [
-    {
-      "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
-      "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. Ao mesmo tempo, os economistas das instituições financeiras também passaram a prever um novo corte de juros no decorrer deste ano. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (21) pelo Banco Central (BC), com base em pesquisa realizada na ú",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "alta",
-      "score_relevancia": 7,
-      "pub_date": "Mon, 21 Sep 2026 11:31:27 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
     {
       "titulo": "Mercado reduz projeção da Selic para 13,50%",
       "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
@@ -48,22 +32,6 @@
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Dólar opera em queda, com foco em recuo do petróleo e reunião entre Trump e Xi Jinping; Ibovespa sobe",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta segunda-feira (21), com um recuo de 0,59% perto das 11h, cotado a R$ 5,1136. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 0,16% no mesmo horário, aos 185.522 pontos. Com uma agenda econômica recheada nesta semana, investidores aguardam novos dados econômicos da Europa, dos Estados Unidos e do Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/21/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Mon, 21 Sep 2026 12:00:34 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Câmbio / Exportadores",
         "Todos os ativos"
       ]
     },
@@ -153,20 +121,6 @@
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "AMD entra para grupo de fabricantes de chips avaliadas em US$ 1 trilhão",
-      "descricao": "Lisa Su, presidente e diretora executiva da AMD, em apresentação durante a CES 2019, em Las Vegas. REUTERS/Steve Marcus A Advanced Micro Devices (AMD) ultrapassou pela primeira vez a marca de US$ 1 trilhão (R$ 5,14 trilhões) em valor de mercado nesta segunda-feira (21), impulsionada pela expectativa de investidores sobre o crescimento da empresa no mercado de computação voltada à inteligência arti",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/amd-entra-para-grupo-de-fabricantes-de-chips-avaliadas-em-us-1-trilhao.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 21 Sep 2026 14:36:27 -0000",
-      "setores": [
-        "Mercado geral"
       ]
     },
     {
@@ -268,15 +222,15 @@
       ]
     },
     {
-      "titulo": "TST julga nesta segunda greve dos Correios e reivindicações dos trabalhadores, em paralisação há 11 dias",
-      "descricao": "g1 em 1 Minuto: Greve dos Correios não tem previsão de encerramento O TST (Tribunal Superior do Trabalho) analisa, às 13h30 desta segunda-feira (21), os principais pontos da disputa entre os trabalhadores e os Correios. A categoria está em greve nacional desde o dia 10. A paralisação começou depois que a empresa e os trabalhadores não chegaram a um acordo nas negociações. O principal impasse é o p",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/correios-greve-tst.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Quaest divulga nova pesquisa eleitoral para presidente nesta segunda (21)",
+      "descricao": "O que é margem de erro A Quaest divulga nesta segunda-feira (21) no início da noite, uma nova rodada de pesquisas eleitorais com os números da corrida presidencial. O levantamento foi contratado pela Globo e por O Globo. Esta é a primeira pesquisa presidencial do instituto após a sessão histórica do Supremo Tribunal Federal sobre o caso Master e o envolvimento do ministro Alexandre de Moraes. No ú",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 12:03:03 -0000",
+      "pub_date": "Mon, 21 Sep 2026 12:26:47 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -285,9 +239,9 @@
       "titulo": "Senacon abre processos contra 70 postos acusados de aumento abusivo no preço dos combustíveis",
       "descricao": "Preços de combustíveis Marcelo Camargo/Agência Brasil A Secretaria Nacional do Consumidor (Senacon), órgão federal de defesa do consumidor, instaurou nesta segunda-feira (21) 70 processos contra postos de combustíveis acusados de aumento abusivo de preços. Os estabelecimentos investigados podem ser multados em até R$ 14 milhões, conforme previsto no Código de Defesa do Consumidor (CDC). As fiscali",
       "link": "https://g1.globo.com/politica/noticia/2026/09/21/senacon-abre-processos-contra-70-postos-por-suspeita-de-aumento-abusivo-no-preco-dos-combustiveis.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Mon, 21 Sep 2026 10:29:32 -0000",
@@ -299,41 +253,12 @@
       "titulo": "Ameaças de demissão, promessas de benefícios e mais: o que é assédio eleitoral no trabalho e como denunciar",
       "descricao": "Entenda o que é assédio eleitoral no trabalho e como denunciar Thiago Gadelha/SVM O Ministério Público do Trabalho (MPT) recebeu, até o dia 20 de setembro, 472 denúncias de assédio eleitoral no ambiente de trabalho. Durante as eleições de 2022, foram mais de 3,3 mil denúncias — um aumento de 1.600% em comparação com 2018. Desde 2023, a Justiça do Trabalho registrou 738 processos relacionados a ass",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-assedio-eleitoral-no-trabalho-e-como-denunciar.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 06:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Chefes de empresas de tecnologia pedem desaceleração da IA — mas o que a China pensa?",
-      "descricao": "Com o avanço acelerado da inteligência artificial (IA), líderes do setor alertam para os riscos da tecnologia Getty Images via BBC Com o avanço acelerado da inteligência artificial (IA), alguns dos principais nomes do setor têm feito alertas contundentes sobre os riscos que a tecnologia pode representar. Dario Amodei, presidente-executivo da Anthropic, defende que o desenvolvimento da IA seja desa",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/chefes-de-empresas-de-tecnologia-pedem-desaceleracao-da-ia-mas-o-que-a-china-pensa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 05:00:00 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Quaest divulga nova pesquisa eleitoral para presidente nesta segunda (21)",
-      "descricao": "O que é margem de erro A Quaest divulga nesta segunda-feira (21) no início da noite, uma nova rodada de pesquisas eleitorais com os números da corrida presidencial. O levantamento foi contratado pela Globo e por O Globo. Esta é a primeira pesquisa presidencial do instituto após a sessão histórica do Supremo Tribunal Federal sobre o caso Master e o envolvimento do ministro Alexandre de Moraes. No ú",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 12:26:47 -0000",
+      "pub_date": "Mon, 21 Sep 2026 06:00:00 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -450,6 +375,76 @@
       "pub_date": "Fri, 18 Sep 2026 21:06:15 -0300",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Pix Automático poderá ser usado em contas-salário a partir de 2027; veja regras",
+      "descricao": "Banco Central aprova novas regras para o meio de pagamento instantâneo. Instituições com mais de 500 mil contas não são mais obrigadas a contar com o sistema",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503530-pix-automatico-podera-ser-usado-em-contas-salario-a-partir-de-2027-veja-regras.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 18 Sep 2026 12:49:27 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Entenda o que muda com as novas regras do PIX",
+      "descricao": "Banco Central ampliou o uso do PIX em contas-salário e reforça regras de segurança e combate a fraudes",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503475-entenda-o-que-muda-com-as-novas-regras-do-pix.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 18 Sep 2026 11:47:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Bolsa Família ganha reajuste de 15,04%; entenda detalhes do novo valor",
+      "descricao": "Sob protestos da oposição, Lula assina decreto elevando o benefício de R$ 600 para R$ 691. Impacto ultrapassa os R$ 22 bi",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503133-bolsa-familia-ganha-reajuste-de-1504.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 18 Sep 2026 00:20:00 -0300",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "ANTT inicia procedimentos contra empresas que descumprem piso de frete",
+      "descricao": "Suspensão cautelar, que varia de cinco a 30 dias, está prevista na MP do Frete, sancionada pelo presidente da República em agosto",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7502965-antt-inicia-procedimentos-contra-empresas-que-descumprem-piso-de-frete.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 17 Sep 2026 17:20:20 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Brasil registra recorde no valor da produção agrícola em 2025",
+      "descricao": "Impulsionado pela safra de grãos, o setor agrícola alcançou o valor de R$ 927,2 bilhões, um avanço de 18,4% comparado a 2024",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7502809-brasil-registra-recorde-no-valor-da-producao-agricola-em-2025.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 17 Sep 2026 15:26:30 -0300",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
       ]
     }
   ]
