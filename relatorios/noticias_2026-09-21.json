@@ -1,53 +1,114 @@
 {
-  "coletado_em": "21/09/2026 08:15",
-  "total": 19,
-  "urgentes": 0,
+  "coletado_em": "21/09/2026 12:06",
+  "total": 30,
+  "urgentes": 2,
   "destaque": {
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-    "descricao": "Índices futuros dos EUA avançam com petróleo em queda The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21092026/",
-    "fonte": "Infomoney",
-    "categoria": "Mercado",
-    "cor": "#4488ff",
-    "urgencia": "media",
-    "score_relevancia": 6,
-    "pub_date": "Mon, 21 Sep 2026 11:12:14 +0000",
+    "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
+    "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. Ao mesmo tempo, os economistas das instituições financeiras também passaram a prever um novo corte de juros no decorrer deste ano. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (21) pelo Banco Central (BC), com base em pesquisa realizada na ú",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "alta",
+    "score_relevancia": 7,
+    "pub_date": "Mon, 21 Sep 2026 11:31:27 -0000",
     "setores": [
-      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
       "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Telecom (VIVT3, TIMS3)"
+      "Telecom (VIVT3, TIMS3)",
+      "Todos os ativos"
     ]
   },
   "noticias": [
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-      "descricao": "Índices futuros dos EUA avançam com petróleo em queda The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21092026/",
+      "titulo": "Mercado eleva estimativa de inflação e passa a prever novo corte de juros neste ano",
+      "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. Ao mesmo tempo, os economistas das instituições financeiras também passaram a prever um novo corte de juros no decorrer deste ano. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (21) pelo Banco Central (BC), com base em pesquisa realizada na ú",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 7,
+      "pub_date": "Mon, 21 Sep 2026 11:31:27 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Mercado reduz projeção da Selic para 13,50%",
+      "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-reduz-projecao-da-selic-para-1350",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 21 Sep 2026 11:36:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em queda, com foco em recuo do petróleo e reunião entre Trump e Xi Jinping; Ibovespa sobe",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em queda nesta segunda-feira (21), com um recuo de 0,59% perto das 11h, cotado a R$ 5,1136. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 0,16% no mesmo horário, aos 185.522 pontos. Com uma agenda econômica recheada nesta semana, investidores aguardam novos dados econômicos da Europa, dos Estados Unidos e do Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/21/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 21 Sep 2026 12:00:34 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Ibovespa sobe com exterior e de olho em pesquisas, mas queda do petróleo limita",
+      "descricao": "No exterior, a atenção principal é a 81ª Assembleia Geral da ONU, com discursos dos presidentes Donald Trump (EUA), Luiz Inácio Lula da Silva (Brasil), entre outros The post Ibovespa sobe com exterior e de olho em pesquisas, mas queda do petróleo limita appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-de-olho-em-pesquisas-mas-queda-do-petroleo-limita/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Mon, 21 Sep 2026 11:12:14 +0000",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 21 Sep 2026 14:29:59 +0000",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Mercado reduz projeção para Selic para 13,50% e eleva previsão de inflação",
+      "descricao": "Boletim Focus também mostra revisão para baixo das estimativas de crescimento do PIB em 2026 e 2027",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7504728-mercado-reduz-projecao-para-selic-para-1350-e-eleva-previsao-de-inflacao.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 21 Sep 2026 09:49:00 -0300",
+      "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Petróleo tem nova baixa com expectativas de diplomacia EUA-Irã e exportações sauditas",
-      "descricao": "O Irã e os EUA trocaram novas ameaças no domingo, embora o presidente Donald Trump tenha dito que estaria aberto a se reunir com o presidente iraniano, Masoud Pezeshkian The post Petróleo tem nova baixa com expectativas de diplomacia EUA-Irã e exportações sauditas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-21092026/",
+      "titulo": "Vale (VALE3) mira cobre enquanto minério perde força e dividendos ficam mais contidos",
+      "descricao": "Mineradora enfrenta um ambiente ainda desafiador, principalmente diante da fraqueza dos preços do minério de ferro e dos fretes elevados The post Vale (VALE3) mira cobre enquanto minério perde força e dividendos ficam mais contidos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/vale-vale3-mira-cobre-enquanto-minerio-perde-forca-e-dividendos-ficam-mais-contidos/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Mon, 21 Sep 2026 11:05:38 +0000",
+      "pub_date": "Mon, 21 Sep 2026 14:00:00 +0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Câmbio / Exportadores"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     },
     {
@@ -66,91 +127,158 @@
       ]
     },
     {
-      "titulo": "Petrobras, Fleury, TIM, IMC, Porto e mais ações para acompanhar desta segunda-feira",
-      "descricao": "Confira os principais destaques do noticiário corporativo desta segunda-feira (21) The post Petrobras, Fleury, TIM, IMC, Porto e mais ações para acompanhar desta segunda-feira appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-fleury-tim-imc-porto-e-mais-acoes-para-acompanhar-desta-segunda-feira/",
+      "titulo": "Durigan: reajuste do Bolsa Família é compatível com responsabilidade fiscal",
+      "descricao": "O ministro da Fazenda afirmou que o reajuste de 15% no Bolsa Família anunciado pelo governo Lula não é incompatível com a responsabilidade fiscal de um eventual novo governo do PT",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503951-durigan-reajuste-do-bolsa-familia-e-compativel-com-responsabilidade-fiscal.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 18 Sep 2026 20:29:00 -0300",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "CEO: Petrobras terá que ampliar atuação em renováveis para manter relevância até 2050",
+      "descricao": "Durante a ⁠abertura do congresso ROG.e, a executiva reiterou que a companhia responde atualmente por um terço da energia primária do ​Brasil The post CEO: Petrobras terá que ampliar atuação em renováveis para manter relevância até 2050 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ceo-petrobras-tera-que-ampliar-atuacao-em-renovaveis-para-manter-relevancia-ate-2050/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Mon, 21 Sep 2026 10:47:37 +0000",
+      "pub_date": "Mon, 21 Sep 2026 14:33:41 +0000",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
-      "titulo": "Após Master, Dino dá 90 dias para Fazenda reavaliar regras de atuação da CVM",
-      "descricao": "CVM condena Daniel Vorcaro a multa de R$ 20 milhões por fraude O ministro Flávio Dino, do Supremo Tribunal Federal (STF), deu 90 dias para que a União reavalie as regras para a atuação da Comissão de Valores Mobiliários (CVM). O Ministério da Fazenda deverá coordenar os trabalhos entre os diferentes órgãos públicos para mudanças na autarquia. 🔎 Vinculada à Fazenda, a CVM fiscaliza o mercado de cap",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/20/apos-master-dino-da-90-dias-para-fazenda-reavaliar-regras-de-atuacao-da-cvm.ghtml",
+      "titulo": "AMD entra para grupo de fabricantes de chips avaliadas em US$ 1 trilhão",
+      "descricao": "Lisa Su, presidente e diretora executiva da AMD, em apresentação durante a CES 2019, em Las Vegas. REUTERS/Steve Marcus A Advanced Micro Devices (AMD) ultrapassou pela primeira vez a marca de US$ 1 trilhão (R$ 5,14 trilhões) em valor de mercado nesta segunda-feira (21), impulsionada pela expectativa de investidores sobre o crescimento da empresa no mercado de computação voltada à inteligência arti",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/amd-entra-para-grupo-de-fabricantes-de-chips-avaliadas-em-us-1-trilhao.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sun, 20 Sep 2026 20:50:52 -0000",
+      "pub_date": "Mon, 21 Sep 2026 14:36:27 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Bolsa Família é reajustado em 15%; medida vale a partir de outubro",
-      "descricao": "O benefício pago pelo programa Bolsa Família será reajustado em 15%. O aumento corresponde à variação inflacionária registrada pelo Índice Nacional de Preços ao Consumidor (INPC) entre março de 2023 e agosto de 2026. Com isso, o valor mínimo do benefício ficará em R$ 691. Já o valor médio pago chegará a R$ 777. Notícias relacionadas: Produção agrícola brasileira superou R$ 927 bilhões em 2025. BC ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-familia-e-reajustado-em-15-medida-vale-partir-de-outubro",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "Senado tem a chave do STF: quem entra e quem pode sair",
+      "descricao": "Miriam e Sadi: Senado decide se aprova ou afasta ministros do STF O Senado Federal costuma aparecer no noticiário como coadjuvante das grandes disputas de Brasília. Mas, quando o assunto é a relação entre o Congresso e o Supremo Tribunal Federal (STF), a Casa está longe de ocupar um papel secundário. É no Senado que passam algumas das principais ferramentas de controle sobre o Judiciário e é justa",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/21/senado-tem-a-chave-do-stf-quem-entra-e-quem-pode-sair.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Thu, 17 Sep 2026 12:36:00 -0300",
+      "pub_date": "Mon, 21 Sep 2026 14:10:14 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Datafolha: veja os segmentos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
+      "descricao": "Pesquisa Datafolha divulgada na quinta-feira (17) mostra novo empate técnico entre Lula (PT) e Flávio Bolsonaro (PL) em eventual disputa de 2º turno da eleição presidencial de outubro. A disputa também é apertada em grupos específicos do eleitorado. Segundo o Datafolha, o presidente tem 46% das intenções de voto, enquanto o senador aparece com 44% em eventual 2º turno. Como a margem de erro da pes",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/datafolha-17-set-segmentos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 21 Sep 2026 13:47:39 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Após Bachelet desistir, Brasil fica sem indicação e reforça defesa de mulher latina à frente da ONU",
+      "descricao": "Lula e Michelle Bachelet em imagem de 2024 Ricardo Stuckert/Presidência da República O Ministério das Relações Exteriores (Itamaraty) divulgou uma nota na qual reforçou que a região tem mulheres “à altura” de assumir o comando da Organização das Nações Unidas (ONU). A nota foi divulgada após a ex-presidente do Chile Michelle Bachelet ter anunciado a retirada de sua candidatura, que contava com o a",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 21 Sep 2026 11:06:18 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "MP junto ao TCU pede suspensão de decreto que aumenta valor do Bolsa Família",
+      "descricao": "Órgão aponta para possível ausência de previsão orçamentária e questiona capacidade da União arcar com novo compromisso às vésperas do 1º turno das eleições",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503022-mp-junto-ao-tcu-pede-suspensao-de-decreto-que-aumenta-valor-do-bolsa-familia.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 17 Sep 2026 17:54:21 -0300",
+      "setores": [
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "Ações e moedas de mercados emergentes se valorizam após conversas entre EUA e China",
-      "descricao": "Os Estados Unidos e a China concordaram em estabelecer um diálogo sobre inteligência artificial, afirmou o secretário do Tesouro, Scott Bessent The post Ações e moedas de mercados emergentes se valorizam após conversas entre EUA e China appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/acoes-e-moedas-de-mercados-emergentes-se-valorizam-apos-conversas-entre-eua-e-china/",
+      "titulo": "Agenda de visita do Papa ao Uruguai, Argentina e Peru prevê encontros com presidentes",
+      "descricao": "Papa Leão XIV terá maratona de missas, eventos e encontros entre os dias 6 e 16 de novembro; ele visitará oficialmente os presidentes Yamandú Orsi, Javier Milei e Keiko Fujimori The post Agenda de visita do Papa ao Uruguai, Argentina e Peru prevê encontros com presidentes appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/agenda-de-visita-do-papa-ao-uruguai-argentina-e-peru-preve-encontros-com-presidentes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 10:36:24 +0000",
+      "pub_date": "Mon, 21 Sep 2026 15:03:01 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "TIM Brasil passa a ter nova controladora indireta após oferta pela Telecom Italia",
-      "descricao": "A liquidação das ações adquiridas na oferta ocorreu em 18 de setembro The post TIM Brasil passa a ter nova controladora indireta após oferta pela Telecom Italia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/tim-brasil-passa-a-ter-nova-controladora-indireta-apos-oferta-pela-telecom-italia/",
+      "titulo": "Antes da ONU, Lula se reúne com Sanders e Mamdani, dois críticos de Trump",
+      "descricao": "Presidente também se reúne com Yamandú Orsi e concentra compromissos antes de abrir a Assembleia Geral nesta terça-feira The post Antes da ONU, Lula se reúne com Sanders e Mamdani, dois críticos de Trump appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/antes-da-onu-lula-se-reune-com-sanders-e-mamdani-dois-criticos-de-trump/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 10:20:26 +0000",
+      "pub_date": "Mon, 21 Sep 2026 14:45:04 +0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Minidólar (WDOV26): suportes e resistências para esta segunda-feira",
-      "descricao": "Saiba o que esperar para o minidólar nesta segunda (21) The post Minidólar (WDOV26): suportes e resistências para esta segunda-feira appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdov26-21092026/",
+      "titulo": "Petrobras anuncia hoje descobertas relevantes de gás a desenvolver na Colômbia",
+      "descricao": "\"Temos descobertas relevantes de gás a desenvolver na Colômbia. Estamos divulgando hoje as oportunidades na Colômbia, onde já temos inclusive contratos de gás a divulgar\", disse The post Petrobras anuncia hoje descobertas relevantes de gás a desenvolver na Colômbia appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-anuncia-hoje-descobertas-relevantes-de-gas-a-desenvolver-na-colombia/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 10:10:00 +0000",
+      "pub_date": "Mon, 21 Sep 2026 14:35:57 +0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "TST julga nesta segunda greve dos Correios e reivindicações dos trabalhadores, em paralisação há 11 dias",
+      "descricao": "g1 em 1 Minuto: Greve dos Correios não tem previsão de encerramento O TST (Tribunal Superior do Trabalho) analisa, às 13h30 desta segunda-feira (21), os principais pontos da disputa entre os trabalhadores e os Correios. A categoria está em greve nacional desde o dia 10. A paralisação começou depois que a empresa e os trabalhadores não chegaram a um acordo nas negociações. O principal impasse é o p",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/correios-greve-tst.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 12:03:03 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -169,7 +297,7 @@
     },
     {
       "titulo": "Ameaças de demissão, promessas de benefícios e mais: o que é assédio eleitoral no trabalho e como denunciar",
-      "descricao": "Entenda o que é assédio eleitoral no trabalho e como denunciar Thiago Gadelha/SVM O Ministério Público do Trabalho (MPT) recebeu, até agosto deste ano, 223 denúncias de assédio eleitoral no ambiente de trabalho. Durante as eleições de 2022, foram mais de 3,3 mil denúncias — um aumento de 1.600% em comparação com 2018. Desde 2023, a Justiça do Trabalho registrou 738 processos relacionados a assédio",
+      "descricao": "Entenda o que é assédio eleitoral no trabalho e como denunciar Thiago Gadelha/SVM O Ministério Público do Trabalho (MPT) recebeu, até o dia 20 de setembro, 472 denúncias de assédio eleitoral no ambiente de trabalho. Durante as eleições de 2022, foram mais de 3,3 mil denúncias — um aumento de 1.600% em comparação com 2018. Desde 2023, a Justiça do Trabalho registrou 738 processos relacionados a ass",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-assedio-eleitoral-no-trabalho-e-como-denunciar.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -197,47 +325,59 @@
       ]
     },
     {
-      "titulo": "Transpetro: inscrições para concurso terminam nesta segunda; salários chegam a R$ 15 mil",
-      "descricao": "Transpetro abre processo seletivo com 4.171 vagas e salários de até R$ 15 mil Os interessados em participar do concurso público da Transpetro, empresa de transporte da Petrobras, têm até as 23h59 desta segunda-feira (14) para se inscrever. A seleção oferece 281 vagas imediatas e 3.890 para cadastro de reserva, totalizando 4.171 oportunidades para cargos de níveis médio, técnico e superior nos quad",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/21/transpetro-inscricoes-para-concurso-terminam-nesta-segunda-salarios-chegam-a-r-15-mil.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Quaest divulga nova pesquisa eleitoral para presidente nesta segunda (21)",
+      "descricao": "O que é margem de erro A Quaest divulga nesta segunda-feira (21) no início da noite, uma nova rodada de pesquisas eleitorais com os números da corrida presidencial. O levantamento foi contratado pela Globo e por O Globo. Esta é a primeira pesquisa presidencial do instituto após a sessão histórica do Supremo Tribunal Federal sobre o caso Master e o envolvimento do ministro Alexandre de Moraes. No ú",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 12:26:47 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Eleições 2026: Como consultar meu título de eleitor?",
+      "descricao": "Título de eleitor Foto: Agência Brasil/Divulgação Quem vai votar nas eleições de 2026 pode consultar o número do título de eleitor, verificar a situação da inscrição eleitoral e descobrir o local de votação pela internet – não é preciso ir a um cartório eleitoral. A consulta é feita pelos canais oficiais da Justiça Eleitoral: o Autoatendimento Eleitoral (Título Net), disponível no portal do Tribun",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-como-consultar-meu-titulo-de-eleitor.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 03:00:01 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Limite a supersalários e penduricalhos: veja o que propõem os candidatos para o funcionalismo público",
+      "descricao": "Imagem urna eletrônica Reprodução/TV Globo O limite para os salários do funcionalismo público é de R$ 46,4 mil. Porém, verbas indenizatórias, gratificações e outros benefícios podem fazer com que servidores recebam valores muito acima desse limite. SAIBA MAIS: Dos 'marajás' aos 'penduricalhos': discussão sobre a limitação da remuneração de agentes públicos já dura mais de 60 anos Os chamados “supe",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/propostas-funcionalismo-publico.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Mon, 21 Sep 2026 03:00:00 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Produtores do interior de SP aumentam renda com consórcio de culturas",
-      "descricao": "Produtores do interior de SP aumentam renda com consórcio de culturas Reprodução / TV TEM O consórcio de culturas, prática antiga que combina diferentes plantações no mesmo espaço, tem ganhado força no centro-oeste paulista. A estratégia ajuda a elevar a produtividade, ampliar a renda e manter mão de obra ativa em períodos distintos de colheita. Em Bocaina (SP), o produtor Edwin Montenegro cultiva",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/produtores-do-interior-de-sp-aumentam-renda-com-consorcio-de-culturas.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Caiado promete cortar 100% das emendas impositivas e limitar gastos do governo para reduzir juros",
+      "descricao": "O presidenciável Ronaldo Caiado (PSD) e o vice, Gilberto Kassab, durante agenda em SP Walace Lara/TV Globo O candidato à Presidência Ronaldo Caiado (PSD) afirmou em evento neste domingo (20) durante uma caminhada pela Avenida Paulista, que pretende cortar 100% das emendas parlamentares impositivas, rever incentivos fiscais e reduzir os gastos de todos os Poderes como parte de um plano para control",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/20/caiado-promete-cortar-100percent-das-emendas-impositivas-e-limitar-gastos-do-governo-para-reduzir-juros.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 20 Sep 2026 10:30:00 -0000",
+      "pub_date": "Sun, 20 Sep 2026 19:48:46 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Nostalgia milionária: por que adultos pagam fortunas por brinquedos da infância",
-      "descricao": "Jogos de cartas do Pokémon é inspirado no desenho clássico dos anos 90 Hennzo Pinheiro/Arquivo Pessoal Brinquedos e colecionáveis que fizeram parte da infância de uma geração movimentam hoje cifras que vão muito além do universo infantil. Adultos passaram a gastar grandes quantias para comprar objetos que remetem à infância — e, em alguns casos, essas peças chegam a valer centenas de milhares ou a",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/20/nostalgia-milionaria-por-que-adultos-pagam-fortunas-por-brinquedos-da-infancia.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 20 Sep 2026 08:00:00 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -296,6 +436,20 @@
       "setores": [
         "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
         "Educação (COGN3, YDUQ3)"
+      ]
+    },
+    {
+      "titulo": "Governo planeja comprar dívidas antigas de brasileiros, afirma Durigan",
+      "descricao": "Objetivo é quitar dívidas herdadas principalmente durante a pandemia sem renegociações e aumentar o poder de compra das famílias",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503978-governo-planeja-comprar-dividas-antigas-de-brasileiros-afirma-durigan.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 18 Sep 2026 21:06:15 -0300",
+      "setores": [
+        "Mercado geral"
       ]
     }
   ]
