@@ -1,7 +1,7 @@
 {
-  "coletado_em": "22/09/2026 10:03",
-  "total": 30,
-  "urgentes": 4,
+  "coletado_em": "22/09/2026 18:51",
+  "total": 29,
+  "urgentes": 2,
   "destaque": {
     "titulo": "Mercado reduz projeção da Selic para 13,50%",
     "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
@@ -36,34 +36,6 @@
       ]
     },
     {
-      "titulo": "Lula deve reforçar agenda social e tentar tirar foco da crise no STF na reta final do 1º turno; Flávio mira Sudeste e aposta no voto útil",
-      "descricao": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert/Presidência da República; Vittor Sales Na reta final do 1º turno, as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) traçam estratégias para as duas últimas semanas antes da votação em 4 de outubro. O presidente deve reforçar a agenda social e econômica e tentar tirar o foco da crise envolvendo o Supremo Tribunal Fed",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/lula-flavio-estrategias-reta-final-campanha.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "alta",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "SIGA: Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar",
-      "descricao": "SIGA: Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar Comitivas mundiais começaram a chegar à sede da ONU na manhã desta terça (22). Logo após Lula, é a vez do discurso do presidente dos EUA, Donald Trump. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU inicia nesta terça-feira ",
-      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "alta",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 12:07:13 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "Senacon vai investigar 70 postos por aumento abusivo de preços",
       "descricao": "A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos administrativos sancionadores contra postos de combustíveis por indícios de aumento abusivo de preços. Os estabelecimentos podem ser multados em até R$ 14 milhões, com base no Código de Defesa do Consumidor (CDC). Os atos de fiscalização encaminhados p",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos",
@@ -78,8 +50,8 @@
       ]
     },
     {
-      "titulo": "Dólar abre em alta, de olho em ata do Copom e Lula na ONU",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta terça-feira em alta, com um avanço de 0,22% perto das 9h10, cotado a R$ 5,1195. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam, às 10h. O destaque da sessão fica com a ata da última reunião de juros do Comitê de Política Monetária (Copom). Investidores também acompanham a queda nos preços do",
+      "titulo": "Dólar recua a R$ 5,10, de olho em negociações entre EUA e Irã e cenário eleitoral; Ibovespa sobe",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda nesta terça-feira (22), com um recuo de 0,11%, cotado a R$ 5,1028. Já o Ibovespa, principal índice da bolsa brasileira, encerrou as negociações com uma alta de 0,46%, aos 187.457 pontos. O destaque da sessão ficou com a ata da última reunião de juros do Comitê de Política Monetária (Copom). Investidores também acompanharam a ",
       "link": "https://g1.globo.com/economia/noticia/2026/09/22/dolar-ibovespa.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -94,19 +66,17 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-      "descricao": "Índices futuros dos EUA avançam em meio à nova queda do petróleo The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22092026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Ata do Copom atribui corte da Selic à desaceleração da economia",
+      "descricao": "A desaceleração da atividade econômica, da inflação e os efeitos dos juros elevados sobre o crédito e a demanda levaram o Comitê de Política Monetária (Copom) do Banco Central a reduzir a taxa Selic em 0,25 ponto percentual, de 14% para 13,75% ao ano . As justificativas constam da ata da reunião divulgada nesta terça-feira (22). O documento ressalta que os indicadores divulgados desde o encontro a",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ata-do-copom-atribui-corte-da-selic-desaceleracao-da-economia",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 6,
-      "pub_date": "Tue, 22 Sep 2026 12:53:48 +0000",
+      "pub_date": "Tue, 22 Sep 2026 10:05:00 -0300",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -125,77 +95,104 @@
       ]
     },
     {
-      "titulo": "Ibovespa Futuro cai pesquisa eleitoral, ata do BC e arrecadação no radar",
-      "descricao": "BC defende juros restritivos por pressão da demanda na inflação The post Ibovespa Futuro cai pesquisa eleitoral, ata do BC e arrecadação no radar appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-pesquisa-eleitoral-ata-do-bc-e-arrecadacao-no-radar/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Tue, 22 Sep 2026 12:13:23 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Governo encontra espaço fiscal de R$ 19,6 bilhões no orçamento; parte vai bancar reajuste do Bolsa Família, diz ministro",
-      "descricao": "Bruno Moretti, ministro do Planejamento e Orçamento Edilson Rodrigues/Agência Senado O ministro do Planejamento, Bruno Moretti, afirmou em entrevista ao g1 que o governo identificou um espaço fiscal de R$ 19,6 bilhões no orçamento deste ano e, por isso, decidiu reajustar o Bolsa Família. \"Você tem uma queda [de despesas] projetada nessa ordem de grandeza. O Bolsa Família já será incorporado, porta",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/21/governo-encontra-espaco-fiscal-de-r-196-bilhoes-no-orcamento-parte-vai-bancar-reajuste-do-bolsa-familia-diz-ministro.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "Governo reduz projeção do PIB para 2% em 2026 e 2,3% em 2027",
+      "descricao": "O Ministério da Fazenda reduziu de 2,3% para 2% a projeção de crescimento do Produto Interno Bruto (PIB) em 2026. Para 2027, a estimativa também foi revisada para baixo, de 2,5% para 2,3%. As novas projeções constam do Boletim Macrofiscal da Secretaria de Política Econômica (SPE), divulgado nesta terça-feira (22). Segundo a SPE, a revisão reflete principalmente os efeitos dos juros ainda restritiv",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/governo-reduz-projecao-do-pib-para-2-em-2026-e-23-em-2027",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 21 Sep 2026 22:42:22 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Mercado reduz projeção para Selic para 13,50% e eleva previsão de inflação",
-      "descricao": "Boletim Focus também mostra revisão para baixo das estimativas de crescimento do PIB em 2026 e 2027",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7504728-mercado-reduz-projecao-para-selic-para-1350-e-eleva-previsao-de-inflacao.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 21 Sep 2026 09:49:00 -0300",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 22 Sep 2026 15:18:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
-      "titulo": "Durigan: reajuste do Bolsa Família é compatível com responsabilidade fiscal",
-      "descricao": "O ministro da Fazenda afirmou que o reajuste de 15% no Bolsa Família anunciado pelo governo Lula não é incompatível com a responsabilidade fiscal de um eventual novo governo do PT",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503951-durigan-reajuste-do-bolsa-familia-e-compativel-com-responsabilidade-fiscal.html",
+      "titulo": "Copom vê risco inflacionário elevado e defende juros restritivos por mais tempo",
+      "descricao": "Ata da reunião de setembro aponta desaceleração gradual da economia, mas destaca expectativas de inflação acima da meta e necessidade de manter política monetária restritiva",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7505572-copom-ve-riscos-inflacionarios-elevados-e-defende-juros-restritivos-por-mais-tempo.html",
       "fonte": "Correio Braziliense Economia",
       "categoria": "Brasília / DF",
       "cor": "#ff4466",
       "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Tue, 22 Sep 2026 10:01:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Brava (BRAV3) sobe e fica entre maiores altas do Ibovespa após avanço em Papa-Terra",
+      "descricao": "Diretor de Operações da Brava afirmou na segunda-feira (21) que o PPT-52, primeiro de dois novos poços de Papa-Terra, já foi perfurado The post Brava (BRAV3) sobe e fica entre maiores altas do Ibovespa após avanço em Papa-Terra appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/brava-brav3-sobe-e-fica-entre-maiores-altas-do-ibovespa-apos-avanco-em-papa-terra/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Fri, 18 Sep 2026 20:29:00 -0300",
+      "pub_date": "Tue, 22 Sep 2026 20:44:49 +0000",
       "setores": [
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "Dólar hoje sobe enquanto investidores digerem ata do Copom",
-      "descricao": "Investidores avaliam os sinais do BC sobre os próximos passos da política monetária The post Dólar hoje sobe enquanto investidores digerem ata do Copom appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-22092026/",
+      "titulo": "Fazenda reduz previsão de crescimento da economia para 2% e cita alta do peso das dívidas das famílias",
+      "descricao": "O Ministério da Fazenda revisou para baixo a projeção de crescimento da economia brasileira neste ano, de 2,3% para 2,0%, refletindo principalmente a desaceleração do setor de serviços, influenciada pelo comprometimento da renda das famílias com o pagamento de dívidas. \"A projeção para o setor de serviços caiu de 2,4% para 1,8% e a da indústria, de 2,1% para 1,7%, movimentos parcialmente compensad",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/fazenda-reduz-previsao-de-crescimento-da-economia-para-2percent-e-cita-alta-do-peso-das-dividas-das-familias.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 22 Sep 2026 17:30:56 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Arrecadação federal ultrapassa R$ 2 trilhões em oito meses",
+      "descricao": "O governo federal acumula arrecadação de R$ 2,019 trilhões, de janeiro a agosto de 2026, segundo dados divulgados nesta terça-feira (22) pela Receita Federal . Além da inflação medida pelo IPCA , para o período, o valor representa crescimento de 7,12% na comparação com os mesmos oito meses de 2025. Em agosto, a arrecadação federal alcançou R$ 235,5 bilhões. O valor representa alta acima de inflaçã",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/arrecadacao-federal-ultrapassa-r-2-trilhoes-em-oito-meses",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 22 Sep 2026 11:41:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fazenda atribui aperto no bolso das famílias ao custo do crédito",
+      "descricao": "Para pasta, custo das modalidades tende a cair com a queda da Taxa Selic The post Fazenda atribui aperto no bolso das famílias ao custo do crédito appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/fazenda-atribui-aperto-no-bolso-das-familias-ao-custo-do-credito/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 22 Sep 2026 12:19:37 +0000",
+      "pub_date": "Tue, 22 Sep 2026 21:17:05 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Câmbio / Exportadores"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "JBS aprova pedido para fechar capital de subsidiária brasileira, mas grupo segue listado na bolsa com JBS N.V.",
+      "descricao": "Unidade da JBS em Goiás. Divulgação/JBS A JBS S.A., subsidiária brasileira do grupo JBS, aprovou nesta segunda-feira (21) o pedido de cancelamento de seu registro de companhia aberta na Comissão de Valores Mobiliários (CVM). Se o órgão autorizar, a empresa passará a ter capital fechado. A medida não significa que o grupo JBS deixará a bolsa de valores brasileira, a B3. A companhia continuará lista",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/22/operacoes-da-jbs-na-bolsa-de-valores-do-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 13:32:07 -0000",
+      "setores": [
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Todos os ativos"
       ]
     },
     {
@@ -213,74 +210,104 @@
       ]
     },
     {
-      "titulo": "Vale a pena ser mesário? Veja quantos dias de folga você ganha e outros benefícios",
-      "descricao": "Mesário conferindo documento / Eleição Tomaz Silva/Agência Brasil Trabalhar nas eleições não é considerado um emprego temporário e não dá direito a salário. Mas também não é um trabalho voluntário sem compensação. Quem atua como mesário tem direito a dois dias de folga para cada dia trabalhado nas eleições, sem desconto no salário. O treinamento também garante outros dois dias de folga. 🗒️ Tem alg",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/vale-a-pena-ser-mesario-veja-quantos-dias-de-folga-voce-ganha-e-outros-beneficios.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 22 Sep 2026 06:00:00 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Em NY para acompanhar Lula na ONU, chanceler brasileiro faz alerta para 'relativização da soberania'",
-      "descricao": "Chanceler Mauro Vieira Mateus Oliveira/MRE Diante da avaliação de integrantes do governo brasileiro de que os Estados Unidos têm tentado interferir nas eleições brasileiras, o ministro das Relações Exteriores, Mauro Vieira, fez um discurso em Nova York (EUA) no qual fez um “alerta” a representantes de países da região para a “relativização da soberania”. A informação foi divulgada pelo Itamaraty n",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-ny-para-acompanhar-lula-na-onu-chanceler-brasileiro-faz-alerta-para-relativizacao-da-soberania.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 22 Sep 2026 11:44:47 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Guerras, soberania e democracia: Lula quer fazer contraponto a Trump em abertura de assembleia da ONU",
-      "descricao": "Lula discursa na ONU em 23 de setembro de 2025; presidente brasileiros faz o primero discurso da Assembleia Geral das Nações Unidas Shannon Stapleton/Reuters O presidente Luiz Inácio Lula da Silva (PT) abre na manhã desta terça-feira (22) o debate de líderes da 81ª Assembleia Geral das Nações Unidas, em Nova York, nos Estados Unidos. O petista discursa antes do presidente Donald Trump e, por isso,",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Por que o Brasil é sempre o primeiro país a falar na Assembleia Geral da ONU?",
-      "descricao": "Por que o Brasil é sempre o primeiro país a falar na Assembleia Geral da ONU? O presidente Luiz Inácio Lula da Silva vai discursar na abertura da Assembleia Geral na Organização das Nações Unidas (ONU), em Nova York, a partir das 10h desta terça-feira (22). Como é de costume, o líder do Brasil será o primeiro a falar no evento, seguido pelo presidente norte-americano, Donald Trump, representante d",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/22/por-que-o-brasil-e-sempre-o-primeiro-pais-a-falar-na-assembleia-geral-da-onu.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Mendonça pede arquivamento de ação após acusações de Moraes no caso Master",
-      "descricao": "Ministro enviou resposta a Edson Fachin no último dia do prazo The post Mendonça pede arquivamento de ação após acusações de Moraes no caso Master appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/mendonca-pede-arquivamento-de-acao-apos-acusacoes-de-moraes-no-caso-master/",
+      "titulo": "Petrobras e demais petroleiras sempre operaram com incerteza, diz diretora",
+      "descricao": "Segundo Renata Baruzzi, o cenário ficou mais complexo a partir de 2020, \"com a pandemia, a guerra na Ucrânia e as tensões no Golfo Pérsico The post Petrobras e demais petroleiras sempre operaram com incerteza, diz diretora appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-e-demais-petroleiras-sempre-operaram-com-incerteza-diz-diretora/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 12:32:34 +0000",
+      "pub_date": "Tue, 22 Sep 2026 21:21:13 +0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Trump: ataques da Ucrânia à Rússia afetam diesel; estuda proibir exportações dos EUA",
+      "descricao": "\"Eu disse: não vamos mandar diesel para fora. Produzimos muito diesel\", afirmou The post Trump: ataques da Ucrânia à Rússia afetam diesel; estuda proibir exportações dos EUA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-ataques-da-ucrania-a-russia-afetam-diesel-estuda-proibir-exportacoes-dos-eua/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 21:14:43 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Financiamento de veículos tem melhor agosto em 15 anos, mostra Trillia, da B3",
+      "descricao": "Os autos leves puxaram o resultado, com 478 mil unidades financiadas em agosto, sendo 350 mil veículos novos e 127 mil usados, alta de 1,4% ante julho The post Financiamento de veículos tem melhor agosto em 15 anos, mostra Trillia, da B3 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/consumo/financiamento-de-veiculos-tem-melhor-agosto-em-15-anos-mostra-trillia-da-b3/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 21:05:58 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Suzano (SUZB3): ação sobe quase 3% com notícias de reajuste de preços em outubro",
+      "descricao": "A companhia está comunicando a clientes na Ásia uma elevação de US$ 20 a tonelada, enquanto para as Américas e Europa o preço será elevado em US$ 50 The post Suzano (SUZB3): ação sobe quase 3% com notícias de reajuste de preços em outubro appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/suzano-suzb3-acao-sobe-quase-3-com-noticias-de-reajuste-de-precos-em-outubro/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 20:49:59 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "INSS amplia prazo de auxílio-doença sem perícia; veja o que muda",
+      "descricao": "Auxílio-doença sem carência: veja quais condições dão esse direito O Ministério da Previdência Social e o Instituto Nacional do Seguro Social (INSS) prorrogaram por mais 365 dias a regra que amplia o prazo máximo de duração do auxílio por incapacidade temporária concedido por meio de análise documental. 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 A mudança vale para pedidos feitos pelo A",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/inss-prazo-auxilio-doenca.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 20:02:10 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Petrobras vai perfurar 3 novos poços na Foz do Amazonas a partir de janeiro",
+      "descricao": "Fim do desconto da Petrobras: como ficam os preços da gasolina? A Petrobras enviará, em janeiro, uma sonda de perfuração para a Bacia da Foz do Amazonas, no litoral do Amapá, para iniciar os trabalhos em três novos poços. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 A informação foi dada nesta terça-feira (22) pela diretora de Engenharia, Tecnologia e Inovação da estatal, Renata Baruzzi, ",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/petrobras-vai-perfurar-3-novos-pocos-na-foz-do-amazonas-a-partir-de-janeiro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 16:03:07 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Arrecadação federal soma R$ 235 bilhões em agosto, recorde para o mês",
+      "descricao": "A arrecadação do governo federal com impostos, contribuições e demais receitas somou R$ 235,6 bilhões em agosto deste ano, informou nesta terça-feira (22) a Receita Federal. O resultado representa um aumento real de 8,25% na comparação com o mesmo mês do ano passado, quando a arrecadação somou R$ 217,6 bilhões (valor corrigido pela inflação). ➡️O valor também é o maior já registrado para meses de ",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/arrecadacao-federal-soma-r-235-bilhoes-em-agosto-recorde-para-o-mes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 14:00:01 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -295,136 +322,6 @@
       "pub_date": "Tue, 22 Sep 2026 07:00:00 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "'Soltamos a besta': como o mundo se dividiu sobre até onde deixar a IA avançar",
-      "descricao": "Um modelo de datacenter Crédito: Divulgação Uma frase ajuda a resumir o espírito dos dias atuais: \"Soltamos a besta\". A declaração foi feita por Maliyka Muhammad, analista nova-iorquina de 46 anos, em uma série de entrevistas da agência de notícias AFP com pessoas de oito países e reflete um sentimento que atravessa fronteiras, gerações e ideologias. Nesta semana, a preocupação com a inteligência ",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/22/soltamos-a-besta-como-o-mundo-se-dividiu-sobre-ate-onde-deixar-a-ia-avancar.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 07:00:00 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Rico Melquíades: entenda o assédio eleitoral e as acusações em ação de R$ 5 milhões",
-      "descricao": "MPT pede indenização de R$ 5 milhões contra Rico por assédio eleitoral; ele se retrata O influenciador digital Rico Melquíades é alvo de uma ação por assédio eleitoral contra funcionárias domésticas. Na ação, o Ministério Público do Trabalho em Alagoas (MPT-AL) pede indenização de R$ 5 milhões por danos morais coletivos e o cumprimento de 18 obrigações. Segundo o órgão, Rico teria pressionado func",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/rico-melquiades-entenda-o-assedio-eleitoral-e-as-acusacoes-em-acao-de-r-5-milhoes.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 06:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Daniel Klabin, herdeiro da empresa de papel e celulose, se torna o bilionário mais velho do Brasil",
-      "descricao": "Da esquerda para a direita: presidente da ABF, dr. Edgard Leite, sra. Maria Isabel Klabin e dr. Daniel Miguel Klabin. Divulgação/Academia Brasileira de Filosofia Aos 97 anos, o engenheiro e empresário Daniel Miguel Klabin passa a ocupar o posto de bilionário mais velho do Brasil. Ele assume a posição após a morte de João Jacob Vontobel também aos 97 anos. Nascido em 11 de maio de 1929, Klabin tem ",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/22/daniel-klabin-herdeiro-da-empresa-de-papel-e-celulose-se-torna-o-bilionario-mais-velho-do-brasil.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Funcionários da Caixa rejeitam proposta e greve continua; como ficam as contas e benefícios?",
-      "descricao": "Greve da Caixa: veja como ficam pagamentos do Bolsa Família Os empregados da Caixa Econômica Federal rejeitaram nesta segunda-feira (21) a última proposta do banco para o Acordo Coletivo de Trabalho. Em assembleia virtual realizada pelo Sindicato dos Bancários de São Paulo, Osasco e Região, 59,3% dos participantes votaram contra a oferta. A votação ocorreu entre 11h e 18h. Após o resultado, o coma",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-continua-apos-funcionarios-rejeitarem-nova-proposta-do-banco.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 21:56:56 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Empresa é condenada a pagar R$ 1,25 milhão a funcionária demitida por faltar para fazer quimioterapia",
-      "descricao": "Butterball concordou em pagar US$ 230 mil para encerrar ação Butterball/ Divulgação A Butterball, uma das principais fabricantes de peru e produtos avícolas dos Estados Unidos, concordou em pagar US$ 230 mil, o equivalente a cerca de R$ 1,25 milhão, para encerrar uma ação por discriminação movida pela Comissão de Igualdade de Oportunidades de Emprego dos Estados Unidos (EEOC). A empresa, que produ",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/empresa-e-condenada-a-pagar-r-125-milhao-a-funcionaria-demitida-por-faltar-para-fazer-quimioterapia.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 21 Sep 2026 21:05:28 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Mendonça diz que Moraes distorceu teor de relatórios da PF e pede arquivamento de investigação",
-      "descricao": "Mendonça se manifesta sobre acusações de Moraes O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou que Alexandre de Moraes distorceu o teor de relatórios de inteligência produzidos pela Polícia Federal (PF), para apontar indícios de conduta irregular da parte dele na condução dos casos Master e INSS na Corte. “O Ministro Alexandre de Moraes distorce o teor do ‘documento’, para i",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 12:16:52 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Vereador do ES é condenado a indenizar comerciante após chamá-lo de 'corno' durante reunião na Câmara",
-      "descricao": "Vereador Igor Costa da Silva (Podemos), condenado por chamar comerciante de corno durante reunião na Câmara de Sooretama, Espírito Santo Reprodução Um vereador de Sooretama, no Norte do Espírito Santo, foi condenado a pagar R$ 3 mil de indenização por danos morais a um comerciante da cidade. Segundo o processo, o parlamentar chamou o homem de \"corno\" durante uma reunião da Câmara de Vereadores. A ",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/22/vereador-e-condenado-a-indenizar-comerciante-apos-chama-lo-de-corno-durante-reuniao-no-es.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 10:45:38 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Tarcísio já gastou 88% do teto permitido para campanha ao governo de SP; Haddad, 46%",
-      "descricao": "Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) em agendas de campanhas ao governo de SP Caiuá Maia e Diogo Zacarias Os dois principais candidatos ao governo de São Paulo apresentam ritmos bastante diferentes de gastos de campanha. Enquanto Tarcísio de Freitas (Republicanos) já declarou despesas de R$ 23,7 milhões, equivalente a 88% do teto eleitoral para o 1° turno, Fernando Haddad (PT)",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/tarcisio-ja-gastou-88percent-do-teto-permitido-para-campanha-ao-governo-de-sp-haddad-46percent.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 07:00:02 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador",
-      "descricao": "O senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República, destinou uma emenda parlamentar de quase R$ 200 mil para um projeto esportivo a pedido de Robson Calixto, conhecido como Peixe, miliciano condenado por envolvimento na morte da vereadora Marielle Franco. A emenda foi negociada em 2023 entre Peixe e Maria de Fátima Bezerra Castro, secretária parlamentar no gabinete de Flávio ",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 22 Sep 2026 04:01:07 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
       ]
     },
     {
@@ -454,6 +351,91 @@
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Renda de PCDs equivale a 70% do rendimento de pessoas sem deficiência",
+      "descricao": "O rendimento médio do trabalhador com deficiência (R$ 2.053) representava cerca de 70% do rendimento médio daqueles sem deficiência (R$ 2.890), segundo dados do Censo 2022, do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgados nesta sexta-feira (18). “Em todos os grupos de atividades econômicas, as pessoas com deficiência recebiam menos do que as pessoas sem deficiência. Além disso",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/renda-de-pcds-equivale-70-do-rendimento-de-pessoas-sem-deficiencia",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 18 Sep 2026 12:15:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras enviará sonda para perfurar três novos poços na Foz do Amazonas",
+      "descricao": "Empresa planeja iniciar em janeiro nova etapa da campanha exploratória na costa do Amapá, após autorização do Ibama",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7505921-petrobras-enviara-sonda-para-perfurar-tres-novos-pocos-na-foz-do-amazonas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 15:08:26 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Arrecadação federal bate recorde e chega a R$ 235,5 bi em agosto",
+      "descricao": "De janeiro e agosto, a soma já chega a R$ 2,112 trilhão, que também indica crescimento real sobre o mesmo período do ano anterior",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7505717-arrecadacao-federal-bate-recorde-e-chega-a-rs-2355-bi-em-agosto.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 12:50:27 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Simples Nacional: empresas têm 8 dias para escolher regime tributário",
+      "descricao": "Microempresas e empresas de pequeno porte devem decidir até 30 de setembro como vão recolher os novos tributos da reforma em 2027; prazo não afeta MEI.",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7505468-simples-nacional-empresas-tem-8-dias-para-escolher-regime-tributario.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 00:37:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Banco quebrou? Entenda como funciona o FGC e o que acontece com o dinheiro",
+      "descricao": "O Fundo Garantidor de Crédito é a entidade que assegura a devolução de valores em diversas aplicações financeiras, trazendo mais tranquilidade ao sistema.",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7505457-banco-quebrou-entenda-como-funciona-o-fgc-e-o-que-acontece-com-o-dinheiro.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 23:14:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Justiça libera R$ 2,68 bilhões para pagamentos atrasados do INSS",
+      "descricao": "Depósito dos recursos de ações vencidas contra o governo ficará a cargo dos Tribunais Regionais Federais (TRF)",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7505035-justica-libera-rs-268-bilhoes-para-pagamentos-atrasados-do-inss.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 15:07:22 -0300",
+      "setores": [
+        "Mercado geral"
       ]
     }
   ]
