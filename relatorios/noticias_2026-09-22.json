@@ -1,0 +1,460 @@
+{
+  "coletado_em": "22/09/2026 10:03",
+  "total": 30,
+  "urgentes": 4,
+  "destaque": {
+    "titulo": "Mercado reduz projeção da Selic para 13,50%",
+    "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-reduz-projecao-da-selic-para-1350",
+    "fonte": "Agência Brasil",
+    "categoria": "Política Econômica",
+    "cor": "#009c3b",
+    "urgencia": "alta",
+    "score_relevancia": 5,
+    "pub_date": "Mon, 21 Sep 2026 11:36:00 -0300",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Telecom (VIVT3, TIMS3)",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Mercado reduz projeção da Selic para 13,50%",
+      "descricao": "O mercado financeiro reduziu de 13,75% para 13,50% a expectativa para a taxa básica de juros Selic ao fim de 2026. A projeção, apresentada pelo Boletim Focus divulgado nesta segunda-feira (21) pelo Banco Central, indica que o mercado trabalha com a expectativa de novo corte de juros ainda no ano corrente. A revisão para baixo ocorre cinco dias depois de o Comitê de Política Monetária (Copom) ter r",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-reduz-projecao-da-selic-para-1350",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 21 Sep 2026 11:36:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Lula deve reforçar agenda social e tentar tirar foco da crise no STF na reta final do 1º turno; Flávio mira Sudeste e aposta no voto útil",
+      "descricao": "Presidente Lula e o senador Flávio Bolsonaro Ricardo Stuckert/Presidência da República; Vittor Sales Na reta final do 1º turno, as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) traçam estratégias para as duas últimas semanas antes da votação em 4 de outubro. O presidente deve reforçar a agenda social e econômica e tentar tirar o foco da crise envolvendo o Supremo Tribunal Fed",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/lula-flavio-estrategias-reta-final-campanha.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "SIGA: Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar",
+      "descricao": "SIGA: Assembleia Geral da ONU começa hoje em NY em meio a grave crise; Lula é o 1º líder a discursar Comitivas mundiais começaram a chegar à sede da ONU na manhã desta terça (22). Logo após Lula, é a vez do discurso do presidente dos EUA, Donald Trump. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU inicia nesta terça-feira ",
+      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 12:07:13 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Senacon vai investigar 70 postos por aumento abusivo de preços",
+      "descricao": "A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos administrativos sancionadores contra postos de combustíveis por indícios de aumento abusivo de preços. Os estabelecimentos podem ser multados em até R$ 14 milhões, com base no Código de Defesa do Consumidor (CDC). Os atos de fiscalização encaminhados p",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 20:32:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Dólar abre em alta, de olho em ata do Copom e Lula na ONU",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta terça-feira em alta, com um avanço de 0,22% perto das 9h10, cotado a R$ 5,1195. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam, às 10h. O destaque da sessão fica com a ata da última reunião de juros do Comitê de Política Monetária (Copom). Investidores também acompanham a queda nos preços do",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 7,
+      "pub_date": "Tue, 22 Sep 2026 12:00:35 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+      "descricao": "Índices futuros dos EUA avançam em meio à nova queda do petróleo The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22092026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Tue, 22 Sep 2026 12:53:48 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Sem dar pistas sobre próximos passos, BC diz que manterá 'restrição adequada' na política de juros para conter inflação",
+      "descricao": "O Banco Central reafirmou nesta terça-feira (22) que manterá \"perseverança, firmeza e serenidade' na condução da política de juros, pois isso colaborará para a chamada \"reancoragem das expectativas\", ou seja, trazer as projeções de inflação para as metas dos próximos anos, com menor custo para a economia. A informação consta na ata da última reunião do Comitê de Política Monetária (Copom) do Banco",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/sem-dar-pistas-sobre-proximos-passos-bc-diz-que-mantera-restricao-adequada-na-politica-de-juros-para-conter-inflacao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 22 Sep 2026 11:09:00 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Futuro cai pesquisa eleitoral, ata do BC e arrecadação no radar",
+      "descricao": "BC defende juros restritivos por pressão da demanda na inflação The post Ibovespa Futuro cai pesquisa eleitoral, ata do BC e arrecadação no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-pesquisa-eleitoral-ata-do-bc-e-arrecadacao-no-radar/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Tue, 22 Sep 2026 12:13:23 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Governo encontra espaço fiscal de R$ 19,6 bilhões no orçamento; parte vai bancar reajuste do Bolsa Família, diz ministro",
+      "descricao": "Bruno Moretti, ministro do Planejamento e Orçamento Edilson Rodrigues/Agência Senado O ministro do Planejamento, Bruno Moretti, afirmou em entrevista ao g1 que o governo identificou um espaço fiscal de R$ 19,6 bilhões no orçamento deste ano e, por isso, decidiu reajustar o Bolsa Família. \"Você tem uma queda [de despesas] projetada nessa ordem de grandeza. O Bolsa Família já será incorporado, porta",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/21/governo-encontra-espaco-fiscal-de-r-196-bilhoes-no-orcamento-parte-vai-bancar-reajuste-do-bolsa-familia-diz-ministro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 21 Sep 2026 22:42:22 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Mercado reduz projeção para Selic para 13,50% e eleva previsão de inflação",
+      "descricao": "Boletim Focus também mostra revisão para baixo das estimativas de crescimento do PIB em 2026 e 2027",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7504728-mercado-reduz-projecao-para-selic-para-1350-e-eleva-previsao-de-inflacao.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 21 Sep 2026 09:49:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Durigan: reajuste do Bolsa Família é compatível com responsabilidade fiscal",
+      "descricao": "O ministro da Fazenda afirmou que o reajuste de 15% no Bolsa Família anunciado pelo governo Lula não é incompatível com a responsabilidade fiscal de um eventual novo governo do PT",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7503951-durigan-reajuste-do-bolsa-familia-e-compativel-com-responsabilidade-fiscal.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 18 Sep 2026 20:29:00 -0300",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar hoje sobe enquanto investidores digerem ata do Copom",
+      "descricao": "Investidores avaliam os sinais do BC sobre os próximos passos da política monetária The post Dólar hoje sobe enquanto investidores digerem ata do Copom appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-22092026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 12:19:37 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Vale compra 30% de mineradora por R$ 975 milhões e amplia acesso a minério no Pará",
+      "descricao": "Agora no g1 A Vale confirmou nesta terça-feira (22) a compra de 30% da mineradora Ligga S.A. por aproximadamente US$ 190 milhões. A operação também inclui um contrato de longo prazo para que a Vale compre 100% do minério de ferro sinter feed produzido pela empresa. A Ligga opera a mina Ferro Sul, nos municípios de Parauapebas e Curionópolis, na região de Carajás, no Pará. A unidade produz atualmen",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/vale-compra-ferro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 12:24:39 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Vale a pena ser mesário? Veja quantos dias de folga você ganha e outros benefícios",
+      "descricao": "Mesário conferindo documento / Eleição Tomaz Silva/Agência Brasil Trabalhar nas eleições não é considerado um emprego temporário e não dá direito a salário. Mas também não é um trabalho voluntário sem compensação. Quem atua como mesário tem direito a dois dias de folga para cada dia trabalhado nas eleições, sem desconto no salário. O treinamento também garante outros dois dias de folga. 🗒️ Tem alg",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/vale-a-pena-ser-mesario-veja-quantos-dias-de-folga-voce-ganha-e-outros-beneficios.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 06:00:00 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Em NY para acompanhar Lula na ONU, chanceler brasileiro faz alerta para 'relativização da soberania'",
+      "descricao": "Chanceler Mauro Vieira Mateus Oliveira/MRE Diante da avaliação de integrantes do governo brasileiro de que os Estados Unidos têm tentado interferir nas eleições brasileiras, o ministro das Relações Exteriores, Mauro Vieira, fez um discurso em Nova York (EUA) no qual fez um “alerta” a representantes de países da região para a “relativização da soberania”. A informação foi divulgada pelo Itamaraty n",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-ny-para-acompanhar-lula-na-onu-chanceler-brasileiro-faz-alerta-para-relativizacao-da-soberania.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 11:44:47 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Guerras, soberania e democracia: Lula quer fazer contraponto a Trump em abertura de assembleia da ONU",
+      "descricao": "Lula discursa na ONU em 23 de setembro de 2025; presidente brasileiros faz o primero discurso da Assembleia Geral das Nações Unidas Shannon Stapleton/Reuters O presidente Luiz Inácio Lula da Silva (PT) abre na manhã desta terça-feira (22) o debate de líderes da 81ª Assembleia Geral das Nações Unidas, em Nova York, nos Estados Unidos. O petista discursa antes do presidente Donald Trump e, por isso,",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Por que o Brasil é sempre o primeiro país a falar na Assembleia Geral da ONU?",
+      "descricao": "Por que o Brasil é sempre o primeiro país a falar na Assembleia Geral da ONU? O presidente Luiz Inácio Lula da Silva vai discursar na abertura da Assembleia Geral na Organização das Nações Unidas (ONU), em Nova York, a partir das 10h desta terça-feira (22). Como é de costume, o líder do Brasil será o primeiro a falar no evento, seguido pelo presidente norte-americano, Donald Trump, representante d",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/22/por-que-o-brasil-e-sempre-o-primeiro-pais-a-falar-na-assembleia-geral-da-onu.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Mendonça pede arquivamento de ação após acusações de Moraes no caso Master",
+      "descricao": "Ministro enviou resposta a Edson Fachin no último dia do prazo The post Mendonça pede arquivamento de ação após acusações de Moraes no caso Master appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/mendonca-pede-arquivamento-de-acao-apos-acusacoes-de-moraes-no-caso-master/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 12:32:34 +0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Lei Seca: drogômetro terá de diferenciar uso de remédio de 'abuso na balada', diz secretário",
+      "descricao": "Lei Seca Divulgação/Magno Segllia GOVRJ Em agosto deste ano, uma nova resolução do Conselho Nacional de Trânsito (Contran) estabeleceu novas regras para a fiscalização da Lei Seca. Entre as novidades está a regulamentação do uso do \"drogômetro\". (entenda como funciona abaixo) Em entrevista ao g1, o secretário nacional de Trânsito, Adrualdo de Lima Catão, reconheceu que a lista de substâncias detec",
+      "link": "https://g1.globo.com/carros/noticia/2026/09/22/lei-seca-drogometro-tera-de-diferenciar-uso-de-remedio-de-abuso-na-balada-diz-secretario.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 07:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "'Soltamos a besta': como o mundo se dividiu sobre até onde deixar a IA avançar",
+      "descricao": "Um modelo de datacenter Crédito: Divulgação Uma frase ajuda a resumir o espírito dos dias atuais: \"Soltamos a besta\". A declaração foi feita por Maliyka Muhammad, analista nova-iorquina de 46 anos, em uma série de entrevistas da agência de notícias AFP com pessoas de oito países e reflete um sentimento que atravessa fronteiras, gerações e ideologias. Nesta semana, a preocupação com a inteligência ",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/22/soltamos-a-besta-como-o-mundo-se-dividiu-sobre-ate-onde-deixar-a-ia-avancar.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 07:00:00 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Rico Melquíades: entenda o assédio eleitoral e as acusações em ação de R$ 5 milhões",
+      "descricao": "MPT pede indenização de R$ 5 milhões contra Rico por assédio eleitoral; ele se retrata O influenciador digital Rico Melquíades é alvo de uma ação por assédio eleitoral contra funcionárias domésticas. Na ação, o Ministério Público do Trabalho em Alagoas (MPT-AL) pede indenização de R$ 5 milhões por danos morais coletivos e o cumprimento de 18 obrigações. Segundo o órgão, Rico teria pressionado func",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/rico-melquiades-entenda-o-assedio-eleitoral-e-as-acusacoes-em-acao-de-r-5-milhoes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 06:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Daniel Klabin, herdeiro da empresa de papel e celulose, se torna o bilionário mais velho do Brasil",
+      "descricao": "Da esquerda para a direita: presidente da ABF, dr. Edgard Leite, sra. Maria Isabel Klabin e dr. Daniel Miguel Klabin. Divulgação/Academia Brasileira de Filosofia Aos 97 anos, o engenheiro e empresário Daniel Miguel Klabin passa a ocupar o posto de bilionário mais velho do Brasil. Ele assume a posição após a morte de João Jacob Vontobel também aos 97 anos. Nascido em 11 de maio de 1929, Klabin tem ",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/22/daniel-klabin-herdeiro-da-empresa-de-papel-e-celulose-se-torna-o-bilionario-mais-velho-do-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 03:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Funcionários da Caixa rejeitam proposta e greve continua; como ficam as contas e benefícios?",
+      "descricao": "Greve da Caixa: veja como ficam pagamentos do Bolsa Família Os empregados da Caixa Econômica Federal rejeitaram nesta segunda-feira (21) a última proposta do banco para o Acordo Coletivo de Trabalho. Em assembleia virtual realizada pelo Sindicato dos Bancários de São Paulo, Osasco e Região, 59,3% dos participantes votaram contra a oferta. A votação ocorreu entre 11h e 18h. Após o resultado, o coma",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-continua-apos-funcionarios-rejeitarem-nova-proposta-do-banco.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 21:56:56 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Empresa é condenada a pagar R$ 1,25 milhão a funcionária demitida por faltar para fazer quimioterapia",
+      "descricao": "Butterball concordou em pagar US$ 230 mil para encerrar ação Butterball/ Divulgação A Butterball, uma das principais fabricantes de peru e produtos avícolas dos Estados Unidos, concordou em pagar US$ 230 mil, o equivalente a cerca de R$ 1,25 milhão, para encerrar uma ação por discriminação movida pela Comissão de Igualdade de Oportunidades de Emprego dos Estados Unidos (EEOC). A empresa, que produ",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/empresa-e-condenada-a-pagar-r-125-milhao-a-funcionaria-demitida-por-faltar-para-fazer-quimioterapia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 21 Sep 2026 21:05:28 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Mendonça diz que Moraes distorceu teor de relatórios da PF e pede arquivamento de investigação",
+      "descricao": "Mendonça se manifesta sobre acusações de Moraes O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou que Alexandre de Moraes distorceu o teor de relatórios de inteligência produzidos pela Polícia Federal (PF), para apontar indícios de conduta irregular da parte dele na condução dos casos Master e INSS na Corte. “O Ministro Alexandre de Moraes distorce o teor do ‘documento’, para i",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 12:16:52 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Vereador do ES é condenado a indenizar comerciante após chamá-lo de 'corno' durante reunião na Câmara",
+      "descricao": "Vereador Igor Costa da Silva (Podemos), condenado por chamar comerciante de corno durante reunião na Câmara de Sooretama, Espírito Santo Reprodução Um vereador de Sooretama, no Norte do Espírito Santo, foi condenado a pagar R$ 3 mil de indenização por danos morais a um comerciante da cidade. Segundo o processo, o parlamentar chamou o homem de \"corno\" durante uma reunião da Câmara de Vereadores. A ",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/22/vereador-e-condenado-a-indenizar-comerciante-apos-chama-lo-de-corno-durante-reuniao-no-es.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 10:45:38 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Tarcísio já gastou 88% do teto permitido para campanha ao governo de SP; Haddad, 46%",
+      "descricao": "Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) em agendas de campanhas ao governo de SP Caiuá Maia e Diogo Zacarias Os dois principais candidatos ao governo de São Paulo apresentam ritmos bastante diferentes de gastos de campanha. Enquanto Tarcísio de Freitas (Republicanos) já declarou despesas de R$ 23,7 milhões, equivalente a 88% do teto eleitoral para o 1° turno, Fernando Haddad (PT)",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/tarcisio-ja-gastou-88percent-do-teto-permitido-para-campanha-ao-governo-de-sp-haddad-46percent.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 07:00:02 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador",
+      "descricao": "O senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República, destinou uma emenda parlamentar de quase R$ 200 mil para um projeto esportivo a pedido de Robson Calixto, conhecido como Peixe, miliciano condenado por envolvimento na morte da vereadora Marielle Franco. A emenda foi negociada em 2023 entre Peixe e Maria de Fátima Bezerra Castro, secretária parlamentar no gabinete de Flávio ",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 22 Sep 2026 04:01:07 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras aprova adesão à subvenção ao óleo diesel",
+      "descricao": "O Conselho de Administração da Petrobras aprovou, nesta sexta-feira (18), a adesão à subvenção econômica aos produtores e importadores de óleo diesel e suas correntes. A subvenção foi instituída pela Medida Provisória 1.391, de 11 de setembro de 2026 . Com isso, a empresa receberá uma subvenção no valor em R$ 1 por litro de óleo diesel \"A\", de uso rodoviário, pelo prazo de 30 dias, podendo ser pro",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-aprova-adesao-subvencao-ao-oleo-diesel",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 19 Sep 2026 17:55:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras batiza primeiro navio a navegar com tripulação 100% feminina",
+      "descricao": "A Petrobras batizou, no Píer Mauá, a embarcação Starnav Elektra, primeira entrega do Programa Mar Aberto, iniciativa voltada para renovação e ampliação da frota da companhia. A embarcação foi construída no Estaleiro Detroit, em Itajaí (SC), e agora segue para operar nas plataformas das bacias petrolíferas brasileiras. Investimento foi de R$ 450 milhões. Notícias relacionadas: Plataforma reúne 228 ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-batiza-primeiro-navio-navegar-com-tripulacao-100-feminina",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 19 Sep 2026 12:37:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    }
+  ]
+}
