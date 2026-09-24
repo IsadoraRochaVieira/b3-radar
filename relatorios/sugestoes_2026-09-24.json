@@ -1,0 +1,130 @@
+{
+  "data": "24/09/2026",
+  "data_iso": "2026-09-24",
+  "dia_semana": "Quinta-feira",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 184.537 (-0.69%). Destaques: COGN3, VIVA3, SUZB3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "COGN3",
+      "acao": "COMPRAR",
+      "preco": "2.21",
+      "entrada": "2.21",
+      "stop": "2.0",
+      "alvo": "2.54",
+      "rsi": 43.5,
+      "score": 80,
+      "porque": "Análise técnica aponta reversão com RSI 43.5 e score de 80 pontos. Entrada em R$ 2.21 com alvo R$ 2.54."
+    },
+    {
+      "rank": 2,
+      "ticker": "VIVA3",
+      "acao": "COMPRAR",
+      "preco": "21.99",
+      "entrada": "21.99",
+      "stop": "20.23",
+      "alvo": "25.29",
+      "rsi": 46.0,
+      "score": 75,
+      "porque": "RSI em 46.0 — zona de sobrevenda técnica. Score 75/100 indica pressão compradora se acumulando. Stop em R$ 20.23 limita risco."
+    },
+    {
+      "rank": 3,
+      "ticker": "SUZB3",
+      "acao": "COMPRAR",
+      "preco": "45.84",
+      "entrada": "45.84",
+      "stop": "43.46",
+      "alvo": "52.72",
+      "rsi": 47.9,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 47.9 e score de 65 pontos. Entrada em R$ 45.84 com alvo R$ 52.72."
+    },
+    {
+      "rank": 4,
+      "ticker": "KLBN11",
+      "acao": "COMPRAR",
+      "preco": "18.29",
+      "entrada": "18.29",
+      "stop": "17.45",
+      "alvo": "21.03",
+      "rsi": 38.4,
+      "score": 60,
+      "porque": "RSI em 38.4 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 17.45 limita risco."
+    },
+    {
+      "rank": 5,
+      "ticker": "SANB11",
+      "acao": "COMPRAR",
+      "preco": "29.43",
+      "entrada": "29.43",
+      "stop": "28.14",
+      "alvo": "33.84",
+      "rsi": 47.9,
+      "score": 60,
+      "porque": "RSI em 47.9 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 28.14 limita risco."
+    },
+    {
+      "rank": 6,
+      "ticker": "EGIE3",
+      "acao": "COMPRAR",
+      "preco": "29.0",
+      "entrada": "29.0",
+      "stop": "27.61",
+      "alvo": "33.35",
+      "rsi": 41.1,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 41.1 e score de 60 pontos. Entrada em R$ 29.0 com alvo R$ 33.35."
+    },
+    {
+      "rank": 7,
+      "ticker": "RECV3",
+      "acao": "COMPRAR",
+      "preco": "10.73",
+      "entrada": "10.73",
+      "stop": "10.09",
+      "alvo": "12.34",
+      "rsi": 45.8,
+      "score": 60,
+      "porque": "RSI em 45.8 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 10.09 limita risco."
+    },
+    {
+      "rank": 8,
+      "ticker": "ALUP11",
+      "acao": "COMPRAR",
+      "preco": "31.83",
+      "entrada": "31.83",
+      "stop": "30.49",
+      "alvo": "36.6",
+      "rsi": 39.2,
+      "score": 60,
+      "porque": "RSI em 39.2 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 30.49 limita risco."
+    },
+    {
+      "rank": 9,
+      "ticker": "HBRE3",
+      "acao": "COMPRAR",
+      "preco": "2.54",
+      "entrada": "2.54",
+      "stop": "2.3",
+      "alvo": "2.92",
+      "rsi": 47.3,
+      "score": 60,
+      "porque": "RSI em 47.3 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 2.3 limita risco."
+    },
+    {
+      "rank": 10,
+      "ticker": "PASS3",
+      "acao": "COMPRAR",
+      "preco": "22.81",
+      "entrada": "22.81",
+      "stop": "21.44",
+      "alvo": "26.23",
+      "rsi": 44.6,
+      "score": 60,
+      "porque": "RSI em 44.6 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 21.44 limita risco."
+    }
+  ]
+}
