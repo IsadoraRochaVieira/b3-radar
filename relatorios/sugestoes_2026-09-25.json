@@ -1,0 +1,130 @@
+{
+  "data": "25/09/2026",
+  "data_iso": "2026-09-25",
+  "dia_semana": "Sexta-feira",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 183.560 (-0.22%). Destaques: PGMN3, RAPT4, GGPS3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PGMN3",
+      "acao": "COMPRAR",
+      "preco": "3.37",
+      "entrada": "3.37",
+      "stop": "2.99",
+      "alvo": "3.88",
+      "rsi": 40.8,
+      "score": 70,
+      "porque": "Análise técnica aponta reversão com RSI 40.8 e score de 70 pontos. Entrada em R$ 3.37 com alvo R$ 3.88."
+    },
+    {
+      "rank": 2,
+      "ticker": "RAPT4",
+      "acao": "COMPRAR",
+      "preco": "4.75",
+      "entrada": "4.75",
+      "stop": "4.37",
+      "alvo": "5.46",
+      "rsi": 41.7,
+      "score": 70,
+      "porque": "RSI em 41.7 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 4.37 limita risco."
+    },
+    {
+      "rank": 3,
+      "ticker": "GGPS3",
+      "acao": "COMPRAR",
+      "preco": "12.52",
+      "entrada": "12.52",
+      "stop": "11.67",
+      "alvo": "14.4",
+      "rsi": 48.0,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 48.0 e score de 65 pontos. Entrada em R$ 12.52 com alvo R$ 14.4."
+    },
+    {
+      "rank": 4,
+      "ticker": "SUZB3",
+      "acao": "COMPRAR",
+      "preco": "45.05",
+      "entrada": "45.05",
+      "stop": "42.71",
+      "alvo": "51.81",
+      "rsi": 44.2,
+      "score": 65,
+      "porque": "Análise técnica aponta reversão com RSI 44.2 e score de 65 pontos. Entrada em R$ 45.05 com alvo R$ 51.81."
+    },
+    {
+      "rank": 5,
+      "ticker": "RADL3",
+      "acao": "COMPRAR",
+      "preco": "18.14",
+      "entrada": "18.14",
+      "stop": "16.51",
+      "alvo": "20.86",
+      "rsi": 37.9,
+      "score": 60,
+      "porque": "RSI em 37.9 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 16.51 limita risco."
+    },
+    {
+      "rank": 6,
+      "ticker": "CMIG4",
+      "acao": "COMPRAR",
+      "preco": "10.88",
+      "entrada": "10.88",
+      "stop": "10.38",
+      "alvo": "12.51",
+      "rsi": 47.4,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 47.4 e score de 60 pontos. Entrada em R$ 10.88 com alvo R$ 12.51."
+    },
+    {
+      "rank": 7,
+      "ticker": "ALUP11",
+      "acao": "COMPRAR",
+      "preco": "32.08",
+      "entrada": "32.08",
+      "stop": "30.8",
+      "alvo": "36.89",
+      "rsi": 41.6,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 41.6 e score de 60 pontos. Entrada em R$ 32.08 com alvo R$ 36.89."
+    },
+    {
+      "rank": 8,
+      "ticker": "COGN3",
+      "acao": "OBSERVAR",
+      "preco": "2.15",
+      "entrada": "2.15",
+      "stop": "1.94",
+      "alvo": "2.47",
+      "rsi": 40.0,
+      "score": 55,
+      "porque": "RSI em 40.0 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 2.15."
+    },
+    {
+      "rank": 9,
+      "ticker": "KLBN11",
+      "acao": "OBSERVAR",
+      "preco": "18.14",
+      "entrada": "18.14",
+      "stop": "17.31",
+      "alvo": "20.86",
+      "rsi": 36.4,
+      "score": 55,
+      "porque": "RSI em 36.4 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 18.14."
+    },
+    {
+      "rank": 10,
+      "ticker": "DIRR3",
+      "acao": "OBSERVAR",
+      "preco": "9.81",
+      "entrada": "9.81",
+      "stop": "9.01",
+      "alvo": "11.28",
+      "rsi": 32.3,
+      "score": 55,
+      "porque": "RSI em 32.3 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 9.81."
+    }
+  ]
+}
