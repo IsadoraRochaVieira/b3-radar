@@ -1,67 +1,22 @@
 {
-  "coletado_em": "26/09/2026 10:07",
-  "total": 30,
+  "coletado_em": "26/09/2026 13:07",
+  "total": 17,
   "urgentes": 0,
   "destaque": {
-    "titulo": "Governo prorroga subvenção ao diesel por mais 30 dias, às vésperas das eleições",
-    "descricao": "O Ministério da Fazenda prorrogou a chamada subvenção ao diesel, ou seja, um tipo de subsídio, por mais 30 dias. A medida passa a valer a partir desde domingo, quando termina a vigência da medida provisória (MP) que estabeleceu parte do benefício. Portaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 2,12 a subvenção para manter o preço do combustível mais baixo. Segundo",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
+    "titulo": "BC descarta risco de recessão em 2027, \"apesar de alguma narrativa do mercado\"",
+    "descricao": "Apesar de reduzir projeções para o PIB e piorar as perspectivas de inflação, autoridade monetária reforça preocupação com cenário externo e deterioração das contas públicas, mas não acredita em recessão para o próximo ano",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/09/7507763-banco-central-descarta-risco-de-recessao-em-2027.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
     "urgencia": "media",
     "score_relevancia": 3,
-    "pub_date": "Sat, 26 Sep 2026 12:55:23 -0000",
+    "pub_date": "Thu, 24 Sep 2026 14:36:00 -0300",
     "setores": [
-      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-      "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      "Mercado geral"
     ]
   },
   "noticias": [
-    {
-      "titulo": "Governo prorroga subvenção ao diesel por mais 30 dias, às vésperas das eleições",
-      "descricao": "O Ministério da Fazenda prorrogou a chamada subvenção ao diesel, ou seja, um tipo de subsídio, por mais 30 dias. A medida passa a valer a partir desde domingo, quando termina a vigência da medida provisória (MP) que estabeleceu parte do benefício. Portaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 2,12 a subvenção para manter o preço do combustível mais baixo. Segundo",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Sat, 26 Sep 2026 12:55:23 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Às vésperas das eleições, governo prorroga subvenção ao diesel",
-      "descricao": "O Ministério da Fazenda publicou uma portaria anunciando que está mantida a subvenção de R$ 2,12 por litro do diesel por mais trinta dias. A medida passa a valer a partir deste domingo (27), quando termina a vigência da medida provisória que estabeleceu parte do benefício. A decisão foi formalizada em portaria publicada nesta sexta-feira (25). Segundo o ministério, a manutenção do subsídio ocorre ",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Sat, 26 Sep 2026 12:55:23 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "VÍDEO: Por que existem duas casas no Congresso?",
-      "descricao": "CONGRESSO: Por que existem duas casas? Câmara e Senado participam da elaboração das leis, mas representam interesses diferentes dentro do Congresso Nacional. A Câmara representa a população brasileira. Por isso, estados mais populosos elegem mais deputados federais do que estados com menos habitantes. São Paulo, por exemplo, tem 70 cadeiras na Câmara, enquanto Roraima tem oito. No Senado, a lógica",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/26/video-por-que-existem-duas-casas-no-congresso.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Sat, 26 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
     {
       "titulo": "BC descarta risco de recessão em 2027, \"apesar de alguma narrativa do mercado\"",
       "descricao": "Apesar de reduzir projeções para o PIB e piorar as perspectivas de inflação, autoridade monetária reforça preocupação com cenário externo e deterioração das contas públicas, mas não acredita em recessão para o próximo ano",
@@ -77,108 +32,23 @@
       ]
     },
     {
-      "titulo": "Moretti: Haverá remanejamento de despesas para acomodar Desenrola 3.0 no orçamento",
-      "descricao": "Apesar do impacto primário, Moretti assegurou que ele ficará totalmente submetido ao arcabouço fiscal e ao limite de gastos The post Moretti: Haverá remanejamento de despesas para acomodar Desenrola 3.0 no orçamento appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/moretti-havera-remanejamento-de-despesas-para-acomodar-desenrola-3-0-no-orcamento/",
+      "titulo": "O que muda, quem fiscaliza e para onde vai o dinheiro? Entenda a MP das bets",
+      "descricao": "Presidente Luiz Inácio Lula da Silva assinou na sexta-feira (25) medida provisória sobre casas de apostas The post O que muda, quem fiscaliza e para onde vai o dinheiro? Entenda a MP das bets appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/o-que-muda-quem-fiscaliza-e-para-onde-vai-o-dinheiro-entenda-a-mp-das-bets/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sat, 26 Sep 2026 12:49:05 +0000",
+      "pub_date": "Sat, 26 Sep 2026 15:51:53 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Lula: Não é respeitoso um país que não sabe tomar conta das suas contas",
-      "descricao": "As declarações foram feitas durante jantar do presidente Luiz Inácio Lula da Silva (PT) com grandes empresários e executivos em São Paulo, organizado por Esfera, Prerrogativas e Parlatório The post Lula: Não é respeitoso um país que não sabe tomar conta das suas contas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-nao-e-respeitoso-um-pais-que-nao-sabe-tomar-conta-das-suas-contas/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 26 Sep 2026 12:42:30 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Por que ostentamos? O que a psicologia e a economia explicam sobre o consumo de luxo",
-      "descricao": "Por que ostentamos? O que a psicologia e a economia explicam sobre o consumo de luxo Adobe Stock Fernanda* tinha acabado de completar 18 anos quando recebeu o primeiro salário. Com o dinheiro na conta, decidiu comprar uma bolsa que, diz ela, talvez custasse, na época, mais do que ela havia recebido naquele mês já que, por isso, a compra foi parcelada diversas vezes. Aquela foi, segundo ela, a prim",
-      "link": "https://g1.globo.com/saude/saude-mental/noticia/2026/09/26/por-que-ostentamos-o-que-a-psicologia-e-a-economia-explicam-sobre-o-consumo-de-luxo.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 26 Sep 2026 06:00:00 -0000",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Bets e 'jogo do tigrinho' proibidos: tudo o que você precisa saber em 11 pontos",
-      "descricao": "Governo anuncia proibição das bets no Brasil O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição de apostas e jogos virtuais online, como o \"jogo do tigrinho\". A iniciativa, formalizada por meio de uma medida provisória (MP) assinada por Lula, foi apresentada a nove dias das eleições. 🔎 Medidas provisórias são editadas pelo governo fede",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/26/bets-e-jogo-do-tigrinho-proibidos-o-que-voce-precisa-saber.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 26 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Governo envia projeto que criminaliza apostas e jogos online; penas podem chegar a seis anos de prisão",
-      "descricao": "Jogo do Tigrinho: mulher de Ribeirão Preto, SP, perdeu reserva financeira com apostas Carlos Trinca/EPTV Junto da proibição de apostas e jogos virtuais online, o governo do presidente Luiz Inácio Lula da Silva (PT) enviou nesta sexta-feira (25) ao Congresso Nacional um projeto de lei que criminaliza a atividade no país. 🎯A decisão de proibição pelo governo alcança também as concessões e as autoriz",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/25/governo-envia-projeto-que-criminaliza-apostas-e-jogos-online-penas-podem-chegar-a-seis-anos-de-prisao.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 25 Sep 2026 22:30:53 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Candidatura de Hélio Lopes em Roraima: por que partidos buscam ampliar bancadas no Senado com nomes fora de redutos eleitorais",
-      "descricao": "Partidos apostam em migração de candidaturas ao Senado em 2026; entenda Disputar o Senado por um estado diferente de onde pavimentaram a carreira não é novidade na política brasileira. A prática, no entanto, ganhou mais visibilidade nas eleições de 2026, com políticos nacionalmente conhecidos concorrendo fora de seus redutos eleitorais. Este ano, cada estado elege dois senadores. Um dos casos de '",
-      "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/26/candidatura-de-helio-lopes-em-roraima-por-que-partidos-buscam-ampliar-bancadas-no-senado-com-nomes-fora-de-redutos-eleitorais.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 26 Sep 2026 07:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Datafolha, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
-      "descricao": "Datafolha, 2º turno: Lula tem 47%; Flávio, 45% Pesquisa Datafolha divulgada nesta quinta-feira (24) mostra Lula (PT) e Flávio Bolsonaro (PL) em empate técnico no cenário de 2º turno: o presidente tem 47% das intenções de voto e o senador, 45%. A disputa também é apertada em grupos específicos do eleitorado brasileiro. O levantamento desta semana indica alguns movimentos em segmentos do eleitorado,",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/datafolha-24-set-segmentos.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 26 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Entenda medida provisória e projeto que proíbem bets no Brasil",
+      "titulo": "MP das Bets: veja o que muda e saiba datas para devolução de valores",
       "descricao": "Sob o argumento de problema de saúde pública, o presidente Luiz Inácio Lula da Silva assinou nesta sexta-feira (25) medida provisória (MP) que determina o fim da exploração, oferta, intermediação e publicidade das chamadas bets no Brasil. A decisão alcança tanto as apostas esportivas quanto os jogos online , em ambientes físicos e virtuais, e também as autorizações concedidas por estados e pelo Di",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entenda-medida-provisoria-e-projeto-que-proibem-bets-no-brasil",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mp-das-bets-veja-o-que-muda-e-saiba-datas-para-devolucao-de-valores",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
       "cor": "#009c3b",
@@ -232,160 +102,59 @@
       ]
     },
     {
-      "titulo": "Brasil pode ser líder na transição energética e em minerais críticos, diz CEO da Vale",
-      "descricao": "Em evento, Gustavo Pimenta afirmou, porém, que a empresa tem tido dificuldade de destravar o potencial minerário do país The post Brasil pode ser líder na transição energética e em minerais críticos, diz CEO da Vale appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/brasil-pode-ser-lider-na-transicao-energetica-e-em-minerais-criticos-diz-ceo-da-vale/",
+      "titulo": "Kássio exige que institutos de pesquisa informem sobre uso de áudios e vídeos",
+      "descricao": "Presidente do TSE fez mudanças no sistema de registro de pesquisas eleitorais para exibir mais dados sobre a metodologia dos levantamentos The post Kássio exige que institutos de pesquisa informem sobre uso de áudios e vídeos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/kassio-exige-que-institutos-de-pesquisa-informem-sobre-uso-de-audios-e-videos/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 12:45:42 +0000",
+      "pub_date": "Sat, 26 Sep 2026 15:21:15 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Governo já notifica apostadores sobre MP do fim das bets e prazo para saques",
-      "descricao": "O governo federal decidiu encerrar a operação de bets no País a partir desta sexta-feira, 25, com a edição de uma medida provisória assinada pelo presidente Lula The post Governo já notifica apostadores sobre MP do fim das bets e prazo para saques appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/governo-ja-notifica-apostadores-sobre-mp-do-fim-das-bets-e-prazo-para-saques/",
+      "titulo": "Inglaterra x Espanha: onde assistir ao jogo da Liga das Nações",
+      "descricao": "Seleções se enfrentam neste sábado (26), às 14h45, pela 1ª rodada da Liga das Nações da UEFA The post Inglaterra x Espanha: onde assistir ao jogo da Liga das Nações appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/esportes/inglaterra-x-espanha-onde-assistir-liga-das-nacoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 12:37:52 +0000",
+      "pub_date": "Sat, 26 Sep 2026 15:20:00 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Antes da proibição das bets, o que os candidatos à Presidência defendiam para as apostas on-line",
-      "descricao": "O governo federal proíbe todas as bets no país O governo federal proíbe todas as bets no país Antes de editar a medida provisória que proíbe as bets no Brasil, o presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, não previa encerrar a atividade em seu plano de governo apresentado ao Tribunal Superior Eleitoral (TSE). O documento propunha manter mecanismos de controle de gastos exces",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/26/propostas-candidatos-presidencia-bets-apostas.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Parmalat, Fiat, Samsung, bets: quem “salvou” o futebol brasileiro em cada década",
+      "descricao": "O mercado de patrocínios do futebol no Brasil caminha junto da economia do País, acompanhando contextos de desindustrialização e consumo da população The post Parmalat, Fiat, Samsung, bets: quem &#8220;salvou&#8221; o futebol brasileiro em cada década appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/parmalat-fiat-samsung-bets-quem-salvou-o-futebol-brasileiro-em-cada-decada/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 11:20:50 -0000",
+      "pub_date": "Sat, 26 Sep 2026 15:00:00 +0000",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Saiba quais são as 100 melhores empresas para trabalhar no Brasil, segundo a revista Time",
-      "descricao": "Fachada do escritório da Microsoft em Issy-les-Moulineaux, nos arredores de Paris, em janeiro de 2025 Gonzalo Fuentes/Reuters A Microsoft foi eleita, pelo segundo ano consecutivo, a melhor empresa para se trabalhar no país, segundo o ranking Melhores Empregadores do Brasil 2026, elaborado pela Revista Time em parceria com a empresa de pesquisa Statista. O levantamento considera avaliações de profi",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/26/melhores-empresas-para-trabalhar-no-brasil.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 06:00:00 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Dívida boa existe? Entenda quando dever pode ajudar — ou prejudicar — seu bolso",
-      "descricao": "Dívida boa e dívida ruim: qual é a diferença e por que isso importa? Nem toda dívida é ruim. A diferença entre “dívida boa” e “dívida ruim” é econômica, não moral — e saber identificar isso é essencial. A boa é aquela que pode aumentar a renda ou ajudar a construir patrimônio, desde que o retorno compense o custo dos juros. Já a dívida ruim é a usada para antecipar consumo e tende a crescer mais r",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/09/26/divida-boa-existe-entenda-quando-dever-pode-ajudar-ou-prejudicar-seu-bolso.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 05:00:00 -0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
       ]
     },
     {
-      "titulo": "TikTok firma acordo de até R$ 1,5 bilhão e terá de impor limite de 2 horas por dia",
-      "descricao": "Conteúdo de abuso infantil é divulgado no TikTok O TikTok e sua controladora chinesa, a ByteDance, chegaram a um acordo com o estado do Alabama nesta sexta-feira (25), dias antes do início de um julgamento sobre acusações de que a plataforma é viciante e enganou consumidores sobre sua segurança. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 O estado receberá pelo menos US$ 100 milhões (R$ ",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/25/tiktok-faz-acordo-de-ate-r-15-bilhao-apos-acusacoes-de-prejudicar-saude-mental-de-adolescentes.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "Fazenda mantém subsídio de R$ 2,12 ao óleo diesel",
+      "descricao": "O Ministério da Fazenda publicou nessa sexta-feira (25), em edição extra do Diário Oficial da União , uma portaria que assegura a manutenção da subvenção de R$ 2,12 por litro ao óleo diesel. A Portaria nº 2.946 evita a redução do benefício, prevista para este sábado (26) após o término da vigência da Medida Provisória nº 1.363/2026. Notícias relacionadas: Subsídio de R$ 2,12 ao diesel deve ser man",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 25 Sep 2026 23:10:12 -0000",
+      "pub_date": "Sat, 26 Sep 2026 12:33:00 -0300",
       "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "2026 pode ter até 19 eleições para governador resolvidas no 1º turno; leia análise de Felipe Nunes",
-      "descricao": "Com menos candidatos na disputa e governadores polarizando as corridas, até 19 estados podem conhecer o novo governador já em 4 de outubro, no 1º turno. A eleição de 2026 caminha para ser uma das mais curtas nos estados desde 2002. Segundo as pesquisas divulgadas até 25 de setembro, 11 das 27 disputas para governador têm um favorito claro para vencer no 1º turno: Amapá Goiás Maranhão Mato Grosso d",
-      "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2026/09/26/eleicoes-governador-1o-turno-analise-felipe-nunes.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 03:00:01 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Em debate, candidatos ao Senado por SP divergem sobre emendas e defendem mudanças na relação entre Poderes",
-      "descricao": "Candidatos ao Senado de SP respondem sobre relação entre poderes Em debate na sexta-feira (25), os candidatos ao Senado divergiram sobre o destino e o controle das emendas parlamentares e defenderam mudanças na relação entre os Poderes. Participaram do evento Marina Silva (Rede), Simone Tebet (PSB), Soninha Francine (Cidadania) e Geraldo Rufino (Podemos). Os candidatos André do Prado (PL) e Guilhe",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/em-debate-candidatos-ao-senado-por-sp-divergem-sobre-emendas-e-defendem-mudancas-na-relacao-entre-poderes.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Eleições 2026: em quantos candidatos o eleitor terá que votar?",
-      "descricao": "Guia do eleitor: Qual a ordem de votação na urna? No dia 4 de outubro, primeiro turno das eleições 2026, o eleitor brasileiro vai fazer seis escolhas nas urnas. Qual a ordem de votação na urna no primeiro turno? O eleitor deverá seguir a seguinte ordem: Primeiro, vota para deputado federal, com quatro dígitos. Em seguida, é a vez de votar para deputado estadual ou distrital, no caso do DF, com cin",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/26/eleicoes-2026-em-quantos-candidatos-o-eleitor-tera-que-votar.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Eleições 2026: Veja como foi a agenda dos candidatos ao governo de Goiás nesta sexta-feira (25)",
-      "descricao": "Eleições 2026: veja como foi a agenda dos candidatos ao governo de Goiás Os candidatos ao governo de Goiás cumpriram compromissos de campanha pelo interior do estado e na região do Entorno do Distrito Federal nesta sexta-feira (25). Entre as atividades do dia, Daniel Vilela (MDB) viajou para Pirenópolis, enquanto Marconi Perillo (PSDB) realizou atos políticos em Cidade Ocidental e Luziânia. Daniel",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-sexta-feira-25.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 01:01:10 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Veja o que é #FATO ou #FAKE no debate de candidatos ao Senado por São Paulo no g1",
-      "descricao": "Debate do g1 com candidatos ao Senado por São Paulo (Marina Silva, Simone Tebet, Soninha Francine e Geraldo Rufino) Noah Denser/Divulgação O g1 promoveu, nesta sexta-feira (25), um debate com candidatos ao Senado por São Paulo. Com mediação da jornalista Ana Paula Campos, o encontro, realizado em um estúdio na TV Globo na capital paulista, foi transmitido ao vivo no site e nos perfis do portal no ",
-      "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/25/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-por-sao-paulo-no-g1.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 26 Sep 2026 00:48:07 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
       ]
     },
     {
@@ -431,17 +200,62 @@
       ]
     },
     {
-      "titulo": "Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos",
-      "descricao": "Os investimentos no Tesouro Direto somaram R$ 15 bilhões em agosto, o maior valor da série histórica do programa. No período, foram realizados 1,32 milhão de operações. Os resgates e vencimentos totalizaram R$ 17,22 bilhões, resultando em captação líquida negativa (quando o governo paga mais dinheiro aos investidores do que capta com novas aplicações) de R$ 2,21 bilhões. Notícias relacionadas: Tes",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tesouro-direto-bate-recorde-em-agosto-com-r-15-bi-em-investimentos",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "Bets alegam retrocesso com proibição: 'Brasil se igualaria à Coreia do Norte'",
+      "descricao": "Nações com governos autoritários, como Arábia Saudita, Cuba e China, restringiram totalmente a atuação dos sites de apostas; Reino Unido, França e Portugal contam com regulamentação restrita",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7508772-bets-alegam-retrocesso-com-proibicao-brasil-se-igualaria-a-coreia-do-norte.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 25 Sep 2026 14:51:00 -0300",
+      "pub_date": "Fri, 25 Sep 2026 17:36:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Galípolo confirma intimação da PF para depor sobre caso Master",
+      "descricao": "Depoimento deve ocorrer no início de outubro. Presidente do BC será ouvido como testemunha, ao lado de Campos Neto, Ailton Aquino e André Esteves",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7507910-galipolo-confirma-intimacao-da-pf-para-depor-sobre-caso-master.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 24 Sep 2026 16:28:21 -0300",
       "setores": [
         "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Brasil se torna um dos líderes em inteligência artificial e mira 4% do PIB",
+      "descricao": "País já é o 2º maior usuário global da IA e lidera na América Latina; entenda os desafios de cibersegurança e os novos investimentos do Google para consolidar a liderança",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7507876-brasil-se-torna-um-dos-lideres-em-inteligencia-artificial-e-mira-4-do-pib.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 24 Sep 2026 15:41:00 -0300",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Governo reduz contenção em R$ 1,9 bi e cita queda de despesas com previdência",
+      "descricao": "Equipe econômica estima uma queda de R$ 11,5 bilhões em gastos com esses benefícios, que abriria espaço para reajuste do Bolsa Família",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7507537-governo-reduz-contencao-em-rs-19-bi-e-cita-queda-de-despesas-com-previdencia.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 24 Sep 2026 11:26:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
       ]
     }
   ]
