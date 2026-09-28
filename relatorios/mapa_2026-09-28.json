@@ -1,6 +1,6 @@
 {
   "data_iso": "2026-09-28",
-  "gerado_em": "28/09/2026 03:44",
+  "gerado_em": "28/09/2026 10:14",
   "total": 193,
   "acoes": [
     {
@@ -899,7 +899,7 @@
       "preco": 54.55,
       "var_1d": 0.15,
       "var_20d": 3.71,
-      "rsi": 51.6,
+      "rsi": 51.7,
       "score": 25,
       "classificacao": "NEUTRO",
       "setor": "Energia Elétrica e Saneamento",
@@ -915,17 +915,6 @@
       "classificacao": "NEUTRO",
       "setor": "Transporte e Logística",
       "volume": 10071400
-    },
-    {
-      "ticker": "AZZA3",
-      "preco": 16.38,
-      "var_1d": 12.97,
-      "var_20d": 10.75,
-      "rsi": 55.9,
-      "score": 25,
-      "classificacao": "NEUTRO",
-      "setor": "Consumo Básico",
-      "volume": 9668900
     },
     {
       "ticker": "MOVI3",
@@ -1091,6 +1080,17 @@
       "classificacao": "NEUTRO",
       "setor": "Tecnologia",
       "volume": 499700
+    },
+    {
+      "ticker": "ALLD3",
+      "preco": 4.97,
+      "var_1d": 1.64,
+      "var_20d": -3.31,
+      "rsi": 46.5,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Tecnologia",
+      "volume": 464100
     },
     {
       "ticker": "RNEW3",
@@ -1471,7 +1471,7 @@
       "preco": 28.98,
       "var_1d": -0.48,
       "var_20d": 11.67,
-      "rsi": 61.7,
+      "rsi": 61.8,
       "score": 15,
       "classificacao": "EVITAR",
       "setor": "Financeiro",
@@ -1874,17 +1874,6 @@
       "volume": 476200
     },
     {
-      "ticker": "ALLD3",
-      "preco": 4.97,
-      "var_1d": 1.64,
-      "var_20d": -3.31,
-      "rsi": 46.5,
-      "score": 10,
-      "classificacao": "EVITAR",
-      "setor": "Tecnologia",
-      "volume": 464100
-    },
-    {
       "ticker": "BRBI11",
       "preco": 14.83,
       "var_1d": 0.95,
@@ -1900,7 +1889,7 @@
       "preco": 19.28,
       "var_1d": 0.1,
       "var_20d": 4.44,
-      "rsi": 59.8,
+      "rsi": 59.9,
       "score": 10,
       "classificacao": "EVITAR",
       "setor": "Telecom",
@@ -1916,6 +1905,17 @@
       "classificacao": "EVITAR",
       "setor": "Serviços Comerciais",
       "volume": 246900
+    },
+    {
+      "ticker": "AZZA3",
+      "preco": 16.38,
+      "var_1d": 12.97,
+      "var_20d": 10.75,
+      "rsi": 55.9,
+      "score": 5,
+      "classificacao": "EVITAR",
+      "setor": "Consumo Básico",
+      "volume": 9668900
     },
     {
       "ticker": "YDUQ3",
@@ -2105,6 +2105,17 @@
       "volume": 1425800
     },
     {
+      "ticker": "HBSA3",
+      "preco": 3.38,
+      "var_1d": 0.9,
+      "var_20d": -2.59,
+      "rsi": 51.8,
+      "score": -5,
+      "classificacao": "EVITAR",
+      "setor": "Transporte e Logística",
+      "volume": 906400
+    },
+    {
       "ticker": "CVCB3",
       "preco": 1.45,
       "var_1d": 5.07,
@@ -2114,17 +2125,6 @@
       "classificacao": "EVITAR",
       "setor": "Serviços ao Consumidor",
       "volume": 10092700
-    },
-    {
-      "ticker": "HBSA3",
-      "preco": 3.38,
-      "var_1d": 0.9,
-      "var_20d": -2.59,
-      "rsi": 51.8,
-      "score": -20,
-      "classificacao": "EVITAR",
-      "setor": "Transporte e Logística",
-      "volume": 906400
     }
   ]
 }

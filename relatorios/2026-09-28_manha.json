@@ -3,8 +3,8 @@
   "data_iso": "2026-09-28",
   "turno": "manha",
   "turno_label": "Manhã (08:30)",
-  "hora_geracao": "03:37",
-  "resumo": "[Manhã (08:30)] Ibovespa 183.477 (-0.27%). Destaques: GGPS3, SUZB3, RAPT4. Semáforo: VERDE.",
+  "hora_geracao": "10:07",
+  "resumo": "[Manhã (08:30)] Ibovespa 183.477 (+0.00%). Destaques: GGPS3, SUZB3, RAPT4. Semáforo: VERDE.",
   "resumo_curto": "GGPS3, SUZB3, RAPT4",
   "resumo_executivo": "",
   "semaforo": "verde",
@@ -34,14 +34,14 @@
   },
   "macro": {
     "ibovespa": "183.477",
-    "ibovespa_var": -0.27,
-    "dolar": "5,17",
-    "dolar_var": -0.43,
-    "brent": "98.97",
+    "ibovespa_var": 0.0,
+    "dolar": "5,21",
+    "dolar_var": 0.4,
+    "brent": "99.33",
     "brent_var": 0.0,
     "selic": "13.75",
     "ipca_12m": "4.22",
-    "atualizado_em": "28/09/2026 03:42"
+    "atualizado_em": "28/09/2026 10:12"
   },
   "tops": [
     {
@@ -1808,7 +1808,7 @@
       "score": 25,
       "acao": "NEUTRO",
       "preco": "54.55",
-      "rsi": 51.6,
+      "rsi": 51.7,
       "pl": 10.4,
       "atr": 2.7,
       "pontos": [
@@ -1841,27 +1841,6 @@
       "entrada": "8.98",
       "stop": "8.23",
       "alvo": "10.33"
-    },
-    {
-      "ticker": "AZZA3",
-      "nome": "AZZA3",
-      "score": 25,
-      "acao": "NEUTRO",
-      "preco": "16.38",
-      "rsi": 55.9,
-      "pl": 3.3,
-      "atr": 5.5,
-      "pontos": [
-        "MACD cruzou para positivo (sinal de compra)",
-        "Tendência de baixa",
-        "Volume 2.6x acima da média",
-        "14.5% acima da mínima de 52 sem — assimetria alta"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "16.38",
-      "stop": "14.58",
-      "alvo": "18.84"
     },
     {
       "ticker": "MOVI3",
@@ -2155,6 +2134,26 @@
       "entrada": "7.42",
       "stop": "6.5",
       "alvo": "8.53"
+    },
+    {
+      "ticker": "ALLD3",
+      "nome": "ALLD3",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "4.97",
+      "rsi": 46.5,
+      "pl": 1.3,
+      "atr": 2.5,
+      "pontos": [
+        "RSI neutro-baixo (46)",
+        "12.4% acima da mínima de 52 sem — assimetria alta",
+        "ROE sólido (23.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.97",
+      "stop": "4.72",
+      "alvo": "5.72"
     },
     {
       "ticker": "RNEW3",
@@ -2821,7 +2820,7 @@
       "score": 15,
       "acao": "EVITAR",
       "preco": "28.98",
-      "rsi": 61.7,
+      "rsi": 61.8,
       "pl": 15.3,
       "atr": 2.4,
       "pontos": [
@@ -3505,27 +3504,6 @@
       "alvo": "28.45"
     },
     {
-      "ticker": "ALLD3",
-      "nome": "ALLD3",
-      "score": 10,
-      "acao": "EVITAR",
-      "preco": "4.97",
-      "rsi": 46.5,
-      "pl": 1.3,
-      "atr": 2.5,
-      "pontos": [
-        "RSI neutro-baixo (46)",
-        "Tendência de baixa",
-        "12.4% acima da mínima de 52 sem — assimetria alta",
-        "ROE sólido (23.6%)"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "4.97",
-      "stop": "4.72",
-      "alvo": "5.72"
-    },
-    {
       "ticker": "BRBI11",
       "nome": "BRBI11",
       "score": 10,
@@ -3551,7 +3529,7 @@
       "score": 10,
       "acao": "EVITAR",
       "preco": "19.28",
-      "rsi": 59.8,
+      "rsi": 59.9,
       "pl": 40.2,
       "atr": 1.3,
       "pontos": [
@@ -3583,6 +3561,26 @@
       "entrada": "1.28",
       "stop": "1.18",
       "alvo": "1.47"
+    },
+    {
+      "ticker": "AZZA3",
+      "nome": "AZZA3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "16.38",
+      "rsi": 55.9,
+      "pl": 3.3,
+      "atr": 5.5,
+      "pontos": [
+        "Tendência de baixa",
+        "Volume 2.6x acima da média",
+        "14.5% acima da mínima de 52 sem — assimetria alta"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "16.38",
+      "stop": "14.58",
+      "alvo": "18.84"
     },
     {
       "ticker": "YDUQ3",
@@ -3903,6 +3901,22 @@
       "alvo": "20.02"
     },
     {
+      "ticker": "HBSA3",
+      "nome": "HBSA3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "3.38",
+      "rsi": 51.8,
+      "pl": 169.0,
+      "atr": 2.6,
+      "pontos": [],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.38",
+      "stop": "3.2",
+      "alvo": "3.89"
+    },
+    {
       "ticker": "CVCB3",
       "nome": "CVCB3",
       "score": 0,
@@ -3920,24 +3934,6 @@
       "entrada": "1.45",
       "stop": "1.26",
       "alvo": "1.67"
-    },
-    {
-      "ticker": "HBSA3",
-      "nome": "HBSA3",
-      "score": 0,
-      "acao": "EVITAR",
-      "preco": "3.38",
-      "rsi": 51.8,
-      "pl": 169.0,
-      "atr": 2.6,
-      "pontos": [
-        "Tendência de baixa"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "3.38",
-      "stop": "3.2",
-      "alvo": "3.89"
     }
   ],
   "candidatos_top": [
@@ -5303,5 +5299,5 @@
       }
     ]
   },
-  "output_raw": "Universo B3: 194 acoes (132 liquidas + 62 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  28/09/2026 03:37\n════════════════════════════════════════════════════════════\nAnalisando 194 ativos...\n\n  [1/194] COGN3.SA...        \n  [2/194] BBAS3.SA...        \n  [3/194] MGLU3.SA...        \n  [4/194] PETR4.SA...        \n  [5/194] BEEF3.SA...        \n  [6/194] BBDC4.SA...        \n  [7/194] POMO4.SA...        \n  [8/194] RADL3.SA...        \n  [9/194] B3SA3.SA...        \n  [10/194] CSAN3.SA...        \n  [11/194] ITUB4.SA...        \n  [12/194] ASAI3.SA...        \n  [13/194] VAMO3.SA...        \n  [14/194] CPLE3.SA...        \n  [15/194] RENT3.SA...        \n  [16/194] PMAM3.SA...        \n  [17/194] BHIA3.SA...        \n  [18/194] VBBR3.SA...        \n  [19/194] KLBN11.SA...        \n  [20/194] CSNA3.SA...        \n  [21/194] ABEV3.SA...        \n  [22/194] UGPA3.SA...        \n  [23/194] ITSA4.SA...        \n  [24/194] SBSP3.SA...        \n  [25/194] VALE3.SA...        \n  [26/194] PGMN3.SA...        \n  [27/194] AXIA3.SA...        \n  [28/194] CVCB3.SA...        \n  [29/194] ECOR3.SA...        \n  [30/194] MRVE3.SA...        \n  [31/194] AZZA3.SA...        \n  [32/194] CMIG4.SA...        \n  [33/194] NATU3.SA...        \n  [34/194] LREN3.SA...        \n  [35/194] TIMS3.SA...        \n  [36/194] ONCO3.SA...        \n  [37/194] PRIO3.SA...        \n  [38/194] DIRR3.SA...        \n  [39/194] SMFT3.SA...        \n  [40/194] RAPT4.SA...        \n  [41/194] YDUQ3.SA...        \n  [42/194] CEAB3.SA...        \n  [43/194] HAPV3.SA...        \n  [44/194] MOVI3.SA...        \n  [45/194] MOTV3.SA...        \n  [46/194] PETR3.SA...        \n  [47/194] EMBJ3.SA...        \n  [48/194] RDOR3.SA...        \n  [49/194] RAIZ4.SA...        \n  [50/194] BPAC11.SA...        \n  [51/194] WEGE3.SA...        \n  [52/194] SAUD3.SA...        \n  [53/194] VIVT3.SA...        \n  [54/194] CMIN3.SA...        \n  [55/194] CYRE3.SA...        \n  [56/194] ENEV3.SA...        \n  [57/194] ANIM3.SA...        \n  [58/194] AURE3.SA...        \n  [59/194] USIM5.SA...        \n  [60/194] BRKM5.SA...        \n  [61/194] EQTL3.SA...        \n  [62/194] BBDC3.SA...        \n  [63/194] RAIL3.SA...        \n  [64/194] IGTI11.SA...        \n  [65/194] SIMH3.SA...        \n  [66/194] BBSE3.SA...        \n  [67/194] CURY3.SA...        \n  [68/194] ARML3.SA...        \n  [69/194] GGBR4.SA...        \n  [70/194] VIVA3.SA...        \n  [71/194] LWSA3.SA...        \n  [72/194] SBFG3.SA...        \n  [73/194] CBAV3.SA...        \n  [74/194] GOAU4.SA...        \n  [75/194] QUAL3.SA...        \n  [76/194] MLAS3.SA...        \n  [77/194] KLBN4.SA...        \n  [78/194] GGPS3.SA...        \n  [79/194] MBRF3.SA...        \n  [80/194] SUZB3.SA...        \n  [81/194] EZTC3.SA...        \n  [82/194] TEND3.SA...        \n  [83/194] PLPL3.SA...        \n  [84/194] ALOS3.SA...        \n  [85/194] CXSE3.SA...        \n  [86/194] FLRY3.SA...        \n  [87/194] CSMG3.SA...        \n  [88/194] GFSA3.SA...        \n  [89/194]"
+  "output_raw": "Universo B3: 194 acoes (132 liquidas + 62 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  28/09/2026 10:07\n════════════════════════════════════════════════════════════\nAnalisando 194 ativos...\n\n  [1/194] COGN3.SA...        \n  [2/194] BBAS3.SA...        \n  [3/194] MGLU3.SA...        \n  [4/194] PETR4.SA...        \n  [5/194] BEEF3.SA...        \n  [6/194] BBDC4.SA...        \n  [7/194] POMO4.SA...        \n  [8/194] RADL3.SA...        \n  [9/194] B3SA3.SA...        \n  [10/194] CSAN3.SA...        \n  [11/194] ITUB4.SA...        \n  [12/194] ASAI3.SA...        \n  [13/194] VAMO3.SA...        \n  [14/194] CPLE3.SA...        \n  [15/194] RENT3.SA...        \n  [16/194] PMAM3.SA...        \n  [17/194] BHIA3.SA...        \n  [18/194] VBBR3.SA...        \n  [19/194] KLBN11.SA...        \n  [20/194] CSNA3.SA...        \n  [21/194] ABEV3.SA...        \n  [22/194] UGPA3.SA...        \n  [23/194] ITSA4.SA...        \n  [24/194] SBSP3.SA...        \n  [25/194] VALE3.SA...        \n  [26/194] PGMN3.SA...        \n  [27/194] AXIA3.SA...        \n  [28/194] CVCB3.SA...        \n  [29/194] ECOR3.SA...        \n  [30/194] MRVE3.SA...        \n  [31/194] AZZA3.SA...        \n  [32/194] CMIG4.SA...        \n  [33/194] NATU3.SA...        \n  [34/194] LREN3.SA...        \n  [35/194] TIMS3.SA...        \n  [36/194] ONCO3.SA...        \n  [37/194] PRIO3.SA...        \n  [38/194] DIRR3.SA...        \n  [39/194] SMFT3.SA...        \n  [40/194] RAPT4.SA...        \n  [41/194] YDUQ3.SA...        \n  [42/194] CEAB3.SA...        \n  [43/194] HAPV3.SA...        \n  [44/194] MOVI3.SA...        \n  [45/194] MOTV3.SA...        \n  [46/194] PETR3.SA...        \n  [47/194] EMBJ3.SA...        \n  [48/194] RDOR3.SA...        \n  [49/194] RAIZ4.SA...        \n  [50/194] BPAC11.SA...        \n  [51/194] WEGE3.SA...        \n  [52/194] SAUD3.SA...        \n  [53/194] VIVT3.SA...        \n  [54/194] CMIN3.SA...        \n  [55/194] CYRE3.SA...        \n  [56/194] ENEV3.SA...        \n  [57/194] ANIM3.SA...        \n  [58/194] AURE3.SA...        \n  [59/194] USIM5.SA...        \n  [60/194] BRKM5.SA...        \n  [61/194] EQTL3.SA...        \n  [62/194] BBDC3.SA...        \n  [63/194] RAIL3.SA...        \n  [64/194] IGTI11.SA...        \n  [65/194] SIMH3.SA...        \n  [66/194] BBSE3.SA...        \n  [67/194] CURY3.SA...        \n  [68/194] ARML3.SA...        \n  [69/194] GGBR4.SA...        \n  [70/194] VIVA3.SA...        \n  [71/194] LWSA3.SA...        \n  [72/194] SBFG3.SA...        \n  [73/194] CBAV3.SA...        \n  [74/194] GOAU4.SA...        \n  [75/194] QUAL3.SA...        \n  [76/194] MLAS3.SA...        \n  [77/194] KLBN4.SA...        \n  [78/194] GGPS3.SA...        \n  [79/194] MBRF3.SA...        \n  [80/194] SUZB3.SA...        \n  [81/194] EZTC3.SA...        \n  [82/194] TEND3.SA...        \n  [83/194] PLPL3.SA...        \n  [84/194] ALOS3.SA...        \n  [85/194] CXSE3.SA...        \n  [86/194] FLRY3.SA...        \n  [87/194] CSMG3.SA...        \n  [88/194] GFSA3.SA...        \n  [89/194]"
 }

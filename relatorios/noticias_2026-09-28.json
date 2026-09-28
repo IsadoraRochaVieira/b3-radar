@@ -1,34 +1,66 @@
 {
-  "coletado_em": "28/09/2026 03:42",
-  "total": 14,
+  "coletado_em": "28/09/2026 10:12",
+  "total": 22,
   "urgentes": 0,
   "destaque": {
-    "titulo": "Às vésperas do 1º turno, Ibovespa perde força e chega à eleição sob pressão",
-    "descricao": "Índice caiu na última semana e fechou aos 183,5 mil pontos; fluxo estrangeiro segue positivo, mas juros, commodities e reta final eleitoral elevam a cautela The post Às vésperas do 1º turno, Ibovespa perde força e chega à eleição sob pressão appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-primeiro-turno-eleicoes-2026-uma-semana/",
-    "fonte": "Infomoney",
-    "categoria": "Mercado",
-    "cor": "#4488ff",
+    "titulo": "Dólar abre em alta de olho na dívida pública e em nova pesquisa eleitoral",
+    "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abre nesta segunda-feira (28) em alta de 0,39%, cotado a R$ 5,2010. O Ibovespa, principal índice da Bolsa brasileira, começa os negócios às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Nesta manhã, o Banco Central divulga o Boletim Focus, com as projeções do mercado para inflação, PIB, dólar e Selic, indicadores que ajudam a",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/28/dolar-ibovespa.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
     "urgencia": "media",
-    "score_relevancia": 4,
-    "pub_date": "Sun, 27 Sep 2026 21:18:35 +0000",
+    "score_relevancia": 8,
+    "pub_date": "Mon, 28 Sep 2026 12:00:00 -0000",
     "setores": [
       "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
       "Telecom (VIVT3, TIMS3)",
-      "Todos os ativos"
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
     {
-      "titulo": "Às vésperas do 1º turno, Ibovespa perde força e chega à eleição sob pressão",
-      "descricao": "Índice caiu na última semana e fechou aos 183,5 mil pontos; fluxo estrangeiro segue positivo, mas juros, commodities e reta final eleitoral elevam a cautela The post Às vésperas do 1º turno, Ibovespa perde força e chega à eleição sob pressão appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-primeiro-turno-eleicoes-2026-uma-semana/",
+      "titulo": "Dólar abre em alta de olho na dívida pública e em nova pesquisa eleitoral",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abre nesta segunda-feira (28) em alta de 0,39%, cotado a R$ 5,2010. O Ibovespa, principal índice da Bolsa brasileira, começa os negócios às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Nesta manhã, o Banco Central divulga o Boletim Focus, com as projeções do mercado para inflação, PIB, dólar e Selic, indicadores que ajudam a",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/28/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 8,
+      "pub_date": "Mon, 28 Sep 2026 12:00:00 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+      "descricao": "Índices futuros dos EUA recuam, enquanto petróleo dispara 4% The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28092026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Sun, 27 Sep 2026 21:18:35 +0000",
+      "score_relevancia": 6,
+      "pub_date": "Mon, 28 Sep 2026 13:09:40 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Analistas do mercado elevam estimativa de inflação e projetam crescimento econômico menor",
+      "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (28) pelo Banco Central (BC), com base em pesquisa realizada na última semana com mais de 100 instituições financeiras. A alta na estimativa de inflação acontece apesar da continuidade da guerra n",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/28/analistas-do-mercado-elevam-estimativa-de-inflacao-e-projetam-crescimento-economico-menor.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Mon, 28 Sep 2026 11:33:04 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)",
@@ -36,47 +68,31 @@
       ]
     },
     {
-      "titulo": "Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã",
-      "descricao": "Os futuros do índice S&#038;P 500 caíram cerca de 0,2% nas primeiras negociações asiáticas The post Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-sobe-e-futuros-de-acoes-dos-eua-recuam-apos-rejeicao-de-oferta-do-ira/",
+      "titulo": "Dólar a R$ 4,90 ou R$ 5,50? JPMorgan traça cenários para câmbio com eleição no Brasil",
+      "descricao": "Apesar da disputa apertada entre o presidente Lula e Flávio Bolsonaro, o real mostrou maior resistência ao ruído político neste ciclo eleitoral do que em disputas anteriores, avalia o banco The post Dólar a R$ 4,90 ou R$ 5,50? JPMorgan traça cenários para câmbio com eleição no Brasil appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-a-r-490-ou-r-550-jpmorgan-traca-cenarios-para-cambio-com-eleicao-no-brasil/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sun, 27 Sep 2026 22:45:14 +0000",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 28 Sep 2026 12:50:41 +0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "A reviravolta da IA sacode as ações enquanto o sentimento oscila do medo à ganância",
-      "descricao": "A IA tornou-se ainda mais importante para o mercado e para a economia, à medida que os gastos de gigantes da tecnologia e startups de IA dispararam The post A reviravolta da IA sacode as ações enquanto o sentimento oscila do medo à ganância appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/a-reviravolta-da-ia-sacode-as-acoes-enquanto-o-sentimento-oscila-do-medo-a-ganancia/",
+      "titulo": "Mercados devem levar a sério alerta sobre o iene, diz chefe do câmbio no Japão",
+      "descricao": "Principal aviso foi feito pela primeira-ministra japonesa, ⁠Sanae ‌Takaichi, em visita aos EUA; iene disparou em relação ao dólar após as declarações de Atsushi Mimura The post Mercados devem levar a sério alerta sobre o iene, diz chefe do câmbio no Japão appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/mercados-devem-levar-a-serio-alerta-sobre-o-iene-diz-chefe-do-cambio-no-japao/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sun, 27 Sep 2026 21:04:39 +0000",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 28 Sep 2026 12:38:41 +0000",
       "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "ICE amedronta trabalhadores e faz cair processamento de carne nos EUA; país tenta baixar preços",
-      "descricao": "Trump determina permite importação carne moída sem taxa adicional para tentar baixar preços nos EUA As operações de repressão à imigração nos Estados Unidos começaram a afetar o funcionamento de frigoríficos no Kansas, um dos principais polos de produção de carne bovina norte-americana. Com trabalhadores faltando por medo de abordagens do Serviço de Imigração e Alfândega (ICE), serviço de imigraçã",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/27/ice-amedronta-trabalhadores-e-faz-cair-processamento-de-carne-nos-eua-pais-tenta-baixar-precos.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sun, 27 Sep 2026 08:00:00 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
         "Câmbio / Exportadores"
       ]
     },
@@ -123,15 +139,71 @@
       ]
     },
     {
-      "titulo": "Lula defende revogação do Fundo Eleitoral para encerrar a ‘promiscuidade política’",
-      "descricao": "Lula pregou ainda uma grande reforma política The post Lula defende revogação do Fundo Eleitoral para encerrar a &#8216;promiscuidade política&#8217; appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-defende-revogacao-do-fundo-eleitoral-para-encerrar-a-promiscuidade-politica/",
+      "titulo": "Prévia da inflação: IPCA-15 acelera para 0,70% em setembro, acima do esperado",
+      "descricao": "A taxa em 12 meses ficou acima dos 4,24% registrados no período imediatamente anterior. No trimestre, o IPCA-E acumulou variação de 0,36%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7508328-previa-da-inflacao-ipca-15-acelera-para-070-em-setembro-acima-do-esperado.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 25 Sep 2026 09:46:17 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Prefixados do Tesouro voltam a se aproximar de 14% seguindo cautela no exterior",
+      "descricao": "Trump rejeitou proposta do Irã para reabrir o Estreito de Ormuz e o Brent avança para perto de US$ 108, enquanto os rendimentos dos Treasuries voltam a escalar The post Prefixados do Tesouro voltam a se aproximar de 14% seguindo cautela no exterior appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-28092026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 27 Sep 2026 21:24:00 +0000",
+      "pub_date": "Mon, 28 Sep 2026 13:05:09 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "WEG investirá R$ 840 mi para ampliar produção de geradores na América do Norte",
+      "descricao": "WEG investirá US$141 milhões na construção de duas ⁠novas ​instalações ​industriais em local ainda a ser definido na ⁠América do Norte The post WEG investirá R$ 840 mi para ampliar produção de geradores na América do Norte appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/weg-investira-r-840-mi-para-ampliar-producao-de-geradores-na-america-do-norte/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 12:27:50 +0000",
+      "setores": [
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
+      ]
+    },
+    {
+      "titulo": "Dólar hoje sobe a R$ 5,20 sob influência do exterior e de nova pesquisa",
+      "descricao": "O dólar à vista encerrou a sessão de sexta-feira com baixa de 0,19%, aos R$5,1834 The post Dólar hoje sobe a R$ 5,20 sob influência do exterior e de nova pesquisa appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28092026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 12:22:26 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Brasil tem déficit em conta corrente de US$ 5,055 bi, maior que o esperado em agosto",
+      "descricao": "A expectativa em pesquisa da Reuters com especialistas apontava para um saldo negativo de US$4,9 bilhões em agosto The post Brasil tem déficit em conta corrente de US$ 5,055 bi, maior que o esperado em agosto appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/brasil-tem-deficit-em-conta-corrente-de-us-5055-bi-maior-que-o-esperado-em-agosto/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 12:18:25 +0000",
       "setores": [
         "Mercado geral"
       ]
@@ -151,18 +223,19 @@
       ]
     },
     {
-      "titulo": "Uva núbia ganha espaço em Jales com alta produtividade e resistência ao clima",
-      "descricao": "Uva núbia ganha espaço em Jales com alta produtividade e resistência ao clima Reprodução / TV TEM A uva núbia, desenvolvida pela Empresa Brasileira de Pesquisa Agropecuária (Embrapa) Uva e Vinho, vem ganhando espaço na região de Jales (SP). Com coloração escura, cachos grandes e alta resistência ao clima, a variedade já ocupa 600 hectares e deve movimentar cerca de R$ 130 milhões na safra deste an",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/uva-nubia-ganha-espaco-em-jales-com-alta-produtividade-e-resistencia-ao-clima.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "Beneficiários com NIS de final 8 recebem Bolsa Família de setembro",
+      "descricao": "A Caixa Econômica Federal paga nesta segunda-feira (28) a parcela de setembro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 8. Neste mês, 19,29 milhões de família serão beneficiadas, com o valor médio do benefício em R$ 678,18. Os moradores de 179 municípios de sete estados receberam o crédito no último dia 17, independentemente do número final do NIS. O pagament",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/beneficiarios-com-nis-de-final-8-recebem-bolsa-familia-de-setembro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 27 Sep 2026 10:30:00 -0000",
+      "pub_date": "Mon, 28 Sep 2026 07:45:00 -0300",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
       ]
     },
     {
@@ -219,6 +292,49 @@
       "pub_date": "Fri, 25 Sep 2026 17:54:00 -0300",
       "setores": [
         "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "EUA e China divulgam listas de bens em alívio tarifário de até US$ 30 bilhões",
+      "descricao": "Países anunciam lista de bens beneficiados no marco \"30 por 30\", cobrindo US$ 30 bilhões em importações de cada lado",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7509604-eua-e-china-divulgam-listas-de-bens-em-alivio-tarifario-de-ate-uss-30-bilhoes.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 08:59:19 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Governo prorroga subsídio sobre o diesel por mais 30 dias",
+      "descricao": "Portaria do Ministério da Fazenda mantendo o valor da subvenção em R$ 2,12 por litro, porque a MP que previa a redução de R$ 1,12 no valor do litro do combustível venceu ontem",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7509274-governo-prorroga-subsidio-sobre-o-diesel-por-mais-30-dias.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 26 Sep 2026 21:30:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Bets alegam retrocesso com proibição: 'Brasil se igualaria à Coreia do Norte'",
+      "descricao": "Nações com governos autoritários, como Arábia Saudita, Cuba e China, restringiram totalmente a atuação dos sites de apostas; Reino Unido, França e Portugal contam com regulamentação restrita",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7508772-bets-alegam-retrocesso-com-proibicao-brasil-se-igualaria-a-coreia-do-norte.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 25 Sep 2026 17:36:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
       ]
     }
   ]

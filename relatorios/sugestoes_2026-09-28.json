@@ -3,7 +3,7 @@
   "data_iso": "2026-09-28",
   "dia_semana": "Segunda-feira",
   "turno": "manha",
-  "macro_resumo": "[Manhã (08:30)] Ibovespa 183.477 (-0.27%). Destaques: GGPS3, SUZB3, RAPT4. Semáforo: VERDE.",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 183.477 (+0.00%). Destaques: GGPS3, SUZB3, RAPT4. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "14.29",
       "rsi": 46.4,
       "score": 75,
-      "porque": "Análise técnica aponta reversão com RSI 46.4 e score de 75 pontos. Entrada em R$ 12.43 com alvo R$ 14.29."
+      "porque": "RSI em 46.4 — zona de sobrevenda técnica. Score 75/100 indica pressão compradora se acumulando. Stop em R$ 11.58 limita risco."
     },
     {
       "rank": 2,
@@ -40,7 +40,7 @@
       "alvo": "5.47",
       "rsi": 42.0,
       "score": 70,
-      "porque": "RSI em 42.0 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 4.38 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 42.0 e score de 70 pontos. Entrada em R$ 4.76 com alvo R$ 5.47."
     },
     {
       "rank": 4,
@@ -64,7 +64,7 @@
       "alvo": "20.88",
       "rsi": 38.1,
       "score": 60,
-      "porque": "RSI em 38.1 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 16.56 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 38.1 e score de 60 pontos. Entrada em R$ 18.16 com alvo R$ 20.88."
     },
     {
       "rank": 6,
