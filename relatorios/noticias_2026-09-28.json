@@ -1,66 +1,46 @@
 {
-  "coletado_em": "28/09/2026 10:12",
-  "total": 22,
-  "urgentes": 0,
+  "coletado_em": "28/09/2026 13:05",
+  "total": 28,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Dólar abre em alta de olho na dívida pública e em nova pesquisa eleitoral",
-    "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abre nesta segunda-feira (28) em alta de 0,39%, cotado a R$ 5,2010. O Ibovespa, principal índice da Bolsa brasileira, começa os negócios às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Nesta manhã, o Banco Central divulga o Boletim Focus, com as projeções do mercado para inflação, PIB, dólar e Selic, indicadores que ajudam a",
-    "link": "https://g1.globo.com/economia/noticia/2026/09/28/dolar-ibovespa.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
-    "urgencia": "media",
-    "score_relevancia": 8,
-    "pub_date": "Mon, 28 Sep 2026 12:00:00 -0000",
+    "titulo": "Disputa Flávio Dino x André Mendonça mostra como crise no STF afeta as eleições",
+    "descricao": "O presidente do STF, Edson Fachin, recebe na manhã desta segunda-feira (28) os ministros Kassio Nunes Marques, André Mendonça e Dias Toffoli, que integram a composição titular da Corte Eleitoral. A reunião será fechada e não deve constar da agenda oficial. A conversa ocorre em meio à crise entre ministros do STF e à preocupação com possíveis reflexos no TSE às vésperas da eleição. Nos bastidores, ",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/28/disputa-flavio-dino-x-andre-mendonca-mostra-como-crise-no-stf-afeta-as-eleicoes.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
+    "urgencia": "alta",
+    "score_relevancia": 2,
+    "pub_date": "Mon, 28 Sep 2026 11:28:17 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Telecom (VIVT3, TIMS3)",
-      "Câmbio / Exportadores"
+      "Mercado geral"
     ]
   },
   "noticias": [
     {
-      "titulo": "Dólar abre em alta de olho na dívida pública e em nova pesquisa eleitoral",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abre nesta segunda-feira (28) em alta de 0,39%, cotado a R$ 5,2010. O Ibovespa, principal índice da Bolsa brasileira, começa os negócios às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Nesta manhã, o Banco Central divulga o Boletim Focus, com as projeções do mercado para inflação, PIB, dólar e Selic, indicadores que ajudam a",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/28/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 8,
-      "pub_date": "Mon, 28 Sep 2026 12:00:00 -0000",
+      "titulo": "Disputa Flávio Dino x André Mendonça mostra como crise no STF afeta as eleições",
+      "descricao": "O presidente do STF, Edson Fachin, recebe na manhã desta segunda-feira (28) os ministros Kassio Nunes Marques, André Mendonça e Dias Toffoli, que integram a composição titular da Corte Eleitoral. A reunião será fechada e não deve constar da agenda oficial. A conversa ocorre em meio à crise entre ministros do STF e à preocupação com possíveis reflexos no TSE às vésperas da eleição. Nos bastidores, ",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/28/disputa-flavio-dino-x-andre-mendonca-mostra-como-crise-no-stf-afeta-as-eleicoes.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 11:28:17 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-      "descricao": "Índices futuros dos EUA recuam, enquanto petróleo dispara 4% The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28092026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Mon, 28 Sep 2026 13:09:40 +0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Analistas do mercado elevam estimativa de inflação e projetam crescimento econômico menor",
-      "descricao": "O mercado financeiro elevou sua estimativa de inflação e projetou um crescimento menor do Produto Interno Bruto (PIB) em 2026. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (28) pelo Banco Central (BC), com base em pesquisa realizada na última semana com mais de 100 instituições financeiras. A alta na estimativa de inflação acontece apesar da continuidade da guerra n",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/28/analistas-do-mercado-elevam-estimativa-de-inflacao-e-projetam-crescimento-economico-menor.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "Mercado eleva projeção de inflação para 4,99% e reduz PIB",
+      "descricao": "O mercado financeiro elevou a expectativa para a inflação e reduziu a estimativa de crescimento da economia em 2026. Os dados constam do boletim Focus, divulgado nesta segunda-feira (28) pelo Banco Central. A projeção para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) passou de 4,92% para 4,99%. Para 2027, a estimativa sobe de 4,3% para 4,31%, enquanto a para 2028 foi mantida em 3,8%. Not",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-aumenta-projecao-de-inflacao-para-499-e-reduz-pib",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Mon, 28 Sep 2026 11:33:04 -0000",
+      "score_relevancia": 7,
+      "pub_date": "Mon, 28 Sep 2026 10:22:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)",
@@ -68,32 +48,135 @@
       ]
     },
     {
-      "titulo": "Dólar a R$ 4,90 ou R$ 5,50? JPMorgan traça cenários para câmbio com eleição no Brasil",
-      "descricao": "Apesar da disputa apertada entre o presidente Lula e Flávio Bolsonaro, o real mostrou maior resistência ao ruído político neste ciclo eleitoral do que em disputas anteriores, avalia o banco The post Dólar a R$ 4,90 ou R$ 5,50? JPMorgan traça cenários para câmbio com eleição no Brasil appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/dolar-a-r-490-ou-r-550-jpmorgan-traca-cenarios-para-cambio-com-eleicao-no-brasil/",
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com exterior e reta final das eleições no radar",
+      "descricao": "Bolsas dos EUA recuam, enquanto petróleo volta a subir The post Ibovespa Hoje Ao Vivo: Bolsa oscila com exterior e reta final das eleições no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28092026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Mon, 28 Sep 2026 12:50:41 +0000",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 28 Sep 2026 15:26:29 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Déficit nas contas externas soma US$ 5,1 bilhões em agosto",
+      "descricao": "O déficit em transações correntes do Brasil somou US$ 5,1 bilhões em agosto deste ano, informou nesta segunda-feira (28) o Banco Central (BC). O resultado ficou acima do déficit de US$ 3,8 bilhões registrado no mesmo mês de 2025. De acordo com as estatísticas do setor externo, o aumento do déficit ocorreu apesar da melhora da balança comercial, em razão da ampliação dos gastos líquidos com serviço",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/deficit-nas-contas-externas-soma-us-51-bilhoes-em-agosto",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 28 Sep 2026 11:05:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Mercados devem levar a sério alerta sobre o iene, diz chefe do câmbio no Japão",
-      "descricao": "Principal aviso foi feito pela primeira-ministra japonesa, ⁠Sanae ‌Takaichi, em visita aos EUA; iene disparou em relação ao dólar após as declarações de Atsushi Mimura The post Mercados devem levar a sério alerta sobre o iene, diz chefe do câmbio no Japão appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/mercados-devem-levar-a-serio-alerta-sobre-o-iene-diz-chefe-do-cambio-no-japao/",
+      "titulo": "Mercado volta a elevar expectativa de inflação para 2026, próxima de 5%",
+      "descricao": "Mediana das projeções também mostra uma estimativa menor para o PIB neste ano, o que reflete um desaquecimento da economia",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7509772-mercado-volta-a-elevar-expectativa-de-inflacao-para-2026-proxima-de-5.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 28 Sep 2026 12:22:19 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "JPMorgan: investidores preferem ações do mercado de capitais em meio às eleições",
+      "descricao": "Por trás dessa preferência está o temor de um ciclo de crédito mais difícil e de pressão sobre os lucros dos bancos The post JPMorgan: investidores preferem ações do mercado de capitais em meio às eleições appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/jpmorgan-investidores-preferem-acoes-do-mercado-de-capitais-antes-das-eleicoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Mon, 28 Sep 2026 12:38:41 +0000",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 16:00:00 +0000",
       "setores": [
-        "Câmbio / Exportadores"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Wall Street recua com altas do petróleo e dos rendimentos dos Treasuries",
+      "descricao": "Em compensação, a Nvidia registrava alta de 3,2% depois que a gigante dos chips anunciou uma autorização de recompra de ações no valor de US$150 bilhões The post Wall Street recua com altas do petróleo e dos rendimentos dos Treasuries appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/wall-street-recua-com-altas-do-petroleo-e-dos-rendimentos-dos-treasuries/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 15:38:26 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Quaest: 62% apoiam restrição a bets e 59% aprovam reajuste do Bolsa Família",
+      "descricao": "Pesquisa Quaest divulgada nesta segunda-feira (28) mostrou a avaliação dos eleitores sobre anúncios recentes do governo Lula (PT). O presidente tenta a reeleição. Segundo o levantamento, 62% apoiam a restrição das bets, 59% aprovam o reajuste do benefício do Bolsa Família e 58% são a favor da gratuidade de canetas emagrecedoras para o tratamento de obesidade. O estudo também perguntou o nível de c",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/28/quaest-bets-bolsa-familia-canetas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 15:04:33 -0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Quaest: Lula amplia vantagem sobre Flávio Bolsonaro entre mulheres, eleitores de baixa renda, beneficiários do Bolsa Família e católicos",
+      "descricao": "Quaest: Últimas medidas do governo mostram recuperação de Lula no eleitorado Pesquisa Quaest divulgada nesta segunda-feira (28) mostra que Lula (PT) avançou numericamente nas intenções de voto para o primeiro turno entre mulheres, eleitores de menor renda, beneficiários do Bolsa Família e católicos, na comparação com o levantamento de 21 de setembro. Nos quatro grupos, o presidente aparece à frent",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-lula-intencao-voto-perfil-eleitores.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 13:49:39 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Lula aposta em pacote de bondades, e Flávio Bolsonaro busca 'voto útil' na reta final a disputa presidencial",
+      "descricao": "Na reta final antes do primeiro turno, o presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, partiu para o ataque: anunciou o reajuste do Bolsa Família, prometeu canetas emagrecedoras no SUS e decretou o fim das bets, medidas que visam o eleitorado feminino e evangélico. O principal adversário dele nas urnas, Flávio Bolsonaro (PL), aposta no voto útil nesta reta final, contando com a",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/28/lula-aposta-em-pacote-de-bondades-e-flavio-bolsonaro-busca-voto-util-na-reta-final-a-disputa-presidencial.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 11:10:12 -0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Propostas para habitação em SP: Tarcísio renova programas da gestão atual e Haddad propõe Minha Casa Minha Vida estadual",
+      "descricao": "Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) disputam o governo de São Paulo nas eleições de 2026 Montagem/Estadão Conteúdo Na corrida pelo governo de São Paulo, as propostas dos candidatos Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) para a área de habitação expõem duas visões distintas sobre o papel do estado na redução do déficit habitacional. De um lado, o governador ",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/propostas-para-habitacao-em-sp-tarcisio-renova-programas-da-gestao-atual-e-haddad-propoe-minha-casa-minha-vida-estadual.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 28 Sep 2026 08:00:00 -0000",
+      "setores": [
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
       ]
     },
     {
@@ -125,62 +208,6 @@
       ]
     },
     {
-      "titulo": "Multas por aumento abusivo de combustíveis passam de R$ 700 milhões",
-      "descricao": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), responsável pela regulamentação do setor no país, aplicou mais de R$ 700 milhões em multas a distribuidoras de combustíveis por causa de aumento abusivo de preço , informou o órgão nesta sexta-feira (25). As infrações são referentes a dez processos administrativos contra nove distribuidoras. No meio da semana, a ANP já havia anun",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/multas-por-aumento-abusivo-de-combustiveis-passam-de-r-700-milhoes",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 25 Sep 2026 17:44:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "Prévia da inflação: IPCA-15 acelera para 0,70% em setembro, acima do esperado",
-      "descricao": "A taxa em 12 meses ficou acima dos 4,24% registrados no período imediatamente anterior. No trimestre, o IPCA-E acumulou variação de 0,36%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7508328-previa-da-inflacao-ipca-15-acelera-para-070-em-setembro-acima-do-esperado.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 25 Sep 2026 09:46:17 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Prefixados do Tesouro voltam a se aproximar de 14% seguindo cautela no exterior",
-      "descricao": "Trump rejeitou proposta do Irã para reabrir o Estreito de Ormuz e o Brent avança para perto de US$ 108, enquanto os rendimentos dos Treasuries voltam a escalar The post Prefixados do Tesouro voltam a se aproximar de 14% seguindo cautela no exterior appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-28092026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 28 Sep 2026 13:05:09 +0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "WEG investirá R$ 840 mi para ampliar produção de geradores na América do Norte",
-      "descricao": "WEG investirá US$141 milhões na construção de duas ⁠novas ​instalações ​industriais em local ainda a ser definido na ⁠América do Norte The post WEG investirá R$ 840 mi para ampliar produção de geradores na América do Norte appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/weg-investira-r-840-mi-para-ampliar-producao-de-geradores-na-america-do-norte/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 28 Sep 2026 12:27:50 +0000",
-      "setores": [
-        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
-      ]
-    },
-    {
       "titulo": "Dólar hoje sobe a R$ 5,20 sob influência do exterior e de nova pesquisa",
       "descricao": "O dólar à vista encerrou a sessão de sexta-feira com baixa de 0,19%, aos R$5,1834 The post Dólar hoje sobe a R$ 5,20 sob influência do exterior e de nova pesquisa appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28092026/",
@@ -189,37 +216,107 @@
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 28 Sep 2026 12:22:26 +0000",
+      "pub_date": "Mon, 28 Sep 2026 15:43:08 +0000",
       "setores": [
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Brasil tem déficit em conta corrente de US$ 5,055 bi, maior que o esperado em agosto",
-      "descricao": "A expectativa em pesquisa da Reuters com especialistas apontava para um saldo negativo de US$4,9 bilhões em agosto The post Brasil tem déficit em conta corrente de US$ 5,055 bi, maior que o esperado em agosto appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/brasil-tem-deficit-em-conta-corrente-de-us-5055-bi-maior-que-o-esperado-em-agosto/",
+      "titulo": "Ações do Nubank despencam em NY com notícias sobre compra de banco britânico",
+      "descricao": "De acordo com reportagem do site britânico Sky News no sábado, sem citar fontes, o Monzo foi abordado sobre uma possível combinação de negócios The post Ações do Nubank despencam em NY com notícias sobre compra de banco britânico appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/acoes-do-nubank-despencam-em-ny-com-noticias-sobre-compra-de-banco-britanico/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 28 Sep 2026 12:18:25 +0000",
+      "pub_date": "Mon, 28 Sep 2026 15:33:44 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Gilmar quer suspender julgamento de Moraes no caso Master até identificação de todos ministros envolvidos",
+      "descricao": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), apresentou nesta segunda-feira (28) uma nova questão de ordem no caso Banco Master e defendeu que a Corte esclareça quais magistrados são mencionados nas investigações e se existem elementos que possam impedir a participação deles nos julgamentos relacionados ao caso. No documento, Gilmar questiona especificamente se o ministro Kassio Nu",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/28/gilmar-quer-suspender-julgamento-de-moraes-no-caso-master-ate-identificacao-de-todos-ministros-envolvidos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 15:50:30 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Gerador de carro de som pega fogo em ato de campanha de Flávio Bolsonaro em SP",
+      "descricao": "Carro de som pega fogo em meio a ato de campanha de Flávio Bolsonaro em São Paulo O gerador de um carro de som pegou fogo em meio a um ato de campanha organizado pelo senador Flávio Bolsonaro, candidato do PL à Presidência da República, na região central de São Paulo. O incidente aconteceu por volta das 11h10 desta segunda-feira (28), antes do candidato chegar ao evento. A fumaça foi avistada no m",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/gerador-de-carro-de-som-pega-fogo-em-ato-de-campanha-de-flavio-bolsonaro-em-sp.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 14:39:24 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Vai trabalhar no dia da eleição? Patrão pode descontar horas para votar? Veja seus direitos",
-      "descricao": "Urnas eletrônicas 2024 do Paraná Giuliano Gomes/PR Press Para milhões de brasileiros, o primeiro turno das eleições também será dia de expediente. Profissionais da saúde, da segurança, da hotelaria e de outros serviços essenciais precisarão conciliar a jornada de trabalho com a ida às urnas. É nesse momento que surgem dúvidas recorrentes como: a empresa é obrigada a liberar o funcionário para vota",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/28/vai-trabalhar-no-dia-da-eleicao-patrao-pode-descontar-horas-para-votar-veja-seus-direitos.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Quaest: 51% não creem em influência estrangeira nas eleições; 41% dizem ver possibilidade",
+      "descricao": "Eleições 2026 no Amazonas - urna eletrônica Divulgação/TRE-AM Pesquisa Quaest divulgada nesta segunda-feira (28) mostra que 51% dos brasileiros acreditam que não há possibilidade de países estrangeiros interferirem nas eleições 2026. Outros 41% creem que há possibilidade de interferência. Na comparação com a ocasião anterior em que a pergunta foi feita, em 14 de agosto, oscilou para baixo o percen",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/28/quaest-influencia-estrangeira-eleicoes.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 28 Sep 2026 06:00:00 -0000",
+      "pub_date": "Mon, 28 Sep 2026 14:11:58 -0000",
       "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Flávio pede suspensão da decisão que liberou post de humorista sobre Nossa Senhora; Dino envia caso ao plenário do STF",
+      "descricao": "A defesa do senador Flávio Bolsonaro (PL-RJ), candidato à Presidência, entrou com um recurso no Supremo Tribunal Federal (STF) nesta segunda-feira (28) contra a decisão do ministro Flávio Dino que mandou restabelecer um post do humorista Antonio Tabet sobre a retirada do título de padroeira do Brasil de Nossa Senhora Aparecida. Logo após o pedido, Dino enviou a decisão dele para referendo (aprovaç",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/28/defesa-de-flavio-entra-com-recurso-contra-decisao-de-dino.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 14:05:52 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 28 de setembro",
+      "descricao": "Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 42% 🧶Veja o fio: 1. Com redução de indecisos (10% -> 5%) e voto útil (16% -> 12%) nos últimos 15 dias, Lula começa a última semana do 1º turno na liderança com 39%. Flávio chega a 34%. Cury e Caiado têm 4% cada, empatados com Renan, que tem 3% e Zema com 1%. Veja a análise da pesquisa Quaest para presidente de 28 de setembro Reprodução/Quaest 2. Lula ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/fio-do-professor-felipe-nunes-quaest-28-setembro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 13:41:14 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Quaest: 49% desaprovam governo Lula e 46% aprovam",
+      "descricao": "Pesquisa Quaest divulgada nesta segunda-feira (28) mostra que 49% dos eleitores desaprovam o governo Lula, enquanto 46% aprovam. Em relação à pesquisa anterior, de uma semana atrás, o índice de desaprovação oscilou um ponto para baixo (de 50% para 49%) e a aprovação oscilou dois pontos para cima (de 44% para 46%). Mesmo com as oscilações, a desaprovação ainda é numericamente superior à aprovação. ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-aprova-desaprova-governo-28-setembro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 28 Sep 2026 13:17:21 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -278,20 +375,6 @@
       "pub_date": "Fri, 25 Sep 2026 18:33:00 -0300",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Após cinco meses, conta de luz voltará à bandeira verde em outubro",
-      "descricao": "As contas de luz voltarão em outubro à bandeira verde, sem cobrança de tarifas adicionais, informou nesta sexta-feira (25) a Agência Nacional de Energia Elétrica (Aneel). A bandeira tarifária voltará a vigorar após cinco meses de bandeira amarela , que tem custo adicional de R$ 1,885 a cada 100 kWh consumidos. Notícias relacionadas: Bandeira tarifária de energia permanecerá amarela em setembro. Co",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/apos-cinco-meses-conta-de-luz-voltara-bandeira-verde-em-outubro",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 25 Sep 2026 17:54:00 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
       ]
     },
     {
