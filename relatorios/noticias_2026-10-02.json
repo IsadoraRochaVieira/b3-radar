@@ -1,0 +1,457 @@
+{
+  "coletado_em": "02/10/2026 12:23",
+  "total": 30,
+  "urgentes": 3,
+  "destaque": {
+    "titulo": "Apesar da queda da Selic, inadimplência e custo do crédito só aumentam",
+    "descricao": "Conforme dados do Banco Central, a taxa de inadimplência junto ao sistema financeiro chegou a 6,6%, em agosto, mas o indicador de calote de pessoas físicas subiu para 8%, novo recorde histórico. Enquanto isso, custo médio do crédito no sistema financeiro e o spread bancário avançaram para 48,5% e 21,2% anuais, respectivamente",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/09/7510907-apesar-da-queda-da-selic-inadimplencia-e-custo-do-credito-so-aumentam.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
+    "urgencia": "alta",
+    "score_relevancia": 2,
+    "pub_date": "Tue, 29 Sep 2026 18:03:00 -0300",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Apesar da queda da Selic, inadimplência e custo do crédito só aumentam",
+      "descricao": "Conforme dados do Banco Central, a taxa de inadimplência junto ao sistema financeiro chegou a 6,6%, em agosto, mas o indicador de calote de pessoas físicas subiu para 8%, novo recorde histórico. Enquanto isso, custo médio do crédito no sistema financeiro e o spread bancário avançaram para 48,5% e 21,2% anuais, respectivamente",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7510907-apesar-da-queda-da-selic-inadimplencia-e-custo-do-credito-so-aumentam.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 29 Sep 2026 18:03:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Emprego e salários esfriam nos EUA e aliviam pressão para alta de juros pelo Fed",
+      "descricao": "Com apenas 29 mil vagas criadas em setembro e desemprego a 4,2%, analistas veem manutenção das taxas em outubro e adiam eventual ajuste para dezembro. The post Emprego e salários esfriam nos EUA e aliviam pressão para alta de juros pelo Fed appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/payroll-eua-desaceleracao-juros-fed/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 14:41:01 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Crise da Nike se agrava, e empresa anuncia novos cortes de empregos",
+      "descricao": "Nike em Pequim, China REUTERS/Tingshu Wang A Nike está aprofundando sua reestruturação sob o comando do presidente-executivo Elliott Hill. Diante do agravamento das dificuldades na China, a empresa anunciou um plano para cortar mais empregos e reorganizar suas divisões globais de negócios, depois de projetar uma queda mais acentuada que o esperado na receita anual. 🗒️Tem alguma sugestão de reporta",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/02/crise-da-nike-se-agrava-e-empresa-anuncia-novos-cortes-de-empregos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 10:58:16 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Dólar fecha acima de R$ 5,22 em dia de mal-estar global",
+      "descricao": "O dólar subiu quase 1% em comparação com o real nesta quinta-feira (1º). A moeda dos Estados Unidos ganhou força no exterior em meio à aversão ao risco provocada pelas tensões no Oriente Médio e pela alta do petróleo. Na bolsa, o Ibovespa avançou, apoiado principalmente pelas ações da Petrobras, apesar da cautela de investidores diante do cenário internacional e da proximidade do primeiro turno da",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-acima-de-r-522-em-dia-de-mal-estar-global",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 7,
+      "pub_date": "Thu, 01 Oct 2026 19:13:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar e Ibovespa operam em leve alta, de olho em dados dos EUA e às vésperas das eleições",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar e a bolsa brasileira operam em leve alta nesta sexta-feira (2) em alta, no último pregão antes do 1º turno das eleições presidenciais no Brasil. Perto das 11h20, a moeda subia 0,03%, cotada a R$ 5,2216, enquanto o Ibovespa, principal índice da bolsa brasileira, avançava 0,09%, aos 187.364 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie p",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/02/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Fri, 02 Oct 2026 12:00:18 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar cai para R$ 5,17 e acumula recuo de 0,15% em setembro",
+      "descricao": "Em um dia de alívio global no mercado financeiro, o dólar caiu cerca de 1%, encerrando setembro com pequena baixa . A bolsa avançou quase 1,5% no pregão e acumulou alta de pouco mais de 5% no mês. Os mercados reagiram principalmente a dados de inflação dos Estados Unidos abaixo das expectativas, que reduziram a pressão por novas altas de juros pelo Federal Reserve. No Brasil, o cenário eleitoral e",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-cai-para-r-517-e-acumula-recuo-de-015-em-setembro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Wed, 30 Sep 2026 19:46:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Maior juro do mercado, uso do rotativo bate recorde; Lula quer limitar a um cartão de crédito por pessoa",
+      "descricao": "Juro médio cobrado pelos bancos no rotativo do cartão de crédito era de 445% ao ano em agosto, segundo dados do Banco Central Getty Images via BBC Brasil Alvo do presidente Luiz Inácio Lula da Silva (PT), o uso da linha do rotativo do cartão de crédito, o juro mais alto do mercado financeiro, bateu recorde de uso neste ano. Segundo dados do Banco Central, as contratações somaram R$ 311 bilhões nos",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/02/maior-juro-do-mercado-uso-do-rotativo-bate-recorde-lula-quer-limitar-a-um-cartao-de-credito-por-pessoa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 02 Oct 2026 11:19:43 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "G7 anuncia liberação de 100 milhões de barris de diesel e petróleo bruto",
+      "descricao": "A decisão foi tomada depois que os EUA cogitaram a possibilidade de uma proibição severa à exportação de diesel caso os países europeus não liberassem mais estoques The post G7 anuncia liberação de 100 milhões de barris de diesel e petróleo bruto appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/g7-anuncia-liberacao-de-100-milhoes-de-barris-de-diesel-e-petroleo-bruto/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 15:13:12 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Ações da Nvidia batem recorde e empresa se aproxima de valer US$ 6 trilhões",
+      "descricao": "O lavador de pratos que criou a Nvidia, a empresa mais valiosa do mundo As ações da Nvidia bateram recorde nesta sexta-feira (2), algo que não acontecia desde maio. A empresa, que vem sendo valorizada pelos investimentos e pelos bons resultados com inteligência artificial, viu suas ações subirem 2,9% hoje, segundo a Bloomberg. Com isso, o valor de mercado da companhia se aproxima de US$ 6 trilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/02/acoes-da-nvidia-batem-recorde-e-empresa-se-aproxima-de-valer-us-6-trilhoes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 14:34:18 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras faz nova descoberta de petróleo em poço na costa do Amapá",
+      "descricao": "Petrobras faz nova descoberta de petróleo em poço na costa do Amapá A Petrobras anunciou nesta sexta-feira (2) uma nova descoberta de petróleo no poço Morpho, na costa do Amapá. O poço fica no bloco FZA-M-59, na chamada Margem Equatorial, região do litoral brasileiro com potencial para exploração de petróleo e gás. A perfuração ocorre em águas ultraprofundas, a cerca de 2,9 quilômetros de profundi",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/02/petrobras-petroleo-costa-do-amapa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 12:29:04 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Ministro Luiz Fux será relator no STF de ações de entidades contra proibição das bets",
+      "descricao": "Ministro do STF Luiz Fux Victor Piemonte/STF O ministro Luiz Fux, do Supremo Tribunal Federal (STF), será o relator dos pedidos apresentados pela Associação Nacional de Jogos e Loterias (ANJL) e pelo Instituto Brasileiro de Jogo Responsável (IBJR) para suspender os efeitos da medida provisória do presidente Luiz Inácio Lula da Silva (PT) que determinou a proibição imediata das bets no país. As ass",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/02/fux-sera-relator-no-stf-de-acoes-de-entidades-contra-proibicao-das-bets.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 13:45:21 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula e Flávio Bolsonaro focam reta final no Sudeste, onde petista avança e anima campanha",
+      "descricao": "Os dois líderes da corrida presidencial, o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ), vão concentrar os dois últimos dias de campanha no Sudeste, região que reúne os maiores colégios eleitorais do país. A estratégia ocorre num momento em que a última pesquisa Datafolha registrou oscilação positiva de cinco pontos de Lula no Sudeste, de 35% para 40%. Flávio Bols",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/02/lula-e-flavio-bolsonaro-focam-reta-final-no-sudeste-onde-petista-avanca-e-anima-campanha.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 13:43:40 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Presidente do TSE, Nunes Marques fará pronunciamento em rede nacional na véspera do 1º turno",
+      "descricao": "O ministro Kassio Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), fará um pronunciamento em rede nacional de televisão e rádio neste sábado (3), véspera do primeiro turno das eleições. A manifestação do presidente da Corte Eleitoral é praxe na véspera do pleito. O objetivo é incentivar os brasileiros a irem às urnas no domingo, e exercer a obrigação com o voto. O ministro também de",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/presidente-do-tse-nunes-marques-fara-pronunciamento-em-rede-nacional-na-vespera-do-1o-turno.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 13:01:42 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Petrobras faz 2ª descoberta de petróleo em poço da Margem Equatorial",
+      "descricao": "A Petrobras fez mais uma descoberta de petróleo no poço Morpho, que fica na chamada Margem Equatorial, a 175 quilômetros (km) da costa do Amapá. O anúncio foi feito pela estatal na manhã desta sexta-feira (2). A descoberta anterior havia sido em meados de agosto . O poço identificado como 1-BRSA-1405-APS fica em águas ultra profundas, em lâmina d’água (profundidade do mar no local da operação) de ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-faz-2a-descoberta-de-petroleo-em-poco-da-margem-equatorial",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 02 Oct 2026 11:02:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Entra em vigor tarifa zero para instrumentos musicais importados",
+      "descricao": "Entrou em vigor nesta quinta-feira (1º) a redução a zero do imposto de importação para microfones, grupos de instrumentos musicais e máquinas de costura de uso doméstico. A medida elimina tarifas que chegavam a 18% para instrumentos e a 20% para máquinas de costura. A mudança está prevista na Resolução 926/2026 do Comitê Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex), que incorpo",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/entra-em-vigor-tarifa-zero-para-instrumentos-musicais-importados",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 01 Oct 2026 18:52:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Nova modalidade de renegociação de dívidas de MEI começa nesta quinta",
+      "descricao": "O governo federal ampliou as opções para microempreendedores individuais (MEIs) renegociarem dívidas e prorrogou até 29 de janeiro de 2027 o prazo de adesão ao Desenrola MEI. A partir desta quinta-feira (1º), começa também uma nova modalidade para débitos de até cinco salários mínimos, atualmente equivalentes a R$ 8.105. Outra negociação será aberta para dívidas de MEIs com autarquias e fundações ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-modalidade-de-renegociacao-de-dividas-de-mei-comeca-nesta-quinta",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 01 Oct 2026 16:08:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Pix por aproximação deixa de ter teto de R$ 500 a partir desta quinta",
+      "descricao": "O Pix por aproximação passa a ter novas regras a partir desta quinta-feira (1º). O Banco Central (BC) retirou o teto específico de R$ 500 por transação para essa modalidade de pagamento. Com a mudança, o cliente poderá pedir ao banco o aumento ou a redução dos limites aplicados às operações, que continuarão sujeitos às regras de segurança de cada conta. A alteração foi estabelecida pela Instrução ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-por-aproximacao-deixa-de-ter-teto-de-r-500-partir-desta-quinta",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 01 Oct 2026 07:02:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Petrobras encontra nova reserva de petróleo no Amapá, na Foz do Amazonas",
+      "descricao": "Descoberta no bloco FZA-M-59 amplia dados sobre o potencial da Bacia Sedimentar da Foz do Amazonas",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7513012-petrobras-encontra-nova-reserva-de-petroleo-no-amapa-na-foz-do-amazonas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 2 Oct 2026 09:53:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "China informa que Brasil atingiu cota de exportação de carne bovina",
+      "descricao": "Ministério do Comércio chinês afirma que tarifa adicional de 55% será aplicada às importações brasileiras a partir desta quinta-feira (1º/10)",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/09/7511322-china-informa-que-brasil-atingiu-cota-de-exportacao-de-carne-bovina.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 30 Sep 2026 11:09:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Petróleo cai com liberação de estoques petróleo bruto pelos países do G7",
+      "descricao": "G7 anuncia liberação de 100 milhões de barris de diesel e petróleo bruto The post Petróleo cai com liberação de estoques petróleo bruto pelos países do G7 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-02102026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 15:22:51 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "IRB (IRBR3): JPMorgan eleva preço-alvo para R$ 80 após aprovação de nova lei",
+      "descricao": "Lei 3.540/2026 deve melhorar a rentabilidade e o potencial de distribuição de dividendos da companhia The post IRB (IRBR3): JPMorgan eleva preço-alvo para R$ 80 após aprovação de nova lei appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/irb-irbr3-jpmorgan-eleva-preco-alvo-para-r-80-apos-aprovacao-de-nova-lei/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 14:46:41 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Mendonça determina que redes revisem remoção de publicações sobre Nossa Senhora",
+      "descricao": "Em novo ofício, ministro do TSE pediu que redes revisem conteúdos afetados decisão proferida na sexta-feira (25) The post Mendonça determina que redes revisem remoção de publicações sobre Nossa Senhora appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/mendonca-determina-que-redes-revisem-remocao-de-publicacoes-sobre-nossa-senhora/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 14:21:22 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Trump deve nomear Jay Clayton, atual diretor de espionagem, como 'czar' da inteligência artificial, diz TV",
+      "descricao": "Jay Clayton, diretor da inteligência dos EUA, durante reunião com executivos das empresas de IA na Casa Branca KEVIN DIETSCH / GETTY IMAGES / VIA AFP O presidente dos Estados Unidos, Donald Trump, deve escolher Jay Clayton para o posto de \"czar\" de inteligência artificial da Casa Branca. A informação foi divulgada pela rede CNN, a partir de duas fontes familiarizadas com as discussões. A decisão e",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/02/trump-czar-ia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 14:28:52 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Como plantar girassol? Veja dicas sobre o cultivo",
+      "descricao": "Plantação de girassóis enfeita cenário na área rural de Cerquilho (SP). Tiago Fogaça Gilmara Vieira, de Paty do Alferes (RJ), quer plantar girassol em um terreno e pediu ao Globo Rural um folheto com orientações sobre o cultivo. Uma publicação gratuita da Empresa Brasileira de Pesquisa Agropecuária (Embrapa), do Rio Grande do Sul, pode ajudar. O material explica como manejar o girassol e traz dica",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/02/como-plantar-girassol-veja-dicas-sobre-o-cultivo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 12:30:55 -0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "INSS vai pagar afastamento para vítimas de violência doméstica; veja quem tem direito e como pedir",
+      "descricao": "INSS Arquivo/Agência Brasil Nesta quinta-feira (1º), o presidente Luiz Inácio Lula da Silva (PT) assinou um parecer que garante o afastamento remunerado do trabalho para mulheres vítimas de violência doméstica. A mulher poderá ficar afastada do trabalho por até seis meses, sem perder a remuneração durante o período. Nos primeiros 15 dias, o pagamento ficará sob responsabilidade do empregador. A pa",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/inss-vai-pagar-afastamento-para-vitimas-de-violencia-domestica-veja-quem-tem-direito-e-como-pedir.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 08:00:00 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Leilão da Receita tem iPhone por R$ 3 mil e Camaro Amarelo por R$ 50 mil; saiba como participar",
+      "descricao": "Camaro amarelo à venda. Reprodução/Receita Federal A Receita Federal em São Paulo começa a receber a partir desta sexta-feira (2), 8h, o recebimento das propostas do novo leilão eletrônico para mercadorias apreendidas ou abandonadas. A sessão de lances acontece já na próxima semana, dia 9 de outubro. Entre os produtos disponíveis estão iPhones, MacBooks, iPads, drones, impressoras 3D, equipamentos",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/02/leilao-da-receita-tem-iphone-por-r-3-mil-e-camaro-amarelo-por-r-50-mil-saiba-como-participar.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 07:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Trabalhar nas eleições dá direito a folga? Quanto ganha um mesário? Veja os benefícios",
+      "descricao": "Mesário conferindo documento / Eleição Tomaz Silva/Agência Brasil Trabalhar nas eleições não é considerado emprego temporário e não dá direito a salário. Mas isso não significa que o trabalho de mesário seja voluntário e sem compensação. Quem atua como mesário tem direito a dois dias de folga para cada dia trabalhado nas eleições, sem desconto no salário. O treinamento também garante dois dias de ",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/trabalhar-nas-eleicoes-da-direito-a-folga-quanto-ganha-um-mesario.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 06:00:00 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "MP Eleitoral pede multa a Lula, Flávio Bolsonaro e outros candidatos por propaganda irregular",
+      "descricao": "O Ministério Público Eleitoral entrou com ações no Tribunal Superior Eleitoral (TSE) contra candidatos à Presidência e a vice por supostas irregularidades na propaganda eleitoral na internet. Entre os alvos estão Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) (veja lista completa abaixo). Segundo o MP Eleitoral, as campanhas usaram sites, perfis e outros canais digitais que não haviam sido",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/02/mp-eleitoral-pede-multa-a-lula-flavio-bolsonaro-e-outros-candidatos-por-propaganda-irregular.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 13:16:10 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Debate presidencial cancelado: veja o que falou imprensa internacional",
+      "descricao": "Cancelamento do debate da Globo: veja a reação dos candidatos O cancelamento do tradicional debate dos candidatos à Presidência da República da TV Globo, na noite desta quinta-feira (1º), repercutiu na imprensa internacional. Jornais e emissoras dos Estados Unidos, Europa e até do Irã comentaram a decisão, tomada após determinações impostas por liminares do Judiciário e a desistência dos principai",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/02/debate-presidencial-cancelado-veja-o-que-falou-imprensa-internacional.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 12:55:10 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Mendonça comunica às plataformas novos critérios para exclusão de posts associando Flávio Bolsonaro à retirada do posto de padroeira de Nossa Senhora",
+      "descricao": "Mendonça manda 'X' excluir posts de Flávio Bolsonaro e Nossa Senhora O ministro André Mendonça, vice-presidente do Tribunal Superior Eleitoral (TSE), determinou que as plataformas excluam postagens que atribuam falsamente ao candidato do PL à Presidência, Flávio Bolsonaro, a defesa, articulação, apoio ou compromisso com a retirada de Nossa Senhora Aparecida da condição de padroeira do Brasil. A de",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/02/mendonca-manda-redes-apagarem-posts-associando-flavio-bolsonaro-a-retirada-do-posto-de-padroeira-de-nossa-senhora.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 02 Oct 2026 12:23:11 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    }
+  ]
+}

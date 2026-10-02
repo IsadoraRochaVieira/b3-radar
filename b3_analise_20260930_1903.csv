@@ -1,0 +1,18 @@
+ticker;preco;var_1d;var_5d;var_20d;rsi;macd_hist;bb_pct;vol_ratio;atr_pct;dist_min52;dist_max52;pl;pvp;dy;roe;score;classificacao;score_trader;classificacao_trader;sinais_trader;liquidez;gema;volume_dia;alerta_spike
+RECV3;10,67;-1,48;-2,11;-5,74;45,9;-0,088;15,1;1,63;3,1;20,1;29,2;6.3;0,71;-;11.3%;55;OBSERVAR;50;OBSERVAR;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 3.1%)', 'Volume alto (1.6x)'];baixa;False;0;False
+ITUB4;44,28;4,68;4,51;11,03;66,3;0,043;125,5;2,78;2,33;33,4;9,9;10.5;2,24;-;21.5%;50;OBSERVAR;-15;EVITAR;['MACD cruzou para positivo', 'Volume alto (2.8x)', '⚠️ Movimento extremo já realizado — risco de perseguir preço'];baixa;False;0;False
+SANB11;28,75;-2,77;-2,38;-2,01;41,0;-0,168;-15,4;1,16;2,22;15,3;26,8;14.1;0,85;-;11.2%;45;OBSERVAR;20;NEUTRO;['Preço tocando banda inferior Bollinger'];baixa;False;0;False
+SMTO3;17,76;1,08;-3,11;-16,27;44,1;-0,367;19,8;0,79;4,44;39,5;20,5;7.2;0,78;-;11.3%;45;OBSERVAR;35;NEUTRO;['Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 4.4%)'];baixa;False;0;False
+AGRO3;17,54;-0,45;-4,15;-9,73;30,1;-0,105;7,3;0,97;2,2;0,7;29,7;-;0,86;-;-4.3%;40;OBSERVAR;50;OBSERVAR;['RSI sobrevendido (30)', 'Preço tocando banda inferior Bollinger'];baixa;False;0;False
+MELI34;74,15;-1,46;-3,94;-11,41;32,9;-0,615;13,0;1,71;3,12;20,9;49,5;46.6;11,61;-;27.5%;40;OBSERVAR;80;FORTE OPORTUNIDADE;['RSI sobrevendido (33)', 'Preço tocando banda inferior Bollinger', 'Volatilidade alta (ATR 3.1%)', 'Volume alto (1.7x)'];baixa;False;0;False
+PETR3;53,87;-0,35;-1,32;2,86;58,1;-0,29;52,4;0,96;2,64;89,4;5,2;5.2;1,44;-;30.3%;30;NEUTRO;0;EVITAR;[];baixa;False;0;False
+VALE3;69,91;0,43;-2,2;-10,72;33,7;-0,647;16,5;1,11;2,61;32,5;27,5;26.8;1,51;-;4.1%;30;NEUTRO;50;OBSERVAR;['RSI sobrevendido (34)', 'Preço tocando banda inferior Bollinger'];baixa;False;0;False
+SLCE3;16,81;0,36;-4,6;3,07;50,8;-0,237;27,0;0,66;3,08;33,6;15,9;27.1;1,54;-;7.0%;25;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.1%)'];baixa;False;0;False
+PETR4;49,12;0,04;-0,97;4,8;61,7;-0,247;66,7;0,8;2,46;83,9;3,2;4.8;1,32;-;30.3%;20;NEUTRO;0;EVITAR;[];baixa;False;0;False
+PRIO3;60,9;-1,14;0,07;-4,83;47,6;-0,315;30,0;0,84;3,25;78,2;19,8;12.7;1,72;-;14.2%;20;NEUTRO;15;EVITAR;['Volatilidade alta (ATR 3.2%)'];baixa;False;0;False
+BBDC4;18,51;4,11;2,66;6,5;60,3;-0,023;88,3;1,38;2,3;19,1;14,6;8.5;1,08;-;13.8%;15;EVITAR;0;EVITAR;[];baixa;False;0;False
+BBAS3;23,07;4,67;4,06;9,31;63,2;-0,104;85,5;1,09;3,24;30,3;18,8;10.7;0,72;-;10.5%;15;EVITAR;15;EVITAR;['Volatilidade alta (ATR 3.2%)'];baixa;False;0;False
+MGLU3;7,46;12,52;21,9;61,47;77,0;0,111;123,0;1,46;5,43;98,4;51,1;67.8;0,52;-;0.8%;10;EVITAR;-55;EVITAR;['Volatilidade alta (ATR 5.4%)', '⚠️ Movimento extremo já realizado — risco de perseguir preço'];baixa;False;0;False
+LWSA3;4,04;0,5;-0,25;-4,27;51,3;-0,011;49,3;0,98;3,56;24,5;17,6;-;0,93;-;-7.8%;0;EVITAR;15;EVITAR;['Volatilidade alta (ATR 3.6%)'];baixa;False;0;False
+CSAN3;3,96;6,45;1,8;-0,25;59,3;0,014;98,7;1,24;4,39;28,2;74,2;-;3,14;-;-27.2%;0;EVITAR;15;EVITAR;['Volatilidade alta (ATR 4.4%)'];baixa;False;0;False
+COGN3;2,32;5,45;0,87;-0,85;53,4;-0,017;49,9;1,09;4,65;16,6;103,7;6.4;0,34;-;4.9%;-5;EVITAR;15;EVITAR;['Volatilidade alta (ATR 4.7%)'];baixa;False;0;False
