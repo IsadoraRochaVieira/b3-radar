@@ -28054,5 +28054,20 @@
     "motivo_saida": null,
     "preco_atual": 39.5,
     "resultado_pct_atual": 0.0
+  },
+  {
+    "ticker": "TRIS3",
+    "data_entrada": "2026-10-03",
+    "preco_entrada": 5.35,
+    "stop": 4.99,
+    "alvo": 6.15,
+    "score": 45,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null,
+    "preco_atual": 5.35,
+    "resultado_pct_atual": -0.0
   }
 ]

@@ -1,7 +1,7 @@
 {
   "data_iso": "2026-10-03",
-  "gerado_em": "03/10/2026 08:18",
-  "total": 205,
+  "gerado_em": "03/10/2026 16:23",
+  "total": 203,
   "acoes": [
     {
       "ticker": "AMBP3",
@@ -70,17 +70,6 @@
       "volume": 2072200
     },
     {
-      "ticker": "COGN3",
-      "preco": 2.43,
-      "var_1d": 3.85,
-      "var_20d": 1.25,
-      "rsi": 59.6,
-      "score": 45,
-      "classificacao": "OBSERVAR",
-      "setor": "Serviços Comerciais",
-      "volume": 44473400
-    },
-    {
       "ticker": "AXIA3",
       "preco": 56.9,
       "var_1d": 3.17,
@@ -134,6 +123,17 @@
       "classificacao": "OBSERVAR",
       "setor": "Energia Elétrica e Saneamento",
       "volume": 794100
+    },
+    {
+      "ticker": "TRIS3",
+      "preco": 5.35,
+      "var_1d": 5.31,
+      "var_20d": 7.86,
+      "rsi": 72.1,
+      "score": 45,
+      "classificacao": "OBSERVAR",
+      "setor": "Bens de Consumo",
+      "volume": 682500
     },
     {
       "ticker": "BRST3",
@@ -323,17 +323,6 @@
       "volume": 48875600
     },
     {
-      "ticker": "ABEV3",
-      "preco": 15.84,
-      "var_1d": 3.06,
-      "var_20d": 0.97,
-      "rsi": 61.1,
-      "score": 35,
-      "classificacao": "NEUTRO",
-      "setor": "Consumo Básico",
-      "volume": 36916800
-    },
-    {
       "ticker": "ECOR3",
       "preco": 9.89,
       "var_1d": 6.23,
@@ -442,17 +431,6 @@
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
       "volume": 1619300
-    },
-    {
-      "ticker": "TRIS3",
-      "preco": 5.35,
-      "var_1d": 5.31,
-      "var_20d": 7.86,
-      "rsi": 72.1,
-      "score": 35,
-      "classificacao": "NEUTRO",
-      "setor": "Bens de Consumo",
-      "volume": 682500
     },
     {
       "ticker": "ROMI3",
@@ -772,6 +750,17 @@
       "classificacao": "NEUTRO",
       "setor": "Financeiro",
       "volume": 73106500
+    },
+    {
+      "ticker": "ABEV3",
+      "preco": 15.84,
+      "var_1d": 3.06,
+      "var_20d": 0.97,
+      "rsi": 61.1,
+      "score": 25,
+      "classificacao": "NEUTRO",
+      "setor": "Consumo Básico",
+      "volume": 36916800
     },
     {
       "ticker": "BHIA3",
@@ -1850,17 +1839,6 @@
       "classificacao": "EVITAR",
       "setor": "Energia Elétrica e Saneamento",
       "volume": 2797600
-    },
-    {
-      "ticker": "SMTO3",
-      "preco": 19.34,
-      "var_1d": 4.94,
-      "var_20d": -4.45,
-      "rsi": 57.4,
-      "score": 10,
-      "classificacao": "EVITAR",
-      "setor": "Indústria de Processo",
-      "volume": 2465200
     },
     {
       "ticker": "OPCT3",
