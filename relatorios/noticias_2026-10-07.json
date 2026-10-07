@@ -1,38 +1,96 @@
 {
-  "coletado_em": "07/10/2026 08:19",
-  "total": 25,
-  "urgentes": 0,
+  "coletado_em": "07/10/2026 12:45",
+  "total": 30,
+  "urgentes": 2,
   "destaque": {
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-    "descricao": "Índices futuros dos EUA recuam com nova alta de petróleo e Treasuries The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07102026/",
+    "titulo": "Bitcoin perde US$ 83 mil e zera ganhos de outubro com disparada dos juros americanos",
+    "descricao": "Liquidações no mercado cripto se aproximam de US$ 700 milhões, enquanto petróleo e juros americanos em alta reduzem o apetite por risco The post Bitcoin perde US$ 83 mil e zera ganhos de outubro com disparada dos juros americanos appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/onde-investir/bitcoin-perde-us-83-mil-e-zera-ganhos-de-outubro-com-disparada-dos-juros-americanos/",
     "fonte": "Infomoney",
     "categoria": "Mercado",
     "cor": "#4488ff",
-    "urgencia": "media",
-    "score_relevancia": 6,
-    "pub_date": "Wed, 07 Oct 2026 11:07:00 +0000",
+    "urgencia": "alta",
+    "score_relevancia": 3,
+    "pub_date": "Wed, 07 Oct 2026 15:43:50 +0000",
     "setores": [
       "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Telecom (VIVT3, TIMS3)"
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
     ]
   },
   "noticias": [
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-      "descricao": "Índices futuros dos EUA recuam com nova alta de petróleo e Treasuries The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07102026/",
+      "titulo": "Bitcoin perde US$ 83 mil e zera ganhos de outubro com disparada dos juros americanos",
+      "descricao": "Liquidações no mercado cripto se aproximam de US$ 700 milhões, enquanto petróleo e juros americanos em alta reduzem o apetite por risco The post Bitcoin perde US$ 83 mil e zera ganhos de outubro com disparada dos juros americanos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/bitcoin-perde-us-83-mil-e-zera-ganhos-de-outubro-com-disparada-dos-juros-americanos/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 6,
-      "pub_date": "Wed, 07 Oct 2026 11:07:00 +0000",
+      "urgencia": "alta",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 15:43:50 +0000",
       "setores": [
         "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "'Ninguém conseguia prever': chefe da Stellantis admite erro do setor diante da disparada chinesa",
+      "descricao": "Herlander Zola, presidente da Stellantis para a América do Sul Divulgação/Stellantis Para Herlander Zola, presidente da Stellantis para a América do Sul, a indústria automotiva ocidental “errou” ao avaliar a velocidade com que a eletrificação ganharia relevância no mercado global, o que acabou dando aos chineses o protagonismo no desenvolvimento desses veículos. “A palavra correta é erro. A indúst",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/07/ninguem-conseguia-prever-chefe-da-stellantis-admite-erro-do-setor-diante-da-disparada-chinesa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 07 Oct 2026 06:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "'Quanto dura um amor de verão?’: ânimo do mercado com Flávio pode ter prazo de validade, avaliam economistas",
+      "descricao": "Ibovespa bate recorde e dólar tem maior queda desde 2018 após 1º turno O resultado do primeiro turno das eleições colocou o senador Flávio Bolsonaro (PL) à frente do presidente Luiz Inácio Lula da Silva (PT) na disputa pela presidência da República. No Congresso, o PL também foi o grande vencedor do pleito. Os reflexos apareceram imediatamente no mercado financeiro: o Ibovespa, principal índice da",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/animo-do-mercado-com-flavio-pode-ter-prazo-de-validade-avaliam-economistas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 8,
+      "pub_date": "Wed, 07 Oct 2026 08:00:01 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "A reação do mercado ao 1º turno: da euforia à incerteza - O Assunto #1820",
+      "descricao": "Logo na abertura do pregão de segunda-feira (5), o Ibovespa, o índice da bolsa de valores brasileira, disparou mais de 7% e ultrapassou a marca de 200 mil pontos pela primeira vez. Além disso, a curva de juros futuros desabou e o dólar recuou para menos de R$ 5. O que explica a euforia dos mercados é o resultado das urnas no 1º turno, que indica favoritismo de Flávio Bolsonaro (PL) e um Congresso ",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/07/a-reacao-do-mercado-ao-1o-turno-da-euforia-a-incerteza-o-assunto-1820.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 7,
+      "pub_date": "Wed, 07 Oct 2026 03:30:00 -0000",
+      "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em alta com exterior no radar; Ibovespa oscila",
+      "descricao": "Ações brasileiras tiveram valorização na manhã desta segunda (5) após 1º turno das eleições O dólar opera nesta quarta-feira (7) em alta de 0,30%, cotado a R$ 4,9905, por volta das 10h30. No mesmo horário, o Ibovespa, principal índice da bolsa brasileira, oscilava em alta de 0,19%, aos 206.330 pontos, após chegar a cair 0,09% nos primeiros negócios. A oscilação reflete a tentativa dos investidores",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Wed, 07 Oct 2026 12:00:02 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
       ]
     },
     {
@@ -67,6 +125,22 @@
       ]
     },
     {
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai e perde os 205 mil pontos; VALE3 recua 3%",
+      "descricao": "Bolsas dos EUA recuam com nova alta de petróleo e Treasuries The post Ibovespa Hoje Ao Vivo: Bolsa cai e perde os 205 mil pontos; VALE3 recua 3% appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07102026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 07 Oct 2026 15:27:44 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
       "titulo": "Balança comercial tem superávit de US$ 7,74 bilhões em setembro",
       "descricao": "Com a ajuda do petróleo, dos combustíveis, da soja e do cobre, a balança comercial brasileira registrou superávit de US$ 7,74 bilhões em setembro, mais que dobrou em relação a setembro de 2025 (US$ 3,14 bilhões). O desempenho foi impulsionado pelo crescimento das exportações, que avançaram 12,9% no período, segundo dados divulgados nesta terça-feira (6) pelo Ministério do Desenvolvimento, Indústri",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro",
@@ -98,33 +172,90 @@
       ]
     },
     {
-      "titulo": "Ibovespa sobe 8,49% e chega a 208 mil pontos após primeiro turno",
-      "descricao": "Bolsa supera 200 mil pontos pela primeira vez, enquanto dólar recua 4,71%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7514884-ibovespa-sobe-849-e-chega-a-208-mil-pontos-apos-primeiro-turno.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Mon, 5 Oct 2026 12:17:21 -0300",
-      "setores": [
-        "Câmbio / Exportadores",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Petrobras, Bradesco, Raízen, Padtec e mais ações para acompanhar nesta 4ª",
-      "descricao": "Veja os principais destaques do noticiário corporativo desta quarta-feira (7) The post Petrobras, Bradesco, Raízen, Padtec e mais ações para acompanhar nesta 4ª appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-bradesco-raizen-padtec-e-mais-acoes-para-acompanhar-nesta-4a/",
+      "titulo": "“Lua de mel” com a inflação acabou e BC deve cortar Selic “cautelosamente”, diz XP",
+      "descricao": "Segundo economistas, as perspectivas permanecem sob pressão e a inflação acumulada em 12 meses voltará a ultrapassar o limite superior da faixa da meta no 4º trimestre; mas câmbio favorável pode ajudar o BC The post “Lua de mel” com a inflação acabou e BC deve cortar Selic “cautelosamente”, diz XP appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/lua-de-mel-com-a-inflacao-acabou-e-bc-deve-cortar-selic-cautelosamente-diz-xp/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Wed, 07 Oct 2026 10:07:57 +0000",
+      "pub_date": "Wed, 07 Oct 2026 15:22:13 +0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Gestores elevam aposta em Brasil, mas apontam 2º turno como gatilho para redução",
+      "descricao": "Levantamento da XP com 24 gestoras de multimercados macro mostra Bolsa como ativo preferido e unanimidade por novo corte da Selic, de olho no resultado final das eleições neste mês The post Gestores elevam aposta em Brasil, mas apontam 2º turno como gatilho para redução appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/pesquisa-gestoras-xp-pos-primeiro-turno-outubro-2026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 15:16:23 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "'Split payment': campanha de Flávio diz que acabará com mecanismo essencial da reforma tributária",
+      "descricao": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição' O candidato à Presidência Flávio Bolsonaro (PL) afirmou nesta quarta-feira (7) que, entre as mudanças que pretende fazer na Constituição para \"redemocratizar\" o país caso seja eleito, estão alterações na reforma tributária proposta pelo governo Lula (PT) e aprovada pelo Congresso. Nessa terça-feira (6), a coordenadora do",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/reforma-tributaria-flavio-defende-mudancas-e-porta-voz-diz-que-vai-acabar-com-split-payment.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 14:25:40 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Leilão da ANP: Petrobras e outras petroleiras arrematam 7 das 13 áreas de exploração no pré-sal",
+      "descricao": "ANP faz leilões de petróleo e gás; bônus mínimos chegam a R$ 2,18 bilhões A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) realizou nesta quarta-feira (7) um leilão de 13 áreas do pré-sal para exploração de petróleo e gás natural nas bacias de Campos e Santos. Ao todo, três empresas e dois consórcios arremataram sete dos blocos ofertados. Os bônus de assinatura das áreas negocia",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/anp-leilao.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 12:55:14 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Dívida pública global deve superar 100% do PIB antes de 2030, alerta FMI",
+      "descricao": "Agora no g1 A dívida pública global deve superar 100% do Produto Interno Bruto (PIB) antes de 2030, segundo o Fundo Monetário Internacional (FMI), órgão que monitora a economia mundial. Hoje, a dívida pública global já equivale a cerca de 95% de tudo o que o mundo produz em um ano. O alerta foi feito nesta quarta-feira (7) pela diretora-gerente do fundo, Kristalina Georgieva, que também citou os p",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/divida-pib-fmi.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 12:23:23 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Avanço da direita no Senado acende alerta no STF e abre negociação sobre impeachment",
+      "descricao": "Sadi: STF movimenta agenda Bolsonarista Enquanto as campanhas do 2 º turno das eleições seguem na rua, um movimento acontece nos bastidores: as movimentações da nova composição do Senado em relação ao Supremo Tribunal Federal (STF). Para a maioria dos novos eleitos, a principal bandeira de atuação no ano que vem é o funcionamento do STF e o impeachment de ministros. O senador Rogério Marinho (PL-R",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/07/senado-alerta-stf-impeachment.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 12:31:53 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -187,18 +318,59 @@
       ]
     },
     {
-      "titulo": "China: reservas cambiais caem em setembro, enquanto as de ouro aumentam",
-      "descricao": "Economistas apontaram que o fortalecimento do dólar e a alta dos rendimentos dos títulos do Tesouro dos EUA podem ter reduzido o valor das reservas chinesas The post China: reservas cambiais caem em setembro, enquanto as de ouro aumentam appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/china-reservas-cambiais-caem-em-setembro-enquanto-as-de-ouro-aumentam/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Em novo vídeo, Lula cobra Flávio Bolsonaro sobre escala 6x1: 'Quero saber como vai votar'",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) divulgou um novo vídeo nas redes sociais nesta quarta-feira (7), desta vez para cobrar uma posição do senador Flávio Bolsonaro (PL-RJ), seu adversário no segundo turno, sobre o fim da escala de trabalho 6x1. No vídeo, Lula questionou como Flávio Bolsonaro pretende se posicionar sobre a proposta e como vai orientar o PL, sigla da qual é filiado. \"Eu quero",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/07/escala-6x1-em-novo-video-para-redes-sociais-lula-questiona-quero-saber-como-flavio-vai-votar.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 07 Oct 2026 10:56:25 +0000",
+      "pub_date": "Wed, 07 Oct 2026 15:27:16 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Câmbio / Exportadores"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "231,5 mil eleitores apertaram '10' para presidente e anularam o voto",
+      "descricao": "Demonstração do fluxo de votação das Eleições 2026, na sede do TRE-SP, centro da capital, SP. Na foto a urna eletrônica. ROBERTO CASIMIRO/FOTOARENA/ESTADÃO CONTEÚDO Mais de 231 mil eleitores digitaram e confirmaram o número 10 para presidente e, assim, acabaram por anular seus votos no primeiro turno das eleições de 2026, segundo dados dos Registros Digitais de Voto (RDVs). O número 10 pertence ao",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/votos-nulos-presidente-numero-1-turno-2026.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 07 Oct 2026 13:51:53 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Aliados de Flávio Bolsonaro alertam para risco de discurso sobre mudança na Constituição e clima de 'já ganhou'",
+      "descricao": "Valdo: Flávio Bolsonaro foi aconselhado a 'baixar o tom' Aliados do candidato do PL à Presidência da República, Flávio Bolsonaro, alertam para o risco de declarações como a de mudar a Constituição para “redemocratizar o país”, que podem transmitir uma mensagem de autoritarismo. Também pedem que o senador evite adotar um tom de “já ganhou”. Na avaliação desses interlocutores, o momento é favorável ",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/07/aliados-de-flavio-bolsonaro-alertam-para-risco-de-discurso-sobre-mudanca-na-constituicao-e-clima-de-ja-ganhou.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 07 Oct 2026 13:07:32 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Senado retoma nesta quarta discussão sobre PEC do fim da escala 6x1",
+      "descricao": "Senado retoma nesta quarta discussão sobre PEC do fim da escala 6x1 Serão três sessões semipresenciais no plenário da Casa para discussão da proposta, que já passou pela Câmara. Líderes de oposição articulam para não marcar presença, e votação é incerta. O plenário do Senado iniciou, nesta terça-feira (6), a discussão sobre a PEC do fim da escala 6x1. A proposta já passou pela Câmara.. Após o 1º t",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pec-do-fim-da-escala-6x1.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 07 Oct 2026 09:40:33 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -231,157 +403,60 @@
       ]
     },
     {
-      "titulo": "Shell prevê margens de refino recordes com impulso de guerra no Irã a combustíveis",
-      "descricao": "Espera-se que os resultados dos grandes negócios de comercialização de gás e derivados de petróleo da Shell estejam em linha com o trimestre anterior The post Shell prevê margens de refino recordes com impulso de guerra no Irã a combustíveis appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/shell-preve-margens-de-refino-recordes-com-impulso-de-guerra-no-ira-a-combustiveis/",
+      "titulo": "Tarcísio anuncia reunião de Flávio com Republicanos e espera gesto do MDB",
+      "descricao": "Para Tarcísio, não há obstáculos no partido para apoiar o senador no segundo turno The post Tarcísio anuncia reunião de Flávio com Republicanos e espera gesto do MDB appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/tarcisio-anuncia-reuniao-de-flavio-com-republicanos-e-espera-gesto-do-mdb/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 10:47:21 +0000",
+      "pub_date": "Wed, 07 Oct 2026 15:44:58 +0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Estrangeiros trouxeram R$ 10 bilhões para Bolsa apenas no “Flávio Day”",
-      "descricao": "Até dia 2 de outubro, o capital estrangeiro já era positivo em R$ 2,55 bilhões e, após a sessão de segunda, ficou em R$ 12,61 bilhões The post Estrangeiros trouxeram R$ 10 bilhões para Bolsa apenas no &#8220;Flávio Day&#8221; appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-10-bilhoes-para-bolsa-apenas-no-flavio-day/",
+      "titulo": "SpaceX busca US$ 40 bi para comprar chips da Nvidia e ampliar aposta em IA",
+      "descricao": "Empresa de Elon Musk negocia financiamento com bancos e investidores para adquirir semicondutores da Nvidia, em uma das maiores operações de dívida já ligadas à corrida global por inteligência artificial The post SpaceX busca US$ 40 bi para comprar chips da Nvidia e ampliar aposta em IA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/spacex-busca-us-40-bi-para-comprar-chips-da-nvidia-e-ampliar-aposta-em-ia/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 10:25:01 +0000",
+      "pub_date": "Wed, 07 Oct 2026 15:11:24 +0000",
       "setores": [
-        "Todos os ativos"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
-      "titulo": "Minidólar (WDOX26): pontos-chave para operar nesta quarta-feira",
-      "descricao": "Saiba o que esperar para o minidólar nesta quarta (07) The post Minidólar (WDOX26): pontos-chave para operar nesta quarta-feira appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-07102026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 10:12:00 +0000",
-      "setores": [
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "ANP espera leiloar mais de 320 blocos de petróleo nesta quarta",
-      "descricao": "Dois leilões da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) vão colocar em disputa 326 blocos de exploração e produção de petróleo e gás natural nesta quarta-feira (7). De acordo com a agência, os leilões são os maiores já realizados . As ofertas incluem 13 áreas no pré-sal e dois setores na Bacia do Ceará, que faz parte da Margem Equatorial, considerada a nova fronteira de e",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/anp-espera-leiloar-mais-de-320-blocos-de-petroleo-nesta-quarta",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Flávio diz que fala sobre mudar a Constituição 'para redemocratizar o país' se referia à reforma do STF e fim da reeleição",
+      "descricao": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição' O candidato à Presidência Flávio Bolsonaro (PL) afirmou, nesta quarta-feira (7), que a declaração sobre querer \"mudar a Constituição para redemocratizar o país\" se referia a propostas já anunciadas por ele caso seja eleito, como a redução da maioridade penal e mudanças no Supremo Tribunal Federal (STF). \"Vocês acham que ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 07:20:00 -0300",
+      "pub_date": "Wed, 07 Oct 2026 13:15:37 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Prazo para sacar dinheiro das bets termina nesta segunda",
-      "descricao": "Quem ainda tem dinheiro em sites de apostas esportivas e jogos virtuais tem até as 23h59 desta segunda-feira (5) para solicitar o saque diretamente nas plataformas. A partir da 0h de terça-feira (6), os sites e aplicativos deverão ser retirados do ar. A medida faz parte da Medida Provisória (MP) 1.394/2026 , assinada pelo presidente Luiz Inácio Lula da Silva em 25 de setembro. A iniciativa estabel",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/prazo-para-sacar-dinheiro-das-bets-termina-nesta-segunda",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Ministros do STF indicam a Nunes Marques que revisão criminal de Bolsonaro deve ir a plenário",
+      "descricao": "Fachin indica a Nunes Marques que revisão criminal de Bolsonaro deve ir a plenário Ministros do Supremo Tribunal Federal (STF) têm levado ao colega Kassio Nunes Marques a percepção de que uma discussão da revisão criminal da condenação de Jair Bolsonaro precisa ocorrer no Plenário da Corte, não em uma Turma. Está é a visão também do presidente da Corte, Edson Fachin. Outros ministros têm levado a ",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fachin-indica-a-nunes-marques-que-revisao-criminal-de-bolsonaro-deve-ir-a-plenario.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 05 Oct 2026 15:48:00 -0300",
+      "pub_date": "Wed, 07 Oct 2026 12:27:34 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Fenabrave: emplacamentos passam de 500 mil e batem recorde em setembro",
-      "descricao": "Emplacamentos de veículos bateram recorde para o mês, em setembro. Foram registradas 509.686 unidades – crescimento de 8,32% na comparação com setembro de 2025 e de 1,15% sobre agosto. Os dados são da Federação Nacional da Distribuição de Veículos Automotores (Fenabrave) . Esse resultado engloba a venda de automóveis, comerciais leves (picapes e furgões), ônibus, caminhões, motos e implementos rod",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fenabrave-emplacamentos-passam-de-500-mil-e-batem-recorde-em-setembro",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 05 Oct 2026 13:47:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Governo diz que ainda há R$ 1,325 bilhão a ser devolvido por bets",
-      "descricao": "Segundo o ministro da Fazenda, 1% dos apostadores, cerca de 200 mil pessoas, concentram 80% do saldo, enquanto 3,4% concentram 90%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7516052-governo-diz-que-ainda-ha-rs-1325-bilhao-a-ser-devolvido-por-bets.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 6 Oct 2026 19:48:23 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Bets saem do ar nesta terça (6); veja como resgatar valores",
-      "descricao": "Antigas páginas de empresas que operavam com apostas no país passam a exibir portal do governo federal com informações sobre recursos deixados",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7515818-bets-saem-do-ar-nesta-terca-6-veja-como-resgatar-valores.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 6 Oct 2026 15:43:27 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "PEC que acaba com escala 6x1 retoma tramitação no Senado nesta terça",
-      "descricao": "Senadores iniciam hoje as discussões para votação da Proposta de Emenda à Constituição que reduz a jornada para 40 horas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7515342-pec-que-acaba-com-escala-6x1-retoma-tramitacao-no-senado-nesta-terca.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 5 Oct 2026 23:52:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Promessa de Flávio de rever impostos esbarra no cronograma tributário",
-      "descricao": "Eventual adiamento da CBS e do IBS exigiria mudança na Constituição e aprovação do Congresso ainda em 2026",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7515287-promessa-de-flavio-de-rever-impostos-esbarra-no-cronograma-tributario.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 5 Oct 2026 19:09:17 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Dólar cai 4% e fica abaixo de R$ 5 após resultado do 1º turno",
-      "descricao": "Moeda norte-americana abriu a sessão em forte queda, enquanto Flávio Bolsonaro e Lula avançam para a disputa do segundo turno",
-      "link": "https://www.correiobraziliense.com.br/politica/2026/10/7514827-dolar-cai-4-e-fica-abaixo-de-rs-5-apos-resultado-do-1-turno.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 5 Oct 2026 10:59:00 -0300",
-      "setores": [
-        "Câmbio / Exportadores"
       ]
     }
   ]
