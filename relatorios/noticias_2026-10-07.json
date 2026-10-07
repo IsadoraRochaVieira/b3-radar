@@ -1,5 +1,5 @@
 {
-  "coletado_em": "07/10/2026 12:45",
+  "coletado_em": "07/10/2026 13:05",
   "total": 30,
   "urgentes": 2,
   "destaque": {
@@ -141,6 +141,21 @@
       ]
     },
     {
+      "titulo": "Estrangeiros colocam recorde de R$ 10 bilhões na Bolsa brasileira após 1º turno; entenda o movimento",
+      "descricao": "Dólar volta a cair e atinge menor valor desde maio; Bolsa recua, mas mantém 200 mil pontos Investidores estrangeiros colocaram um recorde de R$ 10,06 bilhões na Bolsa brasileira em um único dia após o resultado do primeiro turno das eleições. O valor, registrado na segunda-feira (5), foi o maior fluxo líquido de entrada de recursos estrangeiros em ações brasileiras em um único pregão, segundo dado",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/bolsa-10bi-estrangeiros.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 07 Oct 2026 15:44:00 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
       "titulo": "Balança comercial tem superávit de US$ 7,74 bilhões em setembro",
       "descricao": "Com a ajuda do petróleo, dos combustíveis, da soja e do cobre, a balança comercial brasileira registrou superávit de US$ 7,74 bilhões em setembro, mais que dobrou em relação a setembro de 2025 (US$ 3,14 bilhões). O desempenho foi impulsionado pelo crescimento das exportações, que avançaram 12,9% no período, segundo dados divulgados nesta terça-feira (6) pelo Ministério do Desenvolvimento, Indústri",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro",
@@ -172,6 +187,21 @@
       ]
     },
     {
+      "titulo": "Goldman: Flávio é favorito, mas mercado agora cobrará fiscal e equipe econômica",
+      "descricao": "Banco destaca avanço da direita no Congresso e condições de governabilidade mais favoráveis; pesquisas do 2º turno, Ministério da Fazenda e plano fiscal entram no radar The post Goldman: Flávio é favorito, mas mercado agora cobrará fiscal e equipe econômica appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/goldman-ve-flavio-favorito-mas-ve-mercado-agora-cobrando-fiscal-e-equipe-economica/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 07 Oct 2026 15:50:21 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
       "titulo": "“Lua de mel” com a inflação acabou e BC deve cortar Selic “cautelosamente”, diz XP",
       "descricao": "Segundo economistas, as perspectivas permanecem sob pressão e a inflação acumulada em 12 meses voltará a ultrapassar o limite superior da faixa da meta no 4º trimestre; mas câmbio favorável pode ajudar o BC The post “Lua de mel” com a inflação acabou e BC deve cortar Selic “cautelosamente”, diz XP appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/economia/lua-de-mel-com-a-inflacao-acabou-e-bc-deve-cortar-selic-cautelosamente-diz-xp/",
@@ -187,24 +217,8 @@
       ]
     },
     {
-      "titulo": "Gestores elevam aposta em Brasil, mas apontam 2º turno como gatilho para redução",
-      "descricao": "Levantamento da XP com 24 gestoras de multimercados macro mostra Bolsa como ativo preferido e unanimidade por novo corte da Selic, de olho no resultado final das eleições neste mês The post Gestores elevam aposta em Brasil, mas apontam 2º turno como gatilho para redução appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/pesquisa-gestoras-xp-pos-primeiro-turno-outubro-2026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Wed, 07 Oct 2026 15:16:23 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "'Split payment': campanha de Flávio diz que acabará com mecanismo essencial da reforma tributária",
-      "descricao": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição' O candidato à Presidência Flávio Bolsonaro (PL) afirmou nesta quarta-feira (7) que, entre as mudanças que pretende fazer na Constituição para \"redemocratizar\" o país caso seja eleito, estão alterações na reforma tributária proposta pelo governo Lula (PT) e aprovada pelo Congresso. Nessa terça-feira (6), a coordenadora do",
+      "titulo": "'Split payment': campanha de Flávio diz que acabará com mecanismo da reforma tributária que busca reduzir sonegação",
+      "descricao": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição' O candidato à Presidência Flávio Bolsonaro (PL) afirmou nesta quarta-feira (7) que, entre as mudanças que pretende fazer na Constituição para \"redemocratizar\" o país caso seja eleito, estão alterações na reforma tributária proposta pelo governo Lula (PT) e aprovada pelo Congresso. 🔎O split payment (ou pagamento fracionad",
       "link": "https://g1.globo.com/economia/noticia/2026/10/07/reforma-tributaria-flavio-defende-mudancas-e-porta-voz-diz-que-vai-acabar-com-split-payment.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -319,7 +333,7 @@
     },
     {
       "titulo": "Em novo vídeo, Lula cobra Flávio Bolsonaro sobre escala 6x1: 'Quero saber como vai votar'",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) divulgou um novo vídeo nas redes sociais nesta quarta-feira (7), desta vez para cobrar uma posição do senador Flávio Bolsonaro (PL-RJ), seu adversário no segundo turno, sobre o fim da escala de trabalho 6x1. No vídeo, Lula questionou como Flávio Bolsonaro pretende se posicionar sobre a proposta e como vai orientar o PL, sigla da qual é filiado. \"Eu quero",
+      "descricao": "Lula grava novo vídeo sobre o fim da escala 6x1. Reprodução/Instagram O presidente Luiz Inácio Lula da Silva (PT) divulgou um novo vídeo nas redes sociais nesta quarta-feira (7), desta vez para cobrar uma posição do senador Flávio Bolsonaro (PL-RJ), seu adversário no segundo turno, sobre o fim da escala de trabalho 6x1. No vídeo, Lula questionou como Flávio Bolsonaro pretende se posicionar sobre a",
       "link": "https://g1.globo.com/politica/noticia/2026/10/07/escala-6x1-em-novo-video-para-redes-sociais-lula-questiona-quero-saber-como-flavio-vai-votar.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -403,6 +417,34 @@
       ]
     },
     {
+      "titulo": "Tarcísio, sobre Flávio mudar Constituição: ‘existem algumas mudanças necessárias’",
+      "descricao": "Governador disse que o Congresso eleito deve ser um 'facilitador' para isso The post Tarcísio, sobre Flávio mudar Constituição: &#8216;existem algumas mudanças necessárias&#8217; appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/tarcisio-sobre-flavio-mudar-constituicao-existem-algumas-mudancas-necessarias/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 07 Oct 2026 15:55:58 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Como é feita a apuração dos votos nas eleições?",
+      "descricao": "Resultado do 1º turno já está disponível para conferência no aplicativo oficial do TSE The post Como é feita a apuração dos votos nas eleições? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/como-e-feita-a-apuracao-dos-votos-nas-eleicoes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 07 Oct 2026 15:51:25 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "Tarcísio anuncia reunião de Flávio com Republicanos e espera gesto do MDB",
       "descricao": "Para Tarcísio, não há obstáculos no partido para apoiar o senador no segundo turno The post Tarcísio anuncia reunião de Flávio com Republicanos e espera gesto do MDB appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/politica/tarcisio-anuncia-reuniao-de-flavio-com-republicanos-e-espera-gesto-do-mdb/",
@@ -412,49 +454,6 @@
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Wed, 07 Oct 2026 15:44:58 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "SpaceX busca US$ 40 bi para comprar chips da Nvidia e ampliar aposta em IA",
-      "descricao": "Empresa de Elon Musk negocia financiamento com bancos e investidores para adquirir semicondutores da Nvidia, em uma das maiores operações de dívida já ligadas à corrida global por inteligência artificial The post SpaceX busca US$ 40 bi para comprar chips da Nvidia e ampliar aposta em IA appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/spacex-busca-us-40-bi-para-comprar-chips-da-nvidia-e-ampliar-aposta-em-ia/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 15:11:24 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Flávio diz que fala sobre mudar a Constituição 'para redemocratizar o país' se referia à reforma do STF e fim da reeleição",
-      "descricao": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição' O candidato à Presidência Flávio Bolsonaro (PL) afirmou, nesta quarta-feira (7), que a declaração sobre querer \"mudar a Constituição para redemocratizar o país\" se referia a propostas já anunciadas por ele caso seja eleito, como a redução da maioridade penal e mudanças no Supremo Tribunal Federal (STF). \"Vocês acham que ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 13:15:37 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Ministros do STF indicam a Nunes Marques que revisão criminal de Bolsonaro deve ir a plenário",
-      "descricao": "Fachin indica a Nunes Marques que revisão criminal de Bolsonaro deve ir a plenário Ministros do Supremo Tribunal Federal (STF) têm levado ao colega Kassio Nunes Marques a percepção de que uma discussão da revisão criminal da condenação de Jair Bolsonaro precisa ocorrer no Plenário da Corte, não em uma Turma. Está é a visão também do presidente da Corte, Edson Fachin. Outros ministros têm levado a ",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fachin-indica-a-nunes-marques-que-revisao-criminal-de-bolsonaro-deve-ir-a-plenario.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 07 Oct 2026 12:27:34 -0000",
       "setores": [
         "Mercado geral"
       ]
