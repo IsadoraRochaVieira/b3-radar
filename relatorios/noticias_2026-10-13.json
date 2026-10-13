@@ -1,22 +1,52 @@
 {
-  "coletado_em": "13/10/2026 09:11",
-  "total": 25,
-  "urgentes": 1,
+  "coletado_em": "13/10/2026 13:07",
+  "total": 30,
+  "urgentes": 3,
   "destaque": {
-    "titulo": "Nobel de Economia premia descoberta que ajuda a conter crises",
-    "descricao": "Robert Hall e Michael Woodford desenvolveram modelos que ajudam a entender como governos e bancos centrais podem reduzir os altos e baixos da economia",
-    "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519051-nobel-de-economia-premia-descoberta-que-ajuda-a-conter-crises.html",
-    "fonte": "Correio Braziliense Economia",
-    "categoria": "Brasília / DF",
-    "cor": "#ff4466",
+    "titulo": "Crise, rentabilidade e tempo: 6 erros que podem prejudicar os investimentos",
+    "descricao": "Rodolfo Ceppas Bastos, fundador da Oyster Academy, aponta seis erros que podem prejudicar investimentos no longo prazo, como perseguir a rentabilidade passada e abandonar a estratégia durante crises. O especialista destaca a importância do tempo, dos juros compostos, da tributação, da volatilidade e de uma carteira adequada aos objetivos do investidor The post Crise, rentabilidade e tempo: 6 erros",
+    "link": "https://www.infomoney.com.br/advisor/crise-rentabilidade-e-tempo-6-erros-que-podem-prejudicar-os-investimentos/",
+    "fonte": "Infomoney",
+    "categoria": "Mercado",
+    "cor": "#4488ff",
     "urgencia": "alta",
     "score_relevancia": 1,
-    "pub_date": "Mon, 12 Oct 2026 08:51:00 -0300",
+    "pub_date": "Tue, 13 Oct 2026 15:56:00 +0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Telecom (VIVT3, TIMS3)"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Crise, rentabilidade e tempo: 6 erros que podem prejudicar os investimentos",
+      "descricao": "Rodolfo Ceppas Bastos, fundador da Oyster Academy, aponta seis erros que podem prejudicar investimentos no longo prazo, como perseguir a rentabilidade passada e abandonar a estratégia durante crises. O especialista destaca a importância do tempo, dos juros compostos, da tributação, da volatilidade e de uma carteira adequada aos objetivos do investidor The post Crise, rentabilidade e tempo: 6 erros",
+      "link": "https://www.infomoney.com.br/advisor/crise-rentabilidade-e-tempo-6-erros-que-podem-prejudicar-os-investimentos/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 13 Oct 2026 15:56:00 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Nunes Marques suspende liminar de Cueva e determina retirada do ar do canal 'Exército do Lula' até que seja registrado no TSE",
+      "descricao": "Nunes Marques derruba decisão que liberou 'Exército do Lula' Reaçe Em meio à crise no Tribunal Superior Eleitoral (TSE), o presidente da Corte, Kassio Nunes Marques, suspendeu nesta terça-feira (13) a decisão do corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, que havia autorizado o funcionamento do canal “Exército do Lula”, no WhatsApp. Com isso, o canal deverá ficar fora do ar a",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/13/para-encerrar-crise-nunes-marques-vai-tentar-acordo-com-campanhas-e-pedir-para-canais-serem-registrados-no-tse.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 13 Oct 2026 12:51:16 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
     {
       "titulo": "Nobel de Economia premia descoberta que ajuda a conter crises",
       "descricao": "Robert Hall e Michael Woodford desenvolveram modelos que ajudam a entender como governos e bancos centrais podem reduzir os altos e baixos da economia",
@@ -32,19 +62,51 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-      "descricao": "Índices futuros dos EUA operam mistos à espera de balanços de bancos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13102026/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Mercado eleva previsão da inflação para 5,22% em 2026",
+      "descricao": "A projeção do mercado financeiro para a inflação oficial em 2026 subiu de 5,01% para 5,22%, segundo o Boletim Focus divulgado nesta terça-feira (13) pelo Banco Central . Essa foi a quarta alta consecutiva da estimativa para o Índice Nacional de Preços ao Consumidor Amplo (IPCA). Ao mesmo tempo, o mercado financeiro manteve a previsão de crescimento da economia em 1,85% e reduziu a expectativa para",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mercado-eleva-previsao-da-inflacao-para-522-em-2026",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Tue, 13 Oct 2026 12:05:06 +0000",
+      "score_relevancia": 6,
+      "pub_date": "Tue, 13 Oct 2026 11:28:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em alta, com foco em preços do petróleo e novas pesquisas eleitorais no Brasil; Ibovespa cai",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta terça-feira (13), volta do feriado de Nossa Senhora Aparecida. Perto das 11h, a moeda subia 0,62%, cotada R$ 5,0153. Já o Ibovespa, principal índice da bolsa brasileira, tinha queda de 0,80% no mesmo horário, aos 207.384 pontos. Na última sexta-feira, o índice bateu um novo recorde de fechamento, aos 209.067 pontos (+1,38",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/13/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 13 Oct 2026 12:00:19 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)",
         "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Mercado financeiro sobe para 5,22% estimativa de inflação em 2026 e passa a prever juros menores",
+      "descricao": "O mercado financeiro elevou sua estimativa de inflação neste ano e também passou a projetar uma queda maior na taxa básica de juros, a Selic. A projeção do mercado para a taxa Selic ao fim de 2026 recuou de 13,50% para 13,25% ao ano na última semana — embutindo não somente uma, mas duas reduções até o fim de 2026. As informações fazem parte do \"Boletim Focus\", divulgado nesta terça-feira (13) pelo",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/13/mercado-financeiro-sobe-para-522percent-estimativa-de-inflacao-em-2026-e-passa-a-prever-juros-menores.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Tue, 13 Oct 2026 11:30:46 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
       ]
     },
     {
@@ -64,63 +126,176 @@
       ]
     },
     {
-      "titulo": "Dólar termina semana pós-eleições com queda de 4,44% e fica abaixo de R$ 5",
-      "descricao": "No mercado acionário, o Ibovespa registrou a maior alta semanal desde 2020, após ter ‘furado’ a barreira dos 200 mil pontos pela primeira vez",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7518334-dolar-termina-semana-pos-eleicoes-com-queda-de-444-e-fica-abaixo-de-rs-5.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com realização de lucros e eleições no radar",
+      "descricao": "Bolsas dos EUA operam mistas em meio a balanços de bancos The post Ibovespa Hoje Ao Vivo: Bolsa cai com realização de lucros e eleições no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13102026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 4,
-      "pub_date": "Fri, 9 Oct 2026 19:55:00 -0300",
+      "pub_date": "Tue, 13 Oct 2026 15:53:25 +0000",
       "setores": [
-        "Câmbio / Exportadores",
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "MGLU3: “estrelas se alinham” para o Magazine Luiza e Itaú BBA eleva ações para compra",
-      "descricao": "Com os juros em trajetória de baixa e maior confiança de que esse movimento será duradouro, o banco revisou suas projeções para um cenário de normalização, considerando juros reais próximos de 6% The post MGLU3: &#8220;estrelas se alinham&#8221; para o Magazine Luiza e Itaú BBA eleva ações para compra appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/mglu3-magazine-luiza-estrelas-se-alinham-itau-bba-eleva-compra-desempenho-acoes/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 13 Oct 2026 11:54:56 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Boletim Focus eleva projeção de inflação para 5,22% em 2026 e reduz câmbio",
-      "descricao": "Mercado projeta Selic de 13,25% ao fim de 2026 The post Boletim Focus eleva projeção de inflação para 5,22% em 2026 e reduz câmbio appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/boletim-focus-eleva-projecao-de-inflacao-para-522-em-2026-e-reduz-cambio/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Tue, 13 Oct 2026 11:46:06 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Santander, Vale, Movida, Copasa e mais ações para acompanhar nesta 3ª",
-      "descricao": "Veja os principais destaques do noticiário corporativo desta terça-feira (13) The post Santander, Vale, Movida, Copasa e mais ações para acompanhar nesta 3ª appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/santander-vale-movida-copasa-e-mais-acoes-para-acompanhar-nesta-3a/",
+      "titulo": "PT admite falhas em campanha e afirma que Lula quer “confronto direto” com Flávio",
+      "descricao": "Edinho Silva destacou erros cometidos durante o 1º turno e a ausência de articulações com apoiadores de Lula nas eleições de 2022 The post PT admite falhas em campanha e afirma que Lula quer &#8220;confronto direto&#8221; com Flávio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/pt-admite-falhas-em-campanha-e-afirma-que-lula-quer-confronto-direto-com-flavio/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 13 Oct 2026 11:57:28 +0000",
+      "pub_date": "Tue, 13 Oct 2026 15:48:35 +0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Getty Images fecha acordo para reduzir dívida e sair da Bolsa",
+      "descricao": "Empresa receberá novo capital de acionistas e converterá parte de suas obrigações financeiras em participação acionária The post Getty Images fecha acordo para reduzir dívida e sair da Bolsa appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/getty-images-fecha-acordo-para-reduzir-divida-e-sair-da-bolsa/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 15:47:58 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "De realização de lucros à cautela eleitoral: o que faz Ibovespa cair após recordes",
+      "descricao": "O recuo é atribuído por analistas à cautela no mercado doméstico e no exterior. No Brasil, o foco é a disputa acirrada para a Presidência da República e, lá fora, a tensão geopolítica dos EUA com o Irã segue no radar The post De realização de lucros à cautela eleitoral: o que faz Ibovespa cair após recordes appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-so-realizacao-de-lucros-ou-cautela-eleitoral-o-que-faz-indice-cair-apos-recordes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 15:30:26 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Na reta final antes do 2º turno, governo envia ao Congresso projeto de lei que prevê perdão a dívidas de MEIs",
+      "descricao": "Presidente Luiz Inácio Lula da Silva Ricardo Stuckert O governo federal anunciou nesta terça-feira (13), um pacote de medidas voltadas para microempreendedores individuais (MEIs) e a empresas enquadradas no Simples Nacional. Segundo o ministro do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte, Paulo Henrique Pereira, o pacote inclui cinco medidas. A primeira delas é a o perdão das",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/13/na-reta-final-do-segundo-turno-lula-anuncia-credito-e-medidas-para-pequenos-negocios.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 14:18:10 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "FMI eleva previsão de crescimento global com impulso da IA, mas alerta para dependência",
+      "descricao": "FMI reduz projeção de crescimento para o Brasil O Fundo Monetário Internacional (FMI) elevou de 3% para 3,1% a previsão de crescimento da economia global em 2026, impulsionado pelos fortes investimentos em inteligência artificial (IA). Segundo o Fundo, o avanço da tecnologia ajuda a compensar os efeitos da guerra no Oriente Médio e da alta dos preços da energia, mas não elimina os riscos para a ec",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/13/ia-impulsiona-crescimento-global-e-leva-fmi-a-elevar-projecao-para-2026.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 12:09:59 -0000",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "O que o FMI prevê para a economia brasileira em 2027 — e os desafios para retomar o crescimento",
+      "descricao": "FMI reduz projeção de crescimento para o Brasil O Fundo Monetário Internacional prevê que o crescimento da economia brasileira vai perder fôlego no próximo ano — registrando um aumento menor do que o previsto para 2026. A avaliação faz parte do relatório Perspectiva Econômica Mundial, em que a entidade sediada em Washington faz previsões sobre toda a economia global. 🗒️Tem alguma sugestão de repor",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/13/o-que-o-fmi-preve-para-a-economia-brasileira-em-2027-e-os-desafios-para-retomar-crescimento.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 10:26:33 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "FMI eleva projeção para economia global, mas vê ganho concentrado com a IA",
+      "descricao": "Reunião anual do Fundo Monetário Internacional na Tailândia. Sakchai Lalit / AP O Fundo Monetário Internacional (FMI) elevou ligeiramente nesta terça-feira sua projeção para a economia global em 2026, mas continua prevendo um crescimento modesto de 3,1%. Em julho, o FMI estimava expansão global de 3,0%. Em 2025, a economia mundial cresceu 3,5%. No relatório Perspectivas Econômicas Mundiais, o orga",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/13/fmi-eleva-projecao-para-economia-global-mas-ve-ganho-concentrado-com-a-ia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 03:30:16 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Lula diz que PL decidiu apoiar fim da escala 6x1 'depois da pressão da sociedade'",
+      "descricao": "Lula durante cerimônia nesta terça (13) no Palácio do Planalto. Reprodução/Lula O presidente Luiz Inácio Lula da Silva afirmou nesta terça-feira (13) que o PL decidiu apoiar o fim da escala de trabalho 6x1 após pressão da sociedade e manifestações nas ruas. “Me parece que, depois da pressão da sociedade, me parece que depois de todas as manifestações na rua deste Brasil, o partido do PL resolveu v",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/13/lula-diz-que-pl-decidiu-apoiar-fim-da-escala-6x1-depois-da-pressao-da-sociedade.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 14:53:30 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "PCO orienta voto nulo no 2º turno da eleição presidencial",
+      "descricao": "O Partido da Causa Operária (PCO) orientou seus filiados a votar nulo no segundo turno da eleição presidencial, disputado entre Flávio Bolsonaro (PL) e Lula (PT). A decisão foi tomada durante a 39ª Conferência Nacional do partido, realizada no domingo (11), e anunciada nesta segunda-feira (12). O presidente do PCO, Rui Costa Pimenta, afirmou que, nas eleições em que a legenda apoiou Lula, a decisã",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/pco-orienta-voto-nulo-no-2o-turno-da-eleicao-presidencial.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 12:54:01 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "MDB vai anunciar apoio majoritário a Flávio Bolsonaro após ato nesta terça, diz presidente do partido",
+      "descricao": "Flávio Bolsonaro com o prefeito de São Paulo, Ricardo Nunes (MDB) e o governador reeleito do estado, Tarcísio de Freitas (Republicanos) Vittor Sales O presidente nacional do MDB, deputado federal Baleia Rossi (SP), afirmou nesta terça-feira (13) que o partido vai formalizar apoio majoritário à candidatura do senador Flávio Bolsonaro (PL) à Presidência da República. O anúncio será feito durante o a",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/mdb-vai-anunciar-apoio-a-flavio-bolsonaro-apos-ato-nesta-terca-diz-presidente-do-partido.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 12:47:15 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Flávio Bolsonaro faz primeira visita ao ex-presidente Jair Bolsonaro após fim de restrições do STF",
+      "descricao": "Flávio chega para visitar Jair Bolsonaro em prisão domiciliar O senador e candidato à Presidência Flávio Bolsonaro (PL) chegou à residência do pai, Jair Bolsonaro (PL), na manhã desta terça-feira (13) para fazer a sua primeira visita ao ex-presidente desde o fim das restrições determinadas pelo Supremo Tribunal Federal (STF). Condenado a 27 anos e 3 meses de prisão por tramar um golpe de Estado, J",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-jair-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 12:44:48 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
       ]
     },
     {
@@ -169,29 +344,58 @@
       ]
     },
     {
-      "titulo": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
-      "descricao": "A inflação oficial de setembro, apurada pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), fechou o mês de setembro em 0,82%. É o maior patamar desde março de 2026 (0,88%). O resultado no mês passado foi pressionado pelo fim do Bônus de Itaipu, um desconto que os consumidores receberam na cota de luz de agosto. Notícias relacionadas: Focus: mercado eleva previsão da inflação para 5,01% em ",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inflacao-oficial-de-setembro-fica-em-082-mostra-ibge",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 09 Oct 2026 10:06:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "O que o FMI prevê para a economia brasileira em 2027 — e os desafios para retomar crescimento",
-      "descricao": "Assim como analistas de mercado no Brasil, Fundo Monetário Internacional prevê que crescimento da economia brasileira vai perder fôlego no próximo ano.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/10/7519402-o-que-o-fmi-preve-para-a-economia-brasileira-em-2027-e-os-desafios-para-retomar-crescimento.html",
+      "titulo": "Reforma tributária exige planejamento financeiro de pequenos negócios, diz Sebrae",
+      "descricao": "Segundo o analista de Competitividade, Edgard Vicente Fernandes Júnior, os empresários precisarão simular os efeitos das novas regras para avaliar se vale permanecer no Simples regular ou adotar a versão híbrida",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519550-reforma-tributaria-exige-planejamento-financeiro-de-pequenos-negocios-diz-sebrae.html",
       "fonte": "Correio Braziliense Economia",
       "categoria": "Brasília / DF",
       "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Tue, 13 Oct 2026 06:50:00 -0300",
+      "pub_date": "Tue, 13 Oct 2026 11:31:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Opep eleva projeção de combustíveis líquidos e mantém a do PIB do Brasil em 2026 e 2027",
+      "descricao": "Projeções indicam alta na produção de combustíveis líquidos, impulsionada pelo crescimento no setor offshore",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519495-opep-eleva-projecao-de-combustiveis-e-mantem-a-do-pib-do-brasil.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 10:53:19 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Dólar tem alta com ajuste técnico e pesquisas no radar",
+      "descricao": "Mercado reflete pesquisas acirradas para o 2º turno, piora da inflação no Focus e exterior com resultados de bancos",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519494-dolar-tem-alta-com-ajuste-tecnico-e-pesquisas-no-radar.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 10:40:20 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Sebrae destaca impacto da reforma tributária nos pequenos negócios",
+      "descricao": "Segundo o gerente de Políticas Públicas, Augusto Togni, o volume de desinformação sobre a reforma é elevado, o que torna necessário ampliar o acesso a informações confiáveis sobre os efeitos das mudanças para os empreendedores",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519489-sebrae-destaca-impacto-da-reforma-tributaria-nos-pequenos-negocios.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 13 Oct 2026 10:16:00 -0300",
       "setores": [
         "Mercado geral"
       ]
@@ -211,179 +415,45 @@
       ]
     },
     {
-      "titulo": "Inflação acelera acima do esperado pelo mercado",
-      "descricao": "IPCA sobe 0,82%, em setembro, pressionado por energia, alimentos e transporte, que ficaram mais caros no mês passado",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7518476-inflacao-acelera-acima-do-esperado-pelo-mercado.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 9 Oct 2026 22:22:00 -0300",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Fim das ligações indesejadas? Lula edita proibição de chamadas e mensagens massivas",
-      "descricao": "Além disso, as prestadoras deverão bloquear, pelo período de quinze dias, a capacidade de originação de chamadas dos usuários que façam uso abusivo The post Fim das ligações indesejadas? Lula edita proibição de chamadas e mensagens massivas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/fim-das-ligacoes-indesejadas-lula-edita-proibicao-de-chamadas-e-mensagens-massivas/",
+      "titulo": "B3 lança quatro contratos futuros de Treasuries para negociação em reais",
+      "descricao": "Novos derivativos estreiam nesta terça-feira (13), com diferentes vencimentos The post B3 lança quatro contratos futuros de Treasuries para negociação em reais appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/b3-lanca-quatro-contratos-futuros-de-treasuries-para-negociacao-em-reais/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Tue, 13 Oct 2026 11:37:10 +0000",
+      "pub_date": "Tue, 13 Oct 2026 15:31:28 +0000",
       "setores": [
-        "Mercado geral"
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "FMI eleva projeção de crescimento global para 3,1% em 2026, mas alerta para riscos",
-      "descricao": "Investimentos em inteligência artificial ajudam a sustentar atividade, enquanto guerra no Oriente Médio pressiona preços de energia e alimentos The post FMI eleva projeção de crescimento global para 3,1% em 2026, mas alerta para riscos appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/fmi-eleva-projecao-de-crescimento-global-para-31-em-2026-mas-alerta-para-riscos/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 13 Oct 2026 11:21:30 +0000",
-      "setores": [
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "FMI reduz previsão de crescimento do Brasil para 2,2% em 2026 e a 1,9% em 2027",
-      "descricao": "Fundo também atribui desaceleração no país à retirada de estímulos fiscais The post FMI reduz previsão de crescimento do Brasil para 2,2% em 2026 e a 1,9% em 2027 appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/fmi-reduz-previsao-de-crescimento-do-brasil-para-22-em-2026-e-a-19-em-2027/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 13 Oct 2026 11:18:31 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Inflação alemã acelera para 3,3% em setembro, mas fica abaixo do esperado",
-      "descricao": "Expectativa de analistas consultados pela FactSet era de avanço de 3,4% no confronto anual The post Inflação alemã acelera para 3,3% em setembro, mas fica abaixo do esperado appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/inflacao-alema-acelera-para-33-em-setembro-mas-fica-abaixo-do-esperado/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 13 Oct 2026 11:15:24 +0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Reforma Tributária: 86% das notas fiscais destacam a CBS",
-      "descricao": "Cerca de 86% das notas fiscais emitidas por empresas obrigadas pela Reforma Tributária a destacar a Contribuição sobre Bens e Serviços (CBS) cumpriram essa determinação nos últimos 30 dias, informou nesta sexta-feira (9) a Receita Federal. Segundo o levantamento, foram emitidos no período 3,7 bilhões de notas com a informação do tributo, enquanto 600 milhões não traziam essa especificação. Notícia",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/reforma-tributaria-86-das-notas-fiscais-destacam-cbs",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "'Dinheiro esquecido': BC diz que R$ 5,8 bilhões podem ser resgatados; quase 24 milhões de pessoas têm direito",
+      "descricao": "O Banco Central (BC) atualizou os dados e informou nesta terça-feira (13) que ainda existem, nas instituições financeiras, R$ 5,79 bilhões em \"recursos esquecidos\" pelos clientes. O balanço considera valores contabilizados até agosto deste ano. Deste total: R$ 4,31 bilhões são recursos de 23,94 milhões de pessoas físicas; R$ 1,48 bilhão são valores de 2,36 milhões de empresas. Agora no g1 Em março",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/13/dinheiro-esquecido-bc-diz-que-r-58-bilhoes-podem-ser-resgatados-quase-24-milhoes-de-pessoas-tem-direito.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 09 Oct 2026 17:59:00 -0300",
+      "pub_date": "Tue, 13 Oct 2026 14:19:04 -0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
-      "titulo": "INPC, inflação que corrige salários, acumula 4,29% em 12 meses",
-      "descricao": "O Índice Nacional de Preços ao Consumidor (INPC) fechou o mês de setembro em 0,82%. Com isso, o acumulado de 12 meses chega a 4,29%. Em agosto, a inflação de um ano estava em 3,98%. Os dados foram divulgados nesta sexta-feira (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas: Inflação oficial de setembro fica em 0,82%, mostra IBGE. Focus: mercado eleva previsão",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inpc-inflacao-que-corrige-salarios-acumula-429-em-12-meses",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Governo edita medida provisória para combater ligações abusivas de telemarketing",
+      "descricao": "Homem com celular na mão na região central de São Paulo Celso Tavares/g1 O governo federal editou uma medida provisória (MP) para combater ligações abusivas de telemarketing. O texto, publicado nesta terça (13) no Diário Oficial da União, determina que as operadoras verifiquem a origem das chamadas, identifiquem as empresas que telefonam e bloqueiem quem usar o serviço de forma abusiva. 🔎 Medidas ",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/13/governo-edita-medida-provisoria-para-combater-ligacoes-abusivas-de-telemarketing.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 09 Oct 2026 10:48:00 -0300",
+      "pub_date": "Tue, 13 Oct 2026 14:00:06 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Crédito extraordinário de R$ 7,5 bi reforça subsídios a combustíveis",
-      "descricao": "O governo federal abriu crédito extraordinário de R$ 7,52 bilhões em favor do Ministério de Minas e Energia para financiar programas de subsídio à produção e à importação de combustíveis. De acordo com a Medida Provisória nº 1.395 , publicada nesta sexta-feira (9), do total liberado, R$ 6,17 bilhões serão destinados ao diesel de uso rodoviário. Os R$ 1,35 bilhão restantes tratam de outros derivado",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/credito-extraordinario-de-r-75-bi-reforca-subsidios-combustiveis",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 09 Oct 2026 09:53:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "CB Fórum debate impactos da reforma tributária para empresas; veja ao vivo",
-      "descricao": "Um dos principais objetivos da reforma tributária é eliminar a cumulatividade dos tributos e alterar as regras de créditos, preços e logística em diferentes setores",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519393-cb-forum-debate-impactos-da-reforma-tributaria-para-empresas-veja-ao-vivo.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Tue, 13 Oct 2026 07:52:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Correio realiza debate sobre reforma tributária",
-      "descricao": "Evento vai tratar dos desafios da imnplantação do novo sistema, especialmente para as pequenas empresas",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7519029-correio-realiza-debate-sobre-reforma-tributaria.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 12 Oct 2026 00:03:17 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Correio debate os desafios da reforma tributária",
-      "descricao": "O seminário reunirá especialistas na área tributária e autoridades para debater os desafios impostos pelas novas regras. O evento conta com o apoio da Febraban e Sebrae",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7518751-correio-debate-os-desafios-da-reforma-tributaria.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 11 Oct 2026 04:29:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Gorverno zera tributo federal na gasolina e amplia subsídios",
-      "descricao": "Equipe econômica anuncia novas medidas para conter impacto da alta dos preços do petróleo e, além de zerar impostos da União na gasolina, prorroga subsídio do etanol e aumenta subvenção do diesel",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7518477-gorverno-zera-tributo-federal-na-gasolina-e-amplia-subsidios.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 9 Oct 2026 22:29:26 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
       ]
     }
   ]
