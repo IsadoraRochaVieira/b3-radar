@@ -1,38 +1,22 @@
 {
-  "coletado_em": "16/10/2026 11:26",
+  "coletado_em": "16/10/2026 13:07",
   "total": 30,
-  "urgentes": 2,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Fiagros colhem até 11% em uma semana, mas ainda enfrentam praga da inadimplência",
-    "descricao": "Fundos do agronegócio surfam onda em meio a preocupação com calotes, enquanto gestores apontam oportunidade com cotas descontadas aliadas a dividendos que chegam a 19% ao ano The post Fiagros colhem até 11% em uma semana, mas ainda enfrentam praga da inadimplência appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/onde-investir/fiagros-colhem-ate-11-em-uma-semana-mas-ainda-enfrentam-praga-da-inadimplencia/",
-    "fonte": "Infomoney",
-    "categoria": "Mercado",
-    "cor": "#4488ff",
+    "titulo": "A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos",
+    "descricao": "Relação com os EUA de Trump será uma das chaves da geopolítica do próximo presidente. Aaron Schwartz/Getty Images via BBC \"A conjuntura global que o próximo presidente do Brasil vai encontrar, daqui alguns meses, será muito mais complexa do que a de hoje.\" A análise é do economista Otaviano Canuto, que leciona na Elliott School of International Affairs da George Washington University, na capital d",
+    "link": "https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
     "urgencia": "alta",
-    "score_relevancia": 2,
-    "pub_date": "Fri, 16 Oct 2026 14:00:00 +0000",
+    "score_relevancia": 1,
+    "pub_date": "Fri, 16 Oct 2026 09:10:18 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      "Mercado geral"
     ]
   },
   "noticias": [
-    {
-      "titulo": "Fiagros colhem até 11% em uma semana, mas ainda enfrentam praga da inadimplência",
-      "descricao": "Fundos do agronegócio surfam onda em meio a preocupação com calotes, enquanto gestores apontam oportunidade com cotas descontadas aliadas a dividendos que chegam a 19% ao ano The post Fiagros colhem até 11% em uma semana, mas ainda enfrentam praga da inadimplência appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/onde-investir/fiagros-colhem-ate-11-em-uma-semana-mas-ainda-enfrentam-praga-da-inadimplencia/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "alta",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 16 Oct 2026 14:00:00 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
-      ]
-    },
     {
       "titulo": "A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos",
       "descricao": "Relação com os EUA de Trump será uma das chaves da geopolítica do próximo presidente. Aaron Schwartz/Getty Images via BBC \"A conjuntura global que o próximo presidente do Brasil vai encontrar, daqui alguns meses, será muito mais complexa do que a de hoje.\" A análise é do economista Otaviano Canuto, que leciona na Elliott School of International Affairs da George Washington University, na capital d",
@@ -48,18 +32,32 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e retoma os 205 mil pontos",
-      "descricao": "Bolsas dos EUA operam de forma mista The post Ibovespa Hoje Ao Vivo: Bolsa sobe e retoma os 205 mil pontos appeared first on InfoMoney .",
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 205 mil pontos com pesquisas eleitorais em foco",
+      "descricao": "Bolsas dos EUA operam de forma mista The post Ibovespa Hoje Ao Vivo: Bolsa sobe aos 205 mil pontos com pesquisas eleitorais em foco appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16102026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Fri, 16 Oct 2026 14:09:48 +0000",
+      "pub_date": "Fri, 16 Oct 2026 15:39:02 +0000",
       "setores": [
         "Telecom (VIVT3, TIMS3)",
         "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI",
+      "descricao": "O Brasil deve voltar ao posto de oitava maior economia do mundo em 2027, deixando para trás Rússia e Itália. A projeção faz parte do documento Perspectivas da Economia Mundial , divulgado nesta semana pelo Fundo Monetário Internacional (FMI). Notícias relacionadas: FMI prevê crescimento de 2,2% do PIB do Brasil em 2026. De acordo com o estudo, o Produto Interno Bruto (PIB, conjunto de todos os ben",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-deve-voltar-ser-8a-maior-economia-do-mundo-em-2027-preve-fmi",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 16 Oct 2026 12:47:00 -0300",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -121,6 +119,48 @@
       ]
     },
     {
+      "titulo": "Maior queda em 28 anos: o que fez uma das piores bolsas do mundo desabar ainda mais",
+      "descricao": "A liquidação se intensificou depois que o índice abriu em baixa de 8%, acionando uma interrupção de 30 minutos nas negociações The post Maior queda em 28 anos: o que fez uma das piores bolsas do mundo desabar ainda mais appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/maior-queda-em-28-anos-o-que-fez-uma-das-piores-bolsas-do-mundo-desabar-ainda-mais/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 16 Oct 2026 15:43:29 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue",
+      "descricao": "Mercado segue atento à disputa acirrada para a Presidência da República The post Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-apos-recentes-quedas-atento-a-pesquisas-eleitorais-mas-cautela-segue/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 16 Oct 2026 15:30:49 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "De quem é o projeto que acabou com a escala 6x1? Conheça propostas",
+      "descricao": "O fim da escala 6x1 e a garantia de dois dias de folga para os trabalhadores tornaram-se oficiais nesta sexta-feira (16). A promulgação no Congresso encerrou uma discussão que começou antes mesmo da Constituição de 1988. Mas a proposta aprovada pelo Senado nesta semana e que agora é regra constitucional foi apresentada em 2019 pelo deputado Reginaldo Lopes (PT-MG). A proposta dele ganhou força com",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/16/de-quem-e-o-projeto-que-acabou-com-a-escala-6x1-conheca-propostas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 16 Oct 2026 15:47:07 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "Fim da escala 6x1 é promulgado e prazos começam a contar; entenda como será a transição",
       "descricao": "Fim da escala 6x1: Quando começa a valer e quais são as profissões impactadas A Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1 e garante dois dias de descanso remunerado por semana foi promulgada pelo Congresso Nacional nesta sexta-feira (16). O ato marca o início do período de transição até a entrada em vigor das novas regras. Essa é a primeira mudança nas regras gerais da ",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/transicao-fim-da-escala-6x1.ghtml",
@@ -150,8 +190,8 @@
       ]
     },
     {
-      "titulo": "Congresso promulga fim da escala 6x1 em primeira mudança da jornada de trabalho desde 1988 e garante dois dias de folga por semana",
-      "descricao": "Presidente Lula chega à promulgação da PEC que acaba com a escala 6x1 O Congresso Nacional promulgou nesta sexta-feira (16) a emenda à Constituição que acaba com a escala de trabalho 6x1 e garante aos trabalhadores dois dias de repouso remunerado por semana, sem redução salarial. É a primeira mudança na jornada de trabalho em 38 anos, desde a Constituição de 1988. Durante a Constituinte a redução ",
+      "titulo": "Congresso promulga fim da escala 6x1 em primeira mudança da jornada de trabalho desde 1988",
+      "descricao": "Presidente Lula chega à promulgação da PEC que acaba com a escala 6x1 O Congresso Nacional promulgou nesta sexta-feira (16) a emenda à Constituição que acaba com a escala de trabalho 6x1 e garante aos trabalhadores dois dias de repouso remunerado por semana, sem redução salarial. É a primeira mudança na jornada de trabalho em 38 anos, desde a Constituição de 1988. Durante a Constituinte, a redução",
       "link": "https://g1.globo.com/politica/noticia/2026/10/16/6x1-promulgacao.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -207,20 +247,6 @@
       ]
     },
     {
-      "titulo": "Quando será o segundo turno das eleições 2026? Veja a data",
-      "descricao": "Urna eletrônica eleitoral Divulgação/TSE Os mais de 150 milhões de eleitores brasileiros se preparam para comparecer às urnas mais uma vez neste domingo (25) para escolher representantes do Poder Executivo em cinco Estados e no Distrito Federal, além do presidente. Mais uma vez, o horário de Brasília será o padrão adotado. Ou seja: as urnas irão fechar simultaneamente em todo o país. O g1 explica ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/quando-sera-o-segundo-turno-das-eleicoes-2026-veja-a-data.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 16 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
       "titulo": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela",
       "descricao": "O dólar subiu cerca de 1% e fechou próximo de R$ 5,09 nesta quinta-feira (15), enquanto a Bolsa brasileira recuou também em torno de 1%, aos 204 mil pontos. O mercado teve um dia de cautela, com investidores atentos ao cenário eleitoral e a possíveis medidas econômicas do governo, como a proposta de emenda à Constituição da tarifa zero aos fins de semana. No exterior, o dólar perdeu força diante d",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-115-e-fecha-r-509-em-dia-de-cautela",
@@ -251,18 +277,17 @@
       ]
     },
     {
-      "titulo": "IBGE estima safra de grãos recorde em 2026: 354,5 milhões de toneladas",
-      "descricao": "A estimativa de setembro para a produção de grãos em 2026 aumentou 2,4%, para 354,5 milhões de toneladas, na comparação com 2025 (346,1 milhões de toneladas). Em relação a agosto de 2026, a previsão ficou praticamente estável, com variação de 0,4% – aumento de 1.566.233 de toneladas. Notícias relacionadas: Conab estima safra de grãos de 360,8 milhões de toneladas em 2025/26. As informações constam",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibge-estima-safra-de-graos-recorde-em-2026-3545-milhoes-de-toneladas",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
+      "titulo": "Banco Central decreta liquidação extrajudicial da cooperativa Credipaiva",
+      "descricao": "Medida foi motivada por violações de normas e descumprimento de determinações do órgão",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7522017-banco-central-decreta-liquidacao-extrajudicial-da-cooperativa-credipaiva.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Thu, 15 Oct 2026 10:18:00 -0300",
+      "pub_date": "Fri, 16 Oct 2026 12:10:00 -0300",
       "setores": [
-        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
-        "Telecom (VIVT3, TIMS3)"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -308,17 +333,73 @@
       ]
     },
     {
-      "titulo": "Bolsa Família impulsiona redução histórica do trabalho infantil, aponta IBGE",
-      "descricao": "O total recuou de 717 mil em 2024 para 573 mil crianças e jovens em 2025, o que representa mais de 95% da queda total no contingente nacional The post Bolsa Família impulsiona redução histórica do trabalho infantil, aponta IBGE appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/brasil/bolsa-familia-impulsiona-reducao-historica-do-trabalho-infantil-aponta-ibge/",
+      "titulo": "Dólar ronda estabilidade com após pesquisa indicar empate técnico entre Flávio e Lula",
+      "descricao": "No exterior, a moeda norte-americana cedia ante quase todas as demais divisas The post Dólar ronda estabilidade com após pesquisa indicar empate técnico entre Flávio e Lula appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 14:21:26 +0000",
+      "pub_date": "Fri, 16 Oct 2026 16:02:15 +0000",
       "setores": [
-        "Todos os ativos"
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "“Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula",
+      "descricao": "Presidente afirmou que governo pretende \"combinar\" a manutenção das empresas com a melhora das condições de trabalho no período de transição The post &#8220;Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando&#8221;, diz Lula appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 16 Oct 2026 15:37:01 +0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Indústria ajuda IBC-Br de agosto, mas não alivia recuo no PIB do terceiro trimestre",
+      "descricao": "Indicador de atividade do BC avançou acima das expectativas, mas resultados negativos nos dois meses anteriores indicam desempenho fraco no dado consolidado do terceiro trimestre The post Indústria ajuda IBC-Br de agosto, mas não alivia recuo no PIB do terceiro trimestre appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/ibc-br-agosto-previa-pib-recuo-terceiro-trimestre/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 16 Oct 2026 15:16:01 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Apesar de votos a favor, nenhum senador da oposição comparece à promulgação da PEC que acaba com a escala 6x1",
+      "descricao": "Alcolumbre promulga PEC do fim da escala 6x1 Apesar da oposição ter votado majoritariamente a favor da Proposta de Emenda à Constituição (PEC) que acaba com a escala 6x1 e reduz a jornada de trabalho, parlamentares de oposição ao governo de Luiz Inácio Lula da Silva (PT) não compareceram a sessão solene de promulgação da PEC nesta sexta-feira (16). (CORREÇÃO: na publicação desta reportagem, o g1 e",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/16/apesar-de-votos-a-favor-apenas-um-senador-da-oposicao-comparece-a-promulgacao-da-pec-que-acaba-com-a-escala-6x1.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 16 Oct 2026 14:16:09 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Moraes vota para tornar Oswaldo Eustáquio réu por associação criminosa",
+      "descricao": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (16) para tornar réu o blogueiro Oswaldo Eustáquio, apoiador do ex-presidente Jair Bolsonaro, pelo crime de associação criminosa. Moraes é relator do caso e foi o primeiro a votar no julgamento da Primeira Turma do STF. A análise ocorre no plenário virtual, sistema eletrônico em que os ministros depositam os",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/16/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 16 Oct 2026 14:14:44 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -362,92 +443,6 @@
       "pub_date": "Fri, 16 Oct 2026 03:30:01 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Primeira Turma do STF começa a julgar nesta sexta denúncia e pode tornar réu blogueiro aliado de Bolsonaro",
-      "descricao": "A Primeira Turma do Supremo Tribunal Federal (STF) deve começar a julgar nesta sexta-feira (16) se torna réu o blogueiro Oswaldo Eustáquio, apoiador do ex-presidente Jair Bolsonaro. Os ministros vão analisar, no plenário virtual, a acusação feita pela Procuradoria-Geral da República (PGR) de associação criminosa. De acordo com a PGR, a conduta ficou configurada por postagens nas redes sociais e pe",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/16/primeira-turma-do-stf-comeca-a-julgar-nesta-sexta-denuncia-e-pode-tornar-reu-blogueiro-aliado-de-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Salário mínimo: veja o que já defenderam as campanhas dos candidatos a presidente",
-      "descricao": "Aposentados e pensionistas não podem receber menos do que um salário mínimo, pelas regras atuais Reprodução/RBS TV O salário mínimo, atualmente em R$ 1.621, serve de referência para 61,9 milhões de pessoas no Brasil, segundo estimativas do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Seu cálculo passou por mudanças nos últimos anos. Até 2022, no governo Jair Bolson",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/16/salario-minimo-veja-o-que-ja-defenderam-as-campanhas-dos-candidatos-a-presidente.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Candidatos ao governo do DF, AM, ES, RN e TO participam de entrevistas da Globo e afiliadas",
-      "descricao": "A Globo e suas afiliadas realizam entrevistas com candidatos ao governo do Distrito Federal, Amazonas, Espírito Santo, Rio Grande do Norte e Tocantins no segundo turno das Eleições 2026. A rodada começou na quinta-feira (15) e termina nesta sexta-feira (16), com transmissão pelo g1, que pode ser acessado de qualquer lugar do país. Veja abaixo como assistir no g1. TV Globo faz entrevistas e debate ",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/candidatos-ao-governo-do-df-am-es-rn-e-to-participam-de-entrevistas-da-globo-e-afiliadas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Segurança alimentar exige esforço coletivo e articulação",
-      "descricao": "Produtores da agricultura familiar e líderes de cozinhas solidárias comemoram o Dia Mundial da Alimentação, nesta sexta-feira (16), com a certeza de que é possível manter o Brasil fora do Mapa da Fome por meio do esforço coletivo. Em julho deste ano, a Organização das Nações Unidas reafirmou que o país manteve abaixo de 2,5% o percentual da população subnutrida nos últimos três anos . Notícias rel",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/seguranca-alimentar-exige-esforco-coletivo-e-articulacao",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 08:01:00 -0300",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Estaleiro no RS começa a construir navios encomendados pela Transpetro",
-      "descricao": "O Estaleiro Rio Grande, no Rio Grande do Sul, deu início à construção do primeiro de quatro navios do tipo Handymax contratados pela Transpetro (subsidiária de logística da Petrobras), no âmbito do Programa Mar Aberto. A iniciativa é voltada à renovação e ampliação da frota própria do Sistema Petrobras. Nesta quinta-feira (15), foi realizada a cerimônia de batimento de quilha, a \"espinha dorsal\" p",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/estaleiro-no-rs-comeca-construir-navios-encomendados-pela-transpetro",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 15 Oct 2026 20:23:00 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "União quitou R$ 244 milhões para estados e municípios em setembro",
-      "descricao": "O governo federal pagou, em setembro, R$ 244,01 milhões em dívidas de estados e municípios que estavam inadimplentes. Os dados de garantias honradas e de recuperação de contragarantias estão no Relatório Mensal de Garantias Honradas pela União em operações de crédito e Recuperação de Contragarantias (RMGH) , divulgado pelo Tesouro Nacional nesta quinta-feira (15). Do total pago no mês, a maior par",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/uniao-quitou-r-244-milhoes-para-estados-e-municipios-em-setembro",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 15 Oct 2026 14:56:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     }
   ]
