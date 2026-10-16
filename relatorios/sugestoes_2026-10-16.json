@@ -1,0 +1,130 @@
+{
+  "data": "16/10/2026",
+  "data_iso": "2026-10-16",
+  "dia_semana": "Sexta-feira",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 205.572 (+0.61%). Destaques: VBBR3, TFCO4, BEEF3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "VBBR3",
+      "acao": "OBSERVAR",
+      "preco": "36.25",
+      "entrada": "36.25",
+      "stop": "33.64",
+      "alvo": "41.69",
+      "rsi": 42.7,
+      "score": 50,
+      "porque": "RSI em 42.7 — zona neutra. Score 50/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 36.25."
+    },
+    {
+      "rank": 2,
+      "ticker": "TFCO4",
+      "acao": "OBSERVAR",
+      "preco": "13.71",
+      "entrada": "13.71",
+      "stop": "12.5",
+      "alvo": "15.77",
+      "rsi": 47.8,
+      "score": 50,
+      "porque": "RSI em 47.8 — zona neutra. Score 50/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 13.71."
+    },
+    {
+      "rank": 3,
+      "ticker": "BEEF3",
+      "acao": "OBSERVAR",
+      "preco": "4.1",
+      "entrada": "4.1",
+      "stop": "3.69",
+      "alvo": "4.71",
+      "rsi": 49.8,
+      "score": 40,
+      "porque": "RSI em 49.8 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 4.1."
+    },
+    {
+      "rank": 4,
+      "ticker": "WEGE3",
+      "acao": "OBSERVAR",
+      "preco": "49.09",
+      "entrada": "49.09",
+      "stop": "46.54",
+      "alvo": "56.45",
+      "rsi": 40.8,
+      "score": 40,
+      "porque": "RSI em 40.8 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 49.09."
+    },
+    {
+      "rank": 5,
+      "ticker": "BBDC3",
+      "acao": "NEUTRO",
+      "preco": "18.15",
+      "entrada": "18.15",
+      "stop": "17.02",
+      "alvo": "20.87",
+      "rsi": 63.3,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 63.3. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 6,
+      "ticker": "DIRR3",
+      "acao": "NEUTRO",
+      "preco": "10.58",
+      "entrada": "10.58",
+      "stop": "9.48",
+      "alvo": "12.17",
+      "rsi": 45.8,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 45.8. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 7,
+      "ticker": "BHIA3",
+      "acao": "NEUTRO",
+      "preco": "1.11",
+      "entrada": "1.11",
+      "stop": "0.79",
+      "alvo": "1.28",
+      "rsi": 49.9,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 49.9. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 8,
+      "ticker": "PCAR3",
+      "acao": "NEUTRO",
+      "preco": "2.91",
+      "entrada": "2.91",
+      "stop": "2.46",
+      "alvo": "3.35",
+      "rsi": 44.0,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 44.0. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 9,
+      "ticker": "ITSA4",
+      "acao": "NEUTRO",
+      "preco": "15.56",
+      "entrada": "15.56",
+      "stop": "14.69",
+      "alvo": "17.89",
+      "rsi": 59.8,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 59.8. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 10,
+      "ticker": "VALE3",
+      "acao": "NEUTRO",
+      "preco": "66.42",
+      "entrada": "66.42",
+      "stop": "62.83",
+      "alvo": "76.38",
+      "rsi": 29.1,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 29.1. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    }
+  ]
+}
