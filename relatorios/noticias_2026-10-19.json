@@ -1,236 +1,239 @@
 {
-  "coletado_em": "19/10/2026 09:59",
+  "coletado_em": "19/10/2026 17:57",
   "total": 30,
-  "urgentes": 0,
+  "urgentes": 1,
   "destaque": {
-    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-    "descricao": "Índices futuros dos EUA operam mistos em meio a recuperação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
-    "fonte": "Infomoney",
-    "categoria": "Mercado",
-    "cor": "#4488ff",
-    "urgencia": "media",
-    "score_relevancia": 5,
-    "pub_date": "Mon, 19 Oct 2026 12:04:38 +0000",
+    "titulo": "China cresce 4,5% com exportações em alta, mas crise imobiliária ameaça ritmo",
+    "descricao": "China usa parques que contêm enchentes para afirmar liderança global em economia verde A economia da China cresceu 4,5% no terceiro trimestre de 2026, na comparação com o mesmo período do ano passado, impulsionada pelas exportações e pela produção industrial. O resultado, divulgado nesta segunda-feira (19), ficou acima das expectativas do mercado, mas ocorre em meio à crise imobiliária e à fraquez",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/19/china-cresce-45percent-com-exportacoes-em-alta-mas-crise-imobiliaria-ameaca-ritmo.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "alta",
+    "score_relevancia": 2,
+    "pub_date": "Mon, 19 Oct 2026 12:36:43 -0000",
     "setores": [
-      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-      "Tecnologia (TOTS3, LWSA3, POSI3)",
-      "Telecom (VIVT3, TIMS3)"
+      "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+      "Câmbio / Exportadores"
     ]
   },
   "noticias": [
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-      "descricao": "Índices futuros dos EUA operam mistos em meio a recuperação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
+      "titulo": "China cresce 4,5% com exportações em alta, mas crise imobiliária ameaça ritmo",
+      "descricao": "China usa parques que contêm enchentes para afirmar liderança global em economia verde A economia da China cresceu 4,5% no terceiro trimestre de 2026, na comparação com o mesmo período do ano passado, impulsionada pelas exportações e pela produção industrial. O resultado, divulgado nesta segunda-feira (19), ficou acima das expectativas do mercado, mas ocorre em meio à crise imobiliária e à fraquez",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/19/china-cresce-45percent-com-exportacoes-em-alta-mas-crise-imobiliaria-ameaca-ritmo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 12:36:43 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Dólar cai e fecha a R$ 5,04 com mercado de olho na reta final das eleições; Ibovespa recua",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda de 0,49% nesta segunda-feira (19), cotado a R$ 5,0480. O Ibovespa, principal índice da bolsa brasileira, recuou 0,17%, aos 205.079 pontos. A reta final da campanha presidencial concentra as atenções do mercado, após o debate entre Lula (PT) e Flávio Bolsonaro (PL) promovido pela Band no fim de semana. Investidores também repe",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 19 Oct 2026 12:00:21 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Focus: mercado mantém projeção de alta do IPCA, mas reduz a do PIB",
+      "descricao": "A taxa básica de juros, a Selic, tem previsão de encerrar 2026 em 13,25% ao ano",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7523151-focus-mercado-mantem-projecao-de-alta-do-ipca-mas-reduz-a-do-pib.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 19 Oct 2026 09:59:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Ibovespa fecha com leve queda, com olhos na eleição; dólar cai a R$ 5,04",
+      "descricao": "Índices nos EUA terminam mistos; apenas o Dow fecha negativo The post Ibovespa fecha com leve queda, com olhos na eleição; dólar cai a R$ 5,04 appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Mon, 19 Oct 2026 12:04:38 +0000",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 19 Oct 2026 20:28:56 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Câmbio / Exportadores",
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações",
-      "descricao": "Flávio Bolsonaro e Lula em debate na Band Renato Pizzutto/Band O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, participaram na noite deste domingo (18) do primeiro debate do segundo turno das eleições de 2026. Foi o primeiro confronto direto entre os dois candidatos em um debate nesta eleição. O encontro, promovido pelo Grupo Ba",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml",
+      "titulo": "Eleições 2026: como saber se o local de votação mudou para o segundo turno",
+      "descricao": "2º turno pode ter mudança em local de votação O Tribunal Superior Eleitoral (TSE) informou, na sexta-feira da semana passada (16), a mudança nos locais de votação neste 2º turno das eleições. Segundo o TSE, até o momento, 554 seções eleitorais no Brasil tiveram alterações entre o primeiro e o segundo turno. Em 25 de outubro, serão decididos o presidente da República e os governadores de cinco esta",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/confira-local-votacao-mudancas.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Sun, 18 Oct 2026 23:16:38 -0000",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 19 Oct 2026 16:11:33 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Ibovespa Futuro cai com pesquisas eleitorais no radar após debate entre Flávio e Lula",
-      "descricao": "No exterior as preocupações com as contas públicas pesavam sobre os principais índices de ações na Europa The post Ibovespa Futuro cai com pesquisas eleitorais no radar após debate entre Flávio e Lula appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-pesquisas-eleitorais-no-radar-apos-debate-entre-flavio-e-lula/",
+      "titulo": "Depois do debate, quem entrou indeciso saiu ainda mais indeciso",
+      "descricao": "Depois do debate entre os candidatos à Presidência da República, o senador Flávio Bolsonaro (PL-RJ) e o presidente Luiz Inácio Lula da Silva (PT), promovido pelo Grupo Bandeirantes, quem entrou indeciso saiu ainda mais indeciso. Os dois candidatos travaram mais um embate de denúncias e acusações do que propriamente um debate de ideias. Elas até surgiram em meio ao pugilato, mas ficaram ofuscadas p",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/19/depois-do-debate-quem-entrou-indeciso-saiu-ainda-mais-indeciso.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 19 Oct 2026 13:59:54 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Automob (AMOB3): ações saltam 15% após divulgação de dados operacionais do 3º tri",
+      "descricao": "Resultados positivos agradam mercado; volumes superaram as expectativas The post Automob (AMOB3): ações saltam 15% após divulgação de dados operacionais do 3º tri appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Mon, 19 Oct 2026 12:19:53 +0000",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 20:42:55 +0000",
       "setores": [
         "Todos os ativos"
       ]
     },
     {
-      "titulo": "No Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto",
-      "descricao": "O presidente Lula (PT) e o senador Flávio Bolsonaro (PL) chegam à reta final da eleição usando o Instagram de formas diferentes, e em papéis invertidos em relação ao começo do ano. Na pré-campanha, Flávio publicava mais, tinha mais engajamento e era o único a atacar o adversário. Na campanha, em agosto, Lula assumiu a dianteira em volume de publicações e, no segundo turno, passou a falar mais dire",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Sun, 18 Oct 2026 03:00:00 -0000",
+      "titulo": "Doença em granja de SC pode afetar exportações de frango do Brasil para a China; entenda o risco",
+      "descricao": "Entenda o comércio cruzado de frango Brasil x China Um acordo comercial com a China prevê a suspensão temporária das exportações brasileiras de carne de frango em caso de ocorrência de Doença de Newcastle, como a confirmada no domingo (18) em uma granja de perus em Santa Catarina. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 A informação foi dada nesta segunda-feira (19) pelo presidente d",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/doenca-em-granja-de-sc-pode-afetar-exportacoes-de-frango-do-brasil-para-a-china-entenda-o-risco.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 19:10:04 -0000",
       "setores": [
-        "Mercado geral"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI",
-      "descricao": "O Brasil deve voltar ao posto de oitava maior economia do mundo em 2027, deixando para trás Rússia e Itália. A projeção faz parte do documento Perspectivas da Economia Mundial , divulgado nesta semana pelo Fundo Monetário Internacional (FMI). Notícias relacionadas: FMI prevê crescimento de 2,2% do PIB do Brasil em 2026. De acordo com o estudo, o Produto Interno Bruto (PIB, conjunto de todos os ben",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-deve-voltar-ser-8a-maior-economia-do-mundo-em-2027-preve-fmi",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Governo antecipa calendário do Bolsa Família a seis dias do 2º turno; veja as datas",
+      "descricao": "Bolsa Familia Reprodução O governo federal antecipou os pagamentos do Bolsa Família de outubro e concentrou os depósitos em três datas. A parcela deste mês será a primeira com o piso de R$ 691, anunciado pelo governo em 17 de setembro. A antecipação foi anunciada nesta segunda-feira (19), seis dias antes do segundo turno das eleições, marcado para 25 de outubro. Veja quem vai receber antes. 📱Baixe",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-pagamentos-calendario.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 16 Oct 2026 12:47:00 -0300",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 14:21:25 -0000",
       "setores": [
-        "Mercado geral"
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "Atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br",
-      "descricao": "O Índice de Atividade Econômica do Banco Central (IBC-Br), indicador usado para acompanhar a evolução da economia brasileira, ficou estável com variação de 0,3% em agosto de 2026 na comparação com julho, informou nesta sexta-feira (16) o Banco Central. Em relação a agosto de 2025, o indicador registrou crescimento de 1,2%. Nos últimos 12 meses, a alta acumulada é de 1,6%. Notícias relacionadas: Co",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/atividade-economica-tem-alta-de-03-em-agosto-mostra-ibc-br",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Bolsa Família vai ter regra de transição de dois anos, diz coordenadora de campanha de Flávio Bolsonaro",
+      "descricao": "Bolsa Familia Reprodução A coordenadora do núcleo econômico da campanha do senador Flávio Bolsonaro (PL-RJ), Daniella Marques, afirmou nesta segunda-feira (19) que o programa Bolsa Família terá um período de transição de dois anos se ele for eleito. Durante esse tempo, o beneficiário continuaria recebendo os valores, mesmo se conseguir um emprego. Perderia o benefício somente após 24 meses emprega",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-vai-ter-regra-de-transicao-de-dois-anos-diz-coordenadora-de-campanha-de-flavio-bolsonaro.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 16 Oct 2026 10:29:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
-      "descricao": "As propostas econômicas dos candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) apresentam diferenças na condução das contas públicas, na política tributária e nas relações de trabalho. Enquanto Lula aposta na continuidade do modelo atual, com investimentos públicos, programas sociais e valorização da renda, Flávio defende a redução da estrutura estatal, cortes de despesas e diminuiç",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 16 Oct 2026 08:20:00 -0300",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 13:48:07 -0000",
       "setores": [
         "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Caso Master: PGR defende manutenção da prisão de familiares e assessores de Vorcaro",
+      "descricao": "A Procuradoria-Geral da República (PGR) defendeu a manutenção, pelo Supremo Tribunal Federal (STF), das prisões de investigados no caso Master ligados a Daniel Vorcaro, controlador do banco liquidado pelo Banco Central. A PGR também avaliou que cabe ao presidente da Corte, Edson Fachin, decidir sobre questões urgentes e que estão pendentes de análise. A equipe do Procurador-Geral da República, Pau",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/19/caso-master-pgr-defende-manutencao-da-prisao-de-familiares-e-assessores-de-vorcaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 19:53:41 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados",
+      "descricao": "Debate da Band entre Flávio Bolsonaro e Lula Reuters/Jean Carniel Integrantes das campanhas do presidente Luiz Inácio Lula da Silva (PT) e do senador Flávio Bolsonaro (PL) avaliaram, nesta segunda-feira (19), que eles foram bem no primeiro debate na televisão, que foi ao ar neste domingo (18). Enquanto o coordenador da campanha petista, Edinho Silva, avalia que o presidente conseguiu expor o envol",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/19/lula-expos-flavio-em-casos-de-corrupcao-e-senador-acertou-ao-deixar-petista-visivelmente-irritado-avaliam-aliados.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 16:24:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "TREs dizem que mudanças de locais de votação são 'excepcionais' e número é menor que em 2022",
+      "descricao": "Os presidentes dos Tribunais Regionais Eleitorais (TREs) assinaram, nesta segunda-feira (19), uma nota conjunta afirmando que a prioridade da Justiça Eleitoral é não alterar o local de votação entre o primeiro e segundo turno das eleições. Ainda segundo a nota, o número de seções impactadas pela mudança é bem menor do que em 2022 e ainda há uma atualização do sistema para verificar quais eleitores",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/19/tres-dizem-que-mudancas-de-locais-de-votacao-sao-excepcionais-e-numero-e-menor-que-em-2022.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 16:03:44 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Debate expõe contraste entre Lula analógico e Flávio Bolsonaro digital",
+      "descricao": "Candidatos Flávio Bolsonaro e Lula participam de debate da Band antes do 2º turno das eleições. REUTERS/Jean Carniel Nos bastidores da campanha de Luiz Inácio Lula da Silva (PT), a avaliação de aliados é que o presidente perdeu a oportunidade de explorar temas considerados sensíveis para Flávio Bolsonaro (PL) no primeiro debate do segundo turno das eleições de 2026. Entre eles, a questão da licenç",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/19/debate-expoe-contraste-entre-lula-analogico-e-flavio-bolsonaro-digital.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 13:50:20 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Economia cresce 0,5% em agosto após dois meses de recuo, estima FGV",
+      "descricao": "Depois de dois meses de recuo, a economia brasileira voltou a crescer e apresentou expansão de 0,5% na passagem de julho para agosto . Como resultado, o desempenho chega a 1,8% no acumulado de 12 meses. A constatação faz parte do Monitor do PIB , estudo mensal elaborado pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas (FGV), divulgado nesta segunda-feira (19). Notícias relac",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-cresce-05-em-agosto-apos-dois-meses-de-recuo-estima-fgv",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 19 Oct 2026 11:52:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
         "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Impacto do fim da escala 6x1 na economia: o que mostram exemplos de redução de jornada em países europeus",
-      "descricao": "Experiências no exterior apontam um crescimento 'relativamente robusto' do PIB em países que reduziram jornada de trabalho.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/10/7521500-impacto-do-fim-da-escala-6x1-na-economia-o-que-mostram-exemplos-de-reducao-de-jornada-em-paises-europeus.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Thu, 15 Oct 2026 16:33:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Veja quando serão divulgadas as próximas pesquisas eleitorais",
-      "descricao": "Flávio Bolsonaro e Lula em debate na Band Renato Pizzutto/Band A Quaest divulga nesta quarta-feira (21) pesquisa de intenção de voto para o 2º turno das eleições presidenciais de 2026. O levantamento foi encomendado pela Globo e pelo jornal O Globo. Na pesquisa anterior, divulgada na semana passada, Flávio Bolsonaro (PL) e o presidente Lula (PT) estavam em empate técnico. Flávio tinha 46%, e Lula,",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/19/pesquisas-eleitorais-quaest-datafolha.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 19 Oct 2026 12:14:04 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "O tabuleiro de Flávio Bolsonaro: os nomes estratégicos que circulam nos bastidores para um eventual governo",
-      "descricao": "Flávio Bolsonaro (PL) Vittor Sales Integrantes da campanha de Flávio Bolsonaro (PL) já admitem nomes e postos estratégicos em caso de vitória nas eleições. Nos bastidores, aliados discutem quem ocuparia posições-chave, quais seriam os nomes de confiança do senador e como acomodar interesses políticos numa eventual administração. Um dos movimentos mais importantes desse tabuleiro envolve o Ministér",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/19/o-tabuleiro-de-flavio-bolsonaro.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 19 Oct 2026 11:44:20 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "A PEC da Segurança Pública e o debate sobre a maioridade penal - O Assunto #1827",
-      "descricao": "Apresentada pelo governo federal, a Proposta de Emenda à Constituição que altera as atribuições da União, dos estados e dos municípios no combate ao crime foi aprovada na Câmara dos Deputados e enviada ao Senado em março. O texto ficou parado por meses, mas, na última semana, foi chancelado também pela Comissão de Constituição e Justiça da Casa e levado para deliberação em plenário. Então, uma eme",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/19/a-pec-da-seguranca-publica-e-o-debate-sobre-a-maioridade-penal-o-assunto-1827.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 19 Oct 2026 03:30:00 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Quando será o segundo turno das eleições 2026? Veja a data",
-      "descricao": "Quando será o segundo turno das eleições 2026? Reprodução/TV Globo O segundo turno das Eleições 2026 acontece no próximo domingo, dia 25 de outubro. Eleitores ao redor do mundo vão decidir quem será o o próximo Presidente da República e, em alguns estados, brasileiros escolherão quem será o próximo governador. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A votação será realiz",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-segundo-turno-das-eleicoes-2026.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 19 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Gate é acionado para checar carro de Flávio Bolsonaro após suspeita de bomba durante debate na Band",
-      "descricao": "Flávio Bolsonaro e Lula em debate na Band Renato Pizzutto/Band O Grupo de Ações Táticas Especiais (Gate) foi acionado na noite deste domingo (18) para verificar uma suspeita de bomba no carro do senador e candidato à Presidência Flávio Bolsonaro (PL), nos estúdios da Band, onde ele participou do debate da emissora. Não foram encontrados artefatos explosivos no local, segundo o esquadrão anti-bomba",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/gate-e-acionado-para-checar-carro-de-flavio-bolsonaro-apos-suspeita-de-bomba-durante-debate-na-band.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 19 Oct 2026 02:13:33 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo",
-      "descricao": "A página do Tribunal Superior Eleitoral (TSE) tem contabilizado como alterações de locais de votação casos em que, na prática, os endereços das seções no segundo turno das eleições de 2026 são os mesmos do primeiro turno. A inconsistência faz com que o número de seções eleitorais efetivamente modificadas para o segundo turno seja menor do que as 2.033 registradas na página oficial do tribunal no i",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/sistema-do-tse-aponta-mudancas-em-locais-de-votacao-mesmo-quando-endereco-permanece-o-mesmo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Mon, 19 Oct 2026 00:19:51 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
-      "descricao": "O Supremo Tribunal Federal (STF) abriu inquérito para apurar suspeitas de lavagem de dinheiro envolvendo o advogado Willer Tomaz, empresas dele e o senador e candidato a presidente Flávio Bolsonaro (PL). O ministro Alexandre de Moraes foi sorteado relator do inquérito. A investigação começou na primeira instância da Justiça Federal no Rio Grande do Sul, onde eram apurados crimes como lavagem de di",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sun, 18 Oct 2026 22:36:36 -0000",
-      "setores": [
-        "Mercado geral"
       ]
     },
     {
@@ -307,144 +310,148 @@
       ]
     },
     {
-      "titulo": "'Fim da escala 6x1 não é um favor, é dignidade'",
-      "descricao": "Relator da PEC que reduz a jornada semanal para 40 horas e prevê dois dias de descanso, senador afirma que sindicatos deverão fiscalizar a aplicação das novas regras",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7521710-fim-da-escala-6x1-nao-e-um-favor-e-dignidade.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 15 Oct 2026 21:22:15 -0300",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "AIE acelera liberação de 100 milhões de barris de reservas de petróleo",
-      "descricao": "Agência cumpre promessa de líderes mundiais do G7, que no começo de outubro anunciaram medida para conter pressão sobre a commodity",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7521505-aie-acelera-liberacao-de-100-milhoes-de-barris-de-reservas-de-petroleo.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Thu, 15 Oct 2026 17:18:18 -0300",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
-      ]
-    },
-    {
-      "titulo": "O que é o Ministério da Prosperidade, promessa de Flávio Bolsonaro se eleito?",
-      "descricao": "Candidato quer reunir Bolsa Família, qualificação profissional e crédito em uma nova pasta, mas ainda não detalhou custos nem estrutura The post O que é o Ministério da Prosperidade, promessa de Flávio Bolsonaro se eleito? appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/o-que-e-o-ministerio-da-prosperidade-promessa-de-flavio-bolsonaro-se-eleito/",
+      "titulo": "MBRF: ação MBRF3 cai 4% após registro de doença em criação de perus em Santa Catarina",
+      "descricao": "De acordo com a ABPA, um acordo assinado com a China prevê que as exportações de carnes de aves brasileiras sejam suspensas no caso da ocorrência de Doença de Newcastle The post MBRF: ação MBRF3 cai 4% após registro de doença em criação de perus em Santa Catarina appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/mbrf-acao-mbrf3-cai-4-apos-registro-de-doenca-em-criacao-de-perus-em-santa-catarina/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 19 Oct 2026 12:32:42 +0000",
+      "pub_date": "Mon, 19 Oct 2026 20:52:16 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Todos os ativos"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Dólar hoje recua com novas pesquisas eleitorais no radar",
-      "descricao": "Pesquisas BTG/Nexus e AtlasIntel divulgadas nesta manhã mostraram redução numérica das intenções de voto de Flávio e avanço nas de Lula The post Dólar hoje recua com novas pesquisas eleitorais no radar appeared first on InfoMoney .",
+      "titulo": "Dólar hoje cai a R$ 5,04, reagindo a disputa eleitoral no Brasil e seguindo exterior",
+      "descricao": "Pesquisas BTG/Nexus e AtlasIntel divulgadas nesta manhã mostraram redução numérica das intenções de voto de Flávio e avanço nas de Lula The post Dólar hoje cai a R$ 5,04, reagindo a disputa eleitoral no Brasil e seguindo exterior appeared first on InfoMoney .",
       "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19102026/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 19 Oct 2026 12:24:46 +0000",
+      "pub_date": "Mon, 19 Oct 2026 20:29:29 +0000",
       "setores": [
         "Câmbio / Exportadores"
       ]
     },
     {
-      "titulo": "Eleições 2026: não votei no primeiro turno, posso votar no segundo?",
-      "descricao": "Guia do Eleitor: Posso votar no segundo turno se faltei no primeiro? O eleitor que não votar no primeiro turno pode e deve votar no segundo. Para a Justiça Eleitoral, cada turno é um novo pleito e, portanto, faltar ao primeiro não impede que o eleitor vote no segundo. LEIA TAMBÉM: Tudo sobre o segundo turno das Eleições 2026 VEJA TAMBÉM: 50 Vídeos para entender as Eleições de 2026 No Brasil, o vot",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/eleicoes-2026-nao-votei-no-primeiro-turno-posso-votar-no-segundo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Brasil registra foco de Doença de Newcastle em perus em Santa Catarina",
+      "descricao": "A China, um dos principais destinos das exportações brasileiras de carne de frango, impôs em 2024 um embargo ao produto do Rio Grande do Sul após a confirmação de um caso de Doença de Newcastle em uma granja comercial no Estado The post Brasil registra foco de Doença de Newcastle em perus em Santa Catarina appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/brasil-registra-foco-de-doenca-de-newcastle-em-perus-em-santa-catarina/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 19 Oct 2026 06:00:00 -0000",
+      "pub_date": "Mon, 19 Oct 2026 20:16:47 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Acordo com China prevê autoembargo brasileiro em caso de Newcastle, diz ABPA",
+      "descricao": "De janeiro a setembro, a China respondeu por cerca de 10% das exportações brasileiras de carne ⁠de frango, ​ou 420 mil ​toneladas, segundo dados do governo brasileiro The post Acordo com China prevê autoembargo brasileiro em caso de Newcastle, diz ABPA appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/acordo-com-china-preve-autoembargo-brasileiro-em-caso-de-newcastle-diz-abpa/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 19 Oct 2026 19:48:48 +0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Por que Alberta, província mais rica do Canadá, pode se separar do país? Entenda",
+      "descricao": "Os movimentos separatistas afirmam que Alberta contribui mais para a economia canadense do que recebe em troca e que as políticas ambientais do governo federal restringem a indústria petrolífera The post Por que Alberta, província mais rica do Canadá, pode se separar do país? Entenda appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/por-que-alberta-provincia-mais-rica-do-canada-pode-se-separar-do-pais-entenda/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 19 Oct 2026 19:44:38 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Quando será o debate presidencial da Globo? Veja a data e o horário",
-      "descricao": "Flávio Bolsonaro e Lula durante entrevistas à TV Globo. Globo/ Manoella Mello O debate presidencial da TV Globo será realizado no dia 23 de outubro, com a participação de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), candidatos que disputam o segundo turno das Eleições 2026. O encontro será transmitido ao vivo após o Jornal Nacional, com mediação do jornalista César Tralli. 📱Favorite o g",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-debate-presidencial-da-globo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Mon, 19 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno",
-      "descricao": "Levantamento do g1 com base nas inserções de propaganda eleitoral de Lula (PT) e de Flávio Bolsonaro (PL) na rádio durante o segundo turno mostra que as campanhas concentraram as estratégias em ataques ao respectivo adversário e em temas como \"mudança\" e o \"fim da escala 6x1\". ✅ Siga o canal de notícias de eleições do g1 no WhatsApp Os termos mais mencionados na campanha de Flávio são \"Brasil\", co",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 18 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan",
-      "descricao": "A equipe econômica estuda oferecer linhas de crédito e programas de capacitação para empresas que enfrentarem dificuldades com o fim da escala de trabalho 6x1, disse nesta sexta-feira (16) o ministro da Fazenda, Dario Durigan. Segundo ele, o impacto da emenda constitucional sobre os empregadores ainda será avaliado, mas o governo prevê financiamento específico para a transição. “É possível que a g",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-preve-credito-empresas-afetadas-por-fim-da-6x1-diz-durigan",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões",
+      "descricao": "Logotipo da Apple Reuters Uma empresa de tecnologia que obteve uma indenização de US$ 5,7 bilhões (R$ 28,82 bilhões) contra a Apple por violação de patente pediu à Justiça dos Estados Unidos que aumente o valor a ser pago pela fabricante do iPhone. A solicitação inclui compensação por vendas mais recentes de produtos e juros, o que pode elevar ainda mais a conta da companhia. 🗒️ Tem alguma sugestã",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 18:36:00 -0300",
+      "pub_date": "Mon, 19 Oct 2026 18:16:07 -0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
-      "titulo": "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil",
-      "descricao": "A promulgação da emenda constitucional que extingue a escala de seis dias de trabalho para um de descanso marca um novo capítulo da história das relações trabalhistas no Brasil. A mudança, que garante o direito a dois dias de descanso semanal, ocorre após mais de um século de reivindicações por limites à jornada de trabalho e por condições que assegurem aos trabalhadores tempo para atividades além",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/do-trabalho-sem-limites-ao-fim-da-escala-6x1-veja-evolucao-da-jornada",
-      "fonte": "Agência Brasil",
-      "categoria": "Política Econômica",
+      "titulo": "ANPD dá cinco dias para Meta explicar suspensão de contas e remoção de posts",
+      "descricao": "Logo da Meta. Daniel Cole/Reuters A Agência Nacional de Proteção de Dados (ANPD) deu cinco dias úteis para que a Meta, dona do Instagram, do WhatsApp e do Facebook, esclareça denúncias de possíveis violações aos direitos dos usuários na suspensão de contas, na remoção de publicações e na restrição do alcance de conteúdos. Os ofícios foram enviados à Meta nesta segunda-feira (19), após a abertura d",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/19/anpd-da-cinco-dias-para-meta-explicar-suspensao-de-contas-e-remocao-de-posts.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
       "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Fri, 16 Oct 2026 13:31:00 -0300",
+      "pub_date": "Mon, 19 Oct 2026 15:14:46 -0000",
       "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Ajuste fiscal é lacuna dos candidatos, dizem economistas",
-      "descricao": "Especialistas consideram vagas as propostas dos presidenciáveis para o ajuste fiscal. Para eles, corte de R$ 200 bilhões nas contas públicas é muito difícil de ser cumprido a curto prazo. Outras medidas dependem de mudança na Constituição",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7522909-incertezas-na-economia.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
+      "titulo": "Ri Happy pede recuperação extrajudicial para renegociar R$ 827 milhões em dívidas",
+      "descricao": "Loja da Ri Happy Divulgação A Ri Happy e outras cinco empresas do grupo pediram recuperação extrajudicial à Justiça de São Paulo, no domingo (18), para renegociar R$ 827,4 milhões em dívidas. Credores que representam R$ 308,8 milhões da dívida já aceitaram negociar os valores, o equivalente a 42,38% do total incluído no plano. 🗒️Tem alguma sugestão de reportagem? Mande para o g1 No pedido apresent",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/19/ri-happy-pede-recuperacao-extrajudicial.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Mon, 19 Oct 2026 04:00:00 -0300",
+      "pub_date": "Mon, 19 Oct 2026 14:12:20 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Justiça Eleitoral altera dois locais de votação em São Paulo no 2º turno; veja endereços",
+      "descricao": "Votação na 6ª Zona Eleitoral (ZE), no bairro Paraíso, na zona sul da capital. Paulo Pinto/Agência Brasil Apenas dois locais de votação precisaram ser alterados no estado de São Paulo para a votação do segundo turno, no próximo domingo, dia 25 de outubro, quando os eleitores vão escolher o novo presidente da República. As mudanças afetam 7.916 eleitores, distribuídos em 24 seções eleitorais (salas ",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/19/justica-eleitoral-altera-dois-locais-de-votacao-em-sao-paulo-no-2o-turno-veja-enderecos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 19 Oct 2026 19:59:42 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Master: PGR diz não ver abuso de autoridade de Mendonça apontado por Moraes em pedido de investigação",
+      "descricao": "A Procuradoria-Geral da República (PGR) afirmou, em parecer encaminhado ao Supremo Tribunal Federal (STF), que não viu prática de abuso de autoridade por parte de André Mendonça na condução pelo ministro de ações no âmbito do caso Master, do qual é relator. Para a PGR, os relatórios de inteligência da Polícia Federal que apontaram direcionamento das investigações do caso Master por André Mendonça ",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/19/caso-master-pgr-diz-nao-ver-abuso-de-autoridade-de-mendonca-em-relatorio-de-inteligencia.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 19 Oct 2026 19:41:06 -0000",
       "setores": [
         "Mercado geral"
       ]
