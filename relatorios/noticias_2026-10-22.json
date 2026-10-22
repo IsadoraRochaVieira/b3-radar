@@ -1,22 +1,40 @@
 {
-  "coletado_em": "22/10/2026 10:52",
+  "coletado_em": "22/10/2026 19:33",
   "total": 30,
-  "urgentes": 2,
+  "urgentes": 3,
   "destaque": {
-    "titulo": "Sancionada lei que perdoa dívida e aumenta limite de MEI",
-    "descricao": "Foi sancionado nesta quarta-feira (21) o Projeto de Lei Complementar (PLP) nº 186/2026, que prevê o perdão de dívidas de microempreendedores individuais (MEIs) com a União e amplia o limite anual de faturamento da categoria. O projeto foi aprovado pelo Senado Federal em votação nominal, com 78 votos favoráveis, nenhum contrário e nenhuma abstenção. A Câmara dos Deputados já havia aprovado a propos",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
-    "fonte": "Agência Brasil",
-    "categoria": "Política Econômica",
-    "cor": "#009c3b",
+    "titulo": "Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa",
+    "descricao": "O movimento refletiu, de um lado, as dúvidas sobre os retornos futuros dos investimentos em inteligência artificial (IA) e, de outro, a disparada do petróleo para o maior nível em mais de cinco meses The post Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/mercados/moedas-globais-dolar-cai-forte-ante-iene-com-petroleo-ia-e-protestos-na-europa/",
+    "fonte": "Infomoney",
+    "categoria": "Mercado",
+    "cor": "#4488ff",
     "urgencia": "alta",
     "score_relevancia": 2,
-    "pub_date": "Wed, 21 Oct 2026 13:33:00 -0300",
+    "pub_date": "Thu, 22 Oct 2026 21:13:31 +0000",
     "setores": [
-      "Mercado geral"
+      "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+      "Tecnologia (TOTS3, LWSA3, POSI3)",
+      "Telecom (VIVT3, TIMS3)"
     ]
   },
   "noticias": [
+    {
+      "titulo": "Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa",
+      "descricao": "O movimento refletiu, de um lado, as dúvidas sobre os retornos futuros dos investimentos em inteligência artificial (IA) e, de outro, a disparada do petróleo para o maior nível em mais de cinco meses The post Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/moedas-globais-dolar-cai-forte-ante-iene-com-petroleo-ia-e-protestos-na-europa/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 22 Oct 2026 21:13:31 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
     {
       "titulo": "Sancionada lei que perdoa dívida e aumenta limite de MEI",
       "descricao": "Foi sancionado nesta quarta-feira (21) o Projeto de Lei Complementar (PLP) nº 186/2026, que prevê o perdão de dívidas de microempreendedores individuais (MEIs) com a União e amplia o limite anual de faturamento da categoria. O projeto foi aprovado pelo Senado Federal em votação nominal, com 78 votos favoráveis, nenhum contrário e nenhuma abstenção. A Câmara dos Deputados já havia aprovado a propos",
@@ -46,93 +64,74 @@
       ]
     },
     {
-      "titulo": "Dólar abre em alta, com avanço nos preços do petróleo e na reta final das eleições no Brasil",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quinta-feira (22) em alta, com um avanço de 0,45% perto das 9h, cotado a R$ 5,0500. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. A poucos dias das eleições presidenciais no Brasil, investidores repercutem as últimas pesquisas, divulgadas na véspera. O mercado ainda avalia novos bal",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
+      "titulo": "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan",
+      "descricao": "A previsão de superávit primário no Orçamento de 2027 está mantida, mesmo após o anúncio recente de medidas com impacto nas contas públicas, disse nesta quinta-feira (22) o ministro da Fazenda, Dario Durigan. Segundo ele, as iniciativas foram planejadas dentro das regras fiscais vigentes e sem alterações no arcabouço fiscal. “Na parte fiscal, nós estamos entregando superávit para o ano que vem no ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 7,
-      "pub_date": "Thu, 22 Oct 2026 12:00:25 -0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo",
-      "descricao": "Juros curtos também sobem, em meio ainda ao avanço do petróleo, que traz preocupações com a inflação The post Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/economia/taxas-de-juros-sobem-com-corrida-presidencial-e-temor-de-inflacao-por-petroleo/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Thu, 22 Oct 2026 13:40:49 +0000",
-      "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Combate às fraudes e à sonegação: veja o que o setor de combustíveis cobra do próximo presidente",
-      "descricao": "Entidades do setor de combustíveis pedem ao próximo governo mais medidas contra fraudes. Marcello Casal Jr./Agência Brasil O setor de combustíveis quer que o próximo presidente e o Congresso mantenham e ampliem as ações de fiscalização contra fraudes, adulterações e falsificações, além de combater a sonegação de impostos e a atuação de organizações criminosas. O g1 entrou em contato com as entidad",
-      "link": "https://g1.globo.com/carros/noticia/2026/10/22/combate-as-fraudes-e-a-sonegacao-veja-o-que-o-setor-de-combustiveis-cobra-do-proximo-presidente.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "media",
-      "score_relevancia": 4,
-      "pub_date": "Thu, 22 Oct 2026 07:00:00 -0000",
+      "score_relevancia": 5,
+      "pub_date": "Thu, 22 Oct 2026 17:59:00 -0300",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Quem paga a conta da corrupção? Entenda como os desvios afetam a economia e a população",
-      "descricao": "Quanto custa a corrupção para a economia? Não há um cálculo preciso de quanto custa a corrupção. O prejuízo vai além do dinheiro desviado e inclui recursos que deixam de chegar a áreas como saúde, educação e infraestrutura. A corrupção também distorce a concorrência. Quando contratos dependem de relações privilegiadas ou propina, nem sempre vence quem oferece o melhor serviço ou preço, tornando a ",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/22/quem-paga-a-conta-da-corrupcao-entenda-como-os-desvios-afetam-a-economia-e-a-populacao.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Setor financeiro domina ranking das ações mais negociadas na B3 em setembro",
+      "descricao": "Setor de petróleo também foi destaque entre os papéis com mais negócios no mês passado na B3 The post Setor financeiro domina ranking das ações mais negociadas na B3 em setembro appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/setor-financeiro-domina-ranking-das-acoes-mais-negociadas-na-b3-em-setembro/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Thu, 22 Oct 2026 05:00:00 -0000",
+      "pub_date": "Thu, 22 Oct 2026 21:16:35 +0000",
       "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Educação (COGN3, YDUQ3)"
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Todos os ativos"
       ]
     },
     {
-      "titulo": "Campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições",
-      "descricao": "A campanha do presidente Luiz Inácio Lula da Silva (PT) entrou com uma ação no Tribunal Superior Eleitoral (TSE) para pedir a cassação do registro da chapa de Flávio Bolsonaro (PL) e Alfredo Gaspar (PL) à presidência por suposto abuso de poder econômico e uso indevido dos meios de comunicação social. Na ação, a campanha afirma que \"a infraestrutura privada na qual hoje se realiza a propaganda elei",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
+      "titulo": "Guerra das campanhas: lei eleitoral não prevê regras para a abertura de sigilo por candidatos",
+      "descricao": "Flávio Bolsonaro e Lula REUTERS/Diego Herculano e REUTERS/Adriano Machado O desafio lançado pelo presidente e candidato do PT à reeleição, Luiz Inácio Lula da Silva (PL), a seu adversário, o senador Flávio Bolsonaro (PL), para a abertura de sigilos bancário, fiscal e telefônico pode esbarrar na falta de previsão legal para ser autorizado pelo Tribunal Superior Eleitoral (TSE). Nesta quinta-feira (",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/22/guerra-das-campanhas-lei-eleitoral-nao-preve-regras-para-a-abertura-de-sigilo-por-candidatos.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Thu, 22 Oct 2026 00:21:17 -0000",
+      "pub_date": "Thu, 22 Oct 2026 21:39:54 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil",
-      "descricao": "O dólar aproximou-se de R$ 5, e a bolsa superou os 208 mil pontos nesta terça-feira (20). O desempenho positivo dos ativos brasileiros foi impulsionado pela desvalorização da moeda norte-americana no exterior, pelo fluxo de investimentos estrangeiros e pelo cenário eleitoral. No mercado internacional, a queda do petróleo também contribuiu para o apetite por risco. Números do dia Dólar comercial: R",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-para-r-501-com-exterior-e-expectativa-eleitoral-no-brasil",
+      "titulo": "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões",
+      "descricao": "A arrecadação das receitas federais somou R$ 239,4 bilhões em setembro, informou nesta quinta-feira (22) a Receita Federal . O valor representa crescimento real de 5,62%, descontada a inflação pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) , na comparação com setembro de 2025. De janeiro a setembro, a arrecadação alcançou R$ 2,351 trilhões, com alta real de 6,97% em relação ao mesmo per",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/arrecadacao-federal-cresce-562-em-setembro-e-soma-r-2394-bilhoes",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Tue, 20 Oct 2026 19:34:00 -0300",
+      "pub_date": "Thu, 22 Oct 2026 11:45:00 -0300",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Empresários cobram de Lula e Flávio ajustes para Selic a 7,5%",
+      "descricao": "Grupo que representa 40% do PIB pede a reforma imediata do Judiciário, respeito ao resultado das urnas e o fim da reeleição para cargos do Executivo",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7525835-empresarios-cobram-de-lula-e-flavio-ajustes-para-selic-a-75.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Thu, 22 Oct 2026 15:28:18 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -166,31 +165,73 @@
       ]
     },
     {
-      "titulo": "Presidente da República: o que faz, quanto ganha e quais são os requisitos para ocupar o cargo?",
-      "descricao": "Os cinco últimos presidentes do Brasil. Palácio do Planalto/Divulgação O presidente da República é o chefe do Poder Executivo federal e a principal autoridade do país. Ele é eleito para um mandato de quatro anos, podendo se reeleger por mais quatro, e acumula duas funções: chefe de Estado, representando o Brasil nas relações internacionais; e chefe de Governo, responsável por administrar a máquina",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/presidente-da-republica-o-que-faz-quanto-ganha-e-quais-sao-os-requisitos-para-ocupar-o-cargo.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
+      "titulo": "Trump defende anúncio polêmico de aliado em Ohio e amplia tensão nas Midterms",
+      "descricao": "Presidente saiu em defesa de propaganda de Vivek Ramaswamy que usa declarações da mãe da candidata democrata Amy Acton, apesar das críticas de adversários e de integrantes do próprio Partido Republicano The post Trump defende anúncio polêmico de aliado em Ohio e amplia tensão nas Midterms appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-defende-anuncio-polemico-de-aliado-em-ohio-e-amplia-tensao-nas-midterms/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Thu, 22 Oct 2026 03:00:01 -0000",
+      "pub_date": "Thu, 22 Oct 2026 21:53:32 +0000",
       "setores": [
-        "Telecom (VIVT3, TIMS3)"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento",
-      "descricao": "O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes criticou nesta quarta-feira (21) decisões judiciais que autorizam a criação de novos cursos de medicina em atropelo ao Ministério da Educação (MEC). O ministro enviou ofícios aos presidentes do STF, ministro Edson Fachin, e da Segunda Turma, ministro Luiz Fux, pedindo que os colegiados analisem ações sobre o tema. A Suprema Corte já julgou",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
+      "titulo": "Mendonça diz que Lula e Flávio podem disponibilizar sigilos por conta própria e não cabe ao TSE definir divulgação",
+      "descricao": "Mendonça diz que Flávio e Lula podem abrir sigilo sem precisar de aval do TSE O ministro André Mendonça, vice-presidente do Tribunal Superior Eleitoral (TSE), afirmou que não cabe ao tribunal definir ou não o que os candidatos querem divulgar. A decisão foi tomada no processo que tratava da quebra de sigilos do presidente Luiz Inácio Lula da Silva (PT) e do senador Flávio Bolsonaro (PL-RJ), candid",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/desafio-dos-sigilos-mendonca-diz-que-nao-cabe-ao-tse-definir-o-que-cada-candidato-quer-ou-nao-divulgar.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Wed, 21 Oct 2026 23:25:11 -0000",
+      "pub_date": "Thu, 22 Oct 2026 21:40:35 -0000",
       "setores": [
-        "Educação (COGN3, YDUQ3)"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Flávio Bolsonaro x Lula: veja quem Augusto Cury, Renan Santos e outros candidatos a presidente derrotados no 1º turno apoiam",
+      "descricao": "Candidatos Flávio Bolsonaro e Lula participam de debate da Band antes do 2º turno das eleições. REUTERS/Jean Carniel Os candidatos à Presidência da República que perderam a eleição no 1º turno se dividem quanto aos apoios para Flávio Bolsonaro (PL) e Lula (PT), que vão disputar o 2º turno no próximo domingo, dia 25 de outubro. Os dez candidatos que ficaram fora do segundo turno já definiram suas p",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/flavio-bolsonaro-x-lula-augusto-cury-renan-santos-candidatos-presidente-derrotados-apoio.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 22 Oct 2026 21:23:53 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Parlamentares dos EUA cobram explicações de Zuckerberg sobre ações da Meta na eleição brasileira",
+      "descricao": "Conselho de Supervisão da Meta critica atuação da empresa durante as eleições no Brasil Um grupo de 13 parlamentares dos Estados Unidos enviaram uma carta nesta quinta-feira (22) ao CEO da Meta, Mark Zuckerberg, cobrando explicações sobre denúncias de tratamento desigual às campanhas de Lula (PT) e Flávio Bolsonaro (PL) nas plataformas da empresa durante as eleições brasileiras. ✅ Siga o canal de ",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/22/parlamentares-dos-eua-cobram-explicacoes-de-zuckerberg-sobre-acoes-da-meta-na-eleicao-brasileira.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 22 Oct 2026 20:44:16 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Na TV, Lula fala em risco de cortes em programas sociais e de caso Ana Clara; Flávio Bolsonaro prioriza críticas à economia e propostas para segurança",
+      "descricao": "Lula (PT) e Flávio Bolsonaro (PL) durante horário eleitoral nesta quinta-feira (22) Reprodução No horário eleitoral gratuito desta quinta-feira (22), o candidato à reeleição Luiz Inácio Lula da Silva (PT) falou sobre os riscos de cortes em programas sociais, colocando-se como o presidente “que faz a economia girar e não vai deixar cortarem as conquistas do povo brasileiro”. Além disso, uma de suas",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/horario-eleitoral-presidente-22-outubro-lula-flavio-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 22 Oct 2026 18:19:57 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -223,190 +264,106 @@
       ]
     },
     {
-      "titulo": "Lula pode encerrar carreira política com derrota para Flávio, diz The New Yorker",
-      "descricao": "Revista americana vê eleição brasileira como parte de avanço da direita na América Latina e afirma que presidente enfrenta dificuldades para mobilizar eleitores The post Lula pode encerrar carreira política com derrota para Flávio, diz The New Yorker appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-pode-encerrar-carreira-politica-com-derrota-para-flavio-diz-the-new-yorker/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Datafolha: 49% aprovam governo Lula, e 48% desaprovam",
+      "descricao": "Pesquisa Datafolha divulgada nesta quinta-feira (22), a três dias do segundo turno, mostra que 49% dos eleitores entrevistados aprovam o governo do presidente Lula (PT), candidato à reeleição, enquanto 48% desaprovam. Na pesquisa anterior, de uma semana atrás, 50% desaprovavam o governo, e 48% aprovavam. Aprovação do governo Lula: Aprovam: 49% (eram 48%) Desaprovam: 48% (eram 50% na pesquisa anter",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-aprova-desaprova-governo-22-outubro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 13:35:44 +0000",
+      "pub_date": "Thu, 22 Oct 2026 22:06:40 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Fundo soberano da Noruega mostra cautela com ações e empresas de tecnologia",
-      "descricao": "Retorno do fundo ficou 0,18 ponto percentual abaixo do índice de referência no trimestre The post Fundo soberano da Noruega mostra cautela com ações e empresas de tecnologia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/fundo-soberano-da-noruega-mostra-cautela-com-acoes-e-empresas-de-tecnologia/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Defesa pede ao TSE desvinculação do canal 'Exército do Lula' da campanha de Lula",
+      "descricao": "A defesa do presidente Luiz Inácio Lula da Silva (PT) apresentou uma petição no Tribunal Superior Eleitoral (TSE) solicitando o \"cancelamento da anotação\" do endereço do canal de mensagens do WhatsApp \"Exército do Lula\" no registro da candidatura do petista. Os advogados argumentam que o canal não possui vínculo oficial com a campanha eleitoral. Após impasses na Justiça Eleitoral, a própria campan",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/defesa-pede-ao-tse-desvinculacao-do-canal-exercito-do-lula-da-campanha-de-lula.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 13:28:02 +0000",
-      "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
-      "descricao": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar A Agência Nacional de Telecomunicações (Anatel) e tribunais suspenderam, por precaução, o uso do Sistema Eletrônico de Informações (SEI), plataforma de processos administrativos, após a identificação de duas falhas graves de segurança no PHP. 🔎 O PHP é uma das linguagens de programação mais populares para criar sites. ",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 13:27:04 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "CLT, aposentado, estudante ou MEI? Veja as propostas de Lula e Flávio para o seu bolso",
-      "descricao": "Lula (à esq) e Flávio Bolsonaro (à dir) participaram de sabatinas na TV Globo Divulgação Os planos de governo de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) para a Presidência da República trazem diferentes diretrizes para temas estruturais do país. Além de visões contrastantes sobre o papel do Estado na economia, os dois candidatos também apresentam caminhos diferentes para lidar com a",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/22/propostas-de-lula-e-flavio-para-o-seu-bolso.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 08:00:00 -0000",
+      "pub_date": "Thu, 22 Oct 2026 20:14:01 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Desenrola 3.0: Durigan diz que governo vai lançar edital para comprar dívidas na quinta",
-      "descricao": "O ministro da Fazenda, Dario Durigan, afirmou que o governo federal publicará na quinta-feira (21) uma chamada para instituições financeiras interessadas em vender carteiras de dívidas ao governo dentro do Desenrola 3.0. O programa prevê a renegociação de débitos de pessoas físicas e microempreendedores individuais (MEIs) com atraso de 2 a 4,5 anos. Nesta etapa, segundo Durigan, as instituições ap",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/21/desenrola-30-durigan-diz-que-governo-vai-lancar-edital-para-comprar-dividas-na-quinta.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Datafolha no DF: 32% avaliam gestão Celina Leão como positiva e 31%, como negativa",
+      "descricao": "Celina Leão (PP) é entrevista no DF2 desta quinta (15) TV Globo/reprodução Pesquisa Datafolha divulgada nesta quinta-feira (22) mostra como está a avaliação do governo Celina Leão (PP). ➡️ A atual governadora assumiu o cargo em março deste ano – até então, era vice de Ibaneis Rocha (MDB). Ibaneis deixou o governo do DF para disputar o Senado, mas desistiu em seguida. Segundo a pesquisa Datafolha, ",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/datafolha-df-avaliacao-governo-celina-22-outubro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Wed, 21 Oct 2026 21:05:22 -0000",
+      "pub_date": "Thu, 22 Oct 2026 20:04:37 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Eleições 2026: Rio terá transporte público gratuito no 2º turno",
-      "descricao": "Moradores do RJ terão transporte gratuito neste domingo Tânia Rêgo / Agência Brasil Os eleitores do Rio de Janeiro terão transporte público gratuito novamente no dia de votação do segundo turno nas Eleições 2026 no próximo domingo (25). A medida também havia sido tomada no primeiro turno. Medida busca atender aos deslocamentos dos eleitores até os locais de votação das 6h às 20h. ✅Clique aqui para",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/22/eleicoes-transporte-publico-gratuito.ghtml",
+      "titulo": "Datafolha no DF, 2º turno: Celina Leão, 54%; Leandro Grass, 37%",
+      "descricao": "Celina Leão (PP) e Leandro Grass (PT), candidatos ao governo do DF no segundo turno Ingrid Ribeiro/TV Globo; Amanda Sales/TV Globo Pesquisa Datafolha divulgada nesta quinta-feira (22) mostra como está a disputa para o governo do Distrito Federal para o segundo turno nas eleições de outubro. Esta é a segunda rodada da pesquisa desde a definição dos candidatos que avançaram ao segundo turno, no dia ",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/datafolha-df-governador-segundo-turno-22-outubro.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 12:57:39 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
-      ]
-    },
-    {
-      "titulo": "Eleições 2026: como encontrar meu título de eleitor?",
-      "descricao": "Título de eleitor Foto: Agência Brasil/Divulgação Quem vai votar no segundo turno das eleições de 2026 pode consultar o número do título de eleitor, verificar a situação da inscrição eleitoral e descobrir o local de votação pela internet – não é preciso ir a um cartório eleitoral. A consulta é feita pelos canais oficiais da Justiça Eleitoral: o Autoatendimento Eleitoral (Título Net), disponível no",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-como-encontrar-meu-titulo-de-eleitor.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 06:00:00 -0000",
+      "pub_date": "Thu, 22 Oct 2026 20:04:34 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Quaest no DF, 2º turno: veja intenção de voto para governador por sexo, raça, idade, religião e renda",
-      "descricao": "Eleições 2026: segunda pesquisa Quaest do 2º turno mostra Celina na liderança, com 50% Pesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a disputa pelo governo do Distrito Federal no segundo turno. O levantamento foi encomendado pela Globo. Esta é a segunda rodada da pesquisa desde a definição dos candidatos que avançaram ao segundo turno, no dia 4. A votação será no próximo domin",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/quaest-no-df-2o-turno-veja-intencao-de-voto-para-governador-por-sexo-raca-idade-religiao-e-renda.ghtml",
+      "titulo": "Nunes Marques manda Meta fazer pente-fino no canal 'Exército do Lula'",
+      "descricao": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, deu 24 horas para que a Meta envie um amplo relatório com dados técnicos sobre o canal \"Exército de Lula\". Nunes Marques atendeu a um pedido feito pela campanha do candidato do PL à Presidência, Flávio Bolsonaro, que trata da verificação do plano de conformidade assinado pela empresa com o tribunal, que informa medidas adotad",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/22/nunes-marques-da-24-horas-para-meta-enviar-relatorio-sobre-exercito-do-lula.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 05:00:00 -0000",
-      "setores": [
-        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
-      ]
-    },
-    {
-      "titulo": "Datafolha divulga nova pesquisa presidencial nesta quinta-feira (22)",
-      "descricao": "Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) Reprodução/Divulgação das campanhas O Datafolha divulga, no início da noite desta quinta-feira (22), a penúltima pesquisa de intenção de voto para o segundo turno das eleições presidenciais de 2026, disputado por Flávio Bolsonaro (PL) e Lula (PT). O levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. Na pesquisa anterior, d",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-divulga-nova-pesquisa-presidencial-nesta-quinta-feira-22.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Globo e afiliadas promovem debates e sabatinas de 2º turno para os governos do AC, AM, DF, ES, RN e TO; veja como assistir",
-      "descricao": "Est debate da Globo Jornal Nacional/ Reprodução A TV Globo e emissoras afiliadas promovem nesta quinta-feira (22) debates com candidatos que avançaram para o segundo turno das Eleições 2026 na disputa pelos governos do Amazonas, Espírito Santo, Rio Grande do Norte e Tocantins. No Acre e no Distrito Federal, onde as candidatas Mailza Assis (PP) e Celina Leão (PP) informaram que não participarão dos",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/globo-e-afiliadas-promovem-debates-e-sabatinas-de-2o-turno-para-os-governos-do-ac-am-df-es-rn-e-to-veja-como-assistir.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 03:00:00 -0000",
+      "pub_date": "Thu, 22 Oct 2026 18:34:58 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Eleição presidencial bate recorde com mais de 800 ações judiciais",
-      "descricao": "Eleição presidencial bate recorde de ações judiciais Na reta final do segundo turno, o Tribunal Superior Eleitoral (TSE) lida com um volume recorde de processos e decisões inéditas sobre tecnologia relacionadas à disputa presidencial. Até o fechamento desta reportagem, na noite de quarta-feira (21), o TSE registrava ao menos 804 ações recebidas, mais do que o dobro das 325 no mesmo período em 2022",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/eleicao-presidencial-bate-recorde-com-mais-de-800-acoes-judiciais.ghtml",
+      "titulo": "Corregedor do TSE nega pedido de Flávio Bolsonaro para suspender mensagens do governo",
+      "descricao": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, negou nesta quinta-feira (22) um pedido do candidato à Presidência Flávio Bolsonaro (PL) para suspender o envio de mensagens por canais oficiais do governo federal, como \"Gov.br\" e \"WhatsApp. Segundo o ministro, a medida, da forma como foi solicitada, poderia interromper indiscriminadamente comunicações de utilidade públi",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/22/corregedor-do-tse-nega-pedido-de-flavio-bolsonaro-para-suspender-mensagens-do-governo.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 03:00:00 -0000",
-      "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "MPE diz que Meta descumpriu parte das determinações do TSE, aponta novo tratamento desigual em campanhas e pede multa",
-      "descricao": "A Procuradoria-Geral Eleitoral (PGE) avalia que a empresa Meta (dona do Facebook, WhatsApp e Instagram) deixou de cumprir parte das determinações do Tribunal Superior Eleitoral (TSE) para o tratamento de conteúdo das campanhas presidenciais no segundo turno e que há indicativo de nova violação de isonomia no uso da ferramenta de inteligência artificial. A Procuradoria se manifestou a pedido do rel",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/mp-eleitoral-diz-que-meta-descumpriu-parte-das-determinacoes-do-tse-pede-multa-e-aponta-novo-tratamento-desigual-em-campanhas.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 22 Oct 2026 01:51:33 -0000",
-      "setores": [
-        "Tecnologia (TOTS3, LWSA3, POSI3)"
-      ]
-    },
-    {
-      "titulo": "Entenda polêmica entre Richarlison, Flávio Bolsonaro e Willer Tomaz sobre posse de ilha em Angra",
-      "descricao": "Montagem de fotos com o atacante Richarlison e Flávio Bolsonaro. Instagram e Wilton Junior/AE O jogador brasileiro Richarlison de Andrade, atacante do Tottenham, publicou um vídeo nesta quarta-feira (21) em que voltou a acusar o senador e candidato à Presidência Flávio Bolsonaro (PL) de envolvimento em uma disputa pela posse de um imóvel de luxo na Ilha Comprida, em Angra dos Reis, no Rio de Janei",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Wed, 21 Oct 2026 23:36:47 -0000",
+      "pub_date": "Thu, 22 Oct 2026 18:07:49 -0000",
       "setores": [
         "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ministério da Justiça desenvolve método para identificar imóveis de luxo ligados ao PCC e ao Comando Vermelho",
+      "descricao": "Casa de luxo alvo de mandado da operação Carbono Oculto: PCC diversificou atividades e hoje lucra com uma série de outros negócios além do tráfico Reprodução / Polícia Federal O Ministério da Justiça e Segurança Pública desenvolveu uma metodologia para identificar imóveis de luxo registrados em nome de pessoas sem lastro financeiro e vinculadas a organizações criminosas ultraviolentas. O método pe",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/22/ministerio-da-justica-desenvolve-metodo-para-identificar-imoveis-de-luxo-ligados-ao-pcc-e-ao-comando-vermelho.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 22 Oct 2026 17:28:25 -0000",
+      "setores": [
+        "Construção & Imobiliário (CYRE3, MRVE3, EZTC3)"
       ]
     },
     {
       "titulo": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
-      "descricao": "As instituições financeiras poderão apresentar até R$ 90 bilhões em dívidas antigas a serem renegociadas na primeira etapa do Desenrola 3.0, disse nesta quarta-feira (21) o ministro da Fazenda, Dario Durigan. Segundo ele, o edital de chamamento dos bancos e de outras instituições será publicado nesta quinta-feira (21), dando início ao processo de habilitação de bancos e fundos interessados em vend",
+      "descricao": "As instituições financeiras poderão apresentar até R$ 90 bilhões em dívidas antigas a serem renegociadas na primeira etapa do Desenrola 3.0, disse nesta quarta-feira (21) o ministro da Fazenda, Dario Durigan. Segundo ele, o edital de chamamento dos bancos e de outras instituições será publicado nesta quinta-feira (22), dando início ao processo de habilitação de bancos e fundos interessados em vend",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ministro-preve-renegociacao-de-r-90-bi-em-3a-fase-do-desenrola",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
@@ -444,6 +401,49 @@
       "pub_date": "Wed, 21 Oct 2026 13:43:00 -0300",
       "setores": [
         "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Governo destina R$ 6,49 bilhões a setor de exportação",
+      "descricao": "O governo federal abriu crédito extraordinário no valor de R$ 6,49 bilhões para financiar pessoas físicas e empresas exportadoras de bens e serviços que fazem parte do Plano Brasil Soberano . A autorização faz parte da Medida Provisória nº 1.397 , publicada nesta quarta-feira (21) no Diário Oficial da União . Notícias relacionadas: Plano Brasil Soberano adota novas regras e mais empresas podem ade",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-destina-r-649-bilhoes-setor-de-exportacao",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 21 Oct 2026 10:36:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro",
+      "descricao": "A Caixa Econômica Federal paga nesta quarta-feira (21) a parcela de outubro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 3 a 0. Neste mês, 19,3 milhões de famílias foram beneficiadas, com o valor médio do benefício em R$ 782,92. Por causa do aumento nos benefícios, o valor da folha de pagamentos aumentou de R$ 13 bilhões em setembro para R$ 15 bilhões em outubro",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 21 Oct 2026 07:28:00 -0300",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Governo tem arrecadação recorde, de R$ 239,3 bi, em setembro, diz Receita",
+      "descricao": "Crescimento das receitas com a Previdência Social e a redução da desoneração da folha contribuíram para aumento mensal",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7525844-governo-tem-arrecadacao-recorde-de-rs-2393-bi-em-setembro-diz-receita.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 22 Oct 2026 15:44:00 -0300",
+      "setores": [
+        "Mercado geral"
       ]
     }
   ]
