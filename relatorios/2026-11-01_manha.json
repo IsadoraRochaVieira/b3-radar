@@ -3,7 +3,7 @@
   "data_iso": "2026-11-01",
   "turno": "manha",
   "turno_label": "Manhã (08:30)",
-  "hora_geracao": "02:14",
+  "hora_geracao": "11:58",
   "resumo": "[Manhã (08:30)] Ibovespa 167.922 (-0.75%). Destaques: ITUB4, ASAI3, SBSP3. Semáforo: VERDE.",
   "resumo_curto": "ITUB4, ASAI3, SBSP3",
   "resumo_executivo": "",
@@ -34,13 +34,13 @@
   "macro": {
     "ibovespa": "167.922",
     "ibovespa_var": -0.75,
-    "dolar": "5,38",
-    "dolar_var": 0.73,
+    "dolar": "5,44",
+    "dolar_var": 1.0,
     "brent": "113.43",
     "brent_var": 0.0,
     "selic": "13.75",
     "ipca_12m": "4.58",
-    "atualizado_em": "01/11/2026 02:20"
+    "atualizado_em": "01/11/2026 12:04"
   },
   "tops": [
     {
@@ -149,7 +149,7 @@
         "11.9% acima da mínima de 52 sem — assimetria alta",
         "Estocástico sobrevendido (16)",
         "P/L atrativo (10.4x)",
-        "ROE sólido (21.9%)"
+        "ROE sólido (23.8%)"
       ],
       "tese": null,
       "risco": null,
@@ -4558,7 +4558,7 @@
         "11.9% acima da mínima de 52 sem — assimetria alta",
         "Estocástico sobrevendido (16)",
         "P/L atrativo (10.4x)",
-        "ROE sólido (21.9%)"
+        "ROE sólido (23.8%)"
       ],
       "tese": null,
       "risco": null,
@@ -9316,5 +9316,5 @@
       }
     ]
   },
-  "output_raw": "Universo B3: 215 acoes (170 liquidas + 45 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  01/11/2026 02:14\n════════════════════════════════════════════════════════════\nAnalisando 215 ativos...\n\n  [1/215] B3SA3.SA...        \n  [2/215] BBDC4.SA...        \n  [3/215] COGN3.SA...        \n  [4/215] PETR4.SA...        \n  [5/215] BBAS3.SA...        \n  [6/215] CSAN3.SA...        \n  [7/215] ITSA4.SA...        \n  [8/215] ITUB4.SA...        \n  [9/215] MGLU3.SA...        \n  [10/215] VAMO3.SA...        \n  [11/215] ABEV3.SA...        \n  [12/215] LREN3.SA...        \n  [13/215] CPLE3.SA...        \n  [14/215] VALE3.SA...        \n  [15/215] RAIZ4.SA...        \n  [16/215] CSNA3.SA...        \n  [17/215] USIM5.SA...        \n  [18/215] BPAC11.SA...        \n  [19/215] ASAI3.SA...        \n  [20/215] MOVI3.SA...        \n  [21/215] CMIG4.SA...        \n  [22/215] POMO4.SA...        \n  [23/215] BEEF3.SA...        \n  [24/215] NATU3.SA...        \n  [25/215] GOAU4.SA...        \n  [26/215] MOTV3.SA...        \n  [27/215] SBSP3.SA...        \n  [28/215] DIRR3.SA...        \n  [29/215] PETR3.SA...        \n  [30/215] BBDC3.SA...        \n  [31/215] CEAB3.SA...        \n  [32/215] MRVE3.SA...        \n  [33/215] RENT3.SA...        \n  [34/215] RAIL3.SA...        \n  [35/215] ENEV3.SA...        \n  [36/215] EQTL3.SA...        \n  [37/215] WEGE3.SA...        \n  [38/215] ECOR3.SA...        \n  [39/215] RADL3.SA...        \n  [40/215] ONCO11.SA...        \n  [41/215] PGMN3.SA...        \n  [42/215] ALOS3.SA...        \n  [43/215] AXIA3.SA...        \n  [44/215] GGBR4.SA...        \n  [45/215] CVCB3.SA...        \n  [46/215] ANIM3.SA...        \n  [47/215] VBBR3.SA...        \n  [48/215] TIMS3.SA...        \n  [49/215] SAUD3.SA...        \n  [50/215] CYRE3.SA...        \n  [51/215] LJQQ3.SA...        \n  [52/215] SMFT3.SA...        \n  [53/215] SUZB3.SA...        \n  [54/215] HAPV3.SA...        \n  [55/215] CMIN3.SA...        \n  [56/215] MULT3.SA...        \n  [57/215] JHSF3.SA...        \n  [58/215] IGTI11.SA...        \n  [59/215] UGPA3.SA...        \n  [60/215] KLBN11.SA...        \n  [61/215] SBFG3.SA...        \n  [62/215] BHIA3.SA...        \n  [63/215] PRIO3.SA...        \n  [64/215] GMAT3.SA...        \n  [65/215] SIMH3.SA...        \n  [66/215] ISAE4.SA...        \n  [67/215] PMAM3.SA...        \n  [68/215] FLRY3.SA...        \n  [69/215] ENGI11.SA...        \n  [70/215] RDOR3.SA...        \n  [71/215] TOTS3.SA...        \n  [72/215] MBRF3.SA...        \n  [73/215] BRAP4.SA...        \n  [74/215] RAPT4.SA...        \n  [75/215] HYPE3.SA...        \n  [76/215] LWSA3.SA...        \n  [77/215] CSMG3.SA...        \n  [78/215] EMBJ3.SA...        \n  [79/215] DXCO3.SA...        \n  [80/215] CXSE3.SA...        \n  [81/215] AURE3.SA...        \n  [82/215] VIVA3.SA...        \n  [83/215] TEND3.SA...        \n  [84/215] GGPS3.SA...        \n  [85/215] CURY3.SA...        \n  [86/215] CBAV3.SA...        \n  [87/215] EZTC3.SA...        \n  [88/215] ORVR3.SA...        \n  [89/21"
+  "output_raw": "Universo B3: 215 acoes (170 liquidas + 45 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  01/11/2026 11:58\n════════════════════════════════════════════════════════════\nAnalisando 215 ativos...\n\n  [1/215] B3SA3.SA...        \n  [2/215] BBDC4.SA...        \n  [3/215] COGN3.SA...        \n  [4/215] PETR4.SA...        \n  [5/215] BBAS3.SA...        \n  [6/215] CSAN3.SA...        \n  [7/215] ITSA4.SA...        \n  [8/215] ITUB4.SA...        \n  [9/215] MGLU3.SA...        \n  [10/215] VAMO3.SA...        \n  [11/215] ABEV3.SA...        \n  [12/215] LREN3.SA...        \n  [13/215] CPLE3.SA...        \n  [14/215] VALE3.SA...        \n  [15/215] RAIZ4.SA...        \n  [16/215] CSNA3.SA...        \n  [17/215] USIM5.SA...        \n  [18/215] BPAC11.SA...        \n  [19/215] ASAI3.SA...        \n  [20/215] MOVI3.SA...        \n  [21/215] CMIG4.SA...        \n  [22/215] POMO4.SA...        \n  [23/215] BEEF3.SA...        \n  [24/215] NATU3.SA...        \n  [25/215] GOAU4.SA...        \n  [26/215] MOTV3.SA...        \n  [27/215] SBSP3.SA...        \n  [28/215] DIRR3.SA...        \n  [29/215] PETR3.SA...        \n  [30/215] BBDC3.SA...        \n  [31/215] CEAB3.SA...        \n  [32/215] MRVE3.SA...        \n  [33/215] RENT3.SA...        \n  [34/215] RAIL3.SA...        \n  [35/215] ENEV3.SA...        \n  [36/215] EQTL3.SA...        \n  [37/215] WEGE3.SA...        \n  [38/215] ECOR3.SA...        \n  [39/215] RADL3.SA...        \n  [40/215] ONCO11.SA...        \n  [41/215] PGMN3.SA...        \n  [42/215] ALOS3.SA...        \n  [43/215] AXIA3.SA...        \n  [44/215] GGBR4.SA...        \n  [45/215] CVCB3.SA...        \n  [46/215] ANIM3.SA...        \n  [47/215] VBBR3.SA...        \n  [48/215] TIMS3.SA...        \n  [49/215] SAUD3.SA...        \n  [50/215] CYRE3.SA...        \n  [51/215] LJQQ3.SA...        \n  [52/215] SMFT3.SA...        \n  [53/215] SUZB3.SA...        \n  [54/215] HAPV3.SA...        \n  [55/215] CMIN3.SA...        \n  [56/215] MULT3.SA...        \n  [57/215] JHSF3.SA...        \n  [58/215] IGTI11.SA...        \n  [59/215] UGPA3.SA...        \n  [60/215] KLBN11.SA...        \n  [61/215] SBFG3.SA...        \n  [62/215] BHIA3.SA...        \n  [63/215] PRIO3.SA...        \n  [64/215] GMAT3.SA...        \n  [65/215] SIMH3.SA...        \n  [66/215] ISAE4.SA...        \n  [67/215] PMAM3.SA...        \n  [68/215] FLRY3.SA...        \n  [69/215] ENGI11.SA...        \n  [70/215] RDOR3.SA...        \n  [71/215] TOTS3.SA...        \n  [72/215] MBRF3.SA...        \n  [73/215] BRAP4.SA...        \n  [74/215] RAPT4.SA...        \n  [75/215] HYPE3.SA...        \n  [76/215] LWSA3.SA...        \n  [77/215] CSMG3.SA...        \n  [78/215] EMBJ3.SA...        \n  [79/215] DXCO3.SA...        \n  [80/215] CXSE3.SA...        \n  [81/215] AURE3.SA...        \n  [82/215] VIVA3.SA...        \n  [83/215] TEND3.SA...        \n  [84/215] GGPS3.SA...        \n  [85/215] CURY3.SA...        \n  [86/215] CBAV3.SA...        \n  [87/215] EZTC3.SA...        \n  [88/215] ORVR3.SA...        \n  [89/21"
 }

@@ -1,6 +1,6 @@
 {
-  "coletado_em": "01/11/2026 02:20",
-  "total": 17,
+  "coletado_em": "01/11/2026 12:04",
+  "total": 11,
   "urgentes": 1,
   "destaque": {
     "titulo": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008",
@@ -80,6 +80,20 @@
       ]
     },
     {
+      "titulo": "Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos",
+      "descricao": "Até 2018, o Piauí tinha a nota \"C\" no critério de Capacidade de Pagamento (Capag) do Tesouro Nacional The post Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/na-fazenda-do-piaui-fonteles-reduziu-divida-mas-teve-deficit-em-metade-dos-anos/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 01 Nov 2026 14:35:17 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
       "titulo": "Acordo Mercosul-UE eleva exportações brasileiras em 21%",
       "descricao": "O acordo comercial entre o Mercosul e a União Europeia apresenta resultados positivos para as exportações brasileiras. De maio a setembro, nos primeiros cinco meses de aplicação provisória do tratado, as vendas de produtos beneficiados pela redução ou eliminação de tarifas de importação ao mercado europeu cresceram 21% , em comparação com o mesmo período de 2025. Entre os produtos que registraram ",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/acordo-mercosul-ue-eleva-exportacoes-brasileiras-em-21",
@@ -110,32 +124,31 @@
       ]
     },
     {
-      "titulo": "IA ameaça modelo que sustenta a internet e derruba ações de big techs",
-      "descricao": "Tombo no valor de mercado de diferentes plataformas do Vale do Silício revela perda de acessos que vinham do Google, enquanto gastos bilionários com IA preocupam investidores",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7531420-ia-ameaca-modelo-que-sustenta-a-internet-e-derruba-acoes-de-big-techs.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 31 Oct 2026 14:01:00 -0300",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-      "descricao": "O plano foi estruturado com a participação do Itaú, da Akron e da Vega, apontados pela empresa como financiadores centrais da operação The post Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/business/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
+      "titulo": "Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições",
+      "descricao": "Os estudantes punidos teriam feito comentários elitistas e de teor nazista contra colegas bolsistas The post Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/brasil/universidade-expulsa-estudantes-de-medicina-por-ofensas-a-bolsistas-apos-eleicoes/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 31 Oct 2026 19:48:22 +0000",
+      "pub_date": "Sun, 01 Nov 2026 14:49:01 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Saúde (HAPV3, RDOR3, FLRY3)"
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Tombo no Brasil acende alerta de gestores internacionais sobre apostas em emergentes",
+      "descricao": "Desvalorização do real e queda da bolsa brasileira após a eleição trouxe alerta contundente, segundo analistas The post Tombo no Brasil acende alerta de gestores internacionais sobre apostas em emergentes appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/tombo-no-brasil-acende-alerta-de-gestores-internacionais-sobre-apostas-em-emergentes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 01 Nov 2026 14:22:05 +0000",
+      "setores": [
+        "Todos os ativos"
       ]
     },
     {
@@ -162,104 +175,6 @@
       "urgencia": "baixa",
       "score_relevancia": 1,
       "pub_date": "Fri, 30 Oct 2026 08:00:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Binance garante segurança de fundos de clientes brasileiros após ataque",
-      "descricao": "Corretora mantém saques suspensos e promete apresentar prova de reservas; advogado questiona necessidade de auditoria independente",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7531239-binance-garante-seguranca-de-fundos-de-clientes-brasileiros-apos-ataque.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 30 Oct 2026 19:20:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Campo Grande lidera crescimento do franchising; Goiânia fica em 5º lugar",
-      "descricao": "Levantamento da ABF aponta alta de 21% no faturamento das franquias na capital de Mato Grosso do Sul. Brasília ocupa a 18ª posição, com crescimento de 9%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7530843-campo-grande-lidera-crescimento-do-franchising-goiania-fica-em-5-lugar.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 30 Oct 2026 13:34:19 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Setor de bioinsumos e defensivos cobra previsibilidade e rigor regulatório",
-      "descricao": "Para presidente da CropLife, a previsibilidade das leis e a modernização precisam ser prioridade do Lula 4",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7530386-pressa-pela-regulacao.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 29 Oct 2026 23:10:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "\"A era Lula está consolidada no país\", diz ministro Paulo Pereira",
-      "descricao": "Ministro do empreendedorismo fala das estratégias para o governo Lula 4 e explica como vai funcionar o Pix-Mei, promessa do presidente",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7530608-a-era-lula-esta-consolidada-no-pais.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 29 Oct 2026 23:04:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Franqueadores temem carga tributária, custos e falta de mão de obra",
-      "descricao": "Estudo da ABF e do Sebrae, elaborado pelo Ipespe, mostra que desafios financeiros e operacionais estão entre as principais preocupações do setor de franquias para os próximos 12 meses",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7530569-franqueadores-temem-carga-tributaria-custos-e-falta-de-mao-de-obra.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 29 Oct 2026 19:56:17 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Governo registra dívida pública de R$ 9,38 trilhões em setembro",
-      "descricao": "Estoque cresceu 0,97% em relação a agosto, segundo dados do Tesouro Nacional. Títulos corrigidos pelo IPCA tiveram queda nas taxas de remuneração",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/10/7530420-governo-registra-divida-publica-de-rs-938-trilhoes-em-setembro.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 29 Oct 2026 19:10:19 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "'Brasil não quebra com Lula, mas fica condenado a um crescimento medíocre', diz ex-banqueiro conselheiro da Natura",
-      "descricao": "Fábio Coletti Barbosa se diz a favor das políticas sociais do governo, mas vê a necessidade de um 'pente-fino' para identificar quem recebe os benefícios indevidamente.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/10/7530508-brasil-nao-quebra-com-lula-mas-fica-condenado-a-um-crescimento-mediocre-diz-ex-banqueiro-conselheiro-da-natura.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Thu, 29 Oct 2026 18:12:00 -0300",
       "setores": [
         "Mercado geral"
       ]
