@@ -1,0 +1,130 @@
+{
+  "data": "04/11/2026",
+  "data_iso": "2026-11-04",
+  "dia_semana": "Quarta-feira",
+  "turno": "tarde",
+  "macro_resumo": "[Tarde (13:00)] Ibovespa 167.563 (+1.23%). Destaques: PRIO3, BBSE3, TAEE4. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PRIO3",
+      "acao": "COMPRAR",
+      "preco": "62.14",
+      "entrada": "62.14",
+      "stop": "56.55",
+      "alvo": "71.46",
+      "rsi": 37.4,
+      "score": 70,
+      "porque": "Análise técnica aponta reversão com RSI 37.4 e score de 70 pontos. Entrada em R$ 62.14 com alvo R$ 71.46."
+    },
+    {
+      "rank": 2,
+      "ticker": "BBSE3",
+      "acao": "COMPRAR",
+      "preco": "37.75",
+      "entrada": "37.75",
+      "stop": "35.03",
+      "alvo": "43.41",
+      "rsi": 33.2,
+      "score": 70,
+      "porque": "RSI em 33.2 — zona de sobrevenda técnica. Score 70/100 indica pressão compradora se acumulando. Stop em R$ 35.03 limita risco."
+    },
+    {
+      "rank": 3,
+      "ticker": "TAEE4",
+      "acao": "COMPRAR",
+      "preco": "13.36",
+      "entrada": "13.36",
+      "stop": "12.48",
+      "alvo": "15.36",
+      "rsi": 34.1,
+      "score": 70,
+      "porque": "Análise técnica aponta reversão com RSI 34.1 e score de 70 pontos. Entrada em R$ 13.36 com alvo R$ 15.36."
+    },
+    {
+      "rank": 4,
+      "ticker": "BLAU3",
+      "acao": "COMPRAR",
+      "preco": "8.63",
+      "entrada": "8.63",
+      "stop": "7.39",
+      "alvo": "9.92",
+      "rsi": 26.8,
+      "score": 65,
+      "porque": "RSI em 26.8 — zona de sobrevenda técnica. Score 65/100 indica pressão compradora se acumulando. Stop em R$ 7.39 limita risco."
+    },
+    {
+      "rank": 5,
+      "ticker": "PETR4",
+      "acao": "COMPRAR",
+      "preco": "47.12",
+      "entrada": "47.12",
+      "stop": "42.97",
+      "alvo": "54.19",
+      "rsi": 32.4,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 32.4 e score de 60 pontos. Entrada em R$ 47.12 com alvo R$ 54.19."
+    },
+    {
+      "rank": 6,
+      "ticker": "PETR3",
+      "acao": "COMPRAR",
+      "preco": "53.4",
+      "entrada": "53.4",
+      "stop": "48.59",
+      "alvo": "61.41",
+      "rsi": 33.7,
+      "score": 60,
+      "porque": "RSI em 33.7 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 48.59 limita risco."
+    },
+    {
+      "rank": 7,
+      "ticker": "ALPA4",
+      "acao": "COMPRAR",
+      "preco": "13.02",
+      "entrada": "13.02",
+      "stop": "11.2",
+      "alvo": "14.97",
+      "rsi": 39.2,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 39.2 e score de 60 pontos. Entrada em R$ 13.02 com alvo R$ 14.97."
+    },
+    {
+      "rank": 8,
+      "ticker": "GRND3",
+      "acao": "COMPRAR",
+      "preco": "3.67",
+      "entrada": "3.67",
+      "stop": "3.32",
+      "alvo": "4.22",
+      "rsi": 39.3,
+      "score": 60,
+      "porque": "RSI em 39.3 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 3.32 limita risco."
+    },
+    {
+      "rank": 9,
+      "ticker": "RENT4",
+      "acao": "COMPRAR",
+      "preco": "28.46",
+      "entrada": "28.46",
+      "stop": "22.14",
+      "alvo": "32.73",
+      "rsi": 30.7,
+      "score": 60,
+      "porque": "Análise técnica aponta reversão com RSI 30.7 e score de 60 pontos. Entrada em R$ 28.46 com alvo R$ 32.73."
+    },
+    {
+      "rank": 10,
+      "ticker": "ITUB4",
+      "acao": "OBSERVAR",
+      "preco": "39.71",
+      "entrada": "39.71",
+      "stop": "36.53",
+      "alvo": "45.67",
+      "rsi": 34.1,
+      "score": 55,
+      "porque": "RSI em 34.1 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 39.71."
+    }
+  ]
+}
