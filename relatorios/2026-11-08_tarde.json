@@ -3,7 +3,7 @@
   "data_iso": "2026-11-08",
   "turno": "tarde",
   "turno_label": "Tarde (13:00)",
-  "hora_geracao": "01:57",
+  "hora_geracao": "18:29",
   "resumo": "[Tarde (13:00)] Ibovespa 168.499 (+1.39%). Destaques: PRIO3, BEEF3, TEND3. Semáforo: VERDE.",
   "resumo_curto": "PRIO3, BEEF3, TEND3",
   "resumo_executivo": "",
@@ -22,7 +22,7 @@
       "Preço tocando banda inferior de Bollinger",
       "Estocástico sobrevendido (3)",
       "P/L atrativo (7.9x)",
-      "ROE sólido (21.8%)"
+      "ROE sólido (23.3%)"
     ],
     "tese": null,
     "risco": null,
@@ -39,7 +39,7 @@
     "brent_var": 0.0,
     "selic": "13.75",
     "ipca_12m": "4.58",
-    "atualizado_em": "08/11/2026 02:03"
+    "atualizado_em": "08/11/2026 18:35"
   },
   "tops": [
     {
@@ -78,7 +78,7 @@
         "Preço tocando banda inferior de Bollinger",
         "Estocástico sobrevendido (3)",
         "P/L atrativo (7.9x)",
-        "ROE sólido (21.8%)"
+        "ROE sólido (23.3%)"
       ],
       "tese": null,
       "risco": null,
@@ -305,7 +305,7 @@
         "10.2% acima da mínima de 52 sem — assimetria alta",
         "Estocástico sobrevendido (14)",
         "P/L atrativo (8.1x)",
-        "ROE sólido (19.7%)"
+        "ROE sólido (16.6%)"
       ],
       "tese": null,
       "risco": null,
@@ -650,6 +650,29 @@
       "alvo": "5.72"
     },
     {
+      "ticker": "AXIA3",
+      "nome": "AXIA3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "48.29",
+      "rsi": 32.8,
+      "pl": 11.2,
+      "atr": 4.1,
+      "pontos": [
+        "RSI sobrevendido (33) — possível reversão",
+        "Tendência de baixa",
+        "4.5% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (15)",
+        "P/L atrativo (11.2x)",
+        "ROE sólido (16.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "48.29",
+      "stop": "44.33",
+      "alvo": "55.53"
+    },
+    {
       "ticker": "GGPS3",
       "nome": "GGPS3",
       "score": 40,
@@ -938,28 +961,6 @@
       "alvo": "5.97"
     },
     {
-      "ticker": "AXIA3",
-      "nome": "AXIA3",
-      "score": 35,
-      "acao": "NEUTRO",
-      "preco": "48.29",
-      "rsi": 32.8,
-      "pl": 11.2,
-      "atr": 4.1,
-      "pontos": [
-        "RSI sobrevendido (33) — possível reversão",
-        "Tendência de baixa",
-        "4.5% acima da mínima de 52 sem — assimetria alta",
-        "Estocástico sobrevendido (15)",
-        "P/L atrativo (11.2x)"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "48.29",
-      "stop": "44.33",
-      "alvo": "55.53"
-    },
-    {
       "ticker": "BMGB4",
       "nome": "BMGB4",
       "score": 35,
@@ -1024,26 +1025,6 @@
       "entrada": "20.65",
       "stop": "17.68",
       "alvo": "23.75"
-    },
-    {
-      "ticker": "CBAV3",
-      "nome": "CBAV3",
-      "score": 35,
-      "acao": "NEUTRO",
-      "preco": "11.25",
-      "rsi": 49.9,
-      "pl": 6.8,
-      "atr": 1.1,
-      "pontos": [
-        "RSI neutro-baixo (50)",
-        "Tendência de alta (EMA 9 > 21 > 50)",
-        "P/L atrativo (6.8x)"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "11.25",
-      "stop": "11.0",
-      "alvo": "12.94"
     },
     {
       "ticker": "ALPA4",
@@ -1279,6 +1260,28 @@
       "entrada": "3.09",
       "stop": "2.48",
       "alvo": "3.55"
+    },
+    {
+      "ticker": "AXIA7",
+      "nome": "AXIA7",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "48.62",
+      "rsi": 32.9,
+      "pl": null,
+      "atr": 4.2,
+      "pontos": [
+        "RSI sobrevendido (33) — possível reversão",
+        "Tendência de baixa",
+        "5.2% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (17)",
+        "ROE sólido (16.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "48.62",
+      "stop": "44.54",
+      "alvo": "55.91"
     },
     {
       "ticker": "CASH3",
@@ -1700,27 +1703,6 @@
       "entrada": "3.89",
       "stop": "3.56",
       "alvo": "4.47"
-    },
-    {
-      "ticker": "AXIA7",
-      "nome": "AXIA7",
-      "score": 25,
-      "acao": "NEUTRO",
-      "preco": "48.62",
-      "rsi": 32.9,
-      "pl": null,
-      "atr": 4.2,
-      "pontos": [
-        "RSI sobrevendido (33) — possível reversão",
-        "Tendência de baixa",
-        "5.2% acima da mínima de 52 sem — assimetria alta",
-        "Estocástico sobrevendido (17)"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "48.62",
-      "stop": "44.54",
-      "alvo": "55.91"
     },
     {
       "ticker": "TTEN3",
@@ -2944,7 +2926,7 @@
         "RSI neutro-baixo (41)",
         "Tendência de baixa",
         "P/L atrativo (12.2x)",
-        "ROE sólido (16.2%)"
+        "ROE sólido (19.3%)"
       ],
       "tese": null,
       "risco": null,
@@ -3610,26 +3592,6 @@
       "alvo": "53.02"
     },
     {
-      "ticker": "PNVL3",
-      "nome": "PNVL3",
-      "score": 5,
-      "acao": "EVITAR",
-      "preco": "11.37",
-      "rsi": 40.5,
-      "pl": 12.5,
-      "atr": 6.7,
-      "pontos": [
-        "RSI neutro-baixo (41)",
-        "Tendência de baixa",
-        "P/L atrativo (12.5x)"
-      ],
-      "tese": null,
-      "risco": null,
-      "entrada": "11.37",
-      "stop": "9.85",
-      "alvo": "13.08"
-    },
-    {
       "ticker": "ARML3",
       "nome": "ARML3",
       "score": 5,
@@ -4171,7 +4133,7 @@
         "Preço tocando banda inferior de Bollinger",
         "Estocástico sobrevendido (3)",
         "P/L atrativo (7.9x)",
-        "ROE sólido (21.8%)"
+        "ROE sólido (23.3%)"
       ],
       "tese": null,
       "risco": null,
@@ -4398,7 +4360,7 @@
         "10.2% acima da mínima de 52 sem — assimetria alta",
         "Estocástico sobrevendido (14)",
         "P/L atrativo (8.1x)",
-        "ROE sólido (19.7%)"
+        "ROE sólido (16.6%)"
       ],
       "tese": null,
       "risco": null,
@@ -4743,6 +4705,29 @@
       "alvo": "5.72"
     },
     {
+      "ticker": "AXIA3",
+      "nome": "AXIA3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "48.29",
+      "rsi": 32.8,
+      "pl": 11.2,
+      "atr": 4.1,
+      "pontos": [
+        "RSI sobrevendido (33) — possível reversão",
+        "Tendência de baixa",
+        "4.5% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (15)",
+        "P/L atrativo (11.2x)",
+        "ROE sólido (16.4%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "48.29",
+      "stop": "44.33",
+      "alvo": "55.53"
+    },
+    {
       "ticker": "GGPS3",
       "nome": "GGPS3",
       "score": 40,
@@ -4860,7 +4845,7 @@
     {
       "ativo": "PRIO3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 60.48",
       "stop": "R$ 54.92",
       "alvo": "R$ 69.55"
@@ -4868,7 +4853,7 @@
     {
       "ativo": "BEEF3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 2.61",
       "stop": "R$ 2.16",
       "alvo": "R$ 3.0"
@@ -4876,7 +4861,7 @@
     {
       "ativo": "TEND3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 16.92",
       "stop": "R$ 12.89",
       "alvo": "R$ 19.46"
@@ -4884,7 +4869,7 @@
     {
       "ativo": "FLRY3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 20.06",
       "stop": "R$ 17.93",
       "alvo": "R$ 23.07"
@@ -4892,7 +4877,7 @@
     {
       "ativo": "CXSE3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 20.5",
       "stop": "R$ 19.19",
       "alvo": "R$ 23.57"
@@ -4900,7 +4885,7 @@
     {
       "ativo": "BRBI11",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 9.99",
       "stop": "R$ 8.01",
       "alvo": "R$ 11.49"
@@ -4908,7 +4893,7 @@
     {
       "ativo": "PSSA3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 44.35",
       "stop": "R$ 41.25",
       "alvo": "R$ 51.0"
@@ -4916,7 +4901,7 @@
     {
       "ativo": "PETR4",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 45.3",
       "stop": "R$ 41.22",
       "alvo": "R$ 52.09"
@@ -4924,7 +4909,7 @@
     {
       "ativo": "PETR3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 51.21",
       "stop": "R$ 46.6",
       "alvo": "R$ 58.89"
@@ -4932,7 +4917,7 @@
     {
       "ativo": "BBSE3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 38.24",
       "stop": "R$ 35.64",
       "alvo": "R$ 43.98"
@@ -4940,7 +4925,7 @@
     {
       "ativo": "VIVA3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 17.91",
       "stop": "R$ 15.08",
       "alvo": "R$ 20.6"
@@ -4948,7 +4933,7 @@
     {
       "ativo": "HBRE3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 1.82",
       "stop": "R$ 1.33",
       "alvo": "R$ 2.09"
@@ -4956,7 +4941,7 @@
     {
       "ativo": "MILS3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 16.1",
       "stop": "R$ 15.52",
       "alvo": "R$ 18.52"
@@ -4964,7 +4949,7 @@
     {
       "ativo": "AERI3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 1.86",
       "stop": "R$ 1.55",
       "alvo": "R$ 2.14"
@@ -4972,7 +4957,7 @@
     {
       "ativo": "VITT3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 2.61",
       "stop": "R$ 2.24",
       "alvo": "R$ 3.0"
@@ -4980,7 +4965,7 @@
     {
       "ativo": "BLAU3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 8.96",
       "stop": "R$ 7.78",
       "alvo": "R$ 10.3"
@@ -4988,7 +4973,7 @@
     {
       "ativo": "GGBR4",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 24.15",
       "stop": "R$ 21.93",
       "alvo": "R$ 27.77"
@@ -4996,7 +4981,7 @@
     {
       "ativo": "POMO4",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 3.68",
       "stop": "R$ 3.24",
       "alvo": "R$ 4.23"
@@ -5004,7 +4989,7 @@
     {
       "ativo": "RADL3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 14.83",
       "stop": "R$ 12.66",
       "alvo": "R$ 17.05"
@@ -5012,7 +4997,7 @@
     {
       "ativo": "UGPA3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 29.77",
       "stop": "R$ 27.15",
       "alvo": "R$ 34.24"
@@ -5020,7 +5005,7 @@
     {
       "ativo": "EZTC3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 9.48",
       "stop": "R$ 7.26",
       "alvo": "R$ 10.9"
@@ -5028,7 +5013,7 @@
     {
       "ativo": "RECV3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 10.35",
       "stop": "R$ 9.36",
       "alvo": "R$ 11.9"
@@ -5036,7 +5021,7 @@
     {
       "ativo": "POMO3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 3.43",
       "stop": "R$ 3.05",
       "alvo": "R$ 3.94"
@@ -5044,7 +5029,7 @@
     {
       "ativo": "TAEE4",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 13.5",
       "stop": "R$ 12.66",
       "alvo": "R$ 15.52"
@@ -5052,7 +5037,7 @@
     {
       "ativo": "COGN3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 1.46",
       "stop": "R$ 1.08",
       "alvo": "R$ 1.68"
@@ -5060,15 +5045,23 @@
     {
       "ativo": "USIM5",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 4.97",
       "stop": "R$ 4.26",
       "alvo": "R$ 5.72"
     },
     {
+      "ativo": "AXIA3",
+      "acao": "COMPRAR",
+      "valor": "R$ 265,62",
+      "entrada": "R$ 48.29",
+      "stop": "R$ 44.33",
+      "alvo": "R$ 55.53"
+    },
+    {
       "ativo": "GGPS3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 10.57",
       "stop": "R$ 8.73",
       "alvo": "R$ 12.16"
@@ -5076,7 +5069,7 @@
     {
       "ativo": "TFCO4",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 10.31",
       "stop": "R$ 8.87",
       "alvo": "R$ 11.86"
@@ -5084,7 +5077,7 @@
     {
       "ativo": "USIM3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 4.9",
       "stop": "R$ 4.24",
       "alvo": "R$ 5.63"
@@ -5092,7 +5085,7 @@
     {
       "ativo": "AZTE3",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 0.71",
       "stop": "R$ 0.53",
       "alvo": "R$ 0.82"
@@ -5100,16 +5093,16 @@
     {
       "ativo": "FESA4",
       "acao": "COMPRAR",
-      "valor": "R$ 274,19",
+      "valor": "R$ 265,62",
       "entrada": "R$ 5.1",
       "stop": "R$ 4.55",
       "alvo": "R$ 5.86"
     }
   ],
   "backtesting": {
-    "total_operacoes": 2445,
+    "total_operacoes": 2447,
     "fechadas": 2127,
-    "abertas": 318,
+    "abertas": 320,
     "ganhos": 842,
     "perdas": 1285,
     "taxa_acerto": 39.6,
@@ -5195,5 +5188,5 @@
       }
     ]
   },
-  "output_raw": "Universo B3: 202 acoes (152 liquidas + 50 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  08/11/2026 01:57\n════════════════════════════════════════════════════════════\nAnalisando 202 ativos...\n\n  [1/202] LREN3.SA...        \n  [2/202] CSAN3.SA...        \n  [3/202] RAIZ55.SA...        \n  [4/202] COGN3.SA...        \n  [5/202] SBSP3.SA...        \n  [6/202] PETR4.SA...        \n  [7/202] BBDC4.SA...        \n  [8/202] MGLU3.SA...        \n  [9/202] ASAI3.SA...        \n  [10/202] B3SA3.SA...        \n  [11/202] RAIZ4.SA...        \n  [12/202] ITSA4.SA...        \n  [13/202] BBAS3.SA...        \n  [14/202] ABEV3.SA...        \n  [15/202] ANIM3.SA...        \n  [16/202] ITUB4.SA...        \n  [17/202] CSNA3.SA...        \n  [18/202] GGBR4.SA...        \n  [19/202] RENT3.SA...        \n  [20/202] CEAB3.SA...        \n  [21/202] VAMO3.SA...        \n  [22/202] POMO4.SA...        \n  [23/202] VALE3.SA...        \n  [24/202] USIM5.SA...        \n  [25/202] PGMN3.SA...        \n  [26/202] MRVE3.SA...        \n  [27/202] CPLE3.SA...        \n  [28/202] VBBR3.SA...        \n  [29/202] GOAU4.SA...        \n  [30/202] RADL3.SA...        \n  [31/202] ECOR3.SA...        \n  [32/202] MOVI3.SA...        \n  [33/202] SUZB3.SA...        \n  [34/202] MOTV3.SA...        \n  [35/202] AXIA3.SA...        \n  [36/202] UGPA3.SA...        \n  [37/202] NATU3.SA...        \n  [38/202] WEGE3.SA...        \n  [39/202] ALOS3.SA...        \n  [40/202] PETR3.SA...        \n  [41/202] BEEF3.SA...        \n  [42/202] PRIO3.SA...        \n  [43/202] BPAC11.SA...        \n  [44/202] HAPV3.SA...        \n  [45/202] EZTC3.SA...        \n  [46/202] TEND3.SA...        \n  [47/202] SMFT3.SA...        \n  [48/202] RAIL3.SA...        \n  [49/202] DIRR3.SA...        \n  [50/202] CYRE3.SA...        \n  [51/202] ONCO3.SA...        \n  [52/202] CMIG4.SA...        \n  [53/202] MULT3.SA...        \n  [54/202] BBSE3.SA...        \n  [55/202] EQTL3.SA...        \n  [56/202] BRKM5.SA...        \n  [57/202] BMGB4.SA...        \n  [58/202] VIVA3.SA...        \n  [59/202] BBDC3.SA...        \n  [60/202] CVCB3.SA...        \n  [61/202] RDOR3.SA...        \n  [62/202] FLRY3.SA...        \n  [63/202] BHIA3.SA...        \n  [64/202] TIMS3.SA...        \n  [65/202] ENEV3.SA...        \n  [66/202] LJQQ3.SA...        \n  [67/202] TOTS3.SA...        \n  [68/202] ISAE4.SA...        \n  [69/202] KLBN11.SA...        \n  [70/202] CMIN3.SA...        \n  [71/202] GMAT3.SA...        \n  [72/202] LIGT3.SA...        \n  [73/202] CXSE3.SA...        \n  [74/202] IGTI11.SA...        \n  [75/202] TUPY3.SA...        \n  [76/202] PLPL3.SA...        \n  [77/202] SIMH3.SA...        \n  [78/202] YDUQ3.SA...        \n  [79/202] VIVT3.SA...        \n  [80/202] EMBJ3.SA...        \n  [81/202] SAUD3.SA...        \n  [82/202] GGPS3.SA...        \n  [83/202] LWSA3.SA...        \n  [84/202] PCAR3.SA...        \n  [85/202] SBFG3.SA...        \n  [86/202] ORVR3.SA...        \n  [87/202] MBRF3.SA...        \n  [88/202] AZZA3.SA...        \n  [89/202"
+  "output_raw": "Universo B3: 202 acoes (152 liquidas + 50 gemas de baixa liquidez)\n\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  08/11/2026 18:29\n════════════════════════════════════════════════════════════\nAnalisando 202 ativos...\n\n  [1/202] LREN3.SA...        \n  [2/202] CSAN3.SA...        \n  [3/202] RAIZ55.SA...        \n  [4/202] COGN3.SA...        \n  [5/202] SBSP3.SA...        \n  [6/202] PETR4.SA...        \n  [7/202] BBDC4.SA...        \n  [8/202] MGLU3.SA...        \n  [9/202] ASAI3.SA...        \n  [10/202] B3SA3.SA...        \n  [11/202] RAIZ4.SA...        \n  [12/202] ITSA4.SA...        \n  [13/202] BBAS3.SA...        \n  [14/202] ABEV3.SA...        \n  [15/202] ANIM3.SA...        \n  [16/202] ITUB4.SA...        \n  [17/202] CSNA3.SA...        \n  [18/202] GGBR4.SA...        \n  [19/202] RENT3.SA...        \n  [20/202] CEAB3.SA...        \n  [21/202] VAMO3.SA...        \n  [22/202] POMO4.SA...        \n  [23/202] VALE3.SA...        \n  [24/202] USIM5.SA...        \n  [25/202] PGMN3.SA...        \n  [26/202] MRVE3.SA...        \n  [27/202] CPLE3.SA...        \n  [28/202] VBBR3.SA...        \n  [29/202] GOAU4.SA...        \n  [30/202] RADL3.SA...        \n  [31/202] ECOR3.SA...        \n  [32/202] MOVI3.SA...        \n  [33/202] SUZB3.SA...        \n  [34/202] MOTV3.SA...        \n  [35/202] AXIA3.SA...        \n  [36/202] UGPA3.SA...        \n  [37/202] NATU3.SA...        \n  [38/202] WEGE3.SA...        \n  [39/202] ALOS3.SA...        \n  [40/202] PETR3.SA...        \n  [41/202] BEEF3.SA...        \n  [42/202] PRIO3.SA...        \n  [43/202] BPAC11.SA...        \n  [44/202] HAPV3.SA...        \n  [45/202] EZTC3.SA...        \n  [46/202] TEND3.SA...        \n  [47/202] SMFT3.SA...        \n  [48/202] RAIL3.SA...        \n  [49/202] DIRR3.SA...        \n  [50/202] CYRE3.SA...        \n  [51/202] ONCO3.SA...        \n  [52/202] CMIG4.SA...        \n  [53/202] MULT3.SA...        \n  [54/202] BBSE3.SA...        \n  [55/202] EQTL3.SA...        \n  [56/202] BRKM5.SA...        \n  [57/202] BMGB4.SA...        \n  [58/202] VIVA3.SA...        \n  [59/202] BBDC3.SA...        \n  [60/202] CVCB3.SA...        \n  [61/202] RDOR3.SA...        \n  [62/202] FLRY3.SA...        \n  [63/202] BHIA3.SA...        \n  [64/202] TIMS3.SA...        \n  [65/202] ENEV3.SA...        \n  [66/202] LJQQ3.SA...        \n  [67/202] TOTS3.SA...        \n  [68/202] ISAE4.SA...        \n  [69/202] KLBN11.SA...        \n  [70/202] CMIN3.SA...        \n  [71/202] GMAT3.SA...        \n  [72/202] LIGT3.SA...        \n  [73/202] CXSE3.SA...        \n  [74/202] IGTI11.SA...        \n  [75/202] TUPY3.SA...        \n  [76/202] PLPL3.SA...        \n  [77/202] SIMH3.SA...        \n  [78/202] YDUQ3.SA...        \n  [79/202] VIVT3.SA...        \n  [80/202] EMBJ3.SA...        \n  [81/202] SAUD3.SA...        \n  [82/202] GGPS3.SA...        \n  [83/202] LWSA3.SA...        \n  [84/202] PCAR3.SA...        \n  [85/202] SBFG3.SA...        \n  [86/202] ORVR3.SA...        \n  [87/202] MBRF3.SA...        \n  [88/202] AZZA3.SA...        \n  [89/202"
 }
