@@ -36553,5 +36553,31 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null
+  },
+  {
+    "ticker": "AXIA3",
+    "data_entrada": "2026-11-08",
+    "preco_entrada": 48.29,
+    "stop": 44.33,
+    "alvo": 55.53,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
+  },
+  {
+    "ticker": "CBAV3",
+    "data_entrada": "2026-11-08",
+    "preco_entrada": 11.25,
+    "stop": 11.0,
+    "alvo": 12.94,
+    "score": 40,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
   }
 ]

@@ -2,8 +2,8 @@
   "data": "08/11/2026",
   "data_iso": "2026-11-08",
   "dia_semana": "Domingo",
-  "turno": "tarde",
-  "macro_resumo": "[Tarde (13:00)] Ibovespa 168.499 (+1.39%). Destaques: PRIO3, BEEF3, TEND3. Semáforo: VERDE.",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 168.499 (+1.39%). Destaques: PRIO3, BEEF3, TEND3. Semáforo: VERDE.",
   "semaforo": "verde",
   "sugestoes": [
     {
@@ -16,7 +16,7 @@
       "alvo": "69.55",
       "rsi": 34.5,
       "score": 60,
-      "porque": "RSI em 34.5 — zona de sobrevenda técnica. Score 60/100 indica pressão compradora se acumulando. Stop em R$ 54.92 limita risco."
+      "porque": "Análise técnica aponta reversão com RSI 34.5 e score de 60 pontos. Entrada em R$ 60.48 com alvo R$ 69.55."
     },
     {
       "rank": 2,

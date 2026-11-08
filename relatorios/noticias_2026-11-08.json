@@ -1,7 +1,7 @@
 {
-  "coletado_em": "08/11/2026 02:03",
-  "total": 22,
-  "urgentes": 2,
+  "coletado_em": "08/11/2026 08:35",
+  "total": 30,
+  "urgentes": 1,
   "destaque": {
     "titulo": "Bolsas da Europa caem com ponderações sobre IA e possível alta de juros por Fed e BoE",
     "descricao": "Investidores avaliam o impacto de eleições nos EUA no setor de inteligência artificial e perspectiva de altas no Fed",
@@ -33,20 +33,6 @@
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
         "Tecnologia (TOTS3, LWSA3, POSI3)",
         "Todos os ativos"
-      ]
-    },
-    {
-      "titulo": "Relações Exteriores do Paraguai diz que país “sai fortalecido” de crise do Ueno Bank",
-      "descricao": "Manifestação ocorre enquanto governos estrangeiros começam a se pronunciar sobre a mudança na Presidência The post Relações Exteriores do Paraguai diz que país &#8220;sai fortalecido&#8221; de crise do Ueno Bank appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/relacoes-exteriores-do-paraguai-diz-que-pais-sai-fortalecido-de-crise-do-ueno-bank/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "alta",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 07 Nov 2026 21:24:26 +0000",
-      "setores": [
-        "Mercado geral"
       ]
     },
     {
@@ -126,17 +112,17 @@
       ]
     },
     {
-      "titulo": "Trump diz que ordenou investigação contra democratas e os acusa de extorsão",
-      "descricao": "Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado The post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
+      "descricao": "Por que professor de Cambridge defende ajuste fiscal 'suave' REUTERS via BBC Não há \"atalhos\" para equilibrar as contas públicas e cortar os juros no Brasil, defende o economista Tiago Cavalcanti, brasileiro professor titular da Universidade de Cambridge, no Reino Unido. Na sua visão, o presidente Luiz Inácio Lula da Silva (PT) precisa anunciar rapidamente medidas críveis para um ajuste fiscal gra",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Sat, 07 Nov 2026 20:30:00 +0000",
+      "pub_date": "Sun, 08 Nov 2026 08:00:00 -0000",
       "setores": [
-        "Mercado geral"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -149,6 +135,132 @@
       "urgencia": "media",
       "score_relevancia": 3,
       "pub_date": "Fri, 06 Nov 2026 10:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "O que o gráfico não mostra? Perretti e Molini unem macro e fluxo no day trade",
+      "descricao": "Na Casa Clear, especialistas mostraram como juros americanos, fluxo estrangeiro e correlações entre ativos ajudam a interpretar o mercado e identificar oportunidades de operação The post O que o gráfico não mostra? Perretti e Molini unem macro e fluxo no day trade appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/que-grafico-nao-mostra-perretti-molini-levam-analise-macroeconomica-ao-trade/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 08 Nov 2026 11:15:00 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano",
+      "descricao": "Gestor avalia que a melhora na percepção de risco traria alívio orgânico ao orçamento e alerta para desafios de casas menores The post A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/onde-investir/a-receita-da-az-quest-para-o-pais-reduzir-ate-r-350-bi-em-gasto-com-juros-todo-ano/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 08 Nov 2026 10:32:00 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "O que um Congresso democrata poderia significar para a ciência nos EUA?",
+      "descricao": "Política de Trump de cancelar estudos, reduzir o número de profissionais científicos e impor maior supervisão política à concessão de recursos pode ser colocada em xeque pela nova bancada The post O que um Congresso democrata poderia significar para a ciência nos EUA? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/global/o-que-um-congresso-democrata-poderia-significar-para-a-ciencia-nos-eua/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 08 Nov 2026 08:00:00 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Quaest: 62% reprovam ida de Flávio Bolsonaro para os EUA, e 56% acham que ele está fugindo da Justiça",
+      "descricao": "Flávio Bolsonaro desembarca em um aeroporto próximo de Miami em 28 de outubro de 2026. REUTERS/Eva Marie Uzcategui Pesquisa Quaest divulgada neste domingo (8) aponta que 56% dos brasileiros acreditam que o senador Flávio Bolsonaro deixou o país após as eleições com o objetivo de fugir da Justiça. Outros 35% avaliam que ele foi para os Estados Unidos para evitar uma perseguição política. 🗒️Tem algu",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-56percent-acham-que-flavio-bolsonaro-deixou-o-brasil-apos-as-eleicoes-para-fugir-da-justica.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 08 Nov 2026 10:42:31 -0000",
+      "setores": [
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
+      "descricao": "Presidente da República, Luiz Inácio Lula da Silva, durante 1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF Ricardo Stuckert Desde o resultado das urnas, que garantiu ao presidente Luiz Inácio da Silva (PT) o seu quarto mandato, ele tem sido pressionado a anunciar o nome que comandará o Ministério da Fazenda. ",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sun, 08 Nov 2026 03:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas",
+      "descricao": "O que é o 'imposto do pecado' e como ele vai funcionar? O anúncio de que o imposto seletivo – conhecido como \"imposto do pecado\" – passará a ser cobrado a partir de fevereiro do ano que vem gerou forte repercussão no setor produtivo e nas redes sociais. 🔎 Criado pela reforma tributária sobre o consumo, o \"imposto do pecado\" começará a ser cobrado em fevereiro e tem o objetivo de encarecer produtos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 07 Nov 2026 15:13:08 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição",
+      "descricao": "O procurador-geral da República, Paulo Gonet, pediu ao Supremo Tribunal Federal (STF) a suspensão, em todo o país, de processos judiciais que discutem a constitucionalidade da medida provisória (MP) que proibiu o funcionamento das bets no Brasil. O pedido foi apresentado na sexta-feira (6) ao ministro Luiz Fux, relator de quatro ações que questionam no Supremo a MP editada pelo presidente Luiz Iná",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/07/gonet-pede-ao-stf-suspensao-de-acoes-contra-mp-do-fim-das-bets-ate-corte-decidir-sobre-proibicao.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 07 Nov 2026 12:20:24 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Entre 76 países, apenas 8 têm maioridade penal abaixo de 18 anos de idade",
+      "descricao": "Senado aprova PEC da Segurança Pública sem texto que trata da maioridade penal Os países com maioridade penal inferior a 18 anos são minoria em um grupo de 76 países da América Latina, Europa e do G20, segundo análise feita pelo Fundo das Nações Unidas para a Infância (Unicef) e levantamento realizado pela CRIN (Child Rights International Network, na tradução Rede Internacional pelos Direitos da C",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/07/maioridade-penal-mundo.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 07 Nov 2026 03:00:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "É #FAKE que votos de Lula nas eleições superaram total de habitantes em cidades do Brasil; vídeo foi fabricado com IA",
+      "descricao": "É #FAKE que Lula teve mais votos do que o total de habitantes em cidades mencionadas em vídeo Reprodução Circula nas redes sociais um vídeo com uma suposta reportagem de TV na qual a apresentadora alega que, nas eleições de 2026, o presidente Lula (PT) teve mais votos do que o número total de habitantes em determinadas cidades do Brasil. É #FAKE. ✅ Siga o canal de Fato ou Fake no WhatsApp Selo Fak",
+      "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/11/06/e-fake-que-votos-de-lula-nas-eleicoes-superaram-total-de-habitantes-em-cidades-do-brasil-video-foi-fabricado-com-ia.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 06 Nov 2026 22:44:14 -0000",
       "setores": [
         "Mercado geral"
       ]
@@ -211,87 +323,118 @@
       ]
     },
     {
-      "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
-      "descricao": "Economista Tiago Cavalcanti, brasileiro professor em Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
-      "link": "https://www.correiobraziliense.com.br/mundo/2026/11/7534231-meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Fri, 6 Nov 2026 07:19:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
-      "descricao": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
+      "titulo": "Por que até seus melhores funcionários contornam sistemas de IA que funcionam?",
+      "descricao": "Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 07 Nov 2026 22:36:00 +0000",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
-      ]
-    },
-    {
-      "titulo": "Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º",
-      "descricao": "Piloto da McLaren dominou o fim de semana do Grande Prêmio de São Paulo de Fórmula 1 The post Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/esportes/veja-o-grid-de-largada-do-gp-de-sp-norris-na-pole-camara-em-11o-e-bortoleto-em-19o/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 07 Nov 2026 21:38:53 +0000",
+      "pub_date": "Sun, 08 Nov 2026 08:00:00 +0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Lula pede ‘prontidão’ ao ‘Exército’ de Janones e confirma live na Turquia",
-      "descricao": "Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes The post Lula pede &#8216;prontidão&#8217; ao &#8216;Exército&#8217; de Janones e confirma live na Turquia appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/",
+      "titulo": "MBA Brasil seleciona seis brasileiros para bolsas de US$ 10 mil em MBAs no exterior",
+      "descricao": "Estudantes cursam programas em Harvard, Stanford, MIT, Duke e Chicago Booth; quatro dos selecionados são os primeiros da família a chegar à universidade The post MBA Brasil seleciona seis brasileiros para bolsas de US$ 10 mil em MBAs no exterior appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/carreira/mba-brasil-seleciona-seis-brasileiros-para-bolsas-de-us-10-mil-em-mbas-no-exterior/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 07 Nov 2026 20:11:48 +0000",
+      "pub_date": "Sun, 08 Nov 2026 05:44:41 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Maioridade penal: especialistas apontam falhas no ECA e defendem mudanças no sistema socioeducativo",
+      "descricao": "Alcolumbre adia discussão sobre redução da maioridade penal A redução da maioridade penal voltou ao centro do debate público após a tentativa de inclusão da redução no texto da proposta de emenda à Constituição (PEC) da Segurança Pública, aprovada pelo Senado Federal na terça-feira (3). (Veja mais detalhes aqui) O g1 conversou com especialistas sobre redução da maioridade penal. Eles defendem muda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/08/maioridade-penal-especialistas-apontam-falhas-no-eca-e-defendem-mudancas-no-sistema-socioeducativo.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 08 Nov 2026 03:00:00 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente",
-      "descricao": "Em publicação nas redes sociais, presidente dos EUA sugere equipe formada por lutadores e ex-lutadores The post Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mundo/trump-convida-ceo-do-ufc-para-secretario-de-imprensa-e-amanda-nunes-para-assistente/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro",
+      "descricao": "O que é o 'imposto do pecado' e como ele vai funcionar? A divulgação da estimativa de alíquota da Contribuição Sobre Bens e Serviços (CBS) – o futuro imposto sobre consumo do governo federal no âmbito da reforma tributária – gerou uma onda de críticas de representantes do setor produtivo. O receio é de que o tamanho da alíquota, estimada em 11,3% pelo Tribunal de Contas da União para 2027, represe",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 07 Nov 2026 19:53:55 +0000",
+      "pub_date": "Sat, 07 Nov 2026 03:00:00 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "PDT aprova ingresso em federação com Solidariedade, PRD e Avante e defende inclusão do PSB",
+      "descricao": "O presidente nacional do PDT, Carlos Lupi, durante convenção nacional do partido em Brasília Reprodução/YouTube PDT A Executiva Nacional do PDT aprovou nesta sexta-feira (6), em reunião híbrida, o ingresso do partido na federação com Solidariedade, PRD e Avante. Segundo o PDT, a união permitirá que as quatro siglas superem, em conjunto, a cláusula de barreira e tenham acesso ao Fundo Partidário e ",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/06/pdt-aprova-ingresso-em-federacao-com-solidariedade-prd-e-avante-e-defende-inclusao-do-psb.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 06 Nov 2026 20:28:28 -0000",
       "setores": [
         "Mercado geral"
       ]
     },
     {
-      "titulo": "Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam",
-      "descricao": "Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9) The post Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Papa envia mensagem a Lula ao passar por espaço aéreo brasileiro",
+      "descricao": "Papa Leão XIV acena antes de embarcar em avião para iniciar sua viagem à América Latina em 6 de novembro de 2026. REUTERS/Remo Casilli O papa Leão XIV, em viagem pela América do Sul, enviou uma mensagem ao presidente Luiz Inácio Lula da Silva (PT). Outros cinco chefes de estado receberam telegramas do pontífice. “Ao sobrevoar o espaço aéreo brasileiro em minha Viagem Apostólica ao Uruguai, à Argen",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/06/papa-envia-mensagem-a-lula-ao-passar-por-espaco-aereo-brasileiro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sat, 07 Nov 2026 19:16:09 +0000",
+      "pub_date": "Fri, 06 Nov 2026 20:19:28 -0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Fachin homologa delação de fundador da Reag, investigado no caso Master",
+      "descricao": "Fachin homologa delação de fundador da Reag, investigado no caso Master O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, homologou a proposta de delação premiada de João Carlos Mansur, fundador e ex-executivo da Reag, administradora de fundos de investimento investigada pelas fraudes do Banco Master. No acordo de colaboração assinado com a Procuradoria-Geral da República (PGR",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/06/fachin-homologa-delacao-de-fundador-da-reag-investigado-no-caso-master.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 06 Nov 2026 20:08:43 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Lula sanciona lei que institui 'OAB da Medicina' para novos médicos",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) sancionou, nesta sexta-feira (6), uma lei que torna obrigatório o Exame Nacional de Avaliação Médica (Enamed) para estudantes de medicina poderem atuar na profissão. 🩺As novas diretrizes do Enamed preveem, além da exigência de uma nota mínima, a aplicação da prova em três períodos ao longo do curso de Medicina. Apenas com esse resultado o graduando obter",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/06/lula-sanciona-lei-que-institui-oab-da-medicina-para-novos-medicos.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 06 Nov 2026 19:52:17 -0000",
+      "setores": [
+        "Mercado geral"
       ]
     },
     {
@@ -306,34 +449,6 @@
       "pub_date": "Sat, 07 Nov 2026 09:03:00 -0300",
       "setores": [
         "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
-      ]
-    },
-    {
-      "titulo": "Reforma tributária: entidades pedem adiamento das cobranças para 2028",
-      "descricao": "Medida visa garantir segurança jurídica e dar mais tempo para adaptação das empresas; entenda o impacto no planejamento e nos novos impostos",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534535-reforma-tributaria-entidades-pedem-adiamento-das-cobrancas-para-2028.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 6 Nov 2026 15:58:00 -0300",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Balança comercial registra superavit de US$ 9,3 bilhões em outubro",
-      "descricao": "Saldo cresceu 39,4% em relação ao mesmo mês de 2025 e no acumulado de janeiro a outubro; resultado positivo chegou a US$ 71 bilhões, alta de 34,1%",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534499-balanca-comercial-registra-supervit-de-uss-93-bilhoes-em-outubro.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Fri, 6 Nov 2026 15:31:00 -0300",
-      "setores": [
-        "Câmbio / Exportadores"
       ]
     }
   ]
