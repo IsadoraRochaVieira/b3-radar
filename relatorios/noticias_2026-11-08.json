@@ -1,0 +1,340 @@
+{
+  "coletado_em": "08/11/2026 02:03",
+  "total": 22,
+  "urgentes": 2,
+  "destaque": {
+    "titulo": "Bolsas da Europa caem com ponderações sobre IA e possível alta de juros por Fed e BoE",
+    "descricao": "Investidores avaliam o impacto de eleições nos EUA no setor de inteligência artificial e perspectiva de altas no Fed",
+    "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534492-bolsas-da-europa-caem-com-ia-e-possivel-alta-por-fed-e-boe.html",
+    "fonte": "Correio Braziliense Economia",
+    "categoria": "Brasília / DF",
+    "cor": "#ff4466",
+    "urgencia": "alta",
+    "score_relevancia": 4,
+    "pub_date": "Fri, 6 Nov 2026 15:42:17 -0300",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Tecnologia (TOTS3, LWSA3, POSI3)",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Bolsas da Europa caem com ponderações sobre IA e possível alta de juros por Fed e BoE",
+      "descricao": "Investidores avaliam o impacto de eleições nos EUA no setor de inteligência artificial e perspectiva de altas no Fed",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534492-bolsas-da-europa-caem-com-ia-e-possivel-alta-por-fed-e-boe.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "alta",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 6 Nov 2026 15:42:17 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Relações Exteriores do Paraguai diz que país “sai fortalecido” de crise do Ueno Bank",
+      "descricao": "Manifestação ocorre enquanto governos estrangeiros começam a se pronunciar sobre a mudança na Presidência The post Relações Exteriores do Paraguai diz que país &#8220;sai fortalecido&#8221; de crise do Ueno Bank appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/relacoes-exteriores-do-paraguai-diz-que-pais-sai-fortalecido-de-crise-do-ueno-bank/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 21:24:26 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
+      "descricao": "O dólar fechou em alta e o Ibovespa avançou nesta sexta-feira (6), em um dia marcado pela divulgação de dados do mercado de trabalho dos Estados Unidos e pela expectativa em torno da política econômica do quarto mandato do presidente Luiz Inácio Lula da Silva. A moeda estadunidense subiu cerca de 0,4%, para R$ 5,51, enquanto a bolsa brasileira teve valorização de aproximadamente 1,4%, aos 168,5 mi",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Fri, 06 Nov 2026 19:10:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar volta a aproximar-se de R$ 5,49 em dia de instabilidade global",
+      "descricao": "O dólar fechou em alta e a bolsa encerrou em queda nesta quinta-feira (5), em um pregão marcado pelo aumento da aversão ao risco nos mercados internacionais. A pressão veio principalmente de Wall Street, com fortes perdas de ações ligadas à inteligência artificial. No cenário doméstico, investidores acompanharam a manutenção da Selic em 13,75% ao ano e as discussões sobre a política econômica do g",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-volta-aproximar-se-de-r-549-em-dia-de-instabilidade-global",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Thu, 05 Nov 2026 19:11:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Balança comercial tem maior superávit para outubro desde 1989",
+      "descricao": "A balança comercial brasileira teve o maior superávit para o mês de outubro em 37 anos, segundo dados divulgados nesta sexta-feira (6) pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic). Impulsionadas pelo petróleo, combustíveis, cereais e soja, as exportações superaram as importações em US$ 9,32 bilhões, diferença 39,4% maior que a registrada em outubro de 2025, quando foi ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/balanca-comercial-tem-maior-superavit-para-outubro-desde-1989",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 06 Nov 2026 16:43:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Durigan discutirá medidas fiscais com Lula após viagem à COP31",
+      "descricao": "O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (5) que discutirá com o presidente Luiz Inácio Lula da Silva medidas para a agenda fiscal do governo após o retorno do chefe do Executivo de uma viagem internacional, prevista para terminar em 15 de novembro. Lula participará da 31ª Conferência das Nações Unidas sobre Mudanças Climáticas ( COP31 ), na Turquia, e de compromissos nas F",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Thu, 05 Nov 2026 17:40:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lara Resende nega conversas com governo para discutir proposta contra juros abusivos",
+      "descricao": "Após especulações sobre conversas no Executivo para adoção de sua proposta de mudança na política fiscal e monetária, economista afirma que não foi possui contato com presidente",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534333-lara-resende-nega-conversas-com-governo-para-discutir-proposta-contra-juros-abusivos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 6 Nov 2026 11:52:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Trump diz que ordenou investigação contra democratas e os acusa de extorsão",
+      "descricao": "Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado The post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Sat, 07 Nov 2026 20:30:00 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "IBGE confirma crescimento de 3,4% da economia em 2024",
+      "descricao": "Dados revisados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) confirmam que a economia brasileira cresceu 3,4% em 2024. Dessa forma, o Produto Interno Bruto (PIB, conjunto de bens e serviços produzidos no país) chegou a R$ 11,7 trilhões. A constatação faz parte do Sistema de Contas Nacionais , números divulgados nesta sexta-feira (6), pelo IBGE. O procedimento de revisão é um padrão ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-confirma-crescimento-de-34-da-economia-em-2024",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 06 Nov 2026 10:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina",
+      "descricao": "O Brasil segue como o país com os maiores juros reais do mundo, calculados em 9,05%, mais de sete vezes a média de 1,27% do ranking da consultoria de mercado Moneyou publicado nesta semana. O juro real desconta a inflação em cada país. O Brasil lidera o ranking de 40 países analisados, acima de Turquia, Argentina, Rússia e Colômbia. Notícias relacionadas: Durigan diz que é preciso dar condições pa",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-tem-maior-juro-real-do-mundo-seguido-por-turquia-e-argentina",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 06 Nov 2026 16:51:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Nubank normaliza operações em plataforma de criptomoedas",
+      "descricao": "Em nota, o banco digital disse que \"a instabilidade em um fornecedor externo de dados não afetou sua infraestrutura, e os ativos e as informações dos clientes permaneceram protegidos\"",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534896-nubank-normaliza-operacoes-em-plataforma-de-criptomoedas.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 7 Nov 2026 14:38:20 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Mercado financeiro pressiona por anúncio de ajuste fiscal",
+      "descricao": "Após comentários de petistas, investidores temem que governo adote proposta de André Lara Resende de atacar o custo da dívida",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534727-mercado-financeiro-pressiona-por-anuncio-de-ajuste-fiscal.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 7 Nov 2026 03:42:00 -0300",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Governo prorroga imposto de 12% sobre exportação de petróleo até dezembro",
+      "descricao": "Resolução publicada no Diário Oficial da União estende a cobrança sobre a saída de óleos brutos de petróleo e minerais betuminosos até 31 de dezembro de 2026",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534300-governo-prorroga-imposto-de-12-sobre-exportacao-de-petroleo-ate-dezembro.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 6 Nov 2026 11:02:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
+      "descricao": "Economista Tiago Cavalcanti, brasileiro professor em Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
+      "link": "https://www.correiobraziliense.com.br/mundo/2026/11/7534231-meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 6 Nov 2026 07:19:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
+      "descricao": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 22:36:00 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º",
+      "descricao": "Piloto da McLaren dominou o fim de semana do Grande Prêmio de São Paulo de Fórmula 1 The post Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/esportes/veja-o-grid-de-largada-do-gp-de-sp-norris-na-pole-camara-em-11o-e-bortoleto-em-19o/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 21:38:53 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Lula pede ‘prontidão’ ao ‘Exército’ de Janones e confirma live na Turquia",
+      "descricao": "Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes The post Lula pede &#8216;prontidão&#8217; ao &#8216;Exército&#8217; de Janones e confirma live na Turquia appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 20:11:48 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente",
+      "descricao": "Em publicação nas redes sociais, presidente dos EUA sugere equipe formada por lutadores e ex-lutadores The post Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/trump-convida-ceo-do-ufc-para-secretario-de-imprensa-e-amanda-nunes-para-assistente/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 19:53:55 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam",
+      "descricao": "Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9) The post Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 19:16:09 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "VR e VA podem ser aceitos em mais maquininhas a partir deste sábado",
+      "descricao": "Os cartões de vale-refeição (VR) e vale-alimentação (VA) terão mudanças a partir deste sábado (7). A principal delas é a implementação da interoperabilidade, que prevê a aceitação de cartões de diferentes operadoras em qualquer maquininha habilitada para processar esse tipo de pagamento, desde que o estabelecimento também aceite o cartão utilizado . Notícias relacionadas: Recebimento de vales-alim",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-partir-deste-sabado",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 07 Nov 2026 09:03:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Reforma tributária: entidades pedem adiamento das cobranças para 2028",
+      "descricao": "Medida visa garantir segurança jurídica e dar mais tempo para adaptação das empresas; entenda o impacto no planejamento e nos novos impostos",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534535-reforma-tributaria-entidades-pedem-adiamento-das-cobrancas-para-2028.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 6 Nov 2026 15:58:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Balança comercial registra superavit de US$ 9,3 bilhões em outubro",
+      "descricao": "Saldo cresceu 39,4% em relação ao mesmo mês de 2025 e no acumulado de janeiro a outubro; resultado positivo chegou a US$ 71 bilhões, alta de 34,1%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7534499-balanca-comercial-registra-supervit-de-uss-93-bilhoes-em-outubro.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 6 Nov 2026 15:31:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    }
+  ]
+}
