@@ -1,0 +1,130 @@
+{
+  "data": "18/11/2026",
+  "data_iso": "2026-11-18",
+  "dia_semana": "Quarta-feira",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 168.772 (-0.62%). Destaques: PDGR3, BBSE3, EZTC3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PDGR3",
+      "acao": "OBSERVAR",
+      "preco": "0.16",
+      "entrada": "0.16",
+      "stop": "0.05",
+      "alvo": "0.18",
+      "rsi": 22.1,
+      "score": 50,
+      "porque": "RSI em 22.1 — zona neutra. Score 50/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 0.16."
+    },
+    {
+      "rank": 2,
+      "ticker": "BBSE3",
+      "acao": "OBSERVAR",
+      "preco": "36.96",
+      "entrada": "36.96",
+      "stop": "34.52",
+      "alvo": "42.5",
+      "rsi": 34.6,
+      "score": 45,
+      "porque": "RSI em 34.6 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 36.96."
+    },
+    {
+      "rank": 3,
+      "ticker": "EZTC3",
+      "acao": "OBSERVAR",
+      "preco": "9.49",
+      "entrada": "9.49",
+      "stop": "7.93",
+      "alvo": "10.91",
+      "rsi": 34.5,
+      "score": 45,
+      "porque": "RSI em 34.5 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 9.49."
+    },
+    {
+      "rank": 4,
+      "ticker": "SMTO3",
+      "acao": "OBSERVAR",
+      "preco": "17.49",
+      "entrada": "17.49",
+      "stop": "15.64",
+      "alvo": "20.11",
+      "rsi": 36.2,
+      "score": 45,
+      "porque": "RSI em 36.2 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 17.49."
+    },
+    {
+      "rank": 5,
+      "ticker": "RENT3",
+      "acao": "OBSERVAR",
+      "preco": "29.86",
+      "entrada": "29.86",
+      "stop": "25.62",
+      "alvo": "34.34",
+      "rsi": 36.1,
+      "score": 40,
+      "porque": "RSI em 36.1 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 29.86."
+    },
+    {
+      "rank": 6,
+      "ticker": "BRKM5",
+      "acao": "OBSERVAR",
+      "preco": "2.61",
+      "entrada": "2.61",
+      "stop": "2.03",
+      "alvo": "3.0",
+      "rsi": 31.2,
+      "score": 40,
+      "porque": "RSI em 31.2 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 2.61."
+    },
+    {
+      "rank": 7,
+      "ticker": "VIVA3",
+      "acao": "OBSERVAR",
+      "preco": "16.6",
+      "entrada": "16.6",
+      "stop": "14.51",
+      "alvo": "19.09",
+      "rsi": 28.8,
+      "score": 40,
+      "porque": "RSI em 28.8 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 16.6."
+    },
+    {
+      "rank": 8,
+      "ticker": "AMBP3",
+      "acao": "OBSERVAR",
+      "preco": "0.12",
+      "entrada": "0.12",
+      "stop": "0.11",
+      "alvo": "0.14",
+      "rsi": 31.5,
+      "score": 40,
+      "porque": "RSI em 31.5 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 0.12."
+    },
+    {
+      "rank": 9,
+      "ticker": "BRAP4",
+      "acao": "OBSERVAR",
+      "preco": "17.03",
+      "entrada": "17.03",
+      "stop": "15.84",
+      "alvo": "19.58",
+      "rsi": 35.2,
+      "score": 40,
+      "porque": "RSI em 35.2 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 17.03."
+    },
+    {
+      "rank": 10,
+      "ticker": "CXSE3",
+      "acao": "OBSERVAR",
+      "preco": "20.92",
+      "entrada": "20.92",
+      "stop": "19.71",
+      "alvo": "24.06",
+      "rsi": 49.4,
+      "score": 40,
+      "porque": "RSI em 49.4 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 20.92."
+    }
+  ]
+}
