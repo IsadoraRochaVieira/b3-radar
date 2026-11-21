@@ -37900,5 +37900,18 @@
     "data_saida": null,
     "resultado_pct": null,
     "motivo_saida": null
+  },
+  {
+    "ticker": "RENT4",
+    "data_entrada": "2026-11-21",
+    "preco_entrada": 28.2,
+    "stop": 23.97,
+    "alvo": 32.43,
+    "score": 50,
+    "status": "aberto",
+    "preco_saida": null,
+    "data_saida": null,
+    "resultado_pct": null,
+    "motivo_saida": null
   }
 ]

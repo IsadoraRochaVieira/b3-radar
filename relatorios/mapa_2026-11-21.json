@@ -1,7 +1,7 @@
 {
   "data_iso": "2026-11-21",
-  "gerado_em": "21/11/2026 12:54",
-  "total": 201,
+  "gerado_em": "21/11/2026 13:07",
+  "total": 202,
   "acoes": [
     {
       "ticker": "GGPS3",
@@ -79,6 +79,17 @@
       "classificacao": "OBSERVAR",
       "setor": "Varejo",
       "volume": 900600
+    },
+    {
+      "ticker": "RENT4",
+      "preco": 28.2,
+      "var_1d": -2.42,
+      "var_20d": -45.25,
+      "rsi": 35.0,
+      "score": 50,
+      "classificacao": "OBSERVAR",
+      "setor": "Financeiro",
+      "volume": 482200
     },
     {
       "ticker": "PDGR3",

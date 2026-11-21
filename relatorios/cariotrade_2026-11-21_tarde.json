@@ -3,7 +3,7 @@
   "data_iso": "2026-11-21",
   "turno": "tarde",
   "turno_label": "Tarde (13:00)",
-  "hora_geracao": "12:45",
+  "hora_geracao": "13:00",
   "semaforo": "verde",
   "macro": {
     "ibovespa": "166.376",
@@ -12,9 +12,9 @@
     "dolar_var": -0.44,
     "brent": "92.57",
     "brent_var": 0.64,
-    "selic": "14,25",
+    "selic": "13.75",
     "ipca_12m": "4.63",
-    "atualizado_em": "21/11/2026 12:53"
+    "atualizado_em": "21/11/2026 13:05"
   },
   "tops": [
     {
@@ -701,6 +701,39 @@
       "liquidez": "alta",
       "gema": "False",
       "volume_dia": "4220000",
+      "alerta_spike": false
+    },
+    {
+      "ticker": "RENT4",
+      "preco": "28,2",
+      "var_1d": "-2,42",
+      "var_5d": "-0,84",
+      "var_20d": "-45,25",
+      "rsi": "35,0",
+      "macd_hist": "0,062",
+      "bb_pct": "38,6",
+      "vol_ratio": "2,02",
+      "atr_pct": "7,47",
+      "dist_min52": "7,7",
+      "dist_max52": "90,7",
+      "pl": "7.1",
+      "pvp": "1,13",
+      "dy": "-",
+      "roe": "16.3%",
+      "score": "50",
+      "classificacao": "OBSERVAR",
+      "score_trader": 60,
+      "classificacao_trader": "OBSERVAR",
+      "sinais_trader": [
+        "MACD cruzou para positivo",
+        "Volatilidade alta (ATR 7.5%)",
+        "Volume alto (2.0x)",
+        "Small Cap (potencial alto)",
+        "⚠️ Baixa liquidez — não elegível a oportunidade forte"
+      ],
+      "liquidez": "baixa",
+      "gema": "True",
+      "volume_dia": "482200",
       "alerta_spike": false
     },
     {
@@ -6669,6 +6702,39 @@
       "liquidez": "alta",
       "gema": "False",
       "volume_dia": "4220000",
+      "alerta_spike": false
+    },
+    {
+      "ticker": "RENT4",
+      "preco": "28,2",
+      "var_1d": "-2,42",
+      "var_5d": "-0,84",
+      "var_20d": "-45,25",
+      "rsi": "35,0",
+      "macd_hist": "0,062",
+      "bb_pct": "38,6",
+      "vol_ratio": "2,02",
+      "atr_pct": "7,47",
+      "dist_min52": "7,7",
+      "dist_max52": "90,7",
+      "pl": "7.1",
+      "pvp": "1,13",
+      "dy": "-",
+      "roe": "16.3%",
+      "score": "50",
+      "classificacao": "OBSERVAR",
+      "score_trader": 60,
+      "classificacao_trader": "OBSERVAR",
+      "sinais_trader": [
+        "MACD cruzou para positivo",
+        "Volatilidade alta (ATR 7.5%)",
+        "Volume alto (2.0x)",
+        "Small Cap (potencial alto)",
+        "⚠️ Baixa liquidez — não elegível a oportunidade forte"
+      ],
+      "liquidez": "baixa",
+      "gema": "True",
+      "volume_dia": "482200",
       "alerta_spike": false
     },
     {
