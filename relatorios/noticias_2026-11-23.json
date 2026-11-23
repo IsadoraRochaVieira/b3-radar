@@ -1,38 +1,22 @@
 {
-  "coletado_em": "23/11/2026 09:53",
+  "coletado_em": "23/11/2026 13:07",
   "total": 30,
-  "urgentes": 4,
+  "urgentes": 3,
   "destaque": {
-    "titulo": "Dólar abre em alta e vai a R$ 5,98, atento à votação do pacote fiscal na Câmara",
-    "descricao": "Entenda o que faz o preço do dólar subir ou cair % O dólar abriu a sessão desta segunda-feira (23) em alta, com avanço de 0,79% perto das 9h, cotado a R$ 5,9810. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. O principal destaque da sessão é a votação da proposta de ajuste fiscal do governo na Câmara dos Deputados. O texto, já aprovado pelo Senado, prevê uma e",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
-    "fonte": "G1 Economia",
-    "categoria": "Economia",
-    "cor": "#009c3b",
+    "titulo": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
+    "descricao": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as declarações durante uma live com o deputado federal André Janones (Rede-MG), que, na campanha eleitoral de outubro, coordenou o canal de mens",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
     "urgencia": "alta",
-    "score_relevancia": 8,
-    "pub_date": "Mon, 23 Nov 2026 12:00:20 -0000",
+    "score_relevancia": 6,
+    "pub_date": "Sat, 21 Nov 2026 14:27:51 -0000",
     "setores": [
-      "Câmbio / Exportadores",
-      "Todos os ativos"
+      "Mercado geral"
     ]
   },
   "noticias": [
-    {
-      "titulo": "Dólar abre em alta e vai a R$ 5,98, atento à votação do pacote fiscal na Câmara",
-      "descricao": "Entenda o que faz o preço do dólar subir ou cair % O dólar abriu a sessão desta segunda-feira (23) em alta, com avanço de 0,79% perto das 9h, cotado a R$ 5,9810. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. O principal destaque da sessão é a votação da proposta de ajuste fiscal do governo na Câmara dos Deputados. O texto, já aprovado pelo Senado, prevê uma e",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "alta",
-      "score_relevancia": 8,
-      "pub_date": "Mon, 23 Nov 2026 12:00:20 -0000",
-      "setores": [
-        "Câmbio / Exportadores",
-        "Todos os ativos"
-      ]
-    },
     {
       "titulo": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
       "descricao": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as declarações durante uma live com o deputado federal André Janones (Rede-MG), que, na campanha eleitoral de outubro, coordenou o canal de mens",
@@ -49,7 +33,7 @@
     },
     {
       "titulo": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
-      "descricao": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no Senado Federal. O relator da proposta na Câmara, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelos senadores na semana passada. O presidente da Câmara,",
+      "descricao": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no Senado Federal. O relator da proposta na Câmara, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelos senadores na semana passada. Com isso, o projeto não",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -76,19 +60,34 @@
       ]
     },
     {
-      "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
-      "descricao": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do pacote de ajuste fiscal no Senado. No exterior, o petróleo também caiu, com a pers",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+      "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026",
+      "descricao": "Analistas do mercado financeiro elevaram de R$ 5,40 para R$ 5,55 a estimativa para a cotação do dólar no fim de 2026. O dado consta do boletim Focus, divulgado nesta segunda-feira (23) pelo Banco Central, com expectativas de instituições financeiras para os principais indicadores da economia. Além do câmbio, o mercado aumentou a expectativa para a inflação e reduziu a previsão de crescimento da ec",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-do-dolar-para-r-555-em-2026",
       "fonte": "Agência Brasil",
       "categoria": "Política Econômica",
       "cor": "#009c3b",
       "urgencia": "media",
-      "score_relevancia": 9,
-      "pub_date": "Wed, 18 Nov 2026 19:26:00 -0300",
+      "score_relevancia": 7,
+      "pub_date": "Mon, 23 Nov 2026 10:11:00 -0300",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
         "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero",
+      "descricao": "Em evento do Itaú BBA, presidente do Banco Central evitou calcular o impacto da reforma tributária para a economia, assim como os efeitos da inteligência artificial The post Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/galipolo-dentro-do-governo-nao-ha-qualquer-debate-sobre-meta-de-inflacao-e-zero/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Mon, 23 Nov 2026 15:31:36 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
@@ -122,19 +121,48 @@
       ]
     },
     {
-      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-      "descricao": "Índices futuros dos EUA operam com ganhos após liquidação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23112026/",
+      "titulo": "Inflação a 3% e boom de IA levarão Fed a subir juros em dezembro, diz Bullard",
+      "descricao": "Em evento do Itaú em São Paulo, ex-dirigente do banco central dos EUA afirma que expansão econômica elevou o juro neutro, enquanto hesitação do novo presidente da instituição em sinalizar próximos passos amplia volatilidade The post Inflação a 3% e boom de IA levarão Fed a subir juros em dezembro, diz Bullard appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/juros-fed-dezembro-bullard-inflacao-boom-ia/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 5,
-      "pub_date": "Mon, 23 Nov 2026 12:33:38 +0000",
+      "pub_date": "Mon, 23 Nov 2026 15:45:10 +0000",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Tecnologia (TOTS3, LWSA3, POSI3)",
-        "Telecom (VIVT3, TIMS3)"
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Ibovespa registra baixa em ajuste à NY na sexta, enquanto espera por votação fiscal",
+      "descricao": "Sexta-feira, dia de feriado na B3, foi de forte aversão a risco para as bolsas mundiais The post Ibovespa registra baixa em ajuste à NY na sexta, enquanto espera por votação fiscal appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-cai-23112026-fiscal-e-com-ajustes-pos-feriado/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 23 Nov 2026 15:21:05 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar bate R$ 6 pela primeira vez desde abril, com votação do pacote fiscal no radar; Ibovespa cai",
+      "descricao": "Dólar bate R$ 6 pela 1ª vez desde abril de 2025 O dólar operava em alta de 0,47% nesta segunda-feira (23), cotado a R$ 5,9622 perto das 12h40. Na máxima do dia, chegou a R$ 6,0055. Essa foi a primeira vez que a moeda ultrapassou os R$ 6 desde 9 de abril de 2025, quando chegou a R$ 6,0961 durante o pregão. Já o último fechamento acima de R$ 6 ocorreu em 21 de janeiro de 2025, quando a moeda encerro",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 23 Nov 2026 12:00:20 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
       ]
     },
     {
@@ -154,40 +182,22 @@
       ]
     },
     {
-      "titulo": "Mercado sobe previsão da inflação e vê dólar a R$ 5,60",
-      "descricao": "Relatório do Banco Central mostra alta nas estimativas do IPCA e do IGP-M, enquanto expectativa para a Selic permaneceu em 13,75% ao ano",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7542541-mercado-sobe-previsao-da-inflacao-e-ve-dolar-a-rs-560.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 5,
-      "pub_date": "Mon, 23 Nov 2026 09:49:00 -0300",
-      "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
-      ]
-    },
-    {
-      "titulo": "BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir?",
-      "descricao": "Ações de Banco do Brasil, Itaú, Petrobras e Vale testam suportes importantes, enquanto indicadores técnicos mostram sinais que podem abrir espaço para uma recuperação. The post BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir? appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/bbas3-itub4-petr4-e-vale3-acoes-podem-cair-mais-ou-reagir/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Ações da Nvidia disparam 30% após volta de Jensen Huang; Nasdaq sobe 6%",
+      "descricao": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa As ações da Nvidia dispararam mais de 30% na abertura do pregão em Nova York nesta segunda-feira (23), após a empresa anunciar o retorno de Jensen Huang ao cargo de presidente-executivo (CEO). Às 12h15 (horário de Brasília), os papéis da companhia subiam 32,52%, cotados a US$ 166,35. O anúncio também impulsionou as bolsas american",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 4,
-      "pub_date": "Mon, 23 Nov 2026 12:29:54 +0000",
+      "pub_date": "Mon, 23 Nov 2026 14:20:18 -0000",
       "setores": [
-        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Todos os ativos"
       ]
     },
     {
       "titulo": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
-      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. Assinada na quinta-feira (19), a exoneração foi publicada nesta segunda-feira (23) no \"Diário Oficial da União\". A medida tem como objetivo permitir que Guimarães reassuma seu mandato na Câm",
+      "descricao": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. A exoneração, assinada na quinta-feira (19), foi publicada nesta segunda-feira (23) no \"Diário Oficial da União\". A medida permite que Guimarães reassuma seu mandato na Câmara dos Deputados ",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
@@ -214,33 +224,31 @@
       ]
     },
     {
-      "titulo": "Taxas de juros acompanham alta do dólar, com fiscal no foco",
-      "descricao": "Em live no sábado, 21, Lula criticou a pressão do mercado para que ele anuncie os novos ministros The post Taxas de juros acompanham alta do dólar, com fiscal no foco appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/taxas-de-juros-acompanham-alta-do-dolar-com-fiscal-no-foco/",
+      "titulo": "Câmara dos Deputados vota urgência para ajuste fiscal e pode aprovar mérito",
+      "descricao": "Tema foi colocado na pauta desta segunda-feira pelo presidente da Casa, Hugo Motta (Republicanos-PB) The post Câmara dos Deputados vota urgência para ajuste fiscal e pode aprovar mérito appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/camara-dos-deputados-vota-urgencia-para-ajuste-fiscal-e-pode-aprovar-merito/",
       "fonte": "Infomoney",
       "categoria": "Mercado",
       "cor": "#4488ff",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Mon, 23 Nov 2026 12:43:16 +0000",
+      "pub_date": "Mon, 23 Nov 2026 15:27:44 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Câmbio / Exportadores"
+        "Mercado geral"
       ]
     },
     {
-      "titulo": "Minério cai com enfraquecimento da demanda chinesa e piora das margens siderúrgicas",
-      "descricao": "O contrato de minério de ferro mais negociado na Bolsa de Mercadorias de Dalian na China fechou o pregão ⁠com ‌queda de 0,3%, a 654 iuanes (US$98,02) por tonelada The post Minério cai com enfraquecimento da demanda chinesa e piora das margens siderúrgicas appeared first on InfoMoney .",
-      "link": "https://www.infomoney.com.br/mercados/minerio-cai-com-enfraquecimento-da-demanda-chinesa-e-piora-das-margens-siderurgicas/",
-      "fonte": "Infomoney",
-      "categoria": "Mercado",
-      "cor": "#4488ff",
+      "titulo": "Controle da inflação é prioridade do Banco Central, diz Galípolo",
+      "descricao": "Galípolo: controle da inflação é prioridade do Banco Central O presidente do Banco Central (BC), Gabriel Galípolo, afirmou nesta segunda-feira (23) que a prioridade da instituição é o controle da inflação. \"Tentamos muito cumprir o nosso mandato, que é de estabilidade de preços, perseguindo também os mandatos de menor relevância. [...] Mas está muito claro que, se só couber um, o mandato é de esta",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
       "urgencia": "media",
       "score_relevancia": 3,
-      "pub_date": "Mon, 23 Nov 2026 12:33:40 +0000",
+      "pub_date": "Mon, 23 Nov 2026 13:04:33 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Todos os ativos"
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
       ]
     },
     {
@@ -258,19 +266,17 @@
       ]
     },
     {
-      "titulo": "Ouro fecha no menor nível em ano, com queda de 4,62%",
-      "descricao": "Expectativa por aumento das taxas de juros nos EUA, o dólar em nível elevado e as preocupações com os investimentos em IA intensificaram a pressão vendedora nos mercados globais",
-      "link": "https://www.correiobraziliense.com.br/economia/2026/11/7541991-ouro-fecha-no-menor-nivel-em-ano-com-queda-de-462.html",
-      "fonte": "Correio Braziliense Economia",
-      "categoria": "Brasília / DF",
-      "cor": "#ff4466",
-      "urgencia": "media",
-      "score_relevancia": 3,
-      "pub_date": "Fri, 20 Nov 2026 21:12:00 -0300",
+      "titulo": "PL fará nova reunião sobre eleição na Câmara em meio a racha sobre o apoio a Motta",
+      "descricao": "Presidente da legenda diz que parlamentares voltarão a discutir posição antes do fim do ano The post PL fará nova reunião sobre eleição na Câmara em meio a racha sobre o apoio a Motta appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/pl-fara-nova-reuniao-sobre-eleicao-na-camara-em-meio-a-racha-sobre-o-apoio-a-motta/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 23 Nov 2026 15:28:59 +0000",
       "setores": [
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Câmbio / Exportadores"
+        "Mercado geral"
       ]
     },
     {
@@ -289,7 +295,7 @@
     },
     {
       "titulo": "Brasil é o 4º mais feliz do mundo no trabalho; veja ranking e por que o país supera nações mais ricas",
-      "descricao": "Brasil é o 4º mais feliz do mundo no trabalho O Brasil ocupa a 4ª posição no ranking global de felicidade no trabalho e aparece à frente de economias como Estados Unidos, Alemanha e Japão. (veja o ranking abaixo) O resultado faz parte do Índice Global de Alegria no Trabalho, levantamento realizado pela Ticket em parceria com a Happyforce. A pesquisa ouviu 21.106 pessoas em 27 países. No Brasil, fo",
+      "descricao": "Brasil é o 4º mais feliz do mundo no trabalho O Brasil ocupa a 4ª posição no ranking global de felicidade no trabalho e aparece à frente de economias como Estados Unidos, Alemanha e Japão. (veja o ranking abaixo) O resultado faz parte do Índice Global de Alegria no Trabalho, levantamento realizado pela Ticket em parceria com a consultoria Opinium. A pesquisa ouviu 21.106 pessoas em 27 países. No B",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/brasil-e-o-4o-mais-feliz-do-mundo-no-trabalho-veja-ranking-e-por-que-o-pais-supera-nacoes-mais-ricas.ghtml",
       "fonte": "G1 Economia",
       "categoria": "Economia",
@@ -302,33 +308,17 @@
       ]
     },
     {
-      "titulo": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
-      "descricao": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, tenta avançar, a um mês do início do recesso, com pautas internas que dividem a Suprema Corte. O STF entra em recesso formalmente no dia 20 de dezembro. São três questões centrais da agenda de Fachin que ainda enfrentam resistência e podem se estender para 2027: reforma do sistema de Justiça; código de ética para ministros dos ",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
+      "titulo": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
+      "descricao": "Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Governo do Reino da Espanha, Pedro Sanchez Ricardo Stuckert/PR O presidente Luiz Inácio Lula da Silva (PT) se reuniu, no sábado (21), com a cúpula do Congresso e ministros do Supremo Tribunal Federal (STF) para definir o nome do substituto de Luís Roberto Barroso no tribunal. Durante a conversa, Lula f",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
       "fonte": "G1 Política",
       "categoria": "Política",
       "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 2,
-      "pub_date": "Sat, 21 Nov 2026 03:00:00 -0000",
+      "pub_date": "Mon, 23 Nov 2026 15:07:33 -0000",
       "setores": [
         "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
-      "descricao": "Uma operação policial prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. Kayra é namorada de Francisco das Chagas Chaves da Silva, conhecido como \"Chico Trader\", suspeito de chefiar o esquema que teria movimentado",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 2,
-      "pub_date": "Sat, 21 Nov 2026 01:50:53 -0000",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
-        "Telecom (VIVT3, TIMS3)",
-        "Todos os ativos"
       ]
     },
     {
@@ -343,6 +333,76 @@
       "pub_date": "Thu, 19 Nov 2026 20:33:00 -0300",
       "setores": [
         "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Atividade empresarial nos EUA volta a mostrar perda de ritmo em novembro",
+      "descricao": "O ritmo de crescimento desacelerou tanto na indústria quanto no setor de serviços, responsável por cerca de dois terços da atividade econômica dos EUA, segundo a pesqusia PMI The post Atividade empresarial nos EUA volta a mostrar perda de ritmo em novembro appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/atividade-empresarial-nos-eua-volta-a-mostrar-perda-de-ritmo-em-novembro/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 23 Nov 2026 15:56:39 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Petrobras perde 25% de valor no mês e lidera queda entre gigantes globais do setor",
+      "descricao": "Apesar da forte desvalorização registrada no período, a Petrobras permanece entre as companhias do setor avaliadas em mais de US$ 100 bilhões The post Petrobras perde 25% de valor no mês e lidera queda entre gigantes globais do setor appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-perde-25-de-valor-novembro-2026-e-lidera-queda-entre-gigantes-globais-do-setor/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 23 Nov 2026 15:55:54 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Instituto alerta para risco de fuga de capital com regra para empresas estrangeiras",
+      "descricao": "Proposta em discussão na Câmara cria comitê para avaliar aquisições em setores estratégicos; Instituto Livre Mercado alerta para riscos à entrada de capital estrangeiro The post Instituto alerta para risco de fuga de capital com regra para empresas estrangeiras appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/instituto-alerta-para-risco-de-fuga-de-capital-com-regra-para-empresas-estrangeiras/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 23 Nov 2026 15:40:42 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
+      "descricao": "O fim da escala 6x1, regulamentado pelo presidente Luiz Inácio Lula da Silva (PT), vai gerar mudanças para cerca de 102 mil trabalhadores domésticos no país, estimou nesta segunda-feira (23) o Instituto Doméstica Legal. O levantamento feito por amostra considerou o total de 1,29 milhão empregados formais, a partir de dados do IBGE, no trimestre encerrado em setembro. Do total de 102 mil trabalhado",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 23 Nov 2026 14:44:35 -0000",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Trump celebra retorno de Jensen Huang ao comando da Nvidia e diz que não há risco de segurança nacional",
+      "descricao": "Jensen Huang, CEO da Nvidia, ao lado de Donald Trump, presidente dos Estados Unidos, em foto de 8 de outubro de 2026 Reuters/Evan Vucci O presidente dos Estados Unidos, Donald Trump, celebrou nesta segunda-feira (23) a decisão do conselho administrativo da Nvidia de recontratar seu ex-CEO e fundador da gigante de tecnologia, Jensen Huang. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/trump-celebra-retorno-de-jensen-huang-ao-comando-da-nvidia-e-diz-que-nao-ha-risco-de-seguranca-nacional.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 23 Nov 2026 14:14:05 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
       ]
     },
     {
@@ -361,33 +421,17 @@
       ]
     },
     {
-      "titulo": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
-      "descricao": "Ovelhas pastam sob painéis solares na província de Guizhou, no sudoeste da China, como parte de uma prática cada vez mais comum de combinar a pecuária com a produção de energia solar Tao Liang/Xinhua/picture alliance via DW Tradicionalmente, usinas solares são lugares silenciosos, interrompidos apenas pelo leve zumbido dos inversores. Mas em uma a cada 10 fazendas solares nos Estados Unidos, um no",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
+      "titulo": "Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
+      "descricao": "Cubanos saem de Havana, em Cuba, até a Guiana. Para chegar ao Brasil, atravessam fronteiras em botes e atravessam áreas de mata Arquivo Os pedidos de refúgio de cubanos no Brasil chegaram a 4.885 em setembro de 2026, o maior número mensal registrado neste ano, de acordo com o Observatório das Migrações Internacionais (OBMigra), ligado ao Ministério da Justiça e Segurança Pública. Desde janeiro, as",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
       "urgencia": "baixa",
       "score_relevancia": 1,
-      "pub_date": "Sun, 22 Nov 2026 07:00:01 -0000",
+      "pub_date": "Mon, 23 Nov 2026 13:24:41 -0000",
       "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
-      ]
-    },
-    {
-      "titulo": "13º salário na conta: como decidir entre pagar dívidas, investir ou aproveitar as compras",
-      "descricao": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O 13º salário chega no fim do ano e já tem muita gente de olho nesse dinheiro. Promoções, viagens e compras disputam espaço com dívidas que pesam no bolso. E janeiro já está logo ali, com despesas como IPVA, IPTU e material escolar. Nesse jogo, quitar dívidas pode ser uma boa escolha, especialmente quando há juros altos, como no cartão de",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
-      "fonte": "G1 Economia",
-      "categoria": "Economia",
-      "cor": "#009c3b",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 22 Nov 2026 05:00:00 -0000",
-      "setores": [
-        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
-        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+        "Mercado geral"
       ]
     },
     {
@@ -403,63 +447,6 @@
       "setores": [
         "Saúde (HAPV3, RDOR3, FLRY3)",
         "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
-      "descricao": "Guarda Municipal de Maceió Ascom Semsc A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, permite que os prefeitos passem a contar com uma polícia municipal. A nova força pode ser criada do zero ou ter como origem guardas civis municipais já existentes. Mas a mudança não será automática nem estará ao alcance de todas as cidades, porque há exigências que devem ser c",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 22 Nov 2026 03:00:00 -0000",
-      "setores": [
-        "Mercado geral"
-      ]
-    },
-    {
-      "titulo": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
-      "descricao": "Guarda Municipal Reprodução/Prefeitura de Porto Velho A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, abriu caminho para que municípios criem suas próprias polícias. Mas impõe uma condição que poucos conseguem cumprir: manter a corporação com dinheiro arrecadado pela própria prefeitura, sem contar os repasses do governo federal e dos estados. O deputado Aluisio ",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sun, 22 Nov 2026 03:00:00 -0000",
-      "setores": [
-        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
-      ]
-    },
-    {
-      "titulo": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
-      "descricao": "Bolsonaro está na UTI em estado estável, diz boletim médico O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado na tarde desta sexta-feira (20), após sentir dores abdominais. Segundo o boletim médico, \"foram iniciadas medidas clínicas como hidratação, m",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 21 Nov 2026 17:16:23 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)",
-        "Telecom (VIVT3, TIMS3)"
-      ]
-    },
-    {
-      "titulo": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-      "descricao": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto durar sua internação no Hospital DF Star, em Brasília. O magistrado atendeu a um pedido feito em c",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
-      "fonte": "G1 Política",
-      "categoria": "Política",
-      "cor": "#d4a017",
-      "urgencia": "baixa",
-      "score_relevancia": 1,
-      "pub_date": "Sat, 21 Nov 2026 15:48:34 -0000",
-      "setores": [
-        "Saúde (HAPV3, RDOR3, FLRY3)"
       ]
     }
   ]
